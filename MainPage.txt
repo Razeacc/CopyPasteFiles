@@ -1,0 +1,40 @@
+==========================================
+##		 MAIN PAGE 		##
+==========================================
+
+
+
+<mainpage-leftcolumn-start />
+<div style="text-align: center; font-size: x-large; padding: 1em;">
+'''<small>Greetings, member of the jury.</small>'''
+
+'''Welcome to the Scripted Fates Wiki.'''
+
+<small>[[Scripted Fates|About]] • [https://www.youtube.com/@Razeacc YouTube] • [https://open.spotify.com/artist/5sIz8ESxKTgT5fljsLk0uz?si=IoL9r767RFq7k2yPdyG44Q Spotify] • Itch</small>
+</div>
+
+
+Scripted Fates is an overarching metaphysical Science-Fantasy project that spans across various mediums of story telling. From books and games, to roleplay servers and music videos. Each installment often follows the tales and struggles between mortals and divine, while puppet masters from beyond masquerade their theatrics from the shadows in an ontological proxy war.
+
+==Important articles==
+<gallery position="center" captionalign="center" navigation="true">
+File:Beyond Eternity poster final v2.jpg|link=Projects|[[Projects|<big>Projects</big>]]
+File:Site-background-light|link=Lore_Overview|[[Lore Overview|<big>Lore Overview</big>]]
+File:Site-background-dark|link=Characters|[[Characters|<big>Characters</big>]]
+</gallery>
+
+== Highlighted Pages ==
+
+
+== Current Active Project ==
+[[File:FirmataFrontier Poster.png| link=Firmata Frontier |center|thumb|620x620px|[[Firmata Frontier|<div style="text-align: center;"><big>'''Firmata Frontier'''</big></div>]]]]
+
+
+
+<mainpage-endcolumn /><mainpage-rightcolumn-start />
+[[File:FirmaFrontierInvite.jpg|thumb|295x295px|<div style="text-align: center;">Join the '''Discord server''', become an official member of [[The Court of The 4th]], and participate in [[Firmata Frontier]] today!</div>]]
+
+
+<mainpage-endcolumn />
+[[Category:{{SITENAME}}]]
+

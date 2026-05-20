@@ -1,0 +1,94 @@
+--------------------------------
+###		Firmata Frontier 
+--------------------------------
+{{Project_Template|type=Roleplay Server|genre=Science-Fantasy Neolithic Multiverse|release_date=November 2025|location/s=[["The Continent"]]|image1=<gallery hideaddbutton="true">
+FirmataFrontier Poster.png|Poster
+Full FirmaFrontier Logo.png|Title
+Full FirmaFrontier Emblem.png|Emblem
+</gallery>|poster_artist=<data source="my_list">
+<ul>
+<li>Poster: [[Ricc]]</li>
+<li>Title/Emblem: [[RAZEACC]]</li>
+</ul>
+</data>}}{{#SQuote:|text=Since [[The Spirepocalypse]] long ago, this land has been born witness to an [[Era of Silence]]. Having become accustomed to such tranquility, it may be unwise for <i>those once-asleep</i> to rouse up and <i>the provender</i>  to run amok, lest they wish to avoid provocation from [["Her Firmata"]].
+<br />However, with [[You]] holding the pen, I have little distrust in whatever fate is scripted up for these frontiers and frontlines.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=28DC-ADPE-X10W|template=}}
+
+Firmata Frontier is a '''Discord Roleplaying''' '''server''' where members could directly participate and interact with the world of [[Scripted Fates]]. It acts as the 4th entry to the series, and its 3rd Discord server, with the previous two acting more like 'art hubs'.
+
+
+
+== Introduction ==
+Following the appearance of [["The Spire"]], everyone's memories have been '''wiped clean''', destroying any concept of modernity across the lands, marking the era of [[The Spirepocalypse]].
+
+Some time after, comet-like lights started falling from [["The Spire"]]. These were [["Otherworlders"]], people from different universes. Unlike the [["Local"|"Locals"]] affected by [[The Spirepocalypse]], [["Otherworlders"|Otherworlders]] were seemingly unaffected, retaining most of their memories, having only lost powerful abilities and equipment.
+
+Together, Roleplayers could join the story either as an [["Otherworlder"]] or [["Local"]]. They must work together to bring back the modern age, uncover the mysteries that have ruined these lands, and maybe even find a way back home.
+
+== Gameplay ==
+After passing the Verified RPer assessment, Roleplayers may use the [https://docs.google.com/document/d/1KiGHpZTePSU9A3_6OCjrDm2qfDmElD3aobHcTB7d-eY/edit?usp=drive_link Firmata Character Template] to '''create a character'''. This character would join the roster of [[Player Characters]].
+----
+
+=== <big>[[Firmata's Rolling System]] '''{{Glimmer|full}}'''</big> ===
+[[Firmata Frontier]] uses its own [[Firmata's Rolling System|Stat/Rolling System]] to determine the outcome of certain actions. Although, this system '''isn't mandatory''' by default and may be used either if <u>both Roleplayers agree</u>, or if <u>insisted by a Narrator</u>.
+
+More information can be found in the system's [[Firmata's Rolling System|dedicated page]].
+----
+
+===  <big>Roleplay Styles</big> ===
+Once a character has been '''submitted''' and '''approved''', the Roleplayer may now begin Roleplaying. There are 4 options available from the get-go.
+
+==== '''<big>Casual Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>This happens in <u>certain open-forum threads</u> where Roleplayers can hop in and out whenever they want. <u>No major developments</u> are intended here, opening up the opportunity for simple, casual, and low-stress character bond development.<br />This is also typically where '''Resource Acquisition''' can be done where Roleplayers '''gamble/roll''' in certain locations to either <u>fish</u>, <u>forage</u>, or <u>collect</u> certain materials.  </blockquote>
+</div>
+
+==== '''<big>Episodic Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>This is done on forums where Roleplayers '''open new location-based threads'''. From there, Roleplayers take turn replying to each other on a regular basis with the '''goal'''. A <u>Narrator may be present</u> here as well to monitor and act as a third party for any world occurrences.<br />This is best saved for '''Expeditions''' to chart out new territories, attempts at '''reinventing technology''', or fulfilling '''Quests'''.</blockquote>
+</div>
+
+==== '''<big>Personal Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>Entirely optional, Roleplayers can do a wide variety of fun extra activities from writing <u>diaries/journals</u>, setting up <u>homes</u>, or even <u>flashbacks</u> and non-canon "what if" threads.</blockquote>
+</div>
+
+==== '''<big>Event Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>Occasionally, the Event forum would open up to a wide variety of different Episodic and Casual Roleplay opportunities. Events occasionally have Event Shops as well, where Roleplayers can earn "Scripting Ink" during the event to spend in these shops.
+
+When purchasing using "Scripting Ink", [[You]] manipulate fate for the character to somehow <u>receive the item</u> you bought for them.
+
+Events are typically '''major plot-progressing opportunities''' where something massive would happen that may unlock things from <u>new explorable areas</u> to <u>new mechanics</u> to play around with.</blockquote>
+</div>
+
+== Characters ==
+
+{{Firmata Characters}}
+
+== Factions ==
+The only known group of survivors currently are known as [[The Stone Society|'''The Stone Society''']].
+
+Led by [[Professor Besado]], since being the first newborn following [[The Spirepocalypse]], her naturally-innovative mind has skyrocketed the world's tech from being completely Neolithic to having some semblance to Medieval technologies in merely 19 years.
+
+== Setting ==
+Taking place in a '''wild''' and '''untamed wilderness''' currently known as simply [["The Continent"]], it teams with all sorts of prehistoric wildlife. Notably, many extinct creatures from [[You|Your]] world seem to thrive in these lands— from dodo birds and wooly mammoths, to a mysterious but notorious leviathan prowling the [[Fracturing Sea|seas]].
+
+The world itself is quite odd, especially to an [["Otherworlder"]]. However, to a [["Local"]], they may not even bat an eye to the fact that the '''skies feature no sun nor moon whatsoever'''. In fact, even the '''stars often change positions''' every night, with no constellation pattern in sight. Despite how bizarre the sky is, there is '''still a day/night cycle''', with the sky merely <u>brightening or dimming</u> to mimic typical mornings and evenings.
+
+There's a map of what's <u>currently explored</u>, letting Roleplayers '''discover''' and '''mark''' territories on their own.
+<div class="mw-collapsible mw-collapsed">
+{{Map:"The Continent"}}
+
+== History / Backstory ==
+{{FirmataFrontierBackstory}}</div>
+[[Category:Project]]
+[[Category:Firmata Frontier]]
+
+----------------------------------
+###		Hinokami Caretaker 
+----------------------------------
+{{Project_Template|type=Short Story|genre=Slice of Life|release_date=2023|location/s=Unknown|image1=CaretakerCover small.png|time_period=[[The Revolutions and Exodi Era]]|poster_artist=<data source="my_list">
+<ul>
+<li>Poster: [[Shizukana Arts]]</li>
+</ul>
+</data>}}

@@ -1,0 +1,40 @@
+==========================================
+##		 PROJECTS 		##
+==========================================
+
+<blockquote>A collection page of all the projects in Scripted Fates, arranged in <u>the order they were released</u> in.
+
+For a '''chronological order''' of the projects, please refer to the [[Overarching Timeline]].</blockquote>
+
+
+== [[Firmata Frontier]] (November 2025) ==
+[[File:FirmataFrontier Poster.png| link=Firmata Frontier |thumb|250x250px|border]]
+
+Firmata Frontier is a [https://discord.com Discord] Roleplaying server where members could directly '''participate''' and '''interact''' with the world of [[Scripted Fates]]. Not only that, it also finally pieces together all the bits of lore that have been scattered around the previous projects thus far, alongside all the content found on the official [https://www.youtube.com/c/@razeacc YouTube channel]. In a sense, Firmata Frontier acts as the catalyst for all Scripted Fates content beginning to line up.
+
+The story takes place in a completely new location and quite some time after the events of [[Farewell Avalon]]. [[Roleplayer Characters]] find themselves on the frontlines of [[The Avalonian Exodus]]'s [[Outpost 3]], the largest labyrinth of the nomadic civilization. With the land still suffering from the catastrophic memory-wiping affects of [[The Spirepocalypse]], players must work together to rebuild modern life while uncovering the mysteries behind such a calamity.
+
+== [[Hinokami Caretaker]] (October 2023) ==
+[[File:CaretakerCover small.png|thumb|279x279px]]
+
+Acting as the first ''written'' entry in the [[Scripted Fates]] continuity, Hinokami Caretaker is a short novel spanning 2 chapters. The short story functions as the 3rd entry to the [[Scripted Fates]] series.
+
+It follows the story of [[Ouya]] after getting an order from [[Khueen]] to watch over and raise one of her 'creations': a human boy name [[Grigori]]. Hinokami Caretaker shows the struggle of a god-like being attempting to relate and care for a mortal as if it were her own child. This entry showcases the first appearance of [[Cradles]]. 
+
+
+
+
+== [[Farewell Avalon]] (May 2023) ==
+[[File:FarewellAvalon 3-4.jpg|thumb|243x243px]]
+
+Being the first fully-interactive and explorable entry in the series, Farewell Avalon is a '''top-down bullet hell adventure game''' following the story of [[Archie]], a newly-born [[Archkin]]. As the 2nd entry to the series, following [[Beyond Eternity]], it takes place in an entirely new location with an entirely separate cast of characters and factions. Namely, introducing [[The Avalonian Exodus]] and one of its labyrinths: [[Outpost 7]].
+
+However, [[Archie]] won't be travelling alone, as they were accompanied by either [[The Skribble]] or [[Protos]], both agents from [[The Court of The 4th]] acting as a development of the concept for The Player ([[You]])'s influence initially being introduced in [[Beyond Eternity]].
+
+
+== [[Beyond Eternity]] (February 2020) ==
+[[File:Beyond Eternity poster final v2.jpg|border|367x367px|right]]The first official entry to the [[Scripted Fates]] series, Beyond Eternity is a Visual Novel following the story of three [[Archgods]] following their banishment to [[The Null Crossing]]: [[Khueen]], [[Ouya]], and [[Crimmy]]. At first, you're lead to believe that you'd be playing as someone, but not long after beginning the game, it's revealed [[You]] play as '''yourself'''. Meanwhile, the avatar you control is the body of a completely separate character: [[Kalayan]]. The goal of the game is to somehow separate your control from Kalayan to reunite him with Khueen.
+[[Category:Project]]
+[[Category:Game]]
+[[Category:Book]]
+[[Category:Roleplay]]

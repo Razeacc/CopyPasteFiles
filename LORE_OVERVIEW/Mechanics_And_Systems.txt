@@ -1,0 +1,279 @@
+-------------------------------------
+###		Mechanics and Systems
+-------------------------------------
+
+........................................
+####		Firmata's Rolling System
+........................................
+
+The '''Firmata Rolling System''' is the universal resolution mechanic used across the '''[[Firmata Frontier]]''' roleplay server. It determines the '''difficulty''' of actions, the '''success''' of attempts, and the '''personal power level''' of both Story Character and [[Player Characters]].
+
+The system '''blends''' <u>DnD-Styled</u> and  <u>Narrative Roleplaying</u> systems, finding a middle-ground between the ''complexity'' of the prior and ''freedom'' of the later. However, Firmata's Rolling System is '''narrative-first''', with rolls only functioning as a '''guide''' for <u>how to write a response</u>. There is '''no hard-coded health''' tracking. [[You]] decide how much your character can handle.
+
+Featuring '''modularity''' allowing for both <u>character growth</u> and <u>equipment</u> opportunities, it is '''balanced''' for both world-native characters and multiverse arrivals entering [["The Continent"]].
+
+
+== Rolling Mechanic ==
+When performing rolls during Roleplay, send a message formatted like this without anything else:
+
+
+The bot reads messages that start with a roll, and labels it with what you "rolled for"
+ (roll) + (roll label)
+ d20+7 Cinderpede Attack PHYS
+
+
+'''You''' <u>write a response</u> for your '''attack''', then '''both you''' and the '''defender''' <u>roll</u>. Then the '''defender''' <u>writes a response</u> for their '''defense.'''
+
+After, the '''Defender''' <u>writes a response</u> for their next '''attack'''. You '''both roll''', then '''you''' <u>write a response</u> for your '''defense'''.
+
+Since this system is '''narrative first''', the roll results only determine <u>how a response will be written</u>.<br />Low rolls that may ''seem out of character'' can be equated to external factors like '''bad luck''', with the inverse being true for good rolls.
+
+=== Combat Rolling ===
+There are 2 typical scenarios you can find yourself in during combat: '''Melee''' or '''Ranged'''.
+
+==== Melee Rolling ====
+<div class="mw-collapsible mw-collapsed">
+The '''Attacker''' rolls 💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]] to <u>launch their attack</u>.<br />The '''Defender''' rolls '''💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]]''' to <u>block</u> or <u>dodge</u> the attack.<br />'''Attacker''' →  '''Higher roll''' = The attack '''hits''', and the <u>difference</u> determines <u>damage severity</u>.<br />'''Defender''' →  '''Higher roll''' = The attack is either '''blocked''' or '''dodged''', with the <u>difference</u> determining <u>block</u> or <u>dodge effectiveness</u>.
+</div>
+
+==== Ranged Rolling ====
+<div class="mw-collapsible mw-collapsed">
+The '''Attacker''' rolls ⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]] to <u>aim their projectile</u>.<br />The D'''efender''' can either roll '''💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]]''' or ⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]] to <u>dodge</u> or <u>react</u> to the projectile.<br />'''Defender''' →  '''Higher roll''' = The projectile misses entirely and it's now '''the defender's turn''' to respond.<br />'''Attacker''' →  '''Higher roll''' = Both parties <u>roll again</u>.<br />This time, '''the Attacker''' rolls for 💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]] to <u>determine the projectile's strength</u> <small>(for '''gun users''', <u>only roll the gun's physicality</u>, character physicality '''does not''' affect gun strength)</small>.<br />Meanwhile, '''the defender''' rolls '''💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]]''' to <u>determine damage severity</u>.
+</div>
+
+== Core Stats ==
+There are '''four fundamental stats''', each representing a trait in a character's capability.<br />💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]] | ⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]] | 💡[[Firmata's Rolling System#💡 Mentality (MENT)|Mentality]] | 🌙[[Firmata's Rolling System#🌙 Spirituality (SPIR)|Spirituality]]
+
+----
+
+=== 💪 Physicality (PHY) ===
+<blockquote>''Raw bodily capability. strength, force, endurance, '''agility''', athleticism, pain resistance, and overall physical impact. <br />This determines what '''your body is capable of'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Melee Aggression, Defense, and '''Speed''' <sup>(You need strong legs to run fast, after all)</sup></small>
+* <small>Body-based feats</small>
+* <small>Lifting, pushing, resisting</small>
+* <small>Dodging physically</small>
+* <small>Endurance tests</small>
+</div>
+
+
+
+=== ⚡ Alacrity (ALC) ===
+<blockquote>''Reaction time, finesse, coordination, balance, accuracy, and movement precision.<br />This determines what you can '''make your body do'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Aimed attacks</small>
+* <small>Ranged accuracy</small>
+* <small>Sleight of hand</small>
+* <small>Precision dodging</small>
+* <small>Quick reflex maneuvers</small>
+* <small>Technique-based combat styles</small>
+</div>
+
+
+
+=== 💡 Mentality (MENT) ===
+<blockquote>''Intellect, reasoning, focus, creativity, planning, memory, analysis, and rational decision making.<br />This determines '''what your brain can do'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Strategy</small>
+* <small>Investigation</small>
+* <small>Solving problems</small>
+* <small>Item/Equipment creation</small>
+* <small>Complex techniques that require mental upkeep</small>
+</div>
+
+
+
+=== 🌙 Spirituality (SPIR) ===
+<blockquote>''Soul intuition, emotions, wisdom, inner power, spiritual discipline, supernatural attunement, and magical/ritualistic practices.<br />This determines '''what your soul can do'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Magic/[[Archkin]] abilities</small>
+* <small>Manipulating [[The 4 Aspects of Reality]]</small>
+* <small>Emotional resilience</small>
+* <small>[[PSYCHE (Soul)|Soul]] pressure</small>
+* <small>[[Faith]]-based or Spirit-attuned effects</small>
+* <small>[[The 4 Aspects of Reality#Phantasy|Psychic]]/Empathic interactions</small>
+* <small>Aura Projection</small>
+* <small>Morality</small>
+</div>
+
+
+== {{Glimmer|full}} Resonance ==
+'''Resonance''' determines how close a character has ''resonated with their fate'', how much they've '''achieved their''' '''full potential'''.<br />Typically, <u>younger</u> or <u>less experienced</u> characters get '''lower resonance''', indicating they still have '''lots of potential'''.<br />Meanwhile, <u>veteran</u> or <u>older</u> characters have '''higher resonance''', showing they've '''already peaked''' in potential.  
+
+Resonance determines 2 key factors:  
+
+# How many '''initial [[Firmata's Rolling System#Core Stats|stat points]]''' can be allocated <u>upon character creation</u>.
+# How '''often [[Firmata's Rolling System#Resonance Attunement (Leveling Up)|new stat points]] may be granted''' by <u>Narrators</u> upon <u>character growth</u> moments.
+
+=== Resonance → Starting Points ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Resonance
+!Starting Points
+!Notes
+|-
+|{{Glimmer|full}}{{Glimmer|empty}}{{Glimmer|empty}}{{Glimmer|empty}}{{Glimmer|empty}}
+|1
+|Barely Attuned; Could grow into anything '''very quickly'''.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|empty}}{{Glimmer|empty}}{{Glimmer|empty}}
+|2
+|Stable, beginning of '''steady''' self-shaping.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|empty}}{{Glimmer|empty}}
+|3
+|Adjusted to a rhythm, '''push beyond comfort''' to grow.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|empty}}
+|5
+|First major leap, achieve '''something impossible''' to progress.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}
+|7
+|'''Full realization''' has been achieved.
+|}
+----
+
+=== Resonance Attunement (Leveling Up) ===
+Characters can '''increase Resonance''' and gain more '''[[Firmata's Rolling System#Core Stats|stat points]]''' only through '''major narrative development''' — revelations, trauma, evolution, transformation, self-understanding, etc. These new points are given by [[Narrators]].
+
+There are 2 kinds of new stat points:
+
+# '''Growth Point''' → Reward for character development
+# '''Resonance Realignment →''' When achieving a higher resonance tier, gain a bonus point depending on the achieved tier.
+
+===== Resonance Realignment Example =====
+<div class="mw-collapsible mw-collapsed">
+<blockquote><small>Character goes from '''3{{Glimmer|full}} → 4{{Glimmer|full}} Resonance''':</small>
+
+* <small>Starting Points for 3{{Glimmer|full}} = 3 points</small>
+* <small>Starting Points for 4{{Glimmer|full}} = 5 points</small>
+* '''<small>Difference = +2 points</small>'''
+* <small>Plus '''+1 Growth Point'''</small>   
+'''<small>Total: +3 points</small>'''
+
+<small>But for '''2{{Glimmer|full}} → 3{{Glimmer|full}}''' '''Resonance''':</small>
+
+* <small>Starting(2{{Glimmer|full}}) = 2 points</small>
+* <small>Starting(3{{Glimmer|full}})= 3 points</small>
+* <small>Difference = +1</small>
+* <small>Plus Growth = +1</small>  
+'''<small>Total: +2 points</small>'''
+</blockquote>
+</div>
+
+=== Resonance Regression (Leveling Down) ===
+On '''RARE CIRCUMSTANCES''' Characters do have a chance to '''lose resonance''' during certain character development moments, or if their [[memory]] gets wiped <small>(such as what happened in [[The Spirepocalypse]])</small>. If this were to ever happen, the only points lost are those granted from '''Resonance Realignment'''. Points gifted for generic character growth are '''permanent'''. 
+
+Once <u>resonance returns to normal</u>, the reclaimed point/s may be '''reallocated''' to a <u>different [[Firmata's Rolling System#Core Stats|stat]] .</u>
+
+== Equipment ==
+
+=== Melee Tools ===
+These items typically grant boosts to the [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]] stat when used for their '''intended purpose'''. As this is for roleplay, '''the intended purpose can vary and be extended''' if <u>justified well enough</u>. A sword, intended for slashing, can still give its stat boost when cutting through leaves or webs.
+
+=== Ranged Tools ===
+For '''Bows''', '''Slings''', or any other ranged tool that '''requires the character's strength''', <u>character [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]] is added by the tool's [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]</u>. <br />But for '''guns''' or any other ranged tool that '''doesn't need character strength''', you <u>'''only roll''' with the '''tool's [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]'''</u> . <small>(To balance this, guns typically have higher stats than bows.)</small>
+
+=== Armor ===
+Armor typically blocks [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]] rolls against your character. However, optionally, '''damage types''' and '''armor coverage''' can be used as well.
+
+
+===== Damage Types (Optional) =====
+<div class="mw-collapsible mw-collapsed">
+When enabled by both parties or a Narrator, damage types determine how well '''Slashing''', '''Piercing''', '''Blunt''', '''Heat''', or '''Psyche''' damage is mitigated by armor or caused by weapons. As this is a complication of the system, it is left to the Roleplayers to determine whether to use this or not.
+</div>
+
+===== Armor Coverage (Optional) =====
+<div class="mw-collapsible mw-collapsed">
+When enabled by both parties or a Narrator, <u>damage resistance</u> is '''only counted if an attack is directed at a body part that the armor covers'''. Even if a <u>helmet</u> gives +3 [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]], if the attack is <u>aimed for the leg</u>, you <u>only roll your character's [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]</u> without the helmet's modifier.
+</div>
+
+=== Equipment Samples ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Item Name
+!Item Type
+![[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]
+!⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]]
+!💡[[Firmata's Rolling System#💡 Mentality (MENT)|Mentality]]
+!🌙[[Firmata's Rolling System#🌙 Spirituality (SPIR)|Spirituality]]
+|-
+|Stone Spear
+|Spear
+|'''+3'''
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+|-
+|Makeshift Flintlock Pistol
+|Gun
+|'''+4'''
+|'''-2'''
+|<small>+0</small>
+|<small>+0</small>
+|-
+|Wooden Nautical Protractor
+|Triangle
+|'''+1'''
+|<small>+0</small>
+|'''+4'''
+|<small>+0</small>
+|-
+|An Odd Rosary
+|Necklace
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+| +2
+|-
+|"A Prayer Page"
+|Papyrus
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+| +1
+|-
+|"Science Pamphlet"
+|Papyrus
+|<small>+0</small>
+|<small>+0</small>
+| +1
+|<small>+0</small>
+|-
+|Leather Cap
+|Head Covering
+| +3
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+|-
+|[[Memetta]]'s Wrappings
+|Cloth Covering
+| +1
+|<small>+0</small>
+|<small>+0</small>
+| +2
+|-
+|A Stolen Stole
+|Religious Stole
+| +1
+|<small>+0</small>
+|<small>+0</small>
+| +4
+|}
+
+== Hidden Stats ==
+These stats '''cannot be assigned stat points'''. Instead, they can be acquired or diminished through <u>certain manners</u>.
+----
+
+=== 👁️ Lucidity (Luc) ===
+<blockquote>''Level of [[Sentience]] and how greatly one can peer through The 4th's Wall.<br />This determines how much your character '''is aware of [[You]].'''''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* Resisting/Allowing [[You|your]] control
+* Acting out of character
+* Knowing things they shouldn't know
+</div>
+
+=== 🍀 Phantasy (LUCK) ===
+<blockquote>''Blessings or curses from... something... tweaking fate to either favor or harm you.<br />This determines '''how fate favors you'''.''</blockquote>Unlike other stats, the Phantasy (Luck) stat '''affects all rolls'''.<br />If your character has +1 or -1 in this stat, you can either add or subtract a modifier to any roll you do.
+
+As this stat is quite overpowered, it can <u>only be granted to characters</u> who have been '''blessed''' or '''cursed''', either from a '''god-like being''' in their original universes (for [["Otherworlders"]]) or through [[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ'''⁴ᴹ⁷ᴿ²ᴬ⁰''']]'''<nowiki/>'s influence'''.

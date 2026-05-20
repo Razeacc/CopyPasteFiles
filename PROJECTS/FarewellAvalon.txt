@@ -1,0 +1,31 @@
+-------------------
+### Farewell Avalon 
+-------------------
+{{Project_Template|type=Videogame|genre=Top-Down Adventure Bullet Hell|release_date=2023|location/s=[[Outpost 7]]|image1=FarewellAvalon 3-4.jpg|time_period=[[The Revolutions and Exodi Era]]|poster_artist=<data source="my_list">
+<ul>
+<li>Poster: [[Shizukana Arts]]</li>
+</ul>
+</data>}}{{#SQuote:|text=When those from beyond defy their own laws, they do so under the guise of theatrics and pompous extravagance.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=28DC-AD4E-X1DW|template=}}
+
+Farewell Avalon is a '''2D''' '''Top-Down Adventure Bullet Hell''' where you control [[The Skribble]] and [[Protos]] as they lead the main protagonist, [[Archie]], along on their journey to reclaim their lost memories and find where the rest of their kin have vanished off to.
+
+It's the 2nd project of the [[Scripted Fates]] series, following [[Beyond Eternity]], and the first entry involving the Unity game engine.
+
+== Introduction ==
+After waking up from being reborn as an [[Archkin]], [[Archie]] is faced by either [[The Skribble]] or [[Protos]], both being [[Skribbles]]. They lead the newly-born archkin across [[Outpost 7]] as they reclaim [[Memory Pieces]] from their past as a human. During which, they face the outpost's deeply-infested [[Fracturing Zone]] and the [[cradles]] within, alongside the abandoned [[Cariburn]] that still roam its halls.
+
+== Gameplay ==
+In the first version of Farewell Avalon, you can control [[Archie]]'s movement while using the mouse to aim their melee attacks. After reaching low-health, [[The Skribble]] steps in to let Archie rest temporarily: The Skribble Switch. During that rest, you play as the skribble companion as you defend Archie while they regain health. Your melee attacks also swap with a ranged attack instead.
+
+In the second version, Project: FRACTURING, defeating enemies charges up "Faith" [[Protos]] has with Archie's capabilities to defend themselves. Instead of The Skribble Switch occurring on low health, it can be triggered at any time, but it slowly drains "Faith". Rather than defending Archie as well, you swap places with them and control the fast-moving skribble for the time being. This creates a balancing dynamic of melee primary attacks to charge "ammunition" to swap into your secondary ranged attacks.
+
+== Characters ==
+{{LockedEntry}}
+
+== Factions ==
+{{LockedEntry}}
+
+== Setting ==
+[[Outpost 7]]
+== History / Backstory ==
+{{LockedEntry}}

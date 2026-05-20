@@ -1,0 +1,101 @@
+==================================================
+##		 LORE OVERVIEW			##
+==================================================
+
+
+This page acts as a root for all phenomena unique to [[Scripted Fates]]' setting, from how certain common but abstract fictional occurrences work differently in this world <small>(IE: [[PSYCHE (Soul)|Souls]], [[Memories]], etc.)</small>, to materials and locations that exist <small>(and don't exist)</small> in the world.
+
+Details for each entry can be found in their <u>respective pages</u>.
+
+
+== Mechanics and Systems ==
+{|class="article-table"
+|-
+!colspan="2"|Mechanics
+|
+* 
+|-
+!colspan="2"|Systems
+|
+* [[Firmata's Rolling System]]
+|}
+
+== [[Terms and Concepts]] ==
+<div style="text-align: center;">[[File:Aspects.png|center|thumb|387x387px|link=The 4 Aspects of Reality|[[The 4 Aspects of Reality]]<br />The building blocks of fiction itself.]]<gallery widths="240">
+File:Memory.gif|link=Memory|[[Memory|<big>Memory</big>]] <br />Life given <b>mass</b>, puzzle pieces of [[PSYCHE (Soul)|SOUL]].
+File:Sentience.gif|link=Sentience|[[Sentience|<big>Sentience</big>]] <br />Life given <b>shape</b>, hands shaping [[PSYCHE (Soul)|SOUL]].
+File:Soul.gif|link=PSYCHE (Soul)|[[PSYCHE (Soul)|<big>PSYCHE (Soul)</big>]] <br />What makes a being <b>who they are</b>.
+</gallery>
+</div>
+
+== [[Bestiary]] ==
+<div style="text-align: center;">
+<gallery widths="240">
+File:Ano Hanging ALTERANTS.gif|<big>[[Alterants]]</big> <br /><b>Modified Humans</b> invented from the greed of an [[Khueen|Archgod]].
+File:The Archkin Family.png|[[Archkin|<big>Archkin</big>]] <br />The <b>founders</b> of existence in history, and its large <b>threat</b> in modernity.
+</gallery>
+</div>
+
+== [[Factions]] ==
+{|class="article-table"
+|-
+!colspan="2"|{{Firmata1 Sym}} [[Firmata Frontier]]
+|
+* [[The Stone Society]]
+|-
+!colspan="2"|[[Farewell Avalon]]
+|
+* {{Avalon Sym}} [[The Avalonian Exodus]]
+|
+* [["The Revolutionaries"]]
+|-
+!colspan="2"|[[Beyond Eternity]]
+|
+* [[The Court of The 4th]]
+|}
+
+== [[Locations]] ==
+{|class="article-table"
+|-
+!colspan="2"|[[Locunex]]
+|
+* [[The Godcity of Marlika]]
+|
+* [[The Godless Nation of Yan'amu]]
+|-
+!colspan="2"|Unknown "Regions"
+|
+* {{Firmata1 Sym}} [["The Continent"]]
+|
+* {{Firmata1 Sym}} [[Outpost 3]]
+|
+* {{Avalon Sym}} [[Avalon City]]
+|
+* {{Avalon Sym}} [[Outpost 7]]
+|
+* [[The Null Crossing]]
+|}
+
+== [[Elementarium]] ==
+<small>Unique materials that can <b>only be found</b> in the [[Scripted Fates]]'s settings.</small>
+{|class="article-table"
+|-
+!colspan="2"|Metals and Stones
+|
+* [[Khueenite]]
+* [[Avalonian Steel]]
+|-
+!colspan="2"|Fabrics and Fibers
+|
+*
+|-
+!colspan="2"|Crystals and Dusts
+|
+*
+|-
+!colspan="2"|Gases and Liquids
+|
+*
+|}
+
+== [[History]] ==
