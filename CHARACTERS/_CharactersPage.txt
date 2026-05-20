@@ -1,0 +1,74 @@
+==========================================
+##		 CHARACTERS 		##
+==========================================
+This page is a collection of all characters across the Scripted Fates [[Projects]] organized in "a certain way".
+
+For characters '''created by Roleplayers''' for [[Firmata Frontier]], refer to the [[Roleplayer Characters]] list.
+
+== {{Nul Sym}} Agents of Phantasy ==
+<Big>[[The Vicars of Null]]</Big><gallery>
+File:AyumuHeadshot.png|[[Ayumu|<big>Ayumu</big>]]
+File:Dett Headshot.jpg|[[Dett|<big>Dett</big>]]
+File:Tool Headshot.png|[[Tool Razhom|<big>Tool Razhom</big>]] <sup><small>(Unconfirmed)</small></sup>
+</gallery>
+
+
+<big>Independent/Unknown</big><gallery>
+File:Theprince.png|[[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|<big>ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰</big>]]
+</gallery>
+== <Big>{{Firmata1_Sym}} [[The Stone Society]]</Big> ==
+<gallery>
+File:Besado.png | link=Professor Besado
+File:Memetta.png | link=Memetta
+</gallery>
+
+== <Big>{{Archkin_Sym}}</Big> [[Beyonds|Archkin Civilization]] ==
+
+=== <Big> [[The Godcity of Marlika]]</big> ===
+<gallery>
+File:Khueen HeadshotAlt.png|[[Khueen|<big>Khueen</big>]]
+File:Kalayan Headshot Literally.png|[[Kalayan|<big>Kalayan</big>]]
+File:NimuelHeadshot.png|[[Nimuel|<big>Nimuel</big>]]
+File:Ano Shot.png|[[Ano|<big>Ano</big>]]
+</gallery>
+=== <Big>{{Yanamu_Sym}} [[The Godless Nation of Yan'amu]]</big> ===
+<gallery>
+File:Ouya headshot.png|[[Ouya|<big>Ouya</big>]]
+File:YoungAyu.png|[[Ayu|<big>Ayu</big>]]
+</gallery>
+=== <Big>{{Avalon_Sym}} [[The Avalonian Exodus]]</big> ===
+<gallery>
+File:Morgale Headshot.png|[[Morgale de Metso|<big>Morgale de Metso</big>]]
+File:Archie Headshot.png|[[Archie|<big>Archie</big>]]
+File:Sola Headshot.png|[[Sola|<big>Sola</big>]]
+File:Luo Headshot.png|[[Luo|<big>Luo</big>]]
+</gallery>
+
+=== Independent/Unknown ===
+<gallery>
+File:AlKnoxus Headshot.png|[[Al'Knoxus|<big>Al'Knoxus</big>]]
+File:Crimmy Headshot.jpg|[[Crimmy|<big>Crimmy</big>]]
+</gallery>
+
+== {{4th_Sym}} [[The Court of The 4th]] ==
+<gallery>
+File:Mirror.png| link=You | [[You|<big>You</big>]]
+File:Agent.png| link=An Agent |[[An Agent|<big>An Agent</big>]]
+File:TheSkribble Headshot.png|[[The Skribble|<big>The Skribble</big>]]
+File:Protos Skribble.gif|[[Protos|<big>Protos</big>]]
+File:Doodle Headshot.png|[[Doodle|<big>Doodle</big>]]
+File:Yume Ulhysse.png|❗ [ This Lore Entry is currently locked ]
+</gallery>
+
+== Unknown Classification ==
+<gallery>
+File:Theprince.png|[[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|<big>ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰</big>]]
+File:AyumuHeadshot.png|[[Ayumu|<big>Ayumu</big>]]
+File:Aysa Headshot.png|[[Aysa|A<big>ysa</big>]]
+File:Dett Headshot.jpg|[[Dett|<big>Dett</big>]]
+File:Tool Headshot.png|[[Tool Razhom|<big>Tool Razhom</big>]] <sup><small>(Unconfirmed)</small></sup>
+File:AMidwife Headshot.png|[[The Last Midwife|<big>The Last Midwife</big>]]
+File:Razichan PhoneHome v2.gif|[[Razi-Chan|<big>Razi-Chan</big>]]
+File:CielaThe70th Headshot.png|[[San Ciela|<big>San Ciela</big>]]
+</gallery>
+[[Category:Character]]

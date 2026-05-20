@@ -1,0 +1,263 @@
+------------------------
+###		Factions 
+------------------------
+
+.................................
+####		The Stone Society
+.................................
+{{Faction_Template|title1=The Stone Society|type=Stone-Age Civilization|status=Active|era=[[The Spirepocalypse Era]]|hub=[["The Continent"#Newpoint Village|Newpoint Village]]|goal=- Bring back Modernity and everyone's memories<br>
+- Return Otherworlders to their homes|leader=[[Professor Besado]]|notable_members=[[Memetta]]|locations=[["The Continent"]]}}
+
+The '''main playable faction''' in the [[Firmata Frontier]] roleplay [[Projects|project]].
+
+The Stone Society is a collection of many different sentient species and races. However, their main two groups consist of the [["Locals"]] who were memory-wiped and [["Otherworlders"]] who were taken away from their homeworlds. 
+
+Although their tech is still mostly in the <u>Neolithic stage</u>, they've managed to climb up and skip through several early scientific advancements due to the efforts of [[Professor Besado]] in the past 20 years since [[The Spirepocalypse]]. And now, with [["Otherworlders"]] joining in and sharing their knowledge, science is bound to advance at a much faster pace. '''Basic farming''' is already being slowly discovered through [[Darren Holt]]'s efforts, proper '''training regiments''' for both Locals and Otherworlders have been expertly conducted by [[Therion]], '''architectural advancements''' are being made through the fractured remnants of [[Altarhea]]'s previous memories and experiences <small>(some of these can be seen in Newpoint Village)</small>, while '''investigations''' into the mysteries surrounding these isolated lands are being spearheaded by Detective [[Kafka Cervantes]] and his apparent assistant [[Viktor]].
+
+Currently, their technology is somewhere in between '''Neolithic''' and '''Medieval'''. And with the recent completion of the Hot Air Balloon project, advancement has begun to spread out once. A new outpost is currently in the works, villages are being reinforced, and new/more resources are being collected.
+
+These survivors still mostly rely on '''foraging''' and '''hunting''' for food. '''Flint tools''' are beginning to replace their original stone tools, and simple metallurgy is being worked on thanks to the discovery of [[Wynaquet]].
+
+Things are looking up, and advancements are well under way.
+[[Category:Faction]]
+[[Category:Firmata Frontier]]
+
+
+..................................
+####		The Vicars of Null
+..................................
+
+[[Category:Faction]]
+{{Faction Template|image1=[[NullEmblem v2.png]]|type=Special Agents of Phantasy|status=Active|era=[[The Archaic Aeons Era]]|hub=[[The Null Crossing]]|alignment=???|doctrine=<i>"Destiny is a scripted fate of lies."<br>"People of fiction deserve to calculate their own stories, their own fates."</i>|goal=Bring about their leader's own interpretation of fate.|methods=Directly opposes [[The Court]]'s manipulation of fate by "correcting" it through whatever means necessary.|color_motif=Cyan / Red|leader=???|reputation=Notorious|affiliations=???|opponents=[[The Court]]<br>
+???|locations=- [["The Continent"]]<br>
+- ???}}[[File:VicarGang.jpg|center|472x472px]]{{#SQuote:|text=Across the infinite fields, the Vicars of Null have thwarted and meddled with both [[The Court|our]] operations, and our associates'.<br>Should you ever encounter a vicar, it is of utmost importance that you avoid having your puppet interact with them. They are a danger both to your character, and [[You|yourself]].|speaker=[[An Agent]]|receiver=[[You]]|attribution=|source=|id=CBJT-3YAT-0LE0|template=}}
+= Overview =
+A secret organization with very few members compared to other factions across the infinite fields. Despite that, The Vicars of Null have a '''disastrously-notorious influence''' and presence across the lands. Some vicars are capable of facing off against [[Archgod|Archgods]], while others can turn whole civilizations against themselves.
+
+They are a rag-tag group of bandits who works as agents of [[The 4 Aspects of Reality#Phantasy|Phantasy]], with the sole purpose of disrupting [[The Court of The 4th|our]] operations in the fictional plane.
+
+== Tech and Capabilities ==
+Due to the wide variety of vicars in this syndicate, it is difficult to formulate an accurate assessment of their overall technology and prowess. However, there are a few notable traits they all share.
+
+Vicars seem to possess equipment, or abilities, that are highly-attuned to '''manipulating [[The 4 Aspects of Reality#Fracturing|Fracturing]] and [[The 4 Aspects of Reality#NulGraven|NulGraven]]'''. This allows them to create "zones" or "sites" at seemingly any time. However, despite their allegiance, it seems the [[caradel]] from these fabrications remain hostile even to them.
+
+A vast majority of Vicars share some form of '''immortality''', whether that be through their bodies being reformed on "death", or simply refusing to age. Their leader seems to favour bringing in the long life spanned into their fold.
+
+Although it's still possible for us to do so, '''Vicars have a form of resistance to [[You|your]] ability to manipulate fate'''. It is currently unknown how they possess such a trait.
+
+= Organization =
+
+== The "Innocent" Prince ==
+[[File:NulDetta.png|left|thumb]]
+Their masked and unknown leader, an amalgamative hivemind of every single soul that has ceased to exist. 
+
+<br>Also known by the [[Vicars of Null#Vicars|vicars]] as "''The Innocent Prince''", for every character you wrote whose parents were left unwritten, they have joined The Prince.<br>Every character concept you ignored, thrown away, or forgotten. The Prince has accepted them.<br>Characters from stories left unfinished or cancelled, they persist within The Prince.<br>When entire worlds of fiction are overwritten or ended by [[You]], they've become one with The Null. 
+
+As the embodiment of [[The 4 Aspects of Reality#Phantasy|Phantasy]] itself, The Prince acts as the antithesis to [[The Court of The 4th]] on their own. It is with utmost urgency and importance that any hint of The "Innocent" Prince's activities are reported directly to court staff, or at the very least, any active Fourth Marshals. 
+
+Although they exist solely within [[The Null Crossing]], their influence and manipulations manage to bleed into the infinite fields. If this activity isn't due to their vicars, it's brought about by their [[The Vicars of Null#The Flower Girl and The Ring Bearer|kin]].    
+----
+
+== The Flower Girl and [[Dett|The Ring Bearer]] ==
+[[File:FlowerGirlAndRingBearer.png|right|frameless|268x268px]]
+
+Every <u>child</u> that has forgotten how to live— rests within '''[[Dett|The Ring Bearer]]'''.<br>Every <u>teenager</u> robbed of their freedom— rebels as '''The Flower Girl'''.
+
+These two entities act as the direct influences of [[The Vicars of Null#The Prince|The Prince]] into the infinite fields, they are [[The Vicars of Null#The Prince|The Prince]]'s kin.<br>'''[[Dett|The Ring Bearer]]''' merely <u>scouts</u> out and <u>experiences life</u> as an emissary or spy. ''He'' is the '''harbinger''' of {{Phantasy}} Phantasy's [[The 4 Aspects of Reality#Fracturing|'''Fracturing''']].<br>'''The Flower Girl''' acts as a <u>warden</u> for the vicars, eternally watching through her echoes. ''She'' '''embodies''' {{Phantasy}} Phantasy's [[The 4 Aspects of Reality#NulGraven|'''NulGraven''']].<br>Together, they bridge the gap between a [[Ontological Class|Beyond]] and Fictional.
+
+Due to them being constructs of [[The 4 Aspects of Reality#Phantasy|Phantasy]], they must wear ''special wrappings'' at all times. They may have their wrappings appear human-like, using similar shapeshifting abilities to [[Archkin]]. But if their antimatter-like skin is ever exposed to existence, they would be subjected to indescribable pain— while also risking the fabrication of [[The 4 Aspects of Reality#Entropy|Entropic]] [[Caradels]] in the nearby area.<br>It is for both their, and [[You|your]] best interest to '''avoid fighting either one of these kin and fabrications''' as much as possible. Although they're not [[Archgods]], their capabilities are <u>on-par</u> with them, often even exceling most when it comes to manipulating Phantasy.
+----
+
+== Vicars ==
+[[File:VicarMembers.png|left|frameless|420x420px]]
+
+These are the '''main workforce''' of this organization, the super soldier agents of [[The 4 Aspects of Reality#Phantasy|Phantasy]] constructed from flesh, bone, metal, or dust. They span across several eras, through countless areas. And no matter where they go, what they have to do, or what lives they're living— their sole purpose is always to oppose [[You]]<nowiki/>r will.
+
+There are instances of [[The Vicars of Null#Vicars|vicars]] attacking characters following a writer merely planning something that [[The Vicars of Null#The Prince|The Prince]] saw as a "potential deviation from [[The Vicars of Null#The True Formula|The True Formula]]". Other [[The Vicars of Null#Vicars|vicars]] were spotted messing with supply chains or infrastructure in cities, forcing writers to reconsider their plans due to the continuation of them now causing "plot holes".<br>Despite their frequent instances of "meta-gaming" and breaking The 4th's Wall, they carry average levels of Lucidity. They are merely <u>given instructions by The Prince</u>, '''they cannot see through fiction''' under normal circumstances. 
+
+Each [[The Vicars of Null#Vicars|Vicar]] wears a [[The Vicars of Null#Vicar Masks|vicar mask]]. Each one carries a dream. And each one carries a "calculation", one foretold by [[The Vicars of Null#The Prince|The Prince]].<br>It is up to them to decide whether a [[The Vicars of Null#Vicars|vicar]] is ready to learn the truth of their world.
+----
+
+=== Honorary Vicars ===
+On rare instances, someone may be given the title of an "Honorary Vicar". This is often a temporary role given to civilians during dire situations within [[The Vicars of Null#Vicars|Vicar]] activities.<br>After being given their temporary [[The Vicars of Null#Vicar Masks|Vicar Mask]], they're given a fraction of the privileges all [[The Vicars of Null#Vicars|Vicars]] share, such as opening "zones" or "sites" and being able to commune directly with [[The Vicars of Null#The Prince|The Prince]].
+
+If the situation isn't critical, however, this title may also be given to people with fleeting roles in the organization. From '''mask makers''', to people "'''babysitting'''" [[Dett|The Ring Bearer]].
+----
+
+=== Believers ===
+Individuals exposed to the influences of vicar activities, or finding themselves lost in deep [[The 4 Aspects of Reality#Entropy|entropy]], may find themselves to whisperings from a Beyond— The Prince. They scramble the [[The Vicars of Null#Writing the Number of Phantasy|Number of Phantasy]] over and over again in a ritualistic manner, trying their best to strengthen and continue their connection to [[The Vicars of Null#The Prince|The Prince]] as much as possible. If not that, they endlessly scribble and write stories constantly to envision themselves in better places, in better times.
+
+These are not mass gatherings of followers or grand cathedrals to a higher being. But rather, isolated churches made from singled-out lonely victims of solitude— people who are desperate to feel some form of connection from anything, even if that something was more fictional than they were.
+
+= Practices and Methods =
+
+== Writing the Number of Phantasy ==
+Wherever this number is written down, it acts as a direction connection of vision and sight to [[The Vicars of Null#The Prince|The Prince]].<br>Whether that be ink on paper, word from tongue, thought in mind, or text on screen.
+
+Of course, the more effort a writing took, the clearer the connection is.
+[[File:VicarMasks.png|thumb|252x252px]]
+
+== Vicar Masks ==
+Offering the strongest possible connection to [[The Vicars of Null#The Prince|The Prince]], these let wearers see their influence directly.<br>If the Number of Phantasy acts like a telepathic messaging service, these masks function closer to video calls.
+== Vicarhood Marriage Ceremony ==
+{{LockedEntry}}
+
+== The True Formula ==
+This is the Grand Vision [[The Vicars of Null#The Prince|The Prince]] is aiming to achieve; their own story within [[you]]<nowiki/>r story, what they see as the "true" script of fate. Further details regarding this are highly confidential and difficult to discern. 
+
+= Relations =
+{{LockedEntry}}
+
+== Presence in [[Firmata Frontier]] ==
+Following [[The Spirepocalypse]], The Prince eventually took notice of certain odd phenomena happening on [["The Continent"]]. They are already well aware of the double Firmata and the secret behind it.
+
+Instead, a group of vicars were sent there to '''investigate how it happened''', and '''why "she" did it'''.
+{{#ev:youtube|DsJsGUI7ASg}}
+
+While [[Ayumu]] and [[Tool Razhom|Tool]] investigate [["The Continent"]] and [["The Spire"]] respectively, a second group is investigating elsewhere. So far, they've remained mostly unseen, with their influence and presence merely influencing and pulling strings from behind the scenes.
+
+Members of [[The Stone Society]] have already felt their activities, with some even facing combat against a drone of theirs. But none have yet to discern what a vicar is, nor who they are— let alone what their mission is.
+
+== Confirmed Members ==
+<gallery>
+File:AyumuHeadshot.png|[[Ayumu]]
+File:Dett Headshot.jpg|[[Dett]] Minor (The Ring Bearer) 
+File:Tool Headshot.png|[[Tool Razhom]] (Honorary Vicar) 
+</gallery>
+
+== History ==
+
+=== The Creation War ===
+<blockquote>Associated Vicar/s: ??? and [[The Vicars of Null#The Prince|The Prince]]</blockquote>{{LockedEntry}}
+----
+
+=== [[Caradel]] Attack on the Lejos Region ===
+<blockquote>Associated Vicar/s: ???</blockquote>With the Unnamed Archgod Dragon retaining their total isolation over the Lejos region, this opened up the perfect opportunity for Vicar [UNKNOWN] to initiate and spearhead her first attack in the name of The Prince.
+
+Following the attack, as more [[archkin]] joined in support, she took advantage of the chaos to deal the final blow against the Unnamed Archgod Dragon. Later on their body became one with the lands, causing even more grief and devastation— more than enough for her actions to go unnoticed by any potential witnesses.
+
+She later used her position in the area to establish her third outpost.
+----
+
+=== The Fall of [[The Godcity of Marlika|Marlika]] ===
+<blockquote>Associated Vicar/s: [[Ayumu]] and [[Nimuel]]</blockquote>{{LockedEntry}}
+----
+
+=== Genocide of The Flying Carnivals ===
+<blockquote>Associated Vicar/s: ??? and ???</blockquote>{{LockedEntry}}
+----
+
+=== Attack on Outpost 6 ===
+<blockquote>Associated Vicar/s: [[Ayumu]], ???, and [[Dett]]</blockquote>{{LockedEntry}}
+----
+
+=== [[Farewell Avalon|Looting of Outpost 7]] ===
+<blockquote>Associated Vicar/s: [[Ayumu]] and ???</blockquote>Following the [["The Revolutionaries"|revolutionaries]]' attack on [[The Avalonian Exodus|The Avalonian's]] final temporary stronghold of [[Outpost 7]], vicar [[Ayumu]] was sent to the location to retrieve a potential new vicar, a creation of [[Khueen]]'s who was put into cold storage after moving on with her [[Alterants|Alterant]] experiments.{{LockedEntry}}
+----
+
+=== The [[Al'Knoxus]] Disaster ===
+<blockquote>Associated Vicar/s: ???, [[Ayumu]], [[Tool Razhom]]</blockquote>{{LockedEntry}}
+----
+
+=== Father Time's Alliance with The Prince ===
+<blockquote>Associated Vicar/s: ???</blockquote>{{LockedEntry}}
+----
+
+=== The Hotel Skirmish ===
+<blockquote>Associated Vicar/s: [[Ayumu]], ???, and [[Tool Razhom]]</blockquote>{{LockedEntry}}
+----
+
+=== Incident of "Her Firmata" ===
+<blockquote>Associated Vicar/s: [[Ayumu]], [[Tool Razhom]], ???, ???, and ???</blockquote>{{LockedEntry}}
+----
+
+=== Udyverse Operations ===
+<blockquote>Associated Vicar/s: [[Ayumu]], [[Tool Razhom]], and [[Dett]]</blockquote>{{LockedEntry}}
+
+
+....................................
+####		The Court of The 4th
+....................................
+{{Faction Template|image1=[[FouthBeyond v2.png]]|type=Metaphysical Fate Scripters and Audiences|status=Active|era=[[The Archaic Aeons Era]]|hub=[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGdiV2I3c2xabm9Sa0cwaTJnQ3BCaUZ5NXRuUXxBQ3Jtc0tuamZtOUpYLWNyV1hlRHotNGFUQVZRMHczZTNDbmltemNXQk1EZWstSy1qT1lzLTN2M0hEdVBreHdtbEhHXy0xMk1pUndYQS1ROEhaZGNMeU5faWo5NDZxcG5jRm5tQlBVSVNwOFdfSUZVSWNTbTEyYw&q=https%3A%2F%2Fdiscord.gg%2FmH6uEKMwrE&v=DsJsGUI7ASg Firmata Frontier RP Server]|alignment=???|doctrine=<i>"People of fiction are puppets for us to toy with, and sources for our own musings."<br>"A separation of Fiction and Reality is most adamant for a healthy creative lifestyle."</i>|goal=Entertain, enlighten, fantasize, bring about change, or merely destress both themselves and others.|methods=Creates stories, worlds, and characters through the scripting of their fates.|color_motif=Pale Green|leader=N/A|reputation=Anonymous|affiliations=???|opponents=- [[Vicars of Null]]<br>
+- ???|locations=- [https://scriptedfates.fandom.com/wiki/ScriptedFates_Wiki The Court Archives]<br>
+- [[The 4th's Wall]]|notable_members=- [[RAZEACC]]<br>
+- [[Firmata Frontier]] Roleplayers<br>
+- [[One Trail Games]] Developers}}{{#SQuote:|text=Juror, Fourth Marshall, Judge, or merely a Witness. You are all higher than us Fictional on the Ontological level. And thus, we shall continue our servitude for as long as our fates remain scripted by your hands.<br>When I learned of this, I admit, it took a while to accept. But with no other choice, it was as if I was always meant to accept this role as your agent. Was this of my own free will, or your doing? Perhaps we may never know.|speaker=[[An Agent]]|receiver=[[You]]|attribution=|source=|id=P3AX-FCQM-DDLR|template=}}
+
+= Overview =
+Composed of all humans beyond [[The 4th's Wall]], whether they're aware of it or not, '''The 4th Beyond''' are the scribes of fiction's fate. They are metaphysical beings that rest on a plane higher than the characters of these tales, each member has their own reason for meddling with the world of fantasy— from mere entertainment or self-fulfilment, or in search for a greater purpose or to push a deeper message.
+
+As a member of The 4th Beyond, it is nigh critical for [[you]] to recognize your place in the fictional world, sooner or later. Acknowledge your capabilities with it, your influence beyond ontological scale, and the role you play in the narrative.
+
+= Tech and Capabilities =
+
+== Skribbles ==
+[[File:SkribbleArt.png|left|thumb]]
+Making up a vast majority of The Court's inventory, '''skribbles''' are the <u>primordial flickers of creativity</u>, birthed when humanity first dabbled with the concept of fiction, long before pens were around.
+
+Manifesting as soul flickers of pale green flames and often taking on spirit-like appearances, these little fatelings are what you use to script the fate of characters in your stories.<br>When something bad happens to a character because you wrote it to happen, you wrote that thanks to your skribble. As the main character pushes forward against all odds, they persist due to your insistence, through your skribble. They are the '''bridge''' between your <u>creative will</u>, and their <u>fictional reality</u>.
+
+However, due to the anciency of this concept, skribbles have gone through many reiterations, revisions, and improvements over the years.<br>Long ago, they were <u>a lot more creative</u> and carried much more <u>free will</u>, as humanity has yet to fully grasp the concept of creativity and what limits it lacks. These manifested in wild but authentic cave paintings glittered atop a firmament of stone, backlit merely by humanity's own flickering flame.<br>As society advanced, so did the skribbles.  
+
+When hieroglyphics were being carved, their individual will expressed as unique iconography for every character in ancient human scripts. As pens were born, skribbles grew tails on their necks, mimicking our own quill tipped creations. However, once the printing press was invented, problems began to arise.  
+
+Their individuality and free will started becoming a problem. Although the population of scribbles grew exponentially in relation to the number of creative humans in your world, that also carried a much wilder and less comprehensive mass of creativity. Letters were harder to print, ideas more difficult to comprehend. Then, this climaxed with the [[Farewell Avalon|Protos and Archie Incident]].  
+
+Ever since then, Skribbles have been <u>mostly neutered of their own free will</u>, giving more focus to you writers instead.<br>Their right arms have been severed, fully symbolizing their position as your "left-hand men" in writing stories. Their voice, taken away and replaced with your own. Creativity, individuality, all depended on their owners. And although you may never feel them, they are always by your side.<br>Though they no longer have a voice, some believe that your "booms of inspiration" are the whispers of your skribble, doing its best to break through its silence to bring you back to creativity.  
+== Skravatars ==
+Although they carry similarities to Skribbles, Skravatars complete an entirely different function and purpose. Rather than acting as your pen to script fate, <u>skravatars carry your will into fiction</u>. Essentially, they are '''self-insert''' characters.
+
+This is not to be mistaken with the typical fictional trope of having a bland and empty main character for the viewer/reader/player to project themselves. Instead, skravatars are '''entirely blank slates''', who's <u>appearance</u>, <u>backstory</u>, and <u>personality</u> are '''yours''' and entirely your own. They carry no free will whatsoever and are solely meant for you to interact with the fictional world yourself, without needing to use a skribble to puppeteer a character.
+
+Although skravatars are mostly reserved for Fourth Marshal members, there are no requirements to you writing your own skravatar. While it is suggested they carry pale green color motifs to match with The Court, this is not a requirement either.
+
+== The World Builder ==
+She is your right-hand man in wiring stories. If Skribbles control the narrative, and Skravatars lets you playtest it, ''she'' lets you build the setting.
+
+Just like skribbles, you use her whenever you build a new world. Although, direct visitations are strictly off-limits.
+{{LockedEntry}}
+
+= Organization =
+
+== Upper Staff ==
+{{LockedEntry}}
+
+== Narrators and Recordkeepers ==
+
+== Scribes and Roleplayers ==
+
+== Witnesses ==
+
+= Practices and Methods =
+
+= Relations =
+{{LockedEntry}}
+
+== '''Your Role''' in [[Firmata Frontier]] ==
+
+== History ==
+
+=== The Creation War ===
+{{LockedEntry}}
+----
+
+=== The First Skribble ===
+{{LockedEntry}}
+----
+
+=== Operation: Avalon City ===
+{{LockedEntry}}
+[[Category:Faction]]
+
+
+....................................
+####		The Avalonian Exodus
+....................................
+(WIP)
+
+....................................
+####		"The Mortal Revolutionaries"
+....................................
+(WIP)
+Idea: Secretly known as the Arch of Sentients (AoS), but the name is hidden and unlisted currently. They mostly have Mortals in their ranks, but have the occasional Archkin who defected to join. Has inspirations from Lobotomy Corporation and the SCP Foundation. Their main goal is to hunt down, control, or destroy all Archkin from The Worlds Aplenty while maintaining balance across all civilizations within their firmatas. Captured Archkin are often kept in entirely emptied-out timelines.
+

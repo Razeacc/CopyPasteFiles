@@ -1,0 +1,268 @@
+-----------------------------
+###		Arch Ontology 
+-----------------------------
+Idea: Represents the "2nd Wall", the "Left Side" of a theatrical performance where actors come and go from to enter the stage. These are characters who have innate "magical" properties".
+
+......................
+####		Khueen
+......................
+{{ScriFa_Character|name=Khueen|title=Archgod of Psyche|image1=<gallery hideaddbutton="true">
+Khueen Profilew.jpg|Headshot
+KhueenDesign.jpg|Design Sheet
+</gallery>|firmata_Sheet=|status=[[The Null Crossing|Banished]]|aliases=Ma'am Reyna<br>
+The White Lady<br>
+<s>Qhueen</s><br>
+The Strongest Archgod in History|narrative_role=The Architect of Consequences|archetype="The Benevolent Tyrant"|color_motif=Pale Pink|artist/s=[[RAZEACC]]|debut_project={{Archkin Sym}} [[Beyond Eternity]]|project_appearances={{Archkin Sym}} [[Beyond Eternity]]|affiliation/s=<s>[[The Godcity of Marlika]]</s>|relatives=[[Kalayan]] - Partner<br/>
+[[Ouya]] - Sister<br>
+[[Crimmy]] - Sister<br>
+??? - Son<br/>
+??? - Son<br/>|occupation=<s>Archgod Leader</s><br/>
+<s>Life Scientist</s>|pronouns=She/Her|birthplace=[[The Godcity of Marlika]]|hobbies=<s>Giving life to random objects</s><br>
+Creating colored lanterns<br>|favorite_food=Leche Flan|favorite_type=People who resist control|species=[[Archkin]]|race=[[Archgod]]|age=|gender=Female-Presenting|height_&_weight=1.70m|hair_color=White|eye_color=Pink|skin_color=Pale White|soul_color=Pink|blood_type=|aspect_attunement={{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]|physicality=|alacrity=|mentality=|spirituality=|phantasy_(luck)=|lucidity=|strengths=|weaknesses=|abilities=}}{{#SQuote:|text=The most notorious [[Archgod|archgod]] in [[The Court of The 4th|our court]]'s records, responsible for nearly every single problem plaguing the infinite fields today.<br>Her blasphemous ego and foolhardy willingness to defy court orders, regardless of consequence, is what ultimately brought about the [[The Revolutions and Exodi Era|Archgod Revolution]].|speaker=[[An Agent]]|receiver=|attribution=|source=|id=H8HC-K040-M2U7|template=}}
+
+== Overview ==
+As the currently-banished ''Archgod of Psyche'', Khueen is the '''most destabilizing divine entity''' ever recorded.  Her unmatched dominion over the soul itself allowed her to exert absolute influence over both mortals and archkin alike, rendering any functional opposition impossible to form during the height of her reign.<br>While she was around, '''no one was capable of disliking her'''.
+
+As the sovereign founder of [[The Godcity of Marlika]], Khueen enforced perpetual peace throughout her people through direct intervention of their souls. She eliminated disease, hunger, and even dissent among each other— all for the mere cost of one's total individual autonomy.<br>Although her methods were undeniably effective at her peak, her gradual loss of care for mortal life ruined her people— who were spoiled with absolute utopia-style living conditions for centuries. This consequence cemented further as her banishment drove countless people mindless, their bound-souls left fractured without her presence. 
+
+Khueen's later pursuits in the field of absolutely-illegal [[archkin]] creation directly contributed to the emergence of the [[Alterant|Alterants]]. Records suggest her growth in carelessness and indifference to mortal kind was what eventually led to the all-encompassing behavioral sink amongst the mortal population. Across the entire infinite fields, fires burnt through society as the [[The Revolutions and Exodi Era|Archgod Revolution]] blazed into fury. 
+ Due to her influence and notoriety many details on this convict has been recorded by [[The Court of The 4th|The Court]]. This document is a '''heavily-curated''' public piece, open to view for any court juror.
+
+== Appearance ==
+[[File:Khueen FullBody.png|left|thumb|239x239px]]
+She often presented herself with a darkened laboratory garments highlighted in pale red strips and gold ornaments. The back of this coat depicted ceremonial-like embroidery of encrypted archkin spells. While its long right sleeve was completely intact, her left sleeve remained completely open, allowing the archgod to wrap green fabrics over two exposed eyes on her arm. An open-back cross section provided Khueen to have a tail, one which she used to bestow life on her creations.
+
+Her outfit's most iconic part was the large-brimmed hat, almost resembling that of a witch's garb. This formed a silhouette that, alone, struck fear on the many victims of her countless atrocities. Often floating beneath her headwear were pale pink sigils and light constructs. These were used as screens to monitor her creations and maintain observations on various matters. <br>Finally, topping off this hat is a sole pale blue feather. This wasn't actually a part of Khueen, but rather, a piece of Archgod [[Kalayan]]. This feather could manifest him at any point, meaning he's always standing by her guard at all times.
+
+Despite her status, she exhibited '''no reliance on protection''' in her attire, suggesting total confidence in her own physical AND spiritual invulnerability.<br>Adding onto this, Khueen’s posture and expression remained composed even during high-risk engagements, a trait often cited in psychological analyses as indicative of her absolute certainty in the inevitability of compliance.
+
+Due to her <u>complete focus on manipulating psyche</u>, this makes '''shapeshifting her main weakness'''. Khueen rarely changed forms due to her ineptitude at the talent.
+
+== Abilities ==
+Many of these abilities require a target to at least be reasonably-within Khueen's range of influence. She must first have her [[Archkin#Archose|archose]] infiltrate a target's soul. After which, she has free reign over the one's soul.
+
+=== {{Phantasy}}Absolute [[Sentience]] Dominion ===
+Possessing complete authority over cognition and will, Khueen overrides the sense of freedom at a fundamental level. Targets subjected to her '''cannot experience ill intentions against her''' nor are they aware of such influence.
+
+=== {{Phantasy}}Total [[Memories|Memory]] Embroidery ===
+Through directly weaving the memories and experiences of souls, Khueen could erase, alter, or fabricate memories of individuals or masses. These modifications integrate seamlessly into one's soul, leaving next to no detectable cognitive dissonance. This mastery over the soul is also used to create [[Memory Pieces]] with ease.
+
+=== {{Phantasy}}True [[PSYCHE (Soul)|Life]] Bestowment ===
+By instilling pieces of her influence onto inanimate objects, she can force it to gain life, granting it its own sentience and capability to produce memories. It doesn't matter if the target is biological, artificial, nor metaphysical. 
+
+=== {{Phantasy}}Reverse [[Archkin#Psyche Planes|Psyche Plane]] ===
+Rather than bringing targets into her own psyche plane, '''Khueen forces yourself into your own psyche plane''' and '''uses your own traumas and memories against you'''. This is what made Psyche Duels with her truly horrifying, as it didn't matter how strong you were. And unlike most Psyche Duels, Khueen has the capability to bypass several logical bounds in the concept of Psyche, allowing her to directly harm your soul during a duel against her.
+
+In history, the only recorded deaths via Psyche Duel, were all against Khueen.
+
+== Relations ==
+{{LockedEntry}}
+
+== Philosophy ==
+Khueen's mindset was deeply rooted in the total rejection of [[The 4 Aspects of Reality#Entropy|entropy]]. Suffering, extinction, conflict, finality, they were not natural forces, but rather— problems that can, and MUST, be corrected.
+
+== History ==
+
+=== Founding of  [[The Godcity of Marlika|Marlika]] ===
+{{LockedEntry}}
+
+=== [[Lejos]] [[Cradle]] Ambush ===
+{{LockedEntry}}
+
+=== The [[Alterant]] project ===
+After returning to [[The Godcity of Marlika|Marlika]] from the [[Lejos]] region, Khueen immediately began work on her goal to create new [[archkin]]— dubbing her research as the [[Alterants|Alterant]] Project.
+
+Taking the citizens of [[The Godcity of Marlika|Marlika]] as forcibly-consensual test subjects, she modified their DNA and physical structures to create the first alterant: [[Ubir]]. She cared little about these creations, barely polishing them afterwards and merely letting them multiply irresponsibly. According to The Court's Historiographical Codices: After getting bored, she moved on to her next creation.<br>There, the [[Thingamakin]] were made, arguably the most horrific creation of the [[Alterants|Alterant]] project. Khueen forced her human test subjects into an animalistic state before reducing their forms to mere particles of dust in hopes of replicating the body of an archkin. As expected, these little dust-like creatures we know today barely even resemble the humanoid men, women, and children they once were— what they should've been. And, once again, after she was finished, Khueen moved on yet again.
+
+Before the second major turning point in her story, Khueen experimented with mechanical lifeforms, creating the sentient robots known as [[Marlimatas]], with the first one of these being [[Ano]]. Following his journeys and return from [[The Godless Nation of Yan'amu|Yan'amu]] and [https://www.youtube.com/watch?v=1IMF6uyy20k their confrontation atop Marlika], these creations eventually evolved into the [[Marlimechs]]. This greatly advanced [[Archamachine]] technology, the same branch of pseudo science and physics-defying engineering we use today.
+
+=== The Exodus of [[The Avalonian Exodus|Avalon]] ===
+While Khueen's focus slowly dove deeper into the [[Alterants]], a new issue arose within the [[The Godcity of Marlika|Marlikan]] people.
+
+Following the lead of Archgod [[Morgale de Metso|Morgale]], a large group of people differed from their opinions on how archkin should be treated. These people were more in-line with revering [[archkin]] as the god-like figures they presented themselves to be, contrasting deeply with Marlikans who only worships [[archgods]]. Initially, these people threatened to riot across Marlika for their freedom— somehow managing to bypass Khueen's peaceful utopia. However, contrasting to what they expected, she simply allowed them to exodus.
+
+Surprised by her cooperativeness, [[Morgale de Metso|Morgale]] and Khueen formed a close bond after this. Despite the [[The Avalonian Exodus|Avalonian Exodus]] spreading far and wide, searching for a promised land to call home, the two nations remained allies as best they can. Khueen even allowed a flicker of her [[PSYCHE (Soul)|Soul]] to accompany the different Avalonian groups to safeguard their travels as best she can. In truth, this was merely a stunt, as she had no intentions to genuinely assist them.<br>On the surface, it was a sign that Khueen was still capable of being diplomatic. But in truth, she was merely wishing to lighten [[The Godcity of Marlika|Marlika]]'s population as an excuse for her to invest even more of her time into the [[Alterants|Alterant]] project.
+
+=== First and Second Catalyst ===
+After nearly countless years of trial and error, Khueen eventually succeeded in her ultimate goal... or at least, partially. She was close enough, but something was missing.
+{{LockedEntry}}
+
+=== [[Hinokami Caretaker]] ===
+While continuing to look deeper into herself, [[Khueen]] enlisted the help of her sister, [[Ouya]], to look after [[Grigori|one of her creations]]. While pretending to be busy, she secretly watched over her sister while caring for the creation. Over time-
+{{LockedEntry}}
+
+=== The White Lady ===
+Trapped in a deep spiraling spout of confusion and depression, [[Khueen]] often peered through the veil and into [[you]]<nowiki/>r world. As her sanity lessened, her hair lengthened, giving her a more haunting appearance. And, due to her sheer power and desperation, her influence managed to shape and influence the sights and folklores of the "real world". Many cultures across the globe responded to Khueen's metaphysics-bending grief with tales of a "White Lady".
+
+However, as our stories deepened, so did her understanding... or perhaps, it was her connection to reality finally shattering completely. What happened next was [[The Court of The 4th|The Court]]'s final straw.
+
+=== Trial of [[Khueen]], [[Ouya]], and [[Kalayan]] ===
+{{LockedEntry}}
+
+=== Banishment in [[The Null Crossing]] ===
+{{LockedEntry}}
+
+== Legacy ==
+
+=== [[Memory Pieces]] ===
+Wishing to relieve her duties of helping citizens transfer, gain, or remove memories, Khueen eventually rewrote the whole concept of Soul to create Memory Pieces. They were stone-like tablets that were capable of physically containing a sentient being's memory, skills, or experiences.
+
+After providing mortals with the equipment to extract them, this careless action almost singlehandedly caused countless future atrocities revolving memory-related abuses. This is yet another sample of Khueen's clear carelessness to mortal kind.
+
+=== The Scars of [[The Godcity of Marlika|Marlika]] ===
+Any survivors from the fall of Marlika, who still somehow survived today, are left nearly-comatose. This is due to how deeply-ingrained [[Khueen]]'s influence was on their [[PSYCHE (Soul)|soul]]. When she was banished, it was akin to ripping a splinter out from an open wound. Thousands of people lost significant memories, with some even forgetting how to breath or even beat their own heart.<br>[[Archkin]], meanwhile, were still affected, just not as intensely. Their [[PSYCHE (Soul)|souls]] were merely scarred, given a permanent reminder that they once belonged to Khueen, or were at least under her influence. Even any Marlikan Archkin caught in [[The Spirepocalypse]]'s memory wipe weren't capable of forgetting who Khueen was.
+
+Victims from the scars of Marlika, who somehow managed to find temporary support, were brought to Avalon's [[Outpost 3]], An Tri-Fhiana, as it was a massive facility focused on [[PSYCHE (Soul)|Soul]] research. There, they sought treatment for their psyche-born illnesses.
+
+=== [[Alterants]] ===
+The mostly human-like creatures commonly referred to as "Races" in other fictional media, [[Alterants]] were the clearest example of Khueen's influence on the waking world. 
+
+== Trivia ==
+{{LockedEntry}}
+
+== Gallery ==
+<gallery>
+File:KhueenConcepts 1.jpg
+File:KhueenConcepts 2.jpg
+File:Smolkhueen.png
+File:Khueen FullBody.png
+File:KhueenBeyondEternity.png
+File:Khueen scope.gif
+File:KhueenDesign.jpg
+</gallery>
+[[Category:Character]]
+
+
+.......................
+####		Kalayan
+.......................
+(WIP)
+
+....................
+####		Aysa
+....................
+(WIP)
+
+......................
+####		Nimuel
+......................
+(WIP)
+
+...................
+####		Ano
+...................
+(WIP)
+
+....................
+####		Ouya
+....................
+(WIP)
+
+.....................
+####		Ayumu
+.....................
+(WIP)
+
+................................
+####		Morgale de Metso
+................................
+{{ScriFa_Character|name=Morgale de Metso|title=Archgod of Artifice|image1=<gallery hideaddbutton="true">
+Morgale Headshot.png|Headshot
+Morgale_DesignSheet.jpg|Design Sheet
+</gallery>|firmata_Sheet=|status=In-Custody <small>(Profaned)</small>|aliases=Morga<br>
+The White Lady<br>
+<s>Qhueen</s><br>
+The Weakest Archgod|narrative_role=???|archetype=???|color_motif=Pale Teal|artist/s=[[RAZEACC]]|debut_project=|project_appearances=|affiliation/s=[[The Avalonian Exodus]]|relatives=[[Khueen]] - Rival/Ally<br>
+[[Ouya]] - Mentor<br>
+??? - Kinship<br>|occupation=<s>Archgod Leader</s><br>
+<s>Life Scientist</s><br>
+Captive <small>(N/A)</small>|pronouns=She/Her|birthplace=[[The Null Crossing|N/A]]|hobbies=<s>Giving life to random objects</s><br>
+<s>AI-Generated content</s><br><s>Programming</s><br>
+N/A<br>|favorite_food=Bread and Sauce<br>
+Fish and Boiled Water|favorite_type=???|species=[[Archkin]]|race=[[Archgod]] <small>(debatable)</small>|age=|gender=Female-Presenting|height_&_weight=1.70m|hair_color=White|eye_color=Bright Cyan <small>(Right)</small><br>
+Desaturated Cyan <small>(Left)</small>|skin_color=Ash White|soul_color=Cyan|blood_type=|aspect_attunement={{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]|physicality=|alacrity=|mentality=|spirituality=|phantasy_(luck)=|lucidity=|strengths=|weaknesses=|abilities=}}{{#SQuote:|text=She's barely considered an [[Archgod|archgod]], even in her prime.<br>Morgale has always been a laughing stock for archkin and mortal alike. As the "weakest archgod", her rule over the [[The Avalonian Exodus|Avalonian Exodus]] was unorthodox from the start, from state-mandated livestreams to artificial intelligence-controlled personnel.
+
+
+At least she remains within [[The Court of The 4th|The Court]]'s custody; she'll never pose a <i>"threat"</i> again.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=M0RG-K040-M2U7|template=}}
+
+== Overview ==
+Using terminologies from [[you]]<nowiki/>r world, Morgale is what's often referred to as a "''[https://knowyourmeme.com/memes/girlfailures Girlfailure]''". It is absolutely impossible to sugarcoat that publicly-acknowledged fact.
+
+Morgale led the [[The Avalonian Exodus|Avalonian Exodus]] prior to her capture, setting up a total of 7 Outposts across [[the infinite fields]]. During her time, she faced many controversies and issues, namely due to her lack of genuine leadership skills. Morgale mostly utilized her abilities to create special [[archamachines]] known as [[cariburn]], with the main difference being that they run purely on artificial intelligence and protocols. She also had a suspicious immunity to certain [[The 4 Aspects of Reality#Phantasy|phantasmal]] frequencies, which did cause many archkin to question her allegiance— but for whatever reason, no one's succeeded in taking her spot as Avalon's leader.<br>But considering Avalon's success as one of the last remaining archkin nations during the [[The Revolutions and Exodi Era|archgod revolution]] while still being the weakest [[archgod]] herself, she must have been doing something to keep the nation together longer than [[The Godcity of Marlika|Marlika]], [[The Godless Nation of Yan'amu|Yan'amu]], or virtually 90% of all other archkin nations.
+
+However, even court scribed debate whether her success came from the occasional state-mandated virtual idol livestreams, the overreliance on artificial intelligence, the constant relocation of civilians, or some other unknown factors.<br>Despite that, one thing's for certain: When she has her "''Morga Moments''", you're guaranteed to have a "''Morga-tastic Time''"... or so, the Avalonians used to say...<br><small>And no, [[The Court of The 4th|we]] are not aware of what either of those phrases mean either.</small>
+
+== Court Containment Statistics ==
+{{LockedEntry}}
+
+== Appearance ==
+[[File:Morgale DesignSheet.jpg|left|thumb|178x178px]]
+Gaelic-inspired robes garnished in golden highlights while tinted in light blue shades dawned her form from shoulder to toe, with the middle portion depicting a stary night sky both front and back. Meanwhile, purple garments cloaked both her shoulders and legs— the back section of this depicting the emblem of [[The Avalonian Exodus|Avalon]].<br>With all the serious attire aside, Morgale does seem to frequently have sticky notes and papers taped onto her back or slid into her belt— most of which containing mockery text.
+
+Decorating her face, her ash gold hair draped just behind her neck's nape. A three-pronged crown tops her head, making her pathetic figure appear taller than she actually is. Her elf-like ears also droop downward, providing no purpose whatsoever other than adding to her reduced nature.
+
+== Abilities ==
+=== {{Control}}Temperature Manipulation (Cold Affinity) ===
+Thanks to training with [[Ouya]] in preparation for her peoples' exodus from [[The Godcity of Marlika|Marlika]], the ''girlfailure'' has the capability to <u>absorb heat</u> into herself. This allows her to appear as if she bestows cold temperatures onto objects or environments. This feat of hers was what turned the desert mountain of [[Outpost 7]] into the frozen wasteland it is today.
+
+{{LockedEntry}}
+
+=== {{Phantasy}}Artificial [[PSYCHE (Soul)|Life]] Bestowment ===
+By instilling her [[Archkin#archose|archose]] onto circuits and processing units, she can mentally install programs, algorithms, and software into it. This also provides a <u>nearly-unlimited source of power</u>, which would allow her [[cariburn]] units to remain active as long as she, herself, exists.
+
+=== {{Phantasy}}The Infinity [[Archkin#Psyche Planes|Psyche Plane]] ===
+Morgale's Psyche Plane utilizes an infinitely-expansive white void of cubes connected through moving bridges. These cubes contain the many artificial intelligent-generated experiments she runs, prototyping them within her own consciousness before executing them in real life.<br>However, due to her naturally-timid nature, these mental tests were always somewhat inaccurate from real-world application, leading her to run several hundred tests within her own mind.<br>She does retain total control over this plane, letting her throw these massive cubes <small>(and their contents)</small> at opponents if forced into a combat situation.
+
+== Relations ==
+{{LockedEntry}}
+
+== Philosophy ==
+
+== History ==
+
+== Legacy ==
+
+== Trivia ==
+== Gallery ==
+<gallery>
+File:WeepMorgale.png
+File:Morgale DesignSheet.jpg
+File:BulliedMorgale.jpg
+</gallery>
+
+
+......................
+####		Archie
+......................
+(WIP)
+Idea: Newly-reborn Archkin and main/playable character of Farewell Avalon.
+
+....................
+####		Sola
+....................
+(WIP)
+
+...................
+####		Luo
+...................
+(WIP)
+
+.........................
+####		Al'Knoxus
+.........................
+(WIP)
+
+......................
+####		Crimmy
+......................
+(WIP)
+
+................................
+####		The Last Midwife
+................................
+(WIP)
+
+..........................
+####		Wynaquette
+..........................
+(WIP)

@@ -1,0 +1,256 @@
+------------------------------------
+###		Overarching Timeline
+------------------------------------
+The story of [[Scripted Fates]] can be split into '''three major eras''':<blockquote>[[Overarching Timeline#The Archaic Aeons|'''The Archaic Aeons''']]<br />The period when [[Archkin]] and [[Archkin Civilization]] ruled over mortals. They frequently lived among them and aided society in thriving under their developmental care.</blockquote><blockquote>[[Overarching Timeline#Revolutions and Exodi|'''Revolutions and Exodi''']]<br />Mortals revolt amidst dwindling attention from Archkin, leading to a mass chaos. The only Archkin civilization left standing after the [["The Revolutionaries"]] merciless [[Archkin]] hunts is [[Morgale de Metso]]'s [[The Avalonian Exodus|Avalonian Exodus]].</blockquote><blockquote>[[Overarching Timeline#Era of The Spirepocalypse|'''Era of The Spirepocalypse''']]<br />A mass catastrophe happens, shaking the world to its core. With [["The Spire"]] making its haunting appearance, [[Archkin]] and mortal alike seemingly lose all their memories, sending all who bare witness back to the stone age.</blockquote>
+----
+
+Each era has an '''entry''' explaining what happened, alongside a list of '''detailed historic events''' that took place during that time.<blockquote>If you are here for [[Firmata Frontier]], it is '''not required''' to catch yourself up to speed with the entire history of [[Scripted Fates]].<br />Instead, you may <u>skip straight ahead</u> to [[Overarching Timeline#Era of The Spirepocalypse|Era of The Spirepocalypse]] for the "''Full Firmata Memory Wipe''" experience. </blockquote>
+
+----
+
+== The Archaic Aeons ==
+{{ArchaicAeonsEra}}
+
+----
+
+== Revolutions and Exodi ==
+{{RevolutionsAndExodiEra}}
+
+----
+
+== [[The Spirepocalypse|Era of The Spirepocalypse]] ==
+[[File:Timeline 3.jpg|center]]
+
+This acts as the '''introduction''' to [[Firmata Frontier]].
+
+{{FirmataFrontierBackstory}}
+
+[[Category:Lore]]
+[[Category:Timeline]]
+
+
+.................................
+####		The Archaic Aeons
+.................................
+[[File:Timeline 1.jpg|center|441x441px]]
+=== Archaic Aeons Entry ===
+<div class="mw-collapsible mw-collapsed">
+Eons ago, two groups vied for dominion over the infinite fields: [[Mortals]] and [[Archkin]].
+
+Their drive for innovation— unending, insatiable even. Even the divine couldn't endlessly sate the hunger of such unquenchable inventions. Although their immortal creators painstakingly sheltered their creations since time's first tick. That all changed when [["The Kissed One"]] challenged their court with her own— as its '''first puppet'''.
+
+Debating and squabbling tirelessly, she'd insist on more attention and better treatment for mortals. [[The Archgodic Court]] protested, declaring they were stretched thin enough as is. The concept of [[Archgods]] having limitations— it was difficult enough for anyone to grasp, let alone someone with as much insatiable innovation as her.
+
+Eventually, she cast all warning aside. When the girl drew upon two [[Beyonds]]— there stood an archgod, slain by mortal hands. From then on, the [[archkin]]<nowiki/> knew their thrones were not as impervious as they had prayed.
+
+Henceforth, [[The Archgod Revolution|'''The Archgod Revolution''']] was set ablaze, a conflict reignited by the beckoning bells of heaven and hell.
+</div>
+=== Archaic Aeons Historical Events ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|<big>Founding Pillars</big>
+|
+* 
+|-
+!colspan="2"|The Founding of [[The Godcity of Marlika|Marlika]]
+|
+* [[The Godcity of Marlika|Marlika]] is founded by [[Khueen]] in the [[Locunex]] region, becoming the first Archkin-led Nation, with many more countries and societies following-suit.
+|-
+!colspan="2"|The Liberation of [[The Godless Nation of Yan'amu|Yan'amu]]
+|
+* After defeating a tyrant, [[Ouya]] cements herself as the new ruler [[The Godless Nation of Yan'amu|Yan'amu]]. Unlike [[The Godcity of Marlika|Marlika]]'s constant progression, [[Ouya]] '''slows and impedes on progress''' as much as possible, allowing her nation's people to <u>grow and adapt</u> to technology.
+|-
+!colspan="2"|Start of the [[Alterants]] project
+|
+* Ran by [[Khueen]] in an attempt to defy [[The Court of The 4th]], she begins creating all new forms of life using humanity as a basis. She starts with the [[Ubir]] and later fails catastrophically when making the [[Thingamakin]].
+|-
+!colspan="2"|❗ [ This Lore Entry is Currently '''Locked''' ]
+|
+* 
+|-
+!colspan="2"|<big>Assembly of [[The Archgodic Court]]</big>
+|
+* Led by [[Ouya]] and [[Kalayan]], with the occasional visitation from [[Crimmy]], several [[Archgods]] unify to '''keep an eye on mortals''' for the foreseeable future. They are sometimes known as "The Watchers".
+|-
+!colspan="2"|<small>Birth of [[Ano]]</small>
+|
+* The first [[Marlimata]] created by Khueen. [[Ano]] travels to [[The Godless Nation of Yan'amu|Yan'amu]] before returning to [[The Godcity of Marlika|Marlika]] and [https://youtu.be/1IMF6uyy20k?si=i_NV40vAaGaXqwPe facing his creator].
+|-
+!colspan="2"|The Yokai War of [[The Godless Nation of Yan'amu|Yan'amu]]
+|
+* During [[Ouya]]'s absence, the local Yokai of [[The Godless Nation of Yan'amu|Yan'amu]] slaughter each other in a brutal war, leading to their extinction. [[Ouya]] doesn't forget this.
+|-
+!colspan="2"|<big>[[The Avalonian Exodus|Avalon]]'s exodus from [[The Godcity of Marlika|Marlika]]</big>
+|
+* [[Khueen]] allows the weakest [[Archgod]], [[Morgale de Metso]], to separate her people from [[The Godcity of Marlika|Marlika]]. [[The Avalonian Exodus]] is formed as a nomadic nation, travelling across the world to find their own home, setting up labyrinths known as "Outposts" along the way.
+|}
+
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|<big>Embers burning brighter</big>
+|
+* 
+|-
+!colspan="2"|<small>Birth and silencing of [[Nimuel]]<small>
+|
+* Using [[Ano]]'s original [[Marlimata]] form, [[Khueen]] creates an upgraded version of him: [[Nimuel|N1M]]. However, she fails catastrophically and put him in storage.
+|-
+!colspan="2"|<big>Farewell Ouya</big>
+|
+* [[Ouya]] vanishes from [[The Godless Nation of Yan'amu|Yan'amu]] once more to test her people to handle themselves without her. As a power vacuum clash happens, she returns and threatens to take away everyone's free will. However, [[Ayumu]] [https://youtu.be/YUzIqh3Qv1w?si=4aD6g2Nu2MdqoP_6 challenges her in a duel]. Although the human dies, she fulfills the [[Archgod]]'s agreement on the duel and '''leaves Yan'amu for good''', officially turning into the first and only '''Godless Nation'''.
+|-
+!colspan="2"|<small>[[The Avalonian Exodus|Avalon]] forms [[Outpost 3]]</small>
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|Mortal Behavioral Sink
+|
+* As mortal population increases exponentially, even the [[Archkin]] and [[Archgod]] leaders begin struggling with demands to keep maintaining the people.<br />Many flee and seek asylum in [[The Godcity of Marlika|Marlika]]. Due to [[Khueen]], the city becomes a peaceful utopia as she '''constantly erases negative memories''' from her citizens, cementing it as '''The God City'''.
+|-
+!colspan="2"|<small>Khueen isolates herself</small>
+|
+* With rising pressures from both mortals and her own wellbeing, [[Khueen]] locks herself away and focuses entirely on whatever project she was working on. Due to her negligence, the tranquil utopia of [[The Godcity of Marlika|Marlika]] gradually fades into a dystopian nightmare.
+|-
+!colspan="2"|<big>The Kissed One slays an Archgod</big>
+|
+* As mortal demands reach a fever pitch, a human challenges [[The Archgodic Court]]. By utilizing a power from two [[Beyonds]], she tricks an archgod into taking a fatal blow. Mortals finally discovered the weakness of [[Archkin]].<br />'''The Archgod Revolution has begun'''.
+|}
+
+.....................................
+####		Revolutions and Exodi
+.....................................
+[[File:Timeline 2.jpg|center|456x456px]]
+=== Revolutions and Exodi Entry ===
+<div class="mw-collapsible mw-collapsed">
+As the uprising torched the infinite fields, [[archkin]] societies responded in their own manners.
+
+The Archgod leaders of [[Marlika]] and [[Yan'amu]] vanished without a trace; their nations were consumed by the regretful cinders of freedom. The floating city carnivals that clouded doubt and woe with joy and whimsy: repurposed and forced to support the archkin survival efforts. Other nations either followed suit or rejoiced with [["The Revolutionaries"]].
+
+The fates of captured [[archkin]] were scripted by one of three decrees: Sanctified and traitored, profaned then harvested, or recalculated— annulled. However, one archkin civilization always somehow escaped the revolutionaries. They were constantly tiptoeing on a hair's thread from ruin, acting as a true eyesore for their hunters: [[The Avalonian Exodus|'''The Avalonian Exodus''']].
+
+As a nomadic nation, they travelled towards The 4th's Wall, ever pursued by their hunters. But when all hope seemed forlorn, as the frontlines closed in: '''Finality'''.
+</div>
+
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|<big>The Final Confluence</big>
+|
+* 
+|-
+!colspan="2"|<big>The Archgod Revolution</big>
+|
+* [["The Revolutionaries"]] form, although starting out as a small and weakly-armed rag-tag group, they quickly grow in numbers, attacking and subjugating [[Archkin]] through guerilla warfare.
+|-
+!colspan="2"|<small>[[The Avalonian Exodus|Avalon]] forms [[Outpost 6]]</small>
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|[[Hinokami Caretaker]]
+|
+* After finally succeeding in something, [[Khueen]] orders [[Ouya]] to watch over a certain creation of hers, a boy named Grigori.
+|-
+!colspan="2"|<small>[[The Avalonian Exodus|Avalon]] forms [[Outpost 7]]</small>
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|❗ [ This Lore Entry is Currently '''Locked''' ]
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|<big>❗ [ This Lore Entry is Currently '''Locked''' ]</big>
+|
+* [[Khueen]] and [[Ouya]] are banished to [[The Null Crossing]]
+|-
+!colspan="2"|Nimuel wakes up
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|<big>The Fall of [[Marlika]]</big>
+|
+* With The God City's destruction, [[Archkin]] civilization falls into a rapid decline. [[Yan'amu]] falls shortly after to [["The Revolutionaries"]] alongside many other nation at the time. Mortal populations plummet as well due to mass casualties.
+|-
+|}
+
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|<big>Hunters and Runners</big>
+|
+* 
+|-
+!colspan="2"|[["The Revolutionaries"]] form a frontline in [[Outpost 3]]
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|[[Outpost 7]] falls
+|
+* [[Morgale de Metso]] is captured by [["The Revolutionaries"]]
+|-
+!colspan="2"|[[Avalon City]] is founded
+|
+* Acting as the final bastion for [[The Avalonian Exodus]], it becomes the last proper [[Archkin Civilization]] city.
+|-
+!colspan="2"|[[Farewell Avalon]]
+|
+* [[Archie]], a newly born archkin ventures through [[Outpost 7]] and eventually to [[Avalon City]]
+|-
+!colspan="2"|[[Avalon City]] falls
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|❗ [ This Lore Entry is Currently '''Locked''' ]
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+!colspan="2"|<big>[["The Spire"]] appears on [["The Continent"]]
+|
+* ❗ [ This Lore Entry is Currently '''Locked''' ]
+|-
+|}
+
+
+
+..................................
+####		Era of the Spirepocalypse
+..................................
+<small>For the '''<u>Era of The Spirepocalypse</u>''', please visit its entry in [[Overarching Timeline#Era of The Spirepocalypse|'''The Overarching Timeline''']]</small>
+<small><br />For '''<u>[[The Spirepocalypse]] Event</u>''', please visit its entry in [[The Spirepocalypse]]</small>
+
+
+
+=== Rouse of Silence ===
+<blockquote>''Year '''0''' PSP <small>(Post-[[The Spirepocalypse|Spirepocalypse]])</small>''
+<div class="mw-collapsible">
+Across the field, a blinding light burst forth beyond the frontier.<br />That was the final moment countless folk recall.
+As time passed, one by one, the survivors regained their sense. However, aside from losing their common luxuries of modern life, so too were their memories stripped away. Mortal, [[Archkin]], no one was spared. [["The Continent"]]'s civilization has been sentenced to '''the Stone Age'''.
+
+Without memories to guide them, or words to sooth their confusions, all they had to look up to was a certain stain on the horizon. There, that beam of light continued pouring infinite glimmer up into the deep sky. As if mocking them down below, [["The Spire"]] stood as a testament for their new era of struggle; the last and most obvious remnant of the old world, forever seeming just out of reach.
+
+''Year '''16''' PSP <small>(Post-[[The Spirepocalypse|Spirepocalypse]])</small>''
+
+Society has started picking itself back up— at least by a little. Their efforts and hardships formed [[San Baciato|the first settlement]], built atop walls of mud and thatched roofs. By day, people watch the dim sky brighten, going about their routines, from collecting materials and gathering food, to basking in nature or conversing with colleagues. Then, as night rolls around, the sky darkens. Glitters of light twinkle down from the sky at random patterns each night. Villagers gaze into the deep unknown, ignorantly blissful of their moonless twilights.
+</div>
+</blockquote>
+
+=== Arrival of The [["Otherworlders"]] ===
+<blockquote>''Year '''17''' PSP <small>(Post-[[The Spirepocalypse|Spirepocalypse]])</small>''
+<div class="mw-collapsible">
+One night, while gazing between the deep blue and The Spire, a comet would fly out from the infinite pillar of light.
+Coated in a similar glimmer of that mysterious stain, these shooting stars occasionally shot across The Continent.<br />Eventually, one landed near a town.
+
+<small>No crash was heard, no ripple was felt.<br />Where this comet landed: A body.<br />Moving? Breathing? Talking!<br />No pain was felt.</small> 
+
+Locals would gawk in awe, question, and even interrogate. Those from The Spire had knowledge— vast, impossible knowledge. From lands unheard of, to things forever unseen. Each had their own stories too, further adding to the locals' confusion. The visitors too shared in the confusion, baffled by the lack of celestial bodies in The Continent's sky. ''Here be no sun nor moon. Merely, the sky itself— lighting or dimming to its own heightened tune.''
+
+Eventually, puzzle pieces clicked together in everyone's heads, and these new arrivals were given a title: [["Otherworlder"]].
+</div>
+</blockquote>
+=== Journey to [["The Spire"]] ===
+<blockquote>Year '''20''' PSP <small>(Post-[[The Spirepocalypse|Spirepocalypse]])</small>
+<div class="mw-collapsible">
+Soon, [[The Stone Society]] prepares to take flight.
+Two new towns were established, with one focused solely on constructing the survivors' most ambitious project yet: '''The Hot Air Balloon'''.
+Using knowledge from their home worlds, and the locals' experience on The Continent, they plan to venture towards that infinite beacon of light, seeking solutions to questions they've long left unsolved.
+
+The epicenter of The Spirepocalypse, presumed cause of everyone's stripped memories, and source of The [["Otherworlders"]]; there must lay an unending treasure trove of answers.
+</div>
+</blockquote>
