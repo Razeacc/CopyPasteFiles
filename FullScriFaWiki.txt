@@ -1,0 +1,1695 @@
+Version 1.0
+Last Updated:
+
+Main Additions:
+- 
+
+Main Changes:
+- 
+
+Main Removals:
+- 
+
+
+
+==========================================
+##		 MAIN PAGE 		##
+==========================================
+
+
+
+<mainpage-leftcolumn-start />
+<div style="text-align: center; font-size: x-large; padding: 1em;">
+'''<small>Greetings, member of the jury.</small>'''
+
+'''Welcome to the Scripted Fates Wiki.'''
+
+<small>[[Scripted Fates|About]] • [https://www.youtube.com/@Razeacc YouTube] • [https://open.spotify.com/artist/5sIz8ESxKTgT5fljsLk0uz?si=IoL9r767RFq7k2yPdyG44Q Spotify] • Itch</small>
+</div>
+
+
+Scripted Fates is an overarching metaphysical Science-Fantasy project that spans across various mediums of story telling. From books and games, to roleplay servers and music videos. Each installment often follows the tales and struggles between mortals and divine, while puppet masters from beyond masquerade their theatrics from the shadows in an ontological proxy war.
+
+==Important articles==
+<gallery position="center" captionalign="center" navigation="true">
+File:Beyond Eternity poster final v2.jpg|link=Projects|[[Projects|<big>Projects</big>]]
+File:Site-background-light|link=Lore_Overview|[[Lore Overview|<big>Lore Overview</big>]]
+File:Site-background-dark|link=Characters|[[Characters|<big>Characters</big>]]
+</gallery>
+
+== Highlighted Pages ==
+
+
+== Current Active Project ==
+[[File:FirmataFrontier Poster.png| link=Firmata Frontier |center|thumb|620x620px|[[Firmata Frontier|<div style="text-align: center;"><big>'''Firmata Frontier'''</big></div>]]]]
+
+
+
+<mainpage-endcolumn /><mainpage-rightcolumn-start />
+[[File:FirmaFrontierInvite.jpg|thumb|295x295px|<div style="text-align: center;">Join the '''Discord server''', become an official member of [[The Court of The 4th]], and participate in [[Firmata Frontier]] today!</div>]]
+
+
+<mainpage-endcolumn />
+[[Category:{{SITENAME}}]]
+
+==========================================
+##		 PROJECTS 		##
+==========================================
+
+<blockquote>A collection page of all the projects in Scripted Fates, arranged in <u>the order they were released</u> in.
+
+For a '''chronological order''' of the projects, please refer to the [[Overarching Timeline]].</blockquote>
+
+
+== [[Firmata Frontier]] (November 2025) ==
+[[File:FirmataFrontier Poster.png| link=Firmata Frontier |thumb|250x250px|border]]
+
+Firmata Frontier is a [https://discord.com Discord] Roleplaying server where members could directly '''participate''' and '''interact''' with the world of [[Scripted Fates]]. Not only that, it also finally pieces together all the bits of lore that have been scattered around the previous projects thus far, alongside all the content found on the official [https://www.youtube.com/c/@razeacc YouTube channel]. In a sense, Firmata Frontier acts as the catalyst for all Scripted Fates content beginning to line up.
+
+The story takes place in a completely new location and quite some time after the events of [[Farewell Avalon]]. [[Roleplayer Characters]] find themselves on the frontlines of [[The Avalonian Exodus]]'s [[Outpost 3]], the largest labyrinth of the nomadic civilization. With the land still suffering from the catastrophic memory-wiping affects of [[The Spirepocalypse]], players must work together to rebuild modern life while uncovering the mysteries behind such a calamity.
+
+== [[Hinokami Caretaker]] (October 2023) ==
+[[File:CaretakerCover small.png|thumb|279x279px]]
+
+Acting as the first ''written'' entry in the [[Scripted Fates]] continuity, Hinokami Caretaker is a short novel spanning 2 chapters. The short story functions as the 3rd entry to the [[Scripted Fates]] series.
+
+It follows the story of [[Ouya]] after getting an order from [[Khueen]] to watch over and raise one of her 'creations': a human boy name [[Grigori]]. Hinokami Caretaker shows the struggle of a god-like being attempting to relate and care for a mortal as if it were her own child. This entry showcases the first appearance of [[Cradles]]. 
+
+
+
+
+== [[Farewell Avalon]] (May 2023) ==
+[[File:FarewellAvalon 3-4.jpg|thumb|243x243px]]
+
+Being the first fully-interactive and explorable entry in the series, Farewell Avalon is a '''top-down bullet hell adventure game''' following the story of [[Archie]], a newly-born [[Archkin]]. As the 2nd entry to the series, following [[Beyond Eternity]], it takes place in an entirely new location with an entirely separate cast of characters and factions. Namely, introducing [[The Avalonian Exodus]] and one of its labyrinths: [[Outpost 7]].
+
+However, [[Archie]] won't be travelling alone, as they were accompanied by either [[The Skribble]] or [[Protos]], both agents from [[The Court of The 4th]] acting as a development of the concept for The Player ([[You]])'s influence initially being introduced in [[Beyond Eternity]].
+
+
+== [[Beyond Eternity]] (February 2020) ==
+[[File:Beyond Eternity poster final v2.jpg|border|367x367px|right]]The first official entry to the [[Scripted Fates]] series, Beyond Eternity is a Visual Novel following the story of three [[Archgods]] following their banishment to [[The Null Crossing]]: [[Khueen]], [[Ouya]], and [[Crimmy]]. At first, you're lead to believe that you'd be playing as someone, but not long after beginning the game, it's revealed [[You]] play as '''yourself'''. Meanwhile, the avatar you control is the body of a completely separate character: [[Kalayan]]. The goal of the game is to somehow separate your control from Kalayan to reunite him with Khueen.
+[[Category:Project]]
+[[Category:Game]]
+[[Category:Book]]
+[[Category:Roleplay]]
+
+------------------------------
+###		Fourth Marshal 
+------------------------------
+(WIP)
+
+------------------------------
+### 		Firmata: ATLAS 
+------------------------------
+(WIP)
+
+--------------------------------
+###		Firmata Frontier 
+--------------------------------
+{{Project_Template|type=Roleplay Server|genre=Science-Fantasy Neolithic Multiverse|release_date=November 2025|location/s=[["The Continent"]]|image1=<gallery hideaddbutton="true">
+FirmataFrontier Poster.png|Poster
+Full FirmaFrontier Logo.png|Title
+Full FirmaFrontier Emblem.png|Emblem
+</gallery>|poster_artist=<data source="my_list">
+<ul>
+<li>Poster: [[Ricc]]</li>
+<li>Title/Emblem: [[RAZEACC]]</li>
+</ul>
+</data>}}{{#SQuote:|text=Since [[The Spirepocalypse]] long ago, this land has been born witness to an [[Era of Silence]]. Having become accustomed to such tranquility, it may be unwise for <i>those once-asleep</i> to rouse up and <i>the provender</i>  to run amok, lest they wish to avoid provocation from [["Her Firmata"]].
+<br />However, with [[You]] holding the pen, I have little distrust in whatever fate is scripted up for these frontiers and frontlines.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=28DC-ADPE-X10W|template=}}
+
+Firmata Frontier is a '''Discord Roleplaying''' '''server''' where members could directly participate and interact with the world of [[Scripted Fates]]. It acts as the 4th entry to the series, and its 3rd Discord server, with the previous two acting more like 'art hubs'.
+
+
+
+== Introduction ==
+Following the appearance of [["The Spire"]], everyone's memories have been '''wiped clean''', destroying any concept of modernity across the lands, marking the era of [[The Spirepocalypse]].
+
+Some time after, comet-like lights started falling from [["The Spire"]]. These were [["Otherworlders"]], people from different universes. Unlike the [["Local"|"Locals"]] affected by [[The Spirepocalypse]], [["Otherworlders"|Otherworlders]] were seemingly unaffected, retaining most of their memories, having only lost powerful abilities and equipment.
+
+Together, Roleplayers could join the story either as an [["Otherworlder"]] or [["Local"]]. They must work together to bring back the modern age, uncover the mysteries that have ruined these lands, and maybe even find a way back home.
+
+== Gameplay ==
+After passing the Verified RPer assessment, Roleplayers may use the [https://docs.google.com/document/d/1KiGHpZTePSU9A3_6OCjrDm2qfDmElD3aobHcTB7d-eY/edit?usp=drive_link Firmata Character Template] to '''create a character'''. This character would join the roster of [[Player Characters]].
+----
+
+=== <big>[[Firmata's Rolling System]] '''{{Glimmer|full}}'''</big> ===
+[[Firmata Frontier]] uses its own [[Firmata's Rolling System|Stat/Rolling System]] to determine the outcome of certain actions. Although, this system '''isn't mandatory''' by default and may be used either if <u>both Roleplayers agree</u>, or if <u>insisted by a Narrator</u>.
+
+More information can be found in the system's [[Firmata's Rolling System|dedicated page]].
+----
+
+===  <big>Roleplay Styles</big> ===
+Once a character has been '''submitted''' and '''approved''', the Roleplayer may now begin Roleplaying. There are 4 options available from the get-go.
+
+==== '''<big>Casual Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>This happens in <u>certain open-forum threads</u> where Roleplayers can hop in and out whenever they want. <u>No major developments</u> are intended here, opening up the opportunity for simple, casual, and low-stress character bond development.<br />This is also typically where '''Resource Acquisition''' can be done where Roleplayers '''gamble/roll''' in certain locations to either <u>fish</u>, <u>forage</u>, or <u>collect</u> certain materials.  </blockquote>
+</div>
+
+==== '''<big>Episodic Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>This is done on forums where Roleplayers '''open new location-based threads'''. From there, Roleplayers take turn replying to each other on a regular basis with the '''goal'''. A <u>Narrator may be present</u> here as well to monitor and act as a third party for any world occurrences.<br />This is best saved for '''Expeditions''' to chart out new territories, attempts at '''reinventing technology''', or fulfilling '''Quests'''.</blockquote>
+</div>
+
+==== '''<big>Personal Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>Entirely optional, Roleplayers can do a wide variety of fun extra activities from writing <u>diaries/journals</u>, setting up <u>homes</u>, or even <u>flashbacks</u> and non-canon "what if" threads.</blockquote>
+</div>
+
+==== '''<big>Event Roleplay</big>''' ====
+<div class="mw-collapsible mw-collapsed">
+<blockquote>Occasionally, the Event forum would open up to a wide variety of different Episodic and Casual Roleplay opportunities. Events occasionally have Event Shops as well, where Roleplayers can earn "Scripting Ink" during the event to spend in these shops.
+
+When purchasing using "Scripting Ink", [[You]] manipulate fate for the character to somehow <u>receive the item</u> you bought for them.
+
+Events are typically '''major plot-progressing opportunities''' where something massive would happen that may unlock things from <u>new explorable areas</u> to <u>new mechanics</u> to play around with.</blockquote>
+</div>
+
+== Characters ==
+
+{{Firmata Characters}}
+
+== Factions ==
+The only known group of survivors currently are known as [[The Stone Society|'''The Stone Society''']].
+
+Led by [[Professor Besado]], since being the first newborn following [[The Spirepocalypse]], her naturally-innovative mind has skyrocketed the world's tech from being completely Neolithic to having some semblance to Medieval technologies in merely 19 years.
+
+== Setting ==
+Taking place in a '''wild''' and '''untamed wilderness''' currently known as simply [["The Continent"]], it teams with all sorts of prehistoric wildlife. Notably, many extinct creatures from [[You|Your]] world seem to thrive in these lands— from dodo birds and wooly mammoths, to a mysterious but notorious leviathan prowling the [[Fracturing Sea|seas]].
+
+The world itself is quite odd, especially to an [["Otherworlder"]]. However, to a [["Local"]], they may not even bat an eye to the fact that the '''skies feature no sun nor moon whatsoever'''. In fact, even the '''stars often change positions''' every night, with no constellation pattern in sight. Despite how bizarre the sky is, there is '''still a day/night cycle''', with the sky merely <u>brightening or dimming</u> to mimic typical mornings and evenings.
+
+There's a map of what's <u>currently explored</u>, letting Roleplayers '''discover''' and '''mark''' territories on their own.
+<div class="mw-collapsible mw-collapsed">
+{{Map:"The Continent"}}
+
+== History / Backstory ==
+{{FirmataFrontierBackstory}}</div>
+[[Category:Project]]
+[[Category:Firmata Frontier]]
+
+----------------------------------
+###		Hinokami Caretaker 
+----------------------------------
+{{Project_Template|type=Short Story|genre=Slice of Life|release_date=2023|location/s=Unknown|image1=CaretakerCover small.png|time_period=[[The Revolutions and Exodi Era]]|poster_artist=<data source="my_list">
+<ul>
+<li>Poster: [[Shizukana Arts]]</li>
+</ul>
+</data>}}
+
+-------------------
+### Farewell Avalon 
+-------------------
+{{Project_Template|type=Videogame|genre=Top-Down Adventure Bullet Hell|release_date=2023|location/s=[[Outpost 7]]|image1=FarewellAvalon 3-4.jpg|time_period=[[The Revolutions and Exodi Era]]|poster_artist=<data source="my_list">
+<ul>
+<li>Poster: [[Shizukana Arts]]</li>
+</ul>
+</data>}}{{#SQuote:|text=When those from beyond defy their own laws, they do so under the guise of theatrics and pompous extravagance.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=28DC-AD4E-X1DW|template=}}
+
+Farewell Avalon is a '''2D''' '''Top-Down Adventure Bullet Hell''' where you control [[The Skribble]] and [[Protos]] as they lead the main protagonist, [[Archie]], along on their journey to reclaim their lost memories and find where the rest of their kin have vanished off to.
+
+It's the 2nd project of the [[Scripted Fates]] series, following [[Beyond Eternity]], and the first entry involving the Unity game engine.
+
+== Introduction ==
+After waking up from being reborn as an [[Archkin]], [[Archie]] is faced by either [[The Skribble]] or [[Protos]], both being [[Skribbles]]. They lead the newly-born archkin across [[Outpost 7]] as they reclaim [[Memory Pieces]] from their past as a human. During which, they face the outpost's deeply-infested [[Fracturing Zone]] and the [[cradles]] within, alongside the abandoned [[Cariburn]] that still roam its halls.
+
+== Gameplay ==
+In the first version of Farewell Avalon, you can control [[Archie]]'s movement while using the mouse to aim their melee attacks. After reaching low-health, [[The Skribble]] steps in to let Archie rest temporarily: The Skribble Switch. During that rest, you play as the skribble companion as you defend Archie while they regain health. Your melee attacks also swap with a ranged attack instead.
+
+In the second version, Project: FRACTURING, defeating enemies charges up "Faith" [[Protos]] has with Archie's capabilities to defend themselves. Instead of The Skribble Switch occurring on low health, it can be triggered at any time, but it slowly drains "Faith". Rather than defending Archie as well, you swap places with them and control the fast-moving skribble for the time being. This creates a balancing dynamic of melee primary attacks to charge "ammunition" to swap into your secondary ranged attacks.
+
+== Characters ==
+{{LockedEntry}}
+
+== Factions ==
+{{LockedEntry}}
+
+== Setting ==
+[[Outpost 7]]
+== History / Backstory ==
+{{LockedEntry}}
+
+
+-------------------
+### Beyond Eternity 
+-------------------
+{{Project_Template|type=Videogame|genre=Visual Novel|release_date=2020|location/s=[[The Null Crossing]]|image1=<gallery hideaddbutton="true">
+Beyond Eternity poster final v2.jpg|Poster
+BeyondEternity Title Transparent v3.png|Title
+</gallery>|time_period=Unknown}}
+[[Category:Project]]
+[[Category:Videogame]]
+
+
+==================================================
+##		 LORE OVERVIEW			##
+==================================================
+
+
+This page acts as a root for all phenomena unique to [[Scripted Fates]]' setting, from how certain common but abstract fictional occurrences work differently in this world <small>(IE: [[PSYCHE (Soul)|Souls]], [[Memories]], etc.)</small>, to materials and locations that exist <small>(and don't exist)</small> in the world.
+
+Details for each entry can be found in their <u>respective pages</u>.
+
+
+== Mechanics and Systems ==
+{|class="article-table"
+|-
+!colspan="2"|Mechanics
+|
+* 
+|-
+!colspan="2"|Systems
+|
+* [[Firmata's Rolling System]]
+|}
+
+== [[Terms and Concepts]] ==
+<div style="text-align: center;">[[File:Aspects.png|center|thumb|387x387px|link=The 4 Aspects of Reality|[[The 4 Aspects of Reality]]<br />The building blocks of fiction itself.]]<gallery widths="240">
+File:Memory.gif|link=Memory|[[Memory|<big>Memory</big>]] <br />Life given <b>mass</b>, puzzle pieces of [[PSYCHE (Soul)|SOUL]].
+File:Sentience.gif|link=Sentience|[[Sentience|<big>Sentience</big>]] <br />Life given <b>shape</b>, hands shaping [[PSYCHE (Soul)|SOUL]].
+File:Soul.gif|link=PSYCHE (Soul)|[[PSYCHE (Soul)|<big>PSYCHE (Soul)</big>]] <br />What makes a being <b>who they are</b>.
+</gallery>
+</div>
+
+== [[Bestiary]] ==
+<div style="text-align: center;">
+<gallery widths="240">
+File:Ano Hanging ALTERANTS.gif|<big>[[Alterants]]</big> <br /><b>Modified Humans</b> invented from the greed of an [[Khueen|Archgod]].
+File:The Archkin Family.png|[[Archkin|<big>Archkin</big>]] <br />The <b>founders</b> of existence in history, and its large <b>threat</b> in modernity.
+</gallery>
+</div>
+
+== [[Factions]] ==
+{|class="article-table"
+|-
+!colspan="2"|{{Firmata1 Sym}} [[Firmata Frontier]]
+|
+* [[The Stone Society]]
+|-
+!colspan="2"|[[Farewell Avalon]]
+|
+* {{Avalon Sym}} [[The Avalonian Exodus]]
+|
+* [["The Revolutionaries"]]
+|-
+!colspan="2"|[[Beyond Eternity]]
+|
+* [[The Court of The 4th]]
+|}
+
+== [[Locations]] ==
+{|class="article-table"
+|-
+!colspan="2"|[[Locunex]]
+|
+* [[The Godcity of Marlika]]
+|
+* [[The Godless Nation of Yan'amu]]
+|-
+!colspan="2"|Unknown "Regions"
+|
+* {{Firmata1 Sym}} [["The Continent"]]
+|
+* {{Firmata1 Sym}} [[Outpost 3]]
+|
+* {{Avalon Sym}} [[Avalon City]]
+|
+* {{Avalon Sym}} [[Outpost 7]]
+|
+* [[The Null Crossing]]
+|}
+
+== [[Elementarium]] ==
+<small>Unique materials that can <b>only be found</b> in the [[Scripted Fates]]'s settings.</small>
+{|class="article-table"
+|-
+!colspan="2"|Metals and Stones
+|
+* [[Khueenite]]
+* [[Avalonian Steel]]
+|-
+!colspan="2"|Fabrics and Fibers
+|
+*
+|-
+!colspan="2"|Crystals and Dusts
+|
+*
+|-
+!colspan="2"|Gases and Liquids
+|
+*
+|}
+
+== [[History]] ==
+
+-------------------------
+###		Mechanics
+-------------------------
+
+........................................
+####		Firmata's Rolling System
+........................................
+
+The '''Firmata Rolling System''' is the universal resolution mechanic used across the '''[[Firmata Frontier]]''' roleplay server. It determines the '''difficulty''' of actions, the '''success''' of attempts, and the '''personal power level''' of both Story Character and [[Player Characters]].
+
+The system '''blends''' <u>DnD-Styled</u> and  <u>Narrative Roleplaying</u> systems, finding a middle-ground between the ''complexity'' of the prior and ''freedom'' of the later. However, Firmata's Rolling System is '''narrative-first''', with rolls only functioning as a '''guide''' for <u>how to write a response</u>. There is '''no hard-coded health''' tracking. [[You]] decide how much your character can handle.
+
+Featuring '''modularity''' allowing for both <u>character growth</u> and <u>equipment</u> opportunities, it is '''balanced''' for both world-native characters and multiverse arrivals entering [["The Continent"]].
+
+
+== Rolling Mechanic ==
+When performing rolls during Roleplay, send a message formatted like this without anything else:
+
+
+The bot reads messages that start with a roll, and labels it with what you "rolled for"
+ (roll) + (roll label)
+ d20+7 Cinderpede Attack PHYS
+
+
+'''You''' <u>write a response</u> for your '''attack''', then '''both you''' and the '''defender''' <u>roll</u>. Then the '''defender''' <u>writes a response</u> for their '''defense.'''
+
+After, the '''Defender''' <u>writes a response</u> for their next '''attack'''. You '''both roll''', then '''you''' <u>write a response</u> for your '''defense'''.
+
+Since this system is '''narrative first''', the roll results only determine <u>how a response will be written</u>.<br />Low rolls that may ''seem out of character'' can be equated to external factors like '''bad luck''', with the inverse being true for good rolls.
+
+=== Combat Rolling ===
+There are 2 typical scenarios you can find yourself in during combat: '''Melee''' or '''Ranged'''.
+
+==== Melee Rolling ====
+<div class="mw-collapsible mw-collapsed">
+The '''Attacker''' rolls 💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]] to <u>launch their attack</u>.<br />The '''Defender''' rolls '''💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]]''' to <u>block</u> or <u>dodge</u> the attack.<br />'''Attacker''' →  '''Higher roll''' = The attack '''hits''', and the <u>difference</u> determines <u>damage severity</u>.<br />'''Defender''' →  '''Higher roll''' = The attack is either '''blocked''' or '''dodged''', with the <u>difference</u> determining <u>block</u> or <u>dodge effectiveness</u>.
+</div>
+
+==== Ranged Rolling ====
+<div class="mw-collapsible mw-collapsed">
+The '''Attacker''' rolls ⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]] to <u>aim their projectile</u>.<br />The D'''efender''' can either roll '''💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]]''' or ⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]] to <u>dodge</u> or <u>react</u> to the projectile.<br />'''Defender''' →  '''Higher roll''' = The projectile misses entirely and it's now '''the defender's turn''' to respond.<br />'''Attacker''' →  '''Higher roll''' = Both parties <u>roll again</u>.<br />This time, '''the Attacker''' rolls for 💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]] to <u>determine the projectile's strength</u> <small>(for '''gun users''', <u>only roll the gun's physicality</u>, character physicality '''does not''' affect gun strength)</small>.<br />Meanwhile, '''the defender''' rolls '''💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]]''' to <u>determine damage severity</u>.
+</div>
+
+== Core Stats ==
+There are '''four fundamental stats''', each representing a trait in a character's capability.<br />💪[[Firmata's Rolling System#💪 Physicality (PHY)|Physicality]] | ⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]] | 💡[[Firmata's Rolling System#💡 Mentality (MENT)|Mentality]] | 🌙[[Firmata's Rolling System#🌙 Spirituality (SPIR)|Spirituality]]
+
+----
+
+=== 💪 Physicality (PHY) ===
+<blockquote>''Raw bodily capability. strength, force, endurance, '''agility''', athleticism, pain resistance, and overall physical impact. <br />This determines what '''your body is capable of'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Melee Aggression, Defense, and '''Speed''' <sup>(You need strong legs to run fast, after all)</sup></small>
+* <small>Body-based feats</small>
+* <small>Lifting, pushing, resisting</small>
+* <small>Dodging physically</small>
+* <small>Endurance tests</small>
+</div>
+
+
+
+=== ⚡ Alacrity (ALC) ===
+<blockquote>''Reaction time, finesse, coordination, balance, accuracy, and movement precision.<br />This determines what you can '''make your body do'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Aimed attacks</small>
+* <small>Ranged accuracy</small>
+* <small>Sleight of hand</small>
+* <small>Precision dodging</small>
+* <small>Quick reflex maneuvers</small>
+* <small>Technique-based combat styles</small>
+</div>
+
+
+
+=== 💡 Mentality (MENT) ===
+<blockquote>''Intellect, reasoning, focus, creativity, planning, memory, analysis, and rational decision making.<br />This determines '''what your brain can do'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Strategy</small>
+* <small>Investigation</small>
+* <small>Solving problems</small>
+* <small>Item/Equipment creation</small>
+* <small>Complex techniques that require mental upkeep</small>
+</div>
+
+
+
+=== 🌙 Spirituality (SPIR) ===
+<blockquote>''Soul intuition, emotions, wisdom, inner power, spiritual discipline, supernatural attunement, and magical/ritualistic practices.<br />This determines '''what your soul can do'''.''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* <small>Magic/[[Archkin]] abilities</small>
+* <small>Manipulating [[The 4 Aspects of Reality]]</small>
+* <small>Emotional resilience</small>
+* <small>[[PSYCHE (Soul)|Soul]] pressure</small>
+* <small>[[Faith]]-based or Spirit-attuned effects</small>
+* <small>[[The 4 Aspects of Reality#Phantasy|Psychic]]/Empathic interactions</small>
+* <small>Aura Projection</small>
+* <small>Morality</small>
+</div>
+
+
+== {{Glimmer|full}} Resonance ==
+'''Resonance''' determines how close a character has ''resonated with their fate'', how much they've '''achieved their''' '''full potential'''.<br />Typically, <u>younger</u> or <u>less experienced</u> characters get '''lower resonance''', indicating they still have '''lots of potential'''.<br />Meanwhile, <u>veteran</u> or <u>older</u> characters have '''higher resonance''', showing they've '''already peaked''' in potential.  
+
+Resonance determines 2 key factors:  
+
+# How many '''initial [[Firmata's Rolling System#Core Stats|stat points]]''' can be allocated <u>upon character creation</u>.
+# How '''often [[Firmata's Rolling System#Resonance Attunement (Leveling Up)|new stat points]] may be granted''' by <u>Narrators</u> upon <u>character growth</u> moments.
+
+=== Resonance → Starting Points ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Resonance
+!Starting Points
+!Notes
+|-
+|{{Glimmer|full}}{{Glimmer|empty}}{{Glimmer|empty}}{{Glimmer|empty}}{{Glimmer|empty}}
+|1
+|Barely Attuned; Could grow into anything '''very quickly'''.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|empty}}{{Glimmer|empty}}{{Glimmer|empty}}
+|2
+|Stable, beginning of '''steady''' self-shaping.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|empty}}{{Glimmer|empty}}
+|3
+|Adjusted to a rhythm, '''push beyond comfort''' to grow.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|empty}}
+|5
+|First major leap, achieve '''something impossible''' to progress.
+|-
+|{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}{{Glimmer|full}}
+|7
+|'''Full realization''' has been achieved.
+|}
+----
+
+=== Resonance Attunement (Leveling Up) ===
+Characters can '''increase Resonance''' and gain more '''[[Firmata's Rolling System#Core Stats|stat points]]''' only through '''major narrative development''' — revelations, trauma, evolution, transformation, self-understanding, etc. These new points are given by [[Narrators]].
+
+There are 2 kinds of new stat points:
+
+# '''Growth Point''' → Reward for character development
+# '''Resonance Realignment →''' When achieving a higher resonance tier, gain a bonus point depending on the achieved tier.
+
+===== Resonance Realignment Example =====
+<div class="mw-collapsible mw-collapsed">
+<blockquote><small>Character goes from '''3{{Glimmer|full}} → 4{{Glimmer|full}} Resonance''':</small>
+
+* <small>Starting Points for 3{{Glimmer|full}} = 3 points</small>
+* <small>Starting Points for 4{{Glimmer|full}} = 5 points</small>
+* '''<small>Difference = +2 points</small>'''
+* <small>Plus '''+1 Growth Point'''</small>   
+'''<small>Total: +3 points</small>'''
+
+<small>But for '''2{{Glimmer|full}} → 3{{Glimmer|full}}''' '''Resonance''':</small>
+
+* <small>Starting(2{{Glimmer|full}}) = 2 points</small>
+* <small>Starting(3{{Glimmer|full}})= 3 points</small>
+* <small>Difference = +1</small>
+* <small>Plus Growth = +1</small>  
+'''<small>Total: +2 points</small>'''
+</blockquote>
+</div>
+
+=== Resonance Regression (Leveling Down) ===
+On '''RARE CIRCUMSTANCES''' Characters do have a chance to '''lose resonance''' during certain character development moments, or if their [[memory]] gets wiped <small>(such as what happened in [[The Spirepocalypse]])</small>. If this were to ever happen, the only points lost are those granted from '''Resonance Realignment'''. Points gifted for generic character growth are '''permanent'''. 
+
+Once <u>resonance returns to normal</u>, the reclaimed point/s may be '''reallocated''' to a <u>different [[Firmata's Rolling System#Core Stats|stat]] .</u>
+
+== Equipment ==
+
+=== Melee Tools ===
+These items typically grant boosts to the [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]] stat when used for their '''intended purpose'''. As this is for roleplay, '''the intended purpose can vary and be extended''' if <u>justified well enough</u>. A sword, intended for slashing, can still give its stat boost when cutting through leaves or webs.
+
+=== Ranged Tools ===
+For '''Bows''', '''Slings''', or any other ranged tool that '''requires the character's strength''', <u>character [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]] is added by the tool's [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]</u>. <br />But for '''guns''' or any other ranged tool that '''doesn't need character strength''', you <u>'''only roll''' with the '''tool's [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]'''</u> . <small>(To balance this, guns typically have higher stats than bows.)</small>
+
+=== Armor ===
+Armor typically blocks [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]] rolls against your character. However, optionally, '''damage types''' and '''armor coverage''' can be used as well.
+
+
+===== Damage Types (Optional) =====
+<div class="mw-collapsible mw-collapsed">
+When enabled by both parties or a Narrator, damage types determine how well '''Slashing''', '''Piercing''', '''Blunt''', '''Heat''', or '''Psyche''' damage is mitigated by armor or caused by weapons. As this is a complication of the system, it is left to the Roleplayers to determine whether to use this or not.
+</div>
+
+===== Armor Coverage (Optional) =====
+<div class="mw-collapsible mw-collapsed">
+When enabled by both parties or a Narrator, <u>damage resistance</u> is '''only counted if an attack is directed at a body part that the armor covers'''. Even if a <u>helmet</u> gives +3 [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]], if the attack is <u>aimed for the leg</u>, you <u>only roll your character's [[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]</u> without the helmet's modifier.
+</div>
+
+=== Equipment Samples ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Item Name
+!Item Type
+![[Firmata's Rolling System#💪 Physicality (PHY)|💪 Physicality]]
+!⚡[[Firmata's Rolling System#⚡ Alacrity (ALC)|Alacrity]]
+!💡[[Firmata's Rolling System#💡 Mentality (MENT)|Mentality]]
+!🌙[[Firmata's Rolling System#🌙 Spirituality (SPIR)|Spirituality]]
+|-
+|Stone Spear
+|Spear
+|'''+3'''
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+|-
+|Makeshift Flintlock Pistol
+|Gun
+|'''+4'''
+|'''-2'''
+|<small>+0</small>
+|<small>+0</small>
+|-
+|Wooden Nautical Protractor
+|Triangle
+|'''+1'''
+|<small>+0</small>
+|'''+4'''
+|<small>+0</small>
+|-
+|An Odd Rosary
+|Necklace
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+| +2
+|-
+|"A Prayer Page"
+|Papyrus
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+| +1
+|-
+|"Science Pamphlet"
+|Papyrus
+|<small>+0</small>
+|<small>+0</small>
+| +1
+|<small>+0</small>
+|-
+|Leather Cap
+|Head Covering
+| +3
+|<small>+0</small>
+|<small>+0</small>
+|<small>+0</small>
+|-
+|[[Memetta]]'s Wrappings
+|Cloth Covering
+| +1
+|<small>+0</small>
+|<small>+0</small>
+| +2
+|-
+|A Stolen Stole
+|Religious Stole
+| +1
+|<small>+0</small>
+|<small>+0</small>
+| +4
+|}
+
+== Hidden Stats ==
+These stats '''cannot be assigned stat points'''. Instead, they can be acquired or diminished through <u>certain manners</u>.
+----
+
+=== 👁️ Lucidity (Luc) ===
+<blockquote>''Level of [[Sentience]] and how greatly one can peer through The 4th's Wall.<br />This determines how much your character '''is aware of [[You]].'''''</blockquote>
+<div class="mw-collapsible mw-collapsed">
+* Resisting/Allowing [[You|your]] control
+* Acting out of character
+* Knowing things they shouldn't know
+</div>
+
+=== 🍀 Phantasy (LUCK) ===
+<blockquote>''Blessings or curses from... something... tweaking fate to either favor or harm you.<br />This determines '''how fate favors you'''.''</blockquote>Unlike other stats, the Phantasy (Luck) stat '''affects all rolls'''.<br />If your character has +1 or -1 in this stat, you can either add or subtract a modifier to any roll you do.
+
+As this stat is quite overpowered, it can <u>only be granted to characters</u> who have been '''blessed''' or '''cursed''', either from a '''god-like being''' in their original universes (for [["Otherworlders"]]) or through [[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ'''⁴ᴹ⁷ᴿ²ᴬ⁰''']]'''<nowiki/>'s influence'''.
+
+----------------------------------
+###		Terms and Concepts 
+----------------------------------
+
+....................................................
+####		The 4 Fundamental Aspects of Reality
+....................................................
+
+[[File:Aspects.png|center]]
+{{Material_Template|image1=<gallery hideaddbutton="true">
+SpaceAspect.png|Space
+TimeAspect.png|Time
+ControlAspect.png|Control
+PhantasyAspect.png|Phantasy
+</gallery>|type=Building Blocks of Reality}}
+
+Often known as "The 4 Fundamental Aspects of Reality", they are the '''building blocks''' of fiction.
+
+<br />{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]] and {{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]] work closely with {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to form the realm of <u>Existence</u>.<br />Meanwhile, {{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]] enlists aid from the ''vibrations'' of {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]. It two-times reality with this 4th aspect to help form <u>Non-Existence</u>.<br />Together, all 4 aspects form the lands we walk on, and can't walk on.
+
+<small>In the past, and partially in the present, they were '''manipulated''' by [[Archkin]] to perform <u>miracles</u> and <u>enact</u> their will.</small>
+{| class="fandom-table"
+|-
+!'''{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]''' 
+!Matter and Elements
+!'''{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]'''
+!Moments and Fate
+|-
+|{{AspectIcon|3}}'''[[The 4 Aspects of Reality#Control|CONTROL]]''' 
+|Energy and Physics
+|{{AspectIcon|4}} '''[[The 4 Aspects of Reality#Phantasy|Phantasy]]'''
+|Abstract and Nothingness
+|}
+
+== Aspectual Applications ==
+Think of these as the "'''type'''" of abilities  that Aspect Manipulation can do. While the aspects domain over certain parts of reality, applications are what the aspects do to these parts of reality.
+
+These types aren't '''hard-set''', some abilities can be considered under <u>multiple applications</u> at once as there are many different formulas that can bring you to the same solution.<br />If you feel and ability fits better under a different application, your thought is valid and aren't wrong to think so. You're likely to reach the same effect regardless.
+
+<div class="mw-customtoggle-myFirstText mw-customtoggle-myOtherText" style="color:#5DE29B">View Applications</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-myFirstText">
+=== Manifestation ===
+'''Creating''' or '''summoning''' something that wasn’t there. The '''inverse''' applies as well <small>(Sometimes breaks the laws of physics)</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Portals, Pocket Dimensions
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Probability Analysis
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Heat, Light
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Illusions
+
+|}
+
+=== Manipulation ===
+'''Altering''' or '''controlling''' what <u>already exists</u>.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Telekinesis
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Temporal Acceleration
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|<small>(also)</small> Telekinesis
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Memory Altering
+
+|}
+
+=== Movement ===
+Anything that '''repositions''' a target.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Teleportation
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Time period relocation
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Phasing
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Dream tunneling
+
+|}
+
+=== Perception ===
+Sensing, scanning, reading, or perceiving differently.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Spatial Awareness
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Clairvoyance
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Vibration Analysis
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Sentience Detection
+
+|}
+
+=== Reinforcement ===
+Buffs, enhancements, stabilizers.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Spatial Anchors
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Temporal Bubble Restoration
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Kinetic Amplification
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Emotion Aggravation
+
+|}
+
+=== Interference ===
+Debuffs, disruptions, breaks, negations, neutralizers.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Disturbance Cancellation
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Temporal Bubbles as a whole
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Physics Nullification Field
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Memory Corrosion
+
+|}
+<div class="mw-customtoggle-myFirstText mw-customtoggle-myOtherText" style="color:#5DE29B">Hide Applications</div>
+</div>
+
+== Space ==
+<blockquote style="border-left:3px solid #0065FF;padding-left:8px;">
+{{Material_Template|title1=Space|image1=SpaceAspect.png|type=Matter and Elements|color=Blue}}
+The most '''obvious''' of the 4 Aspects, as we '''see''' and '''feel''' it everywhere <u>at all times</u>.  
+</blockquote>
+'''{{AspectIcon|1}}SPACE''' encompasses '''Physical Matter'''; From the <u>smallest grains of sand</u> and <u>water</u>, to  the <u>smoke of a flame</u> and even the <u>fire</u> itself<u>;</u> this aspect handles everything you '''touch'''.<br />It works closely in-tandem with  {{AspectIcon|2}}[[The 4 Aspects of Reality#Time|TIME]] and {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to make up the physical plane.<blockquote><small>The '''most common''' aspect for [[Archkin]] to manipulate, as it's the easiest to <u>pick up</u> and <u>practice</u>.</small></blockquote>
+
+=== Sample Abilities of Space ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Shapeshifting
+|Manipulation
+|All [[Archkin]] have this by default, but some are <u>better</u>/<u>worse</u> at it.
+|-
+|Telekinesis
+|Manipulation
+|Pick up and move objects from afar.
+|-
+|Mass Compression
+|Reinforcement<br />Interference
+|Shrinking or growing objects without changing mass value.
+|-
+|Elemental Reverberation
+|Manipulation<br />Manifestation
+|Control Air, Water, Earth, or Fire.<br /><small>("Long ago, the four natio- wait, wrong series...")</small>
+|-
+|Matter Transmutation
+|Reinforcement<br />Interference
+|Changing item properties or states by altering its atomic structure.
+|-
+|Coordinate Echoing
+|Movement
+|Be in two places at once within a short distance. <small>("Can't touch me now!")</small>.
+|-
+|Spatial Distortions
+|Movement
+|Mess with the flow of space, making rooms lead to the wrong location.<small><br />(*Insert the average Scooby Doo hallway chase scene)</small>.
+|-
+|*Teleportation
+|Movement
+|Instantly shift one's coordinates.
+|-
+|*Nuclear Resonance
+|Manipulation
+|Split an atom. See what happens.<br /><small>("Yes, I copied this over From CONTROL too. Both aspects can do this" -[[RAZEACC]])</small>
+|-
+|*Density/Mass Manipulation
+|Manipulation
+|Force an object to increase or decrease its mass value. '''Very dangerous''': High risk of forming <u>singularities</u>.<small><br />("Yes, this breaks the laws of physics, I know" -[[RAZEACC]])</small>.
+|-
+|*Pocket Dimension Creation
+|Manifestation
+|Create an isolated secondary existence within an area <small>(doesn't come with a [[The 4 Aspects of Reality#Time|Time]] flow disconnect)</small><br /><small>(Not to be confused with [[Archkin#Psyche Planes|Psyche Planes]])</small><br /><small>("Domain Expa-wait... wrong series again, sorry..")</small>.
+|-
+|[ This entry is locked ]
+|Utility
+|Creation of [ This entry is locked ]
+|}
+
+== Time ==
+<blockquote style="border-left:3px solid #00FF72;padding-left:8px;">
+{{Material_Template|title1=Time|image1=TimeAspect.png|type=Moments and Destiny|color=Green}}
+This acts as one of the more '''subtle''' and '''inconspicuous''' aspects. Although we normally barely feel it, it's just as prevalent as {{AspectIcon|1}}[[The 4 Aspects of Reality#Space|Space]].
+</blockquote>
+
+{{AspectIcon|2}}'''TIME''' encompasses '''Moments in Reality'''; From the <u>present day</u> and the <u>happenings of yester-year</u>, to the scripting of <u>fates</u> and <u>futures</u> itself.<blockquote>
+
+=== Temporal Bubbles ===
+'''WARNING''':<br />When time in a region <u>de-syncs</u> from the time <u>outside</u> the region, a '''temporal bubble forms'''.<br />Once the bubble bursts <small>(when the time manipulation ends)</small>, the <u>closer something is to the edge</u>, the more '''damage severity''' it would experience as time quickly catches up/slows down to match the larger body.<br />
+
+<small>Due to how bizarre the concept of time is, this is the '''least common''' aspect utilized by [[Archkin]]. In fact, it's normal for attempts to manipulate [[The 4 Aspects of Reality#Time|TIME]] to <u>randomly fail</u>, even with the most skilled of users. This is the only aspect that actively resists manipulation, as its structure is self-correcting. But, there is another reason...</small></blockquote>
+
+=== Sample Abilities of Time ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Future Sight
+|Manifestation<br />Perception
+|See beyond into the scripted fates itself.<br /><small>(OOH OOH TITLE DROP, TITLE DROP!!! WOAHH-)</small>
+|-
+|Past Sight
+|Perception
+|View into the scripted fates of before.<br /><small>(it's not as funny the second time 'round...-)</small>
+|-
+|Causality Delay
+|Interference
+|Delay the effects of an action.<br /><small>(yeah this one's confusing...)</small>
+|-
+|Temporal Lock (Time freeze)
+|Interference
+|Changing item properties or states.<br /><small>("[https://jojowiki.com/The_World ZA WARUDO]")</small>
+|-
+|*Chronological Erasure
+|Manifestation (inverse)
+|Delete an event from occurring, along with its effects.<br /><small>("[https://jojowiki.com/King_Crimson KUNG KURIMUZON!!]")</small>
+|-
+|Reality Rewind
+|Manipulation
+|Reverse the flow of time to a past event.<br /><small>(<i>"Ahh- that's hot! It's Rewind Time!"</i>)</small>
+|-
+|*Temporal Bubble Restoration
+|Reinforcement
+|Nullify the effects of Temporal Bubbles.
+|-
+|*Temporal Looping Field
+|Manipulation
+|Endlessly reset to a point of time in a region until the effect nullifies.<br />'''WARNING''': Causes highly-volatile <u>Temporal Bubbles</u> that even Restoration can't fully nullify the effects of at times.
+|-
+|*Timeline Manipulation
+|Manipulation
+|Split, destroy, or effect an entire timeline.
+|-
+|[ This entry is locked ]
+|[ This entry is locked ]
+|[ This entry is locked ]
+|}
+
+== Control ==
+<blockquote style="border-left:3px solid #FFE900;padding-left:8px;">
+{{Material_Template|title1=Control|image1=ControlAspect.png|type=Energy and Physics|color=Yellow}}
+<u>Potential</u> Energy (stillness), <u>Kinetic</u> Energy (motion), <u>Heat</u>, <u>Electricity</u>, <u>Gravity</u>, <u>Waves</u>, ''<u>Vibrations</u>''— the aspect of {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] governs the existence of '''Forces''' and '''Energy'''.
+</blockquote>
+
+It's all around us like {{AspectIcon|1}}[[The 4 Aspects of Reality#Space|Space]]., but not as subtle as {{AspectIcon|2}}[[The 4 Aspects of Reality#Time|TIME]]. {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] fills in a gap between these two aspects to make up the physical plane. The only force ungoverned by Control is ''[[The 4 Aspects of Reality#Phantasy|sentience]]''. When diving deeper into psyche, another aspect takes hold, the 4th and {{AspectIcon|4}}'''final aspect'''.<blockquote><small>Mostly used for '''combat''', [[Archkin]] training with this aspect were often called "sweats"</small></blockquote>
+
+=== Sample Abilities of Control ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Kinetic Storage
+|Reinforcement
+|Store kinetic energy within yourself to use later.
+|-
+|Kinetic/Potential Regulation
+|Interference
+|Cause an object to move or stop moving.
+|-
+|Kinetic Burst
+|Interference
+|Forces kinetic energy onto yourself or others.<br /><small>("Yes, this is just like telekinesis")</small>
+|-
+|Frequency Analysis
+|Perception
+|Accurately sense what Hz something is resonating on.<br /><small>("Now you can tell when I put 2413Hz and 3142Hz anywhere!" -[[RAZEACC]])</small>
+|-
+|Velocity Redirection
+|Manipulation
+|Alter the direction of movement.
+|-
+|Matter Transmutation
+|Reinforcement<br />Interference
+|Changing item properties or states by altering its "true resonance frequency".
+|-
+|Sound Dampening Field
+|Interference
+|Nullify the vibrations in an area for silence <small>(or more nefarious purposes)</small>.
+|-
+|Vibration/Frequency Alteration
+|Manipulation
+|Forces targets to vibrate at specific frequencies.
+|-
+|Temperature Flow
+|Manipulation
+|Steal or give heat onto targets by syphoning or bestowing it vibrations.<br /><small>("Yes, [[The 4 Aspects of Reality#Space|Space]] can do this too, but with less precision. Different formula, same-ish result.")</small>
+|-
+|Kinetic Rift
+|Interference
+|Halt movement in a certain space while forcing intense kinetic force into anything touching the frozen region.<br /><small>(*Insert that one Dr Strange gif of him flying off into the distance)</small> 
+|-
+|Photon Command
+|Manifestation<br />Manipulation
+|Control luminosity, causing things to brighten or darken.<br /><small>("Photon readings: Negative. Shadows cutting deeper-")</small>
+|-
+|Inertia Manipulation
+|Movement
+|Immediately halt, pause, or extend the effects of inertia
+.<br /><small>("Yes, this ALSO breaks the laws of physics. I know... but it makes for some EPIC MID-AIR DRIFTS using planes!" -[[RAZEACC]])</small>
+|-
+|Electrical Flow
+|Manifestation<br />Manipulation
+|Manipulate or create electricity, simple.<br /><small>("I... ''think'' this breaks the laws of physics?" -[[RAZEACC]])</small>
+|-
+|*Gravity Shift
+|Manipulation<br />Movement
+|Change the flow of gravity by manipulating its flow/field.<br /><small>(Only effective within <u>timelines/universes</u>)</small>
+|-
+|*Nuclear Resonance
+|Manipulation
+|Split an atom. See what happens.<br /><small>("Yes, I copied this over to SPACE too. Both aspects can do this" -[[RAZEACC]])</small>
+|-
+|*Physics Nullification Field
+|Interference
+|Absolutely disable the concept of physics in an area. Have fun.<br /><small>("Not sure if this breaks the laws of physics." -[[RAZEACC]])</small>
+|}
+
+== [[Phantasy]] ==
+{{Material_Template|title1=Phantasy|image1=PhantasyAspect.png|type=Abstract and Nothingness|color=Cyan / Red}}
+From the manifestations of your '''mind''' and the '''thoughts''' that race in your head, to the thinking process of one's '''creativity''' and the overwhelming dread of '''regret'''. 
+
+{{AspectIcon|4}} '''[[The 4 Aspects of Reality#Phantasy|Phantasy]]''' is easily the '''most complicated aspect''' as it almost single-handedly governs the entirety of '''non-existence''' and '''abstract''' nature, only gaining assistance from {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] in order to maintain the '''frequencies''' of [[PSYCHE (Soul)]] phenomena and [[Memories#Memory Amplitude|'''amplitude''']] of [[Memories]]. Outside of the vibrations from Souls, you can tell when <u>pure phantasmal phenomena</u> is occurring when you're in the presence of any '''2413Hz''' frequencies. 
+
+On a first glance, most assume <u>Non-Existence</u> is the ''absence of Existence''. While partially true, in full contextuality, it's the realm of '''unmaterialized ideas''', '''concepts''', '''[[Memories|memories]]''', '''dreams''', '''emotions''', and [[PSYCHE (Soul)]].
+
+To properly handle such a monumental pillar, this aspect is split into <u>two halves</u>. 
+----
+
+=== [[Fracturing]] ===
+<blockquote style="border-left:3px solid #00FFFF;padding-left:8px;">
+This half acts as the '''thinking''' mind. '''Fracturing''' handles <u>[[Memories]]</u>, <u>logic</u>, <u>mathematics</u>, <u>quantum</u> phenomena, <u>probability</u>, and <u>rational reasoning</u>. It is noted for acting similar to an '''echo''' but for [[memories]] that have '''ceased to exist'''.
+</blockquote>
+
+=== [[NulGraven]] ===
+<blockquote style="border-left:3px solid #FF0000;padding-left:8px;">
+This half acts as the '''feeling''' mind. '''NulGraven''' handles <u>[[Sentience]]</u>, <u>imagination</u>, <u>emotion</u>, <u>dreams</u>, <u>instincts</u>, and <u>spiritual phenomena</u>. It is noted for acting similar to a '''virus''' or '''feral animal''' as it often mirrors the <u>most primal emotions</u> of all: '''Fear''', '''Anger''', and '''Hunger'''.
+</blockquote>
+
+=== Entropy ===
+<div class="mw-collapsible">
+{{LockedEntry}}
+</div>
+----
+
+=== Phantasmal Unity ===
+Despite the split between both halves, they <u>often share dominions</u> among each other, as if this very aspect is a '''thinking''' and '''conscious being'''; a <u>'''living aspect'''</u>. Although one half may control a trait, it may <u>occasionally be controlled by the other half</u> as well. The most notable dominion '''both''' control is [[PSYCHE (Soul)]].<blockquote>
+<small>Due to the nature of Phantasy, [[Phantasmal Entities]], and how this aspect is dangerously hostile towards them— this is the '''most taboo''' aspect for [[archkin]] to practice.</small></blockquote>
+
+=== Sample Abilities of Phantasy ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Dream Walking
+|Movement
+|Explore the dreams of someone while they're asleep. Maybe even hop into another person's dreams and leave from there.<br /><small>(*Insert that one episode from Dungeon Meshi)</small>
+|-
+|Illusion Casting
+|Manifestation
+|Cause someone to see something that isn't there.
+|-
+|Emotive Influence
+|Manipulation
+|Manipulate the emotions of someone to feel another way.<br /><small>("Yes, the genie CAN make people fall in love, it just doesn't want to")</small>
+|-
+|Cognitive Stalking
+|Perception
+|Read someone's mind, peer into their thoughts— without consent.<br /><small>(Roll for [[Firmata's Rolling System|Spirituality]] to resist this)</small>
+|-
+|[[Memory Piece]] Extraction
+|Manifestation<br />Manipulation
+|Pull [[Memories]] and [[Sentience]] from someone to craft a [[Memory Piece]].<br /><small>(*Can be done on a mass scale)</small>
+|-
+|Sentience Hijack
+|Manipulation
+|Command someone follow your will instead, may need to sacrifice some of your sentience. Hard to control 2 bodies at once, can confirm -[[RAZEACC]].<br /><small>(Roll for [[Firmata's Rolling System|Spirituality]] to resist this)</small>
+|-
+|Mathematics Actualization
+|Manipulation
+|View the code of reality and twist it to your whim. Twist the golden ratio, flip the Fibonacci Sequence, split atoms without catastrophe, and completely turn logic into your tool.<br /><small>("This is the most bizarre ability, even I don't really understand it myself" -[[RAZEACC]])</small>
+|-
+|*Soul Echoing
+|Manifestation
+|Attempt to create a copy of a [[PSYCHE (Soul)|soul]] by hand.<br /><small>(Requires [[PSYCHE (Soul)#Attuned and Unattuned Souls|Unnatuned Souls]])</small>
+|-
+|*Life Giving
+|Manifestation
+|Bestow life into something.<br /><small>(Cannot be used to revive the dead once the [[PSYCHE (Soul)|soul]] is gone)</small>
+|-
+|*''Living Dreams''
+|Manifestation
+|[This lore entry is locked]
+.<br /><small>("Yes, this ALSO breaks the laws of physics. I know" -[[RAZEACC]])</small>
+|-
+|[ Several entries are currently locked ]
+|
+| 
+|}
+
+<span class="spoilerblur">
+== Authority ==
+</span>
+{{LockedEntry}}
+
+........................
+####		Memories
+........................
+
+{{Material_Template|image1=[[Memory.gif]]|title1=Memories|type=[[PSYCHE_(Soul)|Psyche]] Component|state={{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasmal]] Energy|rarity=<data source="my_list">
+<ul>
+<li>Common <small>(Source)</small></li>
+<li>Rare <small>(Harvested / [[Memory Pieces]])</small></li>
+</ul>
+</data>|value=<data source="my_list">
+<ul>
+<li>Useful<small>(Source)</small></li>
+<li>Unbelievably Useful <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|durability=<data source="my_list">
+<ul>
+<li>N/A<small>(Source)</small></li>
+<li>Stone-Like <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|mass=<data source="my_list">
+<ul>
+<li>N/A<small>(Source)</small></li>
+<li>0.5-5kg <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|illuminance=<data source="my_list">
+<ul>
+<li>N/A<small>(Source)</small></li>
+<li>Varies <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|color=Varies <small>(Based on frequency)</small>}}{{#SQuote:|text=Life given mass. <b>Puzzle pieces</b> of Soul.|speaker=[[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|Unknown]]|receiver=|attribution=|source=|id=WLYA-NL6T-1B2J|template=}}
+
+== Overview ==
+
+
+Memory is a resource <u>embodied by anything and everything</u> that can '''think''' and '''choose''' for oneself. It is what's contained and utilized by ⁠[[Sentience]] in the formation of ⁠[[PSYCHE (Soul)|PSYCHE Energy]] ('''Soul''').<blockquote><small>Memory is governed by the [[Fracturing]] half of {{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasy]].</small></blockquote>
+
+== Memory Contents ==
+Aside from the textbook definition of "Memories", it contains '''more''' than merely 'moments of time'.
+
+Memories are '''innate'''. They contain '''Experiences''', '''Abilities''', and '''Natural Instincts'''. In <u>rare cases</u>, they can be '''passed down to offspring''', usually in a '''locked''' state. Offspring would need to unlock inherited memories to access them.<blockquote>{{#SQuote:|text=Knowing how to <u>breath</u>, how to <u>beat</u> your own <b>heart</b>, when to <u>blink</u>, <b>how</b> to blink, when you <u>think</u>—<br />how a bird <u>flies</u>, why your life <u>flashes before your eyes</u>, and how Archkin <u>manipulate</u> and <u>twist</u> their <b>lies</b>.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=WLYA-NL6T-1A2J|template=}}</blockquote>Memories are the '''Instructions''' telling your soul what to do and how to do things. Whether or not you can actually process said instructions, and how well you process them, depends on your [[sentience]].
+
+== Extracting Memories ==
+Normally, you may simply '''ask someone''' holding certain memories to <u>retell</u> what they have to say.<br />Or, you could be '''bold''' and '''dastardly''', doing something '''not many others dare to do''' in the modern age:<br /><u>Read a book</u>.
+
+However, if you mean how to '''extract''' memories, the process is a lot more hideous that you may expect.
+[[File:Memory Piece Maker.png|thumb]]
+
+=== [[Memory Pieces]] ===
+The method to acquire ⁠[[Memory Pieces]] is quite the '''delicate''' procedure, as you need to extract both a <u>sliver of ⁠[[Sentience]]</u> while '''actively thinking of the memory''' or experience you wish to extract. This process is proven to be even more difficult for '''subconscious''' memories, such knowing how to <u>breath</u> or <u>beat</u> your own heart.
+
+A ''certain apparatus'' is required, and it must be lodged into one's eye, the gateway to one's ⁠[[PSYCHE (Soul)|Soul]], to begin the process. More information can be found in the dedicate page to [[Memory Pieces]].
+
+Extracting a memory does '''not''' always remove it from the host—though certain procedures, mishandled, are known to leave fragments or gaps. Bits of a memory may <u>stay and regrow</u>, and some extra memories <u>may be extracted as well</u>. The process isn't perfect when handled by '''mortals''', with a lot of stakes riding on mere random chance.
+
+== Memory Amplitude ==
+If [[PSYCHE (Soul)]] relies on unique frequencies to determine its color, Memories utilize '''Amplitude''' instead. Amplitude determines '''how'''  [[Sentience]] should depict the memories, acting similar to Volume/Loudness in Sound Physics.<blockquote>Memory amplitude is influenced by <u>emotional intensity</u>, <u>clarity</u>, and the <u>age</u> of the memory. However, the system remains poorly understood currently with further analysis pending.</blockquote>
+
+.........................
+####		Sentience
+.........................
+
+.............................
+####		PSYCHE (Soul)
+.............................
+
+.........................
+####		Alterants
+.........................
+(WIP)
+
+...........................................
+####		Epicenterhood / Concepthood
+...........................................
+(WIP)
+
+...........................
+####		Frequencies
+...........................
+(WIP)
+
+....................................
+####		Phantasmal Phenomena
+....................................
+(WIP)
+
+................................
+-#####		Fracturing Zones
+(WIP)
+
+...............................
+-#####		NulGraven Sites
+(WIP)
+
+...................................
+-#####		Decanoluzion Wounds
+(WIP)
+
+
+------------------------
+###		Bestiary
+------------------------
+
+.......................
+####		Mortals
+.......................
+(WIP)
+
+......................
+-#####		Humans
+(WIP)
+
+....................
+-#####		Ubir
+(WIP)
+
+.....................
+-#####		Aelep
+(WIP)
+
+..................................
+-#####		Thingamakin Elders
+(WIP)
+
+.........................
+-#####		Marlimata
+(WIP)
+
+.......................
+-#####		Archubi
+(WIP)
+
+
+.......................
+####		Archkin
+.......................
+
+{{Playable Race Infobox|title1=Archkin|image1=The Archkin Family.png|type=Frequency-Psyche|lifespan=Un-Aging|weaknesses=<data source="my_list">
+<ul>
+<li>{{Nul Sym}} [[The 4 Aspects of Reality#Phantasy|Phantasmal]] Phenomena</li>
+<li>Separative Frequencies</li>
+<li>The Pandemonium State</li>
+</ul>
+</data>|traits=<data source="my_list">
+<ul>
+<li>Sterile</li>
+<li>Genderless</li>
+<li>[[Memory]] Fueled</li>
+<li>[[Faith]]-Empowered</li>
+<li>Frequency-Attuned</li>
+</ul>
+</data>}}{{#SQuote:|text=The first kin invented by a Beyond— scripted for war, peace unintended.<br />Through faith in oneself, they persist— a rebellious flame in sea's grandest depths.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=7CBT-EMB0-YJP4|template=}}
+
+Beings of primal [[Faith]]-Empowered [[PSYCHE (Soul)|SOUL]] Energy, capable of shaping reality akin to an artist on a canvas.
+
+{| class="wikitable"
+! colspan=2 | Archkin at a Glance
+|-
+| Nature || Sentience-Driven Soul Creatures
+|-
+| Power Source || [[Memories]] + ([[Sentience]] * [[Faith]]) = [[Archkin#Archose|Archose]]
+|-
+| Strengths || Reality manipulation, shapeshifting, psychic resilience
+|-
+| Weaknesses || [[The 4 Aspects of Reality#Phantasy|Phantasmal]] Frequency 2413Hz, 4th Frequency 3142Hz
+|-
+| Culture || Self-expression through halos, eyes, and form
+|}
+
+== Overview ==
+Archkin are beings made of two parts: '''Soul''' and '''Faith''' tied together with '''Frequencies'''.
+
+=== Soul Energy ===
+The [[PSYCHE (Soul)|SOUL]] comes in two halves: [[Memory]] and [[Sentience]]. They use [[PSYCHE (Soul)|Soul Energy]] as the '''building blocks''' for their capabilities in the form of "''Archose''", a <u>dust-like substance</u> that makes up their shapeshifting form. This is a '''heightened extension''' from how [[memories]] act as the building blocks for [[PSYCHE (Soul)|soul]] energy. 
+
+This means they '''gain more soul energy''' the <u>more [[memories]]</u> and <u>experiences</u> they obtain. 
+
+But in contrast, how does an Archkin ''heighten their [[Sentience]]'' to match the increased [[memories]]? Archkin eventually becomes cognitively unbalanced when overloaded with <u>[[memories]]</u> while lacking the [[sentience]] stability to interpret them. There is a way to heighten [[sentience]].
+
+=== Faith ===
+[[Faith]] is a '''resource''' innate in <u>anything containing a soul</u>. It's just that Archkin are more capable of tapping into it. By <u>challenging their confidence</u> and '''succeeding''', they gain [[Faith]] in themselves. This '''heightens their [[sentience]]''', increasing their overall prowess and capabilities. By completing a god-like feat, this is also what elevates an Archkin's [[Archkin#Archose|archose]], ascending it '''even further''', and achieving [[Archgods|Archgod]]<nowiki/>hood.
+
+Although, a word of caution is in store. As their [[sentience]] heightens, their emotionality deepens as well— making them more susceptible to overwhelming states such as '''[[Archkin#The Pandemonium State|Pandemonium]]'''.
+
+=== Frequencies ===
+All Archkin resonate at '''unique frequencies''', similar to how [[PSYCHE (Soul)|SOULs]] and their natural/resonant frequencies. If <u>humans</u> have '''''DNA''''', <u>Archkin</u> have '''''frequencies'''''. These frequencies form an invisible protective field around them, '''shielding them from physical harm'''. However, when that frequency is disturbed by external stimuli, it <u>weakens</u> their protection, but only ''slightly''.<br />Their <u>true weaknesses</u> resides in the {{Nul Sym}} [[The 4 Aspects of Reality#Phantasy|'''Phantasmal''']] '''Frequency''' of '''2413Hz''' and {{4th Sym}} [[You|'''Your''']] '''3142Hz:''' the <u>separatist frequencies</u>.
+
+When afflicted by any of those frequencies, it forcibly <u>tears apart their body's archose</u> and <u>weakens their frequency shell</u>. The feeling is akin to being shocked by electricity while burning alive.<br />During this state, that is the '''only time''' an archkin may suffer '''finality'''. '''Frequencies''' act as the '''bond''' uniting an Archkin's [[PSYCHE (Soul)|Soul]] and [[Faith]] together. But when faced with ''separation'', it becomes their '''greatest weakness'''.
+
+== {{Firmata1 Sym}} Current Status on [["The Continent"]] ==
+<small>This information is intended exclusive for [[Firmata Frontier]].</small>
+<div class="mw-collapsible mw-collapsed">
+<blockquote>Due to Archkin physiology, they <u>suffered the most</u> from [[The Spirepocalypse]]'s memory wipe.
+
+While most [["Local"|locals]] merely lost [[memories]], Archkin lost '''a majority of their abilities''' alongside their [[memories]]. There's even a chance a good number of Archkin survivors ''don't even know they're Archkin''.
+
+Archkin that <u>don't conform to humanoid appearances</u> may '''feel unease''' around mortals due to their lingering subconscious memories of [[The Revolutions and Exodi Era|The Archgod Revolution]]. But if they're <u>unaware of their Archkin status</u>, they ''may not even appear Archkin'' at first, unintentionally helping them blend in to [[The Stone Society]].</blockquote>
+</div>
+== Abilities ==
+
+=== Manipulation of [[The 4 Aspects of Reality]] {{AspectIcon|1}}{{AspectIcon|2}}{{AspectIcon|3}}{{AspectIcon|4}} ===
+By using their body's [[Archkin#Archose|archose]] physiology, they can '''manipulate reality''' through various manners. <u>Heating up ground</u>, <u>splitting air</u>, <u>capturing sentience</u>, and even <u>rewriting memories</u>. They are essentially made of "magic", some may describe it. There is virtually nothing they can't do <small>(a misconception that was the leading-cause for [[The Revolutions and Exodi Era|The Archgod Revolution]]).</small>
+
+=== Shapeshifting{{AspectIcon|1}} ===
+All Archkin can innately manipulate their forms using the [[The 4 Aspects of Reality#Space|{{AspectIcon|1}}Space]] aspect. By shaping their body's [[Archkin#Archose|archose]] into various forms, they can take on a variety of '''shapes''', '''colors''', and '''sizes'''. Some do it to <u>express themselves</u>, others do it to hide.
+
+This means <u>clothing</u> worn by Archkin are merely '''extensions''' of their body, woven from [[Archkin#Archose|archose]].
+
+{{#SQuote:|text=Yes... that means all archkin are technically naked...<br />but don't call it that, they have nothing to hide anyways, it's FINE!|speaker=[[RAZEACC|Rayzie]]|receiver=[[You]]|attribution=|source=[[Archkin|while you read this page]]|id=W7RI-1RM0-612Z|template=}}
+
+=== Psyche Planes ===
+With enough [[Faith]], an Archkin can access and manipulate the '''pocket dimension''' within their own soul. Time does not pass normally in this plane, and it acts as a representative culmination of the archkin's personal experiences, [[Memories|memory]], and self. That is the '''Psyche Plane'''.<br>Normally, the plane is a '''barren white void''' with an invisible floor. But as one spends more time in it, the space '''alters''' the user's inner being.
+
+This plane is typically used for deep thought and meditation, being a space free from the flow of time itself. However, as part of Archkin culture, this space is also often used for '''[[Psyche Duel|Psyche Duels]]'''.
+
+When making physical contact with an Archkin, they may drag your [[PSYCHE (Soul)|soul]] into their Psyche Plane. Your [[PSYCHE (Soul)|soul]] would take on the form of your original body as you duel against the archkin.<br />
+<u>Physical harm within a plane does '''not''' transfer into reality</u>, which is what made it perfect for '''[[Psyche Duel|Psyche Duels]]''' in Archkin Culture. Instead, once defeated, the loser would return to reality <u>completely exhausted</u> and with <u>blurry [[Memories|memories]]</u> for some time. This lack of long-lasting consequences is what made the culture thrive and prosper.
+<br /><small>That is, unless you're dealing with [[Khueen|The Strongest Archgod]]. There is a reason few dared to challenge her, even fewer living to share what her Psyche Plane is like, and barely anyone knowing the ''truth'' of 'her plane'.</small>
+
+== Biology and Physiology ==
+As Archkin only get stronger from ''[[memories]]'' and [[Faith|''faith'']], that means they <u>don't need traditional sleep</u> and <u>food consumption</u> akin to mortals. They can still taste, but '''nothing conventional stops an Archkin from living indefinitely'''. However, they do still get fatigued when manipulating reality.
+
+When in combat against people who are <u>unaware of an Archkin's weakness</u>, and are <u>trying to stay hidden</u> themselves, Archkin would often '''fake damage''' to avoid suspicion.<br />They'd shapeshift their archose to form <u>fake bruises</u>, spit out archose-molded <u>blood</u>, maybe even <u>overreact the pain</u>. Sometimes, if they're sloppy, you may even notice an Archkin <u>reacting to an attack a '''split second''' before actually feeling it</u>.<br />Once the coast is clear, they would just shapeshift back to their normal forms, and escape.
+
+As for the traits of an Archkin's body, there are 4 distinct ones.
+
+=== Frequency Shell ===
+<blockquote>The most important part of an archkin's body. Due to their immense power, their true appearance is ''capable of shattering the fabric of space and time'' itself.<br /><small>Please refer to "[[The Fall of Marlika]]" for confirmation.</small>
+
+As such, their frequency shell protects both '''themselves''' from <u>harm</u>, and '''us''' from <u>instant annihilation</u>. The frequency shell wraps around an entire archkin's body, encapsulating each and every [[Archkin#Archose|archose]] particle, similar to a thin bubble. It is invisible under normal circumstances.</blockquote>
+=== Frequency Weakness ===
+<blockquote>An Archkin's '''main weakness''' comes in the form of <u>frequencies</u>. When exposed to external stimuli that meddle with the delicate vibrations of their [[Archkin#Biology and Physiology#Frequency Shell|frequency shells]], it produces varying levels of '''discomfort'''.
+These stimuli can range from <u>loud noises</u> at <u>high/low pitches</u>, <u>flames</u>, <u>electricity</u>, <u>music,</u> or [[The 4 Aspects of Reality#Phantasy|phantasmal]] phenomena. But when under specifically '''2413Hz''' or '''3142Hz''', as felt in the [[Fracturing Sea]], the discomfort heightens to an '''electrifying'''/'''burning''' sensation that directly '''destabilizes their shell''' and seperates the bonds of their [[Archkin#Archose|archose]] <small>(hence why they're called the "Separatist" Frequencies)</small>, even to the point of risking the archkin's finality.</blockquote>
+
+=== Intended Sterility ===
+<blockquote>As Archkin were '''never invented for times of peace''', they were never designed with self-replication in-mind.
+
+Archkin attempting to defy this decree by creating more Archkin is the <u>most severe act of defiance</u> against [[The Court of The 4th]].<br /><small>Please refer to "The Trial and Banishment of Archgod [[Khueen]] and Archgod [[Ouya]], and Archgod [[Kalayan]]"</small></blockquote>
+
+=== Finality ===
+<blockquote>The end of an Archkin is akin to a <u>star's supernova</u>.
+<br />As an Archkin sustains damage, their [[Archkin#Biology and Physiology#Frequency Shell|frequency shell]] begins to crack, forming bright '''glitchy lights''' around the wound. These glitches are the <u>fabrics of space and time</u> physically '''bending''' due to the Archkin's true form leaking out.
+Upon reaching finality, an archkin's [[Archkin#Biology and Physiology#Frequency Shell|shell]] implodes on itself in a final attempt to subdue as much of their innate power as possible. After the implosion, the remaining archose within the Archkin bursts out in an explosion of pure [[PSYCHE (Soul)|soul]] energy, burning and shredding anything nearby.
+<br />Any disconnected [[Archkin#Archose|archose]] from that archkin would remain in the world, still containing its [[Memories|memories]], but without the ability for the archkin to control it.</blockquote>
+
+=== Cosmetic Cultures ===
+Back [[The Archaic Aeons Era|when Archkin ruled]], there were some customs and traditions that Archkin followed... although, calling them such formal terms undermines how baseless and nonsensical they were at the time. In truth, they're closer to '''trends''' and '''fashion statements'''.[[File:Khueen FullBody.png|thumb|300x300px]]
+
+==== The Archkin Halo ====
+<blockquote>To display an Archkin's <u>level of [[Faith]]</u>, they may often chose to reveal their '''insignia'''.
+The larger the "halo", the more power ([[faith]]) the archkin is implied to have.</blockquote>
+<br /><small>Although the "halo" may be seen as a "weak point", it takes no more damage than the rest of the archkin's body. Yeah, it makes them easier to hit, but it's not a weak point.</small>
+
+==== Eyes to the Soul ====
+<blockquote>Another method of displaying one's prowess, is through the '''presence of eyes'''.
+In Archkin culture, the <u>number of eyes</u> present on their forms is another indicator of their '''power'''.</blockquote>
+<br /><small>Unlike the "halo" which is NOT a "weak point", they eyes are a different story. As eyes are the direct gateway to one's [[PSYCHE (Soul)|soul]], directing any attacks on archose forming eyes have been noted to deal... a ''little'' more damage. It's not by a lot, but if you're desperate for more damage, that's the "weak point" you were hoping for...</small>
+
+==== Linguistic Prowess ====
+Although not a physical trait, it's still a cosmetic culture that many archkin actually still follow today.
+
+{{#SQuote:|text=[[Archgods]] often peered through The 4th's Wall to learn how to run their nations and what to do with their "existence".<br />In general, Archkin Culture can be seen as the '''largest cargo-cult in fiction''': a cargo cult of <u>[[You|Your]] reality</u>.<br />This is best reflected in the very manner which they '''speak'''.<br />
+<br />
+Archkin language is '''directly inspired''' by the many tongues from [[You|Your]] world. However, without proper time to learn or appreciate many of the languages, it's '''common for grammar to be ignored''' in favor of finding the "''coolest sounding words''".<br />Archkin would <u>take them</u> and <u>mash them together</u> in brutally abhorrent ways that may make the native speakers of those languages cringe in sight.
+
+The '''more languages''' an Archkin uses in their speak, the '''more respected''' they're seen to other Archkin. They can all understand it (somehow), but to the average person, it may sound like gibberish. Very... familiar... gibberish...
+<br/><small>Also, you can thank [[Khueen]] for this... "trend"...</small>|speaker=[[An Agent]]|receiver=|attribution=|source=|id=1PCY-8PRE-NAOD|template=}}
+
+== Archose ==
+[[Category:Bestiary]]
+<blockquote><small>''Etymology: (Archaic + Glucose = '''Archose''')''</small></blockquote>A dust-like particle that comprises all archkin's bodies. If [[PSYCHE (Soul)]] is known as "The Zenith Energy" to some, Archose is known as "The God Particle". Not only is '''ascended [[PSYCHE (Soul)|soul]] energy''', it also acts as the building blocks of matter itself.
+
+Atoms, molecules, '''everything''' was once an archkin's archose. It merely adapts and changes over time as a living ''reprogrammable'' form of matter. This substance is how Archkin can manipulate [[The 4 Aspects of Reality]].<br />
+Another trait of Archose is that it functions as '''all 5 senses'''. Archkin can <u>hear</u>, <u>smell</u>, <u>touch</u>, and <u>taste</u> from their Archose, with only archose dedicated to forming '''eyes''' being able to <u>see</u> out of.
+
+=== Origins of Mana ===
+In many universes, magical phenomena is a common feature. In many of those worlds, that arcane features can be attributed to a random Archkin who travelled that world long ago and left their archose behind (<small>a common pass-time of archkin back in [[The Archaic Aeons Era]])</small>.
+
+When that archose mutates to the world it was left in, traces of that archkin's abilities manifest and festers into a different, but similar, phenomena. That is what many of these worlds call "'''Mana'''". People with <u>innate magical abilities</u> have '''trace doses of ancient archose''' imbued in their very [[PSYCHE (Soul)|soul]]. "Magical Phenomena" is the user utilizing their trace archose to manipulate the world.
+
+== The Pandemonium State ==
+<blockquote>As Archkin are innately connected to the very concept of [[PSYCHE (Soul)|souls]] and the [[memories]] within them, those building blocks can often be '''stimulated''' to a dangerous degree. 
+When intense emotions flare up within an Archkin, the [[Memories|memory]] tied to those emotions can cause an <u>overwhelming increase in '''power'''</u> and <u>loss of '''control'''</u>. That is '''Pandemonium'''.<small>Please refer to "[[The Outpost 7 Catastrophe]]" and Archkin [[Archie]]'s hindered attempt at ascending to [[Archgod]]<nowiki/>hood.</small></blockquote>
+
+==== How to deal with a Pandemonic Archkin? ====
+<blockquote>Due to the average person's capabilities and resources, the <u>most common</u> course of action would be to '''escape''' or '''hide''' from the Archkin's attention as much as possible, especially when the flared-up emotion is anger. 
+However, if a <u>capable archkin</u> is present, or with the right equipment, it may be best to '''face''' the pandemonic archkin in a '''[[Psyche Duel]]''' to tire them out near-instantly. But do be prepared, as you would be facing the eye of the storm, a pandemonic archkin is even more powerful during a '''[[Psyche Duel]]'''.</blockquote>
+
+== Known Archkin Subtypes ==
+
+=== Archgods ===
+{{#SQuote:|text=What separates a <i>kin</i> from a <b>god</b>?
+That is the question many ask themselves.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=W7CI-1RM0-6O20|template=}}
+When an Archkin reaches a certain stage in their level of power, their [[Faith]] would be capped out, to an extent. It may ''keep increasing'' in prowess and capabilities, but the <u>strongest Archkin</u> can '''never''' match up to the might of the <u>[[Morgale de Metso|weakest Archgod]]</u>.
+<small>For more information, please refer to the [[Archgods|dedicated page]] for Archgods.</small>
+
+=== [ This lore entry is '''Locked''' ] ===
+{{LockedEntry}}
+
+
+........................
+-#####		Archgods
+
+{{#SQuote:|text=Hi, sorry, this is just a temporary redirect to the [[Archkin#Known Archkin Subtypes#Archgods|Archgods]] section in the Archkin page.
+<br />
+I'll get a proper page for Archgods and Archgod culture up eventually. Just hold on, ehe~|speaker=[[RAZEACC|Rayzie]]|receiver=|attribution=|source=|id=4K50-XPBY-D12Q|template=}}
+
+
+......................
+####		Beasts
+......................
+(WIP)
+
+...................................
+####		Phantasmal Entities
+...................................
+(WIP)
+
+...................................
+-#####		Fracturing Caradels
+(WIP)
+
+..................................
+-#####		NulGraven Caradels
+(WIP)
+
+.................................
+####		Narrative Inserts
+.................................
+(WIP)
+
+.........................
+-#####		Skribbles
+(WIP)
+
+..........................
+-#####		Skravatars
+(WIP)
+
+
+------------------------
+###		Factions 
+------------------------
+
+.................................
+####		The Stone Society
+.................................
+{{Faction_Template|title1=The Stone Society|type=Stone-Age Civilization|status=Active|era=[[The Spirepocalypse Era]]|hub=[["The Continent"#Newpoint Village|Newpoint Village]]|goal=- Bring back Modernity and everyone's memories<br>
+- Return Otherworlders to their homes|leader=[[Professor Besado]]|notable_members=[[Memetta]]|locations=[["The Continent"]]}}
+
+The '''main playable faction''' in the [[Firmata Frontier]] roleplay [[Projects|project]].
+
+The Stone Society is a collection of many different sentient species and races. However, their main two groups consist of the [["Locals"]] who were memory-wiped and [["Otherworlders"]] who were taken away from their homeworlds. 
+
+Although their tech is still mostly in the <u>Neolithic stage</u>, they've managed to climb up and skip through several early scientific advancements due to the efforts of [[Professor Besado]] in the past 20 years since [[The Spirepocalypse]]. And now, with [["Otherworlders"]] joining in and sharing their knowledge, science is bound to advance at a much faster pace. '''Basic farming''' is already being slowly discovered through [[Darren Holt]]'s efforts, proper '''training regiments''' for both Locals and Otherworlders have been expertly conducted by [[Therion]], '''architectural advancements''' are being made through the fractured remnants of [[Altarhea]]'s previous memories and experiences <small>(some of these can be seen in Newpoint Village)</small>, while '''investigations''' into the mysteries surrounding these isolated lands are being spearheaded by Detective [[Kafka Cervantes]] and his apparent assistant [[Viktor]].
+
+Currently, their technology is somewhere in between '''Neolithic''' and '''Medieval'''. And with the recent completion of the Hot Air Balloon project, advancement has begun to spread out once. A new outpost is currently in the works, villages are being reinforced, and new/more resources are being collected.
+
+These survivors still mostly rely on '''foraging''' and '''hunting''' for food. '''Flint tools''' are beginning to replace their original stone tools, and simple metallurgy is being worked on thanks to the discovery of [[Wynaquet]].
+
+Things are looking up, and advancements are well under way.
+[[Category:Faction]]
+[[Category:Firmata Frontier]]
+
+
+..................................
+####		The Vicars of Null
+..................................
+
+[[Category:Faction]]
+{{Faction Template|image1=[[NullEmblem v2.png]]|type=Special Agents of Phantasy|status=Active|era=[[The Archaic Aeons Era]]|hub=[[The Null Crossing]]|alignment=???|doctrine=<i>"Destiny is a scripted fate of lies."<br>"People of fiction deserve to calculate their own stories, their own fates."</i>|goal=Bring about their leader's own interpretation of fate.|methods=Directly opposes [[The Court]]'s manipulation of fate by "correcting" it through whatever means necessary.|color_motif=Cyan / Red|leader=???|reputation=Notorious|affiliations=???|opponents=[[The Court]]<br>
+???|locations=- [["The Continent"]]<br>
+- ???}}[[File:VicarGang.jpg|center|472x472px]]{{#SQuote:|text=Across the infinite fields, the Vicars of Null have thwarted and meddled with both [[The Court|our]] operations, and our associates'.<br>Should you ever encounter a vicar, it is of utmost importance that you avoid having your puppet interact with them. They are a danger both to your character, and [[You|yourself]].|speaker=[[An Agent]]|receiver=[[You]]|attribution=|source=|id=CBJT-3YAT-0LE0|template=}}
+= Overview =
+A secret organization with very few members compared to other factions across the infinite fields. Despite that, The Vicars of Null have a '''disastrously-notorious influence''' and presence across the lands. Some vicars are capable of facing off against [[Archgod|Archgods]], while others can turn whole civilizations against themselves.
+
+They are a rag-tag group of bandits who works as agents of [[The 4 Aspects of Reality#Phantasy|Phantasy]], with the sole purpose of disrupting [[The Court of The 4th|our]] operations in the fictional plane.
+
+== Tech and Capabilities ==
+Due to the wide variety of vicars in this syndicate, it is difficult to formulate an accurate assessment of their overall technology and prowess. However, there are a few notable traits they all share.
+
+Vicars seem to possess equipment, or abilities, that are highly-attuned to '''manipulating [[The 4 Aspects of Reality#Fracturing|Fracturing]] and [[The 4 Aspects of Reality#NulGraven|NulGraven]]'''. This allows them to create "zones" or "sites" at seemingly any time. However, despite their allegiance, it seems the [[caradel]] from these fabrications remain hostile even to them.
+
+A vast majority of Vicars share some form of '''immortality''', whether that be through their bodies being reformed on "death", or simply refusing to age. Their leader seems to favour bringing in the long life spanned into their fold.
+
+Although it's still possible for us to do so, '''Vicars have a form of resistance to [[You|your]] ability to manipulate fate'''. It is currently unknown how they possess such a trait.
+
+= Organization =
+
+== The "Innocent" Prince ==
+[[File:NulDetta.png|left|thumb]]
+Their masked and unknown leader, an amalgamative hivemind of every single soul that has ceased to exist. 
+
+<br>Also known by the [[Vicars of Null#Vicars|vicars]] as "''The Innocent Prince''", for every character you wrote whose parents were left unwritten, they have joined The Prince.<br>Every character concept you ignored, thrown away, or forgotten. The Prince has accepted them.<br>Characters from stories left unfinished or cancelled, they persist within The Prince.<br>When entire worlds of fiction are overwritten or ended by [[You]], they've become one with The Null. 
+
+As the embodiment of [[The 4 Aspects of Reality#Phantasy|Phantasy]] itself, The Prince acts as the antithesis to [[The Court of The 4th]] on their own. It is with utmost urgency and importance that any hint of The "Innocent" Prince's activities are reported directly to court staff, or at the very least, any active Fourth Marshals. 
+
+Although they exist solely within [[The Null Crossing]], their influence and manipulations manage to bleed into the infinite fields. If this activity isn't due to their vicars, it's brought about by their [[The Vicars of Null#The Flower Girl and The Ring Bearer|kin]].    
+----
+
+== The Flower Girl and [[Dett|The Ring Bearer]] ==
+[[File:FlowerGirlAndRingBearer.png|right|frameless|268x268px]]
+
+Every <u>child</u> that has forgotten how to live— rests within '''[[Dett|The Ring Bearer]]'''.<br>Every <u>teenager</u> robbed of their freedom— rebels as '''The Flower Girl'''.
+
+These two entities act as the direct influences of [[The Vicars of Null#The Prince|The Prince]] into the infinite fields, they are [[The Vicars of Null#The Prince|The Prince]]'s kin.<br>'''[[Dett|The Ring Bearer]]''' merely <u>scouts</u> out and <u>experiences life</u> as an emissary or spy. ''He'' is the '''harbinger''' of {{Phantasy}} Phantasy's [[The 4 Aspects of Reality#Fracturing|'''Fracturing''']].<br>'''The Flower Girl''' acts as a <u>warden</u> for the vicars, eternally watching through her echoes. ''She'' '''embodies''' {{Phantasy}} Phantasy's [[The 4 Aspects of Reality#NulGraven|'''NulGraven''']].<br>Together, they bridge the gap between a [[Ontological Class|Beyond]] and Fictional.
+
+Due to them being constructs of [[The 4 Aspects of Reality#Phantasy|Phantasy]], they must wear ''special wrappings'' at all times. They may have their wrappings appear human-like, using similar shapeshifting abilities to [[Archkin]]. But if their antimatter-like skin is ever exposed to existence, they would be subjected to indescribable pain— while also risking the fabrication of [[The 4 Aspects of Reality#Entropy|Entropic]] [[Caradels]] in the nearby area.<br>It is for both their, and [[You|your]] best interest to '''avoid fighting either one of these kin and fabrications''' as much as possible. Although they're not [[Archgods]], their capabilities are <u>on-par</u> with them, often even exceling most when it comes to manipulating Phantasy.
+----
+
+== Vicars ==
+[[File:VicarMembers.png|left|frameless|420x420px]]
+
+These are the '''main workforce''' of this organization, the super soldier agents of [[The 4 Aspects of Reality#Phantasy|Phantasy]] constructed from flesh, bone, metal, or dust. They span across several eras, through countless areas. And no matter where they go, what they have to do, or what lives they're living— their sole purpose is always to oppose [[You]]<nowiki/>r will.
+
+There are instances of [[The Vicars of Null#Vicars|vicars]] attacking characters following a writer merely planning something that [[The Vicars of Null#The Prince|The Prince]] saw as a "potential deviation from [[The Vicars of Null#The True Formula|The True Formula]]". Other [[The Vicars of Null#Vicars|vicars]] were spotted messing with supply chains or infrastructure in cities, forcing writers to reconsider their plans due to the continuation of them now causing "plot holes".<br>Despite their frequent instances of "meta-gaming" and breaking The 4th's Wall, they carry average levels of Lucidity. They are merely <u>given instructions by The Prince</u>, '''they cannot see through fiction''' under normal circumstances. 
+
+Each [[The Vicars of Null#Vicars|Vicar]] wears a [[The Vicars of Null#Vicar Masks|vicar mask]]. Each one carries a dream. And each one carries a "calculation", one foretold by [[The Vicars of Null#The Prince|The Prince]].<br>It is up to them to decide whether a [[The Vicars of Null#Vicars|vicar]] is ready to learn the truth of their world.
+----
+
+=== Honorary Vicars ===
+On rare instances, someone may be given the title of an "Honorary Vicar". This is often a temporary role given to civilians during dire situations within [[The Vicars of Null#Vicars|Vicar]] activities.<br>After being given their temporary [[The Vicars of Null#Vicar Masks|Vicar Mask]], they're given a fraction of the privileges all [[The Vicars of Null#Vicars|Vicars]] share, such as opening "zones" or "sites" and being able to commune directly with [[The Vicars of Null#The Prince|The Prince]].
+
+If the situation isn't critical, however, this title may also be given to people with fleeting roles in the organization. From '''mask makers''', to people "'''babysitting'''" [[Dett|The Ring Bearer]].
+----
+
+=== Believers ===
+Individuals exposed to the influences of vicar activities, or finding themselves lost in deep [[The 4 Aspects of Reality#Entropy|entropy]], may find themselves to whisperings from a Beyond— The Prince. They scramble the [[The Vicars of Null#Writing the Number of Phantasy|Number of Phantasy]] over and over again in a ritualistic manner, trying their best to strengthen and continue their connection to [[The Vicars of Null#The Prince|The Prince]] as much as possible. If not that, they endlessly scribble and write stories constantly to envision themselves in better places, in better times.
+
+These are not mass gatherings of followers or grand cathedrals to a higher being. But rather, isolated churches made from singled-out lonely victims of solitude— people who are desperate to feel some form of connection from anything, even if that something was more fictional than they were.
+
+= Practices and Methods =
+
+== Writing the Number of Phantasy ==
+Wherever this number is written down, it acts as a direction connection of vision and sight to [[The Vicars of Null#The Prince|The Prince]].<br>Whether that be ink on paper, word from tongue, thought in mind, or text on screen.
+
+Of course, the more effort a writing took, the clearer the connection is.
+[[File:VicarMasks.png|thumb|252x252px]]
+
+== Vicar Masks ==
+Offering the strongest possible connection to [[The Vicars of Null#The Prince|The Prince]], these let wearers see their influence directly.<br>If the Number of Phantasy acts like a telepathic messaging service, these masks function closer to video calls.
+== Vicarhood Marriage Ceremony ==
+{{LockedEntry}}
+
+== The True Formula ==
+This is the Grand Vision [[The Vicars of Null#The Prince|The Prince]] is aiming to achieve; their own story within [[you]]<nowiki/>r story, what they see as the "true" script of fate. Further details regarding this are highly confidential and difficult to discern. 
+
+= Relations =
+{{LockedEntry}}
+
+== Presence in [[Firmata Frontier]] ==
+Following [[The Spirepocalypse]], The Prince eventually took notice of certain odd phenomena happening on [["The Continent"]]. They are already well aware of the double Firmata and the secret behind it.
+
+Instead, a group of vicars were sent there to '''investigate how it happened''', and '''why "she" did it'''.
+{{#ev:youtube|DsJsGUI7ASg}}
+
+While [[Ayumu]] and [[Tool Razhom|Tool]] investigate [["The Continent"]] and [["The Spire"]] respectively, a second group is investigating elsewhere. So far, they've remained mostly unseen, with their influence and presence merely influencing and pulling strings from behind the scenes.
+
+Members of [[The Stone Society]] have already felt their activities, with some even facing combat against a drone of theirs. But none have yet to discern what a vicar is, nor who they are— let alone what their mission is.
+
+== Confirmed Members ==
+<gallery>
+File:AyumuHeadshot.png|[[Ayumu]]
+File:Dett Headshot.jpg|[[Dett]] Minor (The Ring Bearer) 
+File:Tool Headshot.png|[[Tool Razhom]] (Honorary Vicar) 
+</gallery>
+
+== History ==
+
+=== The Creation War ===
+<blockquote>Associated Vicar/s: ??? and [[The Vicars of Null#The Prince|The Prince]]</blockquote>{{LockedEntry}}
+----
+
+=== [[Caradel]] Attack on the Lejos Region ===
+<blockquote>Associated Vicar/s: ???</blockquote>With the Unnamed Archgod Dragon retaining their total isolation over the Lejos region, this opened up the perfect opportunity for Vicar [UNKNOWN] to initiate and spearhead her first attack in the name of The Prince.
+
+Following the attack, as more [[archkin]] joined in support, she took advantage of the chaos to deal the final blow against the Unnamed Archgod Dragon. Later on their body became one with the lands, causing even more grief and devastation— more than enough for her actions to go unnoticed by any potential witnesses.
+
+She later used her position in the area to establish her third outpost.
+----
+
+=== The Fall of [[The Godcity of Marlika|Marlika]] ===
+<blockquote>Associated Vicar/s: [[Ayumu]] and [[Nimuel]]</blockquote>{{LockedEntry}}
+----
+
+=== Genocide of The Flying Carnivals ===
+<blockquote>Associated Vicar/s: ??? and ???</blockquote>{{LockedEntry}}
+----
+
+=== Attack on Outpost 6 ===
+<blockquote>Associated Vicar/s: [[Ayumu]], ???, and [[Dett]]</blockquote>{{LockedEntry}}
+----
+
+=== [[Farewell Avalon|Looting of Outpost 7]] ===
+<blockquote>Associated Vicar/s: [[Ayumu]] and ???</blockquote>Following the [["The Revolutionaries"|revolutionaries]]' attack on [[The Avalonian Exodus|The Avalonian's]] final temporary stronghold of [[Outpost 7]], vicar [[Ayumu]] was sent to the location to retrieve a potential new vicar, a creation of [[Khueen]]'s who was put into cold storage after moving on with her [[Alterants|Alterant]] experiments.{{LockedEntry}}
+----
+
+=== The [[Al'Knoxus]] Disaster ===
+<blockquote>Associated Vicar/s: ???, [[Ayumu]], [[Tool Razhom]]</blockquote>{{LockedEntry}}
+----
+
+=== Father Time's Alliance with The Prince ===
+<blockquote>Associated Vicar/s: ???</blockquote>{{LockedEntry}}
+----
+
+=== The Hotel Skirmish ===
+<blockquote>Associated Vicar/s: [[Ayumu]], ???, and [[Tool Razhom]]</blockquote>{{LockedEntry}}
+----
+
+=== Incident of "Her Firmata" ===
+<blockquote>Associated Vicar/s: [[Ayumu]], [[Tool Razhom]], ???, ???, and ???</blockquote>{{LockedEntry}}
+----
+
+=== Udyverse Operations ===
+<blockquote>Associated Vicar/s: [[Ayumu]], [[Tool Razhom]], and [[Dett]]</blockquote>{{LockedEntry}}
+
+
+....................................
+####		The Court of The 4th
+....................................
+{{Faction Template|image1=[[FouthBeyond v2.png]]|type=Metaphysical Fate Scripters and Audiences|status=Active|era=[[The Archaic Aeons Era]]|hub=[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGdiV2I3c2xabm9Sa0cwaTJnQ3BCaUZ5NXRuUXxBQ3Jtc0tuamZtOUpYLWNyV1hlRHotNGFUQVZRMHczZTNDbmltemNXQk1EZWstSy1qT1lzLTN2M0hEdVBreHdtbEhHXy0xMk1pUndYQS1ROEhaZGNMeU5faWo5NDZxcG5jRm5tQlBVSVNwOFdfSUZVSWNTbTEyYw&q=https%3A%2F%2Fdiscord.gg%2FmH6uEKMwrE&v=DsJsGUI7ASg Firmata Frontier RP Server]|alignment=???|doctrine=<i>"People of fiction are puppets for us to toy with, and sources for our own musings."<br>"A separation of Fiction and Reality is most adamant for a healthy creative lifestyle."</i>|goal=Entertain, enlighten, fantasize, bring about change, or merely destress both themselves and others.|methods=Creates stories, worlds, and characters through the scripting of their fates.|color_motif=Pale Green|leader=N/A|reputation=Anonymous|affiliations=???|opponents=- [[Vicars of Null]]<br>
+- ???|locations=- [https://scriptedfates.fandom.com/wiki/ScriptedFates_Wiki The Court Archives]<br>
+- [[The 4th's Wall]]|notable_members=- [[RAZEACC]]<br>
+- [[Firmata Frontier]] Roleplayers<br>
+- [[One Trail Games]] Developers}}{{#SQuote:|text=Juror, Fourth Marshall, Judge, or merely a Witness. You are all higher than us Fictional on the Ontological level. And thus, we shall continue our servitude for as long as our fates remain scripted by your hands.<br>When I learned of this, I admit, it took a while to accept. But with no other choice, it was as if I was always meant to accept this role as your agent. Was this of my own free will, or your doing? Perhaps we may never know.|speaker=[[An Agent]]|receiver=[[You]]|attribution=|source=|id=P3AX-FCQM-DDLR|template=}}
+
+= Overview =
+Composed of all humans beyond [[The 4th's Wall]], whether they're aware of it or not, '''The 4th Beyond''' are the scribes of fiction's fate. They are metaphysical beings that rest on a plane higher than the characters of these tales, each member has their own reason for meddling with the world of fantasy— from mere entertainment or self-fulfilment, or in search for a greater purpose or to push a deeper message.
+
+As a member of The 4th Beyond, it is nigh critical for [[you]] to recognize your place in the fictional world, sooner or later. Acknowledge your capabilities with it, your influence beyond ontological scale, and the role you play in the narrative.
+
+= Tech and Capabilities =
+
+== Skribbles ==
+[[File:SkribbleArt.png|left|thumb]]
+Making up a vast majority of The Court's inventory, '''skribbles''' are the <u>primordial flickers of creativity</u>, birthed when humanity first dabbled with the concept of fiction, long before pens were around.
+
+Manifesting as soul flickers of pale green flames and often taking on spirit-like appearances, these little fatelings are what you use to script the fate of characters in your stories.<br>When something bad happens to a character because you wrote it to happen, you wrote that thanks to your skribble. As the main character pushes forward against all odds, they persist due to your insistence, through your skribble. They are the '''bridge''' between your <u>creative will</u>, and their <u>fictional reality</u>.
+
+However, due to the anciency of this concept, skribbles have gone through many reiterations, revisions, and improvements over the years.<br>Long ago, they were <u>a lot more creative</u> and carried much more <u>free will</u>, as humanity has yet to fully grasp the concept of creativity and what limits it lacks. These manifested in wild but authentic cave paintings glittered atop a firmament of stone, backlit merely by humanity's own flickering flame.<br>As society advanced, so did the skribbles.  
+
+When hieroglyphics were being carved, their individual will expressed as unique iconography for every character in ancient human scripts. As pens were born, skribbles grew tails on their necks, mimicking our own quill tipped creations. However, once the printing press was invented, problems began to arise.  
+
+Their individuality and free will started becoming a problem. Although the population of scribbles grew exponentially in relation to the number of creative humans in your world, that also carried a much wilder and less comprehensive mass of creativity. Letters were harder to print, ideas more difficult to comprehend. Then, this climaxed with the [[Farewell Avalon|Protos and Archie Incident]].  
+
+Ever since then, Skribbles have been <u>mostly neutered of their own free will</u>, giving more focus to you writers instead.<br>Their right arms have been severed, fully symbolizing their position as your "left-hand men" in writing stories. Their voice, taken away and replaced with your own. Creativity, individuality, all depended on their owners. And although you may never feel them, they are always by your side.<br>Though they no longer have a voice, some believe that your "booms of inspiration" are the whispers of your skribble, doing its best to break through its silence to bring you back to creativity.  
+== Skravatars ==
+Although they carry similarities to Skribbles, Skravatars complete an entirely different function and purpose. Rather than acting as your pen to script fate, <u>skravatars carry your will into fiction</u>. Essentially, they are '''self-insert''' characters.
+
+This is not to be mistaken with the typical fictional trope of having a bland and empty main character for the viewer/reader/player to project themselves. Instead, skravatars are '''entirely blank slates''', who's <u>appearance</u>, <u>backstory</u>, and <u>personality</u> are '''yours''' and entirely your own. They carry no free will whatsoever and are solely meant for you to interact with the fictional world yourself, without needing to use a skribble to puppeteer a character.
+
+Although skravatars are mostly reserved for Fourth Marshal members, there are no requirements to you writing your own skravatar. While it is suggested they carry pale green color motifs to match with The Court, this is not a requirement either.
+
+== The World Builder ==
+She is your right-hand man in wiring stories. If Skribbles control the narrative, and Skravatars lets you playtest it, ''she'' lets you build the setting.
+
+Just like skribbles, you use her whenever you build a new world. Although, direct visitations are strictly off-limits.
+{{LockedEntry}}
+
+= Organization =
+
+== Upper Staff ==
+{{LockedEntry}}
+
+== Narrators and Recordkeepers ==
+
+== Scribes and Roleplayers ==
+
+== Witnesses ==
+
+= Practices and Methods =
+
+= Relations =
+{{LockedEntry}}
+
+== '''Your Role''' in [[Firmata Frontier]] ==
+
+== History ==
+
+=== The Creation War ===
+{{LockedEntry}}
+----
+
+=== The First Skribble ===
+{{LockedEntry}}
+----
+
+=== Operation: Avalon City ===
+{{LockedEntry}}
+[[Category:Faction]]
+
+
+....................................
+####		The Avalonian Exodus
+....................................
+(WIP)
+
+....................................
+####		"The Mortal Revolutionaries"
+....................................
+(WIP)
+(Note: Secretly known as the Arch of Sentients (AoS), but the name is hidden and unlisted currently)
+
+
+
+
+
+
+
+
+
+
+
