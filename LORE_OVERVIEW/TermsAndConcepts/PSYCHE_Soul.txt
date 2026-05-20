@@ -1,0 +1,165 @@
+{{Material Template|title1=PSYCHE (Soul) Energy|image1=<gallery hideaddbutton="true">
+Soul.gif|Unattuned
+Beyond SoulFlame.gif|[[PSYCHE_(Soul)#Soul Flickers|Flicker]]
+Khueen SoulFlame.gif|[[Khueen]] [[PSYCHE_(Soul)#Soul Flickers|Flicker]]
+</gallery>|type={{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasmal]] Frequency Energy|state=<data source="my_list">
+<ul>
+<li>N/A (Light) <small>(Standard)</small></li>
+<li>Solid/Gas <small>([[Spirite]])</small></li>
+<li>Plasma <small>([[PSYCHE_(Soul)#Soul Flickers|Flicker]])</small></li>
+</ul>
+</data>|rarity=<data source="my_list">
+<ul>
+<li>Common <small>(Source / [[Spirite]])</small></li>
+<li>Very Rare <small>([[PSYCHE_(Soul)#Soul Flickers|Flicker]] / Harvested)</small></li>
+</ul>
+</data>|value=<data source="my_list">
+<ul>
+<li>Cheap <small>([[Spirite]])</small></li>
+<li>Unbelievably Valuable <small>([[PSYCHE_(Soul)#Soul Flickers|Flicker]] / Harvested)</small></li>
+</ul>
+</data>|durability=Highly Delicate <br /><small>(Dissipates if not contained properly)</small>|mass=< 0.01kg|illuminance=<data source="my_list">
+<ul>
+<li>Dim <small>(Close to Dissipation)</small></li>
+<li>Bright <small>(Fresh/Strong)</small></li>
+</ul>
+</data>|color=Varies <small>(Based on frequency)</small>}}{{#SQuote:|text=A soul is what makes a being who they are.<br />
+Think of it as... a strawberry to a strawberry cake!|speaker=[[Khueen|Qhueen]]|receiver=[[You]]|attribution=|source=[[Beyond Eternity]]|id=H84C-Q0M0-M7U7|template=}}{{#SQuote:|text=Containing a being's ⁠[[Memories]] and ⁠[[Sentience]],<br />SOUL acts as the
+<b>substance</b> and <b>directive</b> of <u>life itself</u>.|speaker=[[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|Unknown]]|receiver=[[You]]|attribution=|source=|id=H84C-Q040-M2U7|template=}}
+When gazing into one's eye, you stand witness to their soul.<br />It comes in many names: <u>Psyche</u>, <u>Aura</u>, <u>Spirit</u>, <u>Essence</u>, even <u>Heart</u> in more emotional context.
+
+== Overview ==
+Due to the long-term connection of Soul to ⁠[[Archkin]], their '''frequency'''-resonating qualities have been '''imbued''' into the very concept of Psyche. For instance, the color/hue of your soul is determined by '''its natural frequency''', which varies from person to person, a trait directly linked to the frequencies of [[Archkin]].<br />In fact, it's often debated which came '''first''': The frequencies of <u>Archkin</u>, or the frequencies of <u>SOUL</u>.<br /><small>If you happen to know your soul's frequency, you may learn your soul's color by [https://www.flutopedia.com/sound_color.htm clicking here].</small>
+
+== SOUL as an Energy ==
+Soul is a truly powerful resource, some even refer to it as "'''The Zenith Energy'''", as it is the '''originator for all forms of energy.'''<br /><u>Heat</u>, <u>kinetic</u>, <u>sound</u>, <u>arcane</u>, <u>electrical</u>, <u>neurological</u>; some question how [[Archkin]] carry such great power within themselves.<br />But the true question is why such an invention was bestowed this level of privilege in the first place.
+
+== Attuned and Unattuned Souls ==
+[[File:Soul.gif|thumb]]
+When harvested from certain sources and processed, Soul starts off as unattuned. This means the [[memories]] within it are all empty, and it does not vibrate at any frequency. It can still be used in this state, but its uses are <u>highly limited.</u>
+
+The '''best use''' for Unattuned Souls is to <u>infuse it within a person</u>, attuning it to them and granting it power. Only when attuned can Soul do all manners of things to manipulate reality.<br />Only when attuned can it be considered "The Zenith Energy".
+
+== Brightness and Darkness of Souls ==
+
+This is determined by the '''balance of''' ⁠[[Memories]] and ⁠[[Sentience]] in the Soul.
+=== Soul Brightness Lifespan Sample ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Stage
+![[Memory]] Status
+![[Sentience]] Status
+!Soul Status
+!Notes
+|-
+|'''Beginning''' of Life
+|Gradually '''Growing'''
+|Fresh
+|'''Dim''' but brightening
+|Memories slowly grow to match Sentience, causing brightening Soul.
+|-
+|'''Middle point''' of Life
+|Peak
+|Peak
+|Brightest
+|Memories and Sentience are balanced and at their highest.
+|-
+|Life '''begins declining'''
+|Fluctuating
+|Slowly Dropping
+|Flickering
+|The constant unbalancing of the two elements cause a flickering soul.
+|-
+|'''Near''' life's end
+|Plummets/Drops
+|Plummets/Drops
+|Darkened
+|One element drops massively, causing a great unbalance and a darkened soul.
+|-
+|'''End''' of life
+|Reaches Zero
+|Reaches Zero
+|Brightest
+|As both elements balance out at zero, the soul glows bright one final time.
+|}
+
+
+This phenomena can be seen most frequently within ⁠[[Archkin]] and ⁠[[Thingamakin Elders]].
+=== Soul Brightness [[Archkin]] Sample ===
+<div class="mw-collapsible mw-collapsed">
+For '''[[Archkin]]''', they flicker as their approach finality. Then, right before demise, their soul energy bursts out akin to a '''supernova''', mimicking the last bright light of their essence.
+</div>
+=== Soul Brightness [[Thingamakin]] Sample ===
+<div class="mw-collapsible mw-collapsed">
+For '''[[Thingamakin]]''', their body's dust color is <u>determined entirely by their soul's frequency</u>. They cannot change this, unlike Archkin. Moreover, when a [[Thingamakin]] is close to finality, their dust grows darker, ''yet darker''. They don't glow bright at the end. They merely turn into '''white dust''' that scatter off lifelessly.
+
+<small>Some believe the sand you find in beaches carry traces of dead Thingamakin.</small>
+</div>
+
+== Extracting Soul ==
+The most common way of extracting Soul is through ⁠[[Memory Pieces]]. This is the '''easiest to transport''' and '''most reliable'''.
+
+However, this method isn't as effective for '''mass operations''' or '''major projects'''. For a mass exploitation of Soul energy, one must rely on an ⁠[[Archkin]] capable of '''manipulating''' {{Phantasy}}'''[[The 4 Aspects of Reality#Phantasy|Phantasy]]'''.<br />It can also be done through '''machines''', but this technology is locked away amongst the most nefarious of individuals or organizations.
+
+Extracting Soul is often seen as morally dubious and abhorrent, as it's essentially a '''slaughter''' of life. It is highly recommended against using this energy if you're wary of your own morality, or if you don't have any use for it anyways.<br />Either way, using it is difficult anyways considering most people lack the equipment for its utilization.
+
+== Utilizing Soul ==
+There are a multitude of different use-cases for Soul. However, without the proper equipment <small>(which most people won't have)</small>, it's often not worth going through all the hassle despite its powerful nature. It's simply impractical for the average person.
+=== Life Bestowment ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|
+|
+* 
+|-
+!colspan="2"|Life Bestowment
+|
+* Upon injecting Soul into an object or vessel capable of housing ⁠[[Sentience]] and ⁠[[Memories]], it gradually begins to develop a will of its own and act with its newly-given life.<br />This is useful for creating '''companions''' or '''armies'''.<br />However, '''this does not mean '''it can <u>create new [[Archkin|archkin]]</u>, as those can '''only be created''' by [[Beyond|Beyonds]]. The process for creating those living soul capacitors are far too complex for mere life bestowment.
+|}
+
+=== Energy Transmutation ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|
+|
+* 
+|-
+!colspan="2"|Energy Transmutation
+|
+* As the "''Zenith Energy''", under the right skills, equipment, and circumstances, you can '''change its properties''', either ''permanently'' or ''temporarily'', and <u>alter its state</u> to '''any form of energy'''.<br />This is how ⁠[[Archkin]] manipulate the {{Control}} [[The 4 Aspects of Reality#Control|Control]] aspect.
+|}
+
+=== Skill Acquisition ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|
+|
+* 
+|-
+!colspan="2"|Skill Acquisition
+|
+* By injecting ⁠[[Memory Pieces]] into yourself, you gain the [[Memories]] contained within. These can house '''abilities''' and '''skills''' as well.<br />As long as you're <u>physically capable of performing such feats</u>, you can instantly perform them yourself without spending any time genuinely training yourself.<br /><small>To find out how [[Memory Pieces]] are created, please check its specified page [[Memory Pieces|here]].</small>
+|}
+
+=== Soul Duplication ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+|-
+!colspan="2"|
+|
+* 
+|-
+!colspan="2"|Skill Acquisition
+|
+* The only use for Unattuned Souls.<br />By utilizing a similar process from Energy Transmutation, you can utilize specialized equipment to combine <u>someone's Attuned Soul</u> and an <u>Unattuned Soul</u> to turn that vessel-less soul into a '''copy of that Attuned Soul'''.<br />However, '''be warned''': This process is '''highly risky''' as there is <u>no guarantee the opposite may happen</u>.<br />If unlucky, that Attuned Soul may '''instead turn into another Unattuned Soul''', effectively <u>losing its memories</u> in the process.
+|}
+
+== Soul Flickers ==
+[[File:Khueen SoulFlame.gif|left|thumb]]
+These are a '''rare phenomena''' that aren't seen [[Beyond Eternity|very often]]. Unlike the light-like energy state Soul is typically found in, Soul Flickers feature a <u>plasma-like state</u>, taking on the appearance of a '''flame'''.
+
+It is noted that these seem to carry a semblance of independent thought and sentience, acting like '''extensions of a being's soul''', like a <u>drone but for a soul</u>.
+[[File:Beyond SoulFlame.gif|thumb]]
+Not much is known about Soul Flickers due to their rarity. '''More information is needed''' for further analysis.
+
+Some theorists believe Soul Flickers appear when a being's PSYCHE briefly '''overflows''' its vessel—whether due to <u>extreme emotion</u>, <u>fractured identity</u>, or exposure to <u>[[The 4 Aspects of Reality#Phantasy|Phantasmal]] phenomena</u>. None of these hypotheses have been confirmed.
+
+They are harmless under <u>normal circumstances</u>, though prolonged contact is rumored to do... something.

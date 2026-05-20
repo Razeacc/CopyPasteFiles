@@ -1,0 +1,5 @@
+(WIP)
+
+{{ScriFa Character|name=You|title=Member of The 4th|aliases=Viewer, Player, Juror, Scripter, Artist, Puppet Master|narrative_role=Narrator|archetype=Audience|color_motif=light green|audio_motif=4th Beyond Motif|debut_project=[[Beyond Eternity]]|project_appearances=[[Beyond Eternity]], [[Farewell Avalon]], [[Firmata Frontier]]|affiliation/s=[[The 4th Beyond]]|species=Human (Beyonder)|image1=[[Mirror.png]]}}
+[[Category:Character]]
+

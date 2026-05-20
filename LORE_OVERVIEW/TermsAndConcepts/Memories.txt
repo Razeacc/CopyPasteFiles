@@ -1,0 +1,52 @@
+{{Material_Template|image1=[[Memory.gif]]|title1=Memories|type=[[PSYCHE_(Soul)|Psyche]] Component|state={{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasmal]] Energy|rarity=<data source="my_list">
+<ul>
+<li>Common <small>(Source)</small></li>
+<li>Rare <small>(Harvested / [[Memory Pieces]])</small></li>
+</ul>
+</data>|value=<data source="my_list">
+<ul>
+<li>Useful<small>(Source)</small></li>
+<li>Unbelievably Useful <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|durability=<data source="my_list">
+<ul>
+<li>N/A<small>(Source)</small></li>
+<li>Stone-Like <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|mass=<data source="my_list">
+<ul>
+<li>N/A<small>(Source)</small></li>
+<li>0.5-5kg <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|illuminance=<data source="my_list">
+<ul>
+<li>N/A<small>(Source)</small></li>
+<li>Varies <small>([[Memory Pieces]])</small></li>
+</ul>
+</data>|color=Varies <small>(Based on frequency)</small>}}{{#SQuote:|text=Life given mass. <b>Puzzle pieces</b> of Soul.|speaker=[[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|Unknown]]|receiver=|attribution=|source=|id=WLYA-NL6T-1B2J|template=}}
+
+== Overview ==
+
+
+Memory is a resource <u>embodied by anything and everything</u> that can '''think''' and '''choose''' for oneself. It is what's contained and utilized by ⁠[[Sentience]] in the formation of ⁠[[PSYCHE (Soul)|PSYCHE Energy]] ('''Soul''').<blockquote><small>Memory is governed by the [[Fracturing]] half of {{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasy]].</small></blockquote>
+
+== Memory Contents ==
+Aside from the textbook definition of "Memories", it contains '''more''' than merely 'moments of time'.
+
+Memories are '''innate'''. They contain '''Experiences''', '''Abilities''', and '''Natural Instincts'''. In <u>rare cases</u>, they can be '''passed down to offspring''', usually in a '''locked''' state. Offspring would need to unlock inherited memories to access them.<blockquote>{{#SQuote:|text=Knowing how to <u>breath</u>, how to <u>beat</u> your own <b>heart</b>, when to <u>blink</u>, <b>how</b> to blink, when you <u>think</u>—<br />how a bird <u>flies</u>, why your life <u>flashes before your eyes</u>, and how Archkin <u>manipulate</u> and <u>twist</u> their <b>lies</b>.|speaker=[[An Agent]]|receiver=|attribution=|source=|id=WLYA-NL6T-1A2J|template=}}</blockquote>Memories are the '''Instructions''' telling your soul what to do and how to do things. Whether or not you can actually process said instructions, and how well you process them, depends on your [[sentience]].
+
+== Extracting Memories ==
+Normally, you may simply '''ask someone''' holding certain memories to <u>retell</u> what they have to say.<br />Or, you could be '''bold''' and '''dastardly''', doing something '''not many others dare to do''' in the modern age:<br /><u>Read a book</u>.
+
+However, if you mean how to '''extract''' memories, the process is a lot more hideous that you may expect.
+[[File:Memory Piece Maker.png|thumb]]
+
+=== [[Memory Pieces]] ===
+The method to acquire ⁠[[Memory Pieces]] is quite the '''delicate''' procedure, as you need to extract both a <u>sliver of ⁠[[Sentience]]</u> while '''actively thinking of the memory''' or experience you wish to extract. This process is proven to be even more difficult for '''subconscious''' memories, such knowing how to <u>breath</u> or <u>beat</u> your own heart.
+
+A ''certain apparatus'' is required, and it must be lodged into one's eye, the gateway to one's ⁠[[PSYCHE (Soul)|Soul]], to begin the process. More information can be found in the dedicate page to [[Memory Pieces]].
+
+Extracting a memory does '''not''' always remove it from the host—though certain procedures, mishandled, are known to leave fragments or gaps. Bits of a memory may <u>stay and regrow</u>, and some extra memories <u>may be extracted as well</u>. The process isn't perfect when handled by '''mortals''', with a lot of stakes riding on mere random chance.
+
+== Memory Amplitude ==
+If [[PSYCHE (Soul)]] relies on unique frequencies to determine its color, Memories utilize '''Amplitude''' instead. Amplitude determines '''how'''  [[Sentience]] should depict the memories, acting similar to Volume/Loudness in Sound Physics.<blockquote>Memory amplitude is influenced by <u>emotional intensity</u>, <u>clarity</u>, and the <u>age</u> of the memory. However, the system remains poorly understood currently with further analysis pending.</blockquote>

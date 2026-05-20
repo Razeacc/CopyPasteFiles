@@ -1,0 +1,16 @@
+{{Faction_Template|title1=The Stone Society|type=Stone-Age Civilization|status=Active|era=[[The Spirepocalypse Era]]|hub=[["The Continent"#Newpoint Village|Newpoint Village]]|goal=- Bring back Modernity and everyone's memories<br>
+- Return Otherworlders to their homes|leader=[[Professor Besado]]|notable_members=[[Memetta]]|locations=[["The Continent"]]}}
+
+The '''main playable faction''' in the [[Firmata Frontier]] roleplay [[Projects|project]].
+
+The Stone Society is a collection of many different sentient species and races. However, their main two groups consist of the [["Locals"]] who were memory-wiped and [["Otherworlders"]] who were taken away from their homeworlds. 
+
+Although their tech is still mostly in the <u>Neolithic stage</u>, they've managed to climb up and skip through several early scientific advancements due to the efforts of [[Professor Besado]] in the past 20 years since [[The Spirepocalypse]]. And now, with [["Otherworlders"]] joining in and sharing their knowledge, science is bound to advance at a much faster pace. '''Basic farming''' is already being slowly discovered through [[Darren Holt]]'s efforts, proper '''training regiments''' for both Locals and Otherworlders have been expertly conducted by [[Therion]], '''architectural advancements''' are being made through the fractured remnants of [[Altarhea]]'s previous memories and experiences <small>(some of these can be seen in Newpoint Village)</small>, while '''investigations''' into the mysteries surrounding these isolated lands are being spearheaded by Detective [[Kafka Cervantes]] and his apparent assistant [[Viktor]].
+
+Currently, their technology is somewhere in between '''Neolithic''' and '''Medieval'''. And with the recent completion of the Hot Air Balloon project, advancement has begun to spread out once. A new outpost is currently in the works, villages are being reinforced, and new/more resources are being collected.
+
+These survivors still mostly rely on '''foraging''' and '''hunting''' for food. '''Flint tools''' are beginning to replace their original stone tools, and simple metallurgy is being worked on thanks to the discovery of [[Wynaquet]].
+
+Things are looking up, and advancements are well under way.
+[[Category:Faction]]
+[[Category:Firmata Frontier]]

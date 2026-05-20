@@ -1,0 +1,92 @@
+{{Material_Template|image1=[[Sentience.gif]]|title1=Sentience|type=[[PSYCHE_(Soul)|Psyche]] Component|state={{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasmal]] Concept|rarity=<data source="my_list">
+<ul>
+<li>Common <small>(Source)</small></li>
+</ul>
+</data>|value=<data source="my_list">
+<ul>
+<li>Useful<small>(Source)</small></li>
+</ul>
+</data>|durability=Varies|mass=Varies|illuminance=Varies|color=Varies}}{{#SQuote:|text=Life given shape. <b>Hands shaping </b> [[PSYCHE (Soul)|Soul]].|speaker=[[ᴷ³ᴿ³ᴷ¹ ᴮ²ᴬ⁴ᴹ⁷ᴿ²ᴬ⁰|Unknown]]|receiver=|attribution=|source=|id=H413-NL6T-6857|template=}}
+
+== Overview ==
+'''Sentience''' is a resource <u>embodied by anything and everything</u> that can '''think''' and '''choose''' for oneself. It is what contains and utilizes ⁠[[Memories]] in the formation of ⁠[[PSYCHE (Soul)|PSYCHE Energy]] ('''Soul''').
+
+'''Quantity''' determines the <u>amount of memories</u> it can manage.<br />'''Quality''' dictates <u>how well</u> it can process and perceive [[memories]], playing closely to a Memory's [[Memories#Memory Amplitude|'''Amplitude''']].
+Alongside its capability of processing memories, higher <u>categories of Sentience</u> slowly opens up one's '''[[Firmata's Rolling System#Hidden Stats|Lucidity]]''', allowing glimpses at the '''[[Beyonds]]'''. <blockquote><small>Sentience is governed by the [[NulGraven]] half of {{Phantasy}} [[The 4 Aspects of Reality#Phantasy|Phantasy]].</small></blockquote>
+
+== Extracting Sentience ==
+Sentience can be extracted through <u>various means</u>, as it can be found on '''any physical matter''' that is in constant contact with <u>living beings</u>.
+
+When a '''physical part''' of a vessel's body is in <u>constant physical contact</u> with the vessel's '''sentience medium''':
+
+* Nervous System
+* Wires
+
+Those parts become '''imbued with its sentience''', meaning it <u>contains Sentience:</u>
+
+* Flesh
+* Plating
+* Blood
+* Oils
+* Fats
+* Hair
+
+In fact, most people often relate Sentience to '''DNA''', as it contains biological data from a living being. In the realm of ''Psyche Science'', '''<u>DNA</u> IS <u>Sentience</u>'''.
+
+When those sentience-imbued parts leak out or disconnect from the vessel, it contains '''trace-amounts of sentience''' that lasts for a few minutes before slowly dissipating. This is how ⁠[[Aeleps]] and ⁠[[Ubir]] trigger their respective "'''blood'''" related traits, and how ⁠[[Marlimatas]] '''maintain''' their ⁠[[Khueenite]] bodies utilizing the trace sentience contained within <u>oils</u> and <u>fats</u>.
+
+== Sentience Categories ==
+These are categories '''arranged in descending order''' based on how <u>aware</u> and <u>capable</u> each one is to process and utilize ⁠[[Memories]]. 
+
+These categories are not hard set, and some vessels ''may possess traits from <u>different categories</u>''.<br /><small>Sentience is not a stat—it is a ''gradient.'' Vessels shift across categories depending on <u>cognitive strain</u>, <u>metaphysical exposure</u>, and <u>Lucidity</u>.</small>
+
+=== Sentience Category List ===
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Category
+![[Firmata's Rolling System#Hidden Stats|Lucidity]] Rating
+!Holders
+!Notes
+|-
+|{{4th Sym}} '''Beyonder''' Sentience
+|[20]
+|[[Beyonds]]
+|As the <u>zenith of awareness and lucidity</u>, this level of Sentience is known for granting varying degrees of innate '''Omnipotence''' to the vessel.
+
+Unlike Archgodic Sentience, vessels with Beyonder Sentience are capable of '''gazing right through The 4th's Wall''' to bear witness to one of The [[Beyonds]]. Unlike other categories, Beyonder Sentience is '''relative to where the awareness is directed'''.<br />From the eyes of us Fictional, the Beyonds are ordered on this '''highest''' of levels due to their omnipotence in our plane.<br />However, in their own plane, these [[Beyonds]] may merely be at the '''Humanistic''' category, as they <u>lack omnipotence within their own realm</u>.<br />-[[An Agent]]
+|-
+|{{Archkin Sym}} '''Archodic''' Sentience
+|[10 to 19]
+|[[Archgods]]
+|Reserved for [[Archgods]] and other similar god-like beings. This category shares some similarities with Beyonder Sentience.<br />However, the main difference is that those with Archgodic Sentience are '''only <u>aware</u> of The 4th's Wall's existence'''. They are not capable of clearly seeing through it.
+|-
+|'''Mortalistic''' Sentience ([[You]])
+|[-5 to 10]
+|[[Mortals]] and [[Archkin]]
+|The '''most common''' category to living beings capable of actually reading and comprehending this document.<br />⁠[[Humans]], [[Alterants]], even ⁠most [[Archkin]]. Vessels normally considered "sentient" by textbook definition can be found in this category.
+|-
+|'''Emulistic''' Sentience
+|[-10 to -5]
+|Sentient AIs and LLMs
+|When a machine is designed to '''simulate''' sentience, it is categorized under Emulistic for its attempt at '''"emulating"''' Mortalistic sentience. They're only capable of this level of sentience due requiring '''supplied <u>sample data</u>''' and <u>information</u>, they cannot '''produce''' or '''generate''' either Sentience nor Memories on their own.
+
+Although most Animalistic vessels surpass Emulistic vessels, the sheer quantity of [[Memories]] some mechanoids can hold could even surpass that of Humanistic Sentience. The true prowess of this category is the '''vast storage capacity''' of [[Memories|memories]] that can be contained and accessed.
+|-
+|'''Animalistic''' Sentience
+|[-10 to -5]
+|Animals and Wild Beasts
+|Capable of <u>simply thought</u>, <u>problem solving</u>, and <u>memory retention</u>, but '''nothing too complex'''.
+
+It is, however, noteworthy to mention that ⁠[[Thingamakin Juveniles]]' memories become '''incompatible''' when their sentience progresses to that of ⁠[[Thingamakin Elders]], as they gradually jump up from Animalistic to Humanistic.
+|-
+|'''Cytoplasmic''' Sentience
+|[-19 to -10]
+|Microbes and Plants
+|Although this category contains the '''fewest amount''' of memories, it can at least do the <u>simplest of actions on its own</u>, or utilize <u>natural instincts</u>.
+|-
+|'''Artifistic''' Sentience
+|[-20]
+|Computers
+|Sharing similarities with Emulistic Sentience, but not nearly to the same degree of free will. Artifistic sentience is determined by its '''inability to utilize its own sentience''' without either <u>active external manipulation/influence</u> from another vessel, or <u>pre-determined actions</u> encoded within itself.
+
+You often find this category within ''computers'' or other similar electronic devices. Although, there is a major benefit to this category:<br />[[Memories]] contained using Artifistic Sentience can be '''transferred''' <u>without [[⁠Memory Pieces]]</u> through devices like Flash Drives.
+|}

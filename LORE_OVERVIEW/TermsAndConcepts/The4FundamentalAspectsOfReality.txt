@@ -1,0 +1,448 @@
+[[File:Aspects.png|center]]
+{{Material_Template|image1=<gallery hideaddbutton="true">
+SpaceAspect.png|Space
+TimeAspect.png|Time
+ControlAspect.png|Control
+PhantasyAspect.png|Phantasy
+</gallery>|type=Building Blocks of Reality}}
+
+Often known as "The 4 Fundamental Aspects of Reality", they are the '''building blocks''' of fiction.
+
+<br />{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]] and {{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]] work closely with {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to form the realm of <u>Existence</u>.<br />Meanwhile, {{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]] enlists aid from the ''vibrations'' of {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]. It two-times reality with this 4th aspect to help form <u>Non-Existence</u>.<br />Together, all 4 aspects form the lands we walk on, and can't walk on.
+
+<small>In the past, and partially in the present, they were '''manipulated''' by [[Archkin]] to perform <u>miracles</u> and <u>enact</u> their will.</small>
+{| class="fandom-table"
+|-
+!'''{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]''' 
+!Matter and Elements
+!'''{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]'''
+!Moments and Fate
+|-
+|{{AspectIcon|3}}'''[[The 4 Aspects of Reality#Control|CONTROL]]''' 
+|Energy and Physics
+|{{AspectIcon|4}} '''[[The 4 Aspects of Reality#Phantasy|Phantasy]]'''
+|Abstract and Nothingness
+|}
+
+== Aspectual Applications ==
+Think of these as the "'''type'''" of abilities  that Aspect Manipulation can do. While the aspects domain over certain parts of reality, applications are what the aspects do to these parts of reality.
+
+These types aren't '''hard-set''', some abilities can be considered under <u>multiple applications</u> at once as there are many different formulas that can bring you to the same solution.<br />If you feel and ability fits better under a different application, your thought is valid and aren't wrong to think so. You're likely to reach the same effect regardless.
+
+<div class="mw-customtoggle-myFirstText mw-customtoggle-myOtherText" style="color:#5DE29B">View Applications</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-myFirstText">
+=== Manifestation ===
+'''Creating''' or '''summoning''' something that wasn’t there. The '''inverse''' applies as well <small>(Sometimes breaks the laws of physics)</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Portals, Pocket Dimensions
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Probability Analysis
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Heat, Light
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Illusions
+
+|}
+
+=== Manipulation ===
+'''Altering''' or '''controlling''' what <u>already exists</u>.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Telekinesis
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Temporal Acceleration
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|<small>(also)</small> Telekinesis
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Memory Altering
+
+|}
+
+=== Movement ===
+Anything that '''repositions''' a target.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Teleportation
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Time period relocation
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Phasing
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Dream tunneling
+
+|}
+
+=== Perception ===
+Sensing, scanning, reading, or perceiving differently.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Spatial Awareness
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Clairvoyance
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Vibration Analysis
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Sentience Detection
+
+|}
+
+=== Reinforcement ===
+Buffs, enhancements, stabilizers.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Spatial Anchors
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Temporal Bubble Restoration
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Kinetic Amplification
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Emotion Aggravation
+
+|}
+
+=== Interference ===
+Debuffs, disruptions, breaks, negations, neutralizers.
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Aspect
+!Ability Sample
+|-
+|{{AspectIcon|1}} [[The 4 Aspects of Reality#Space|Space]]
+|Disturbance Cancellation
+|-
+|{{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]]
+|Temporal Bubbles as a whole
+|-
+|{{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]]
+|Physics Nullification Field
+|-
+|{{AspectIcon|4}} [[The 4 Aspects of Reality#Phantasy|Phantasy]]
+|Memory Corrosion
+
+|}
+<div class="mw-customtoggle-myFirstText mw-customtoggle-myOtherText" style="color:#5DE29B">Hide Applications</div>
+</div>
+
+== Space ==
+<blockquote style="border-left:3px solid #0065FF;padding-left:8px;">
+{{Material_Template|title1=Space|image1=SpaceAspect.png|type=Matter and Elements|color=Blue}}
+The most '''obvious''' of the 4 Aspects, as we '''see''' and '''feel''' it everywhere <u>at all times</u>.  
+</blockquote>
+'''{{AspectIcon|1}}SPACE''' encompasses '''Physical Matter'''; From the <u>smallest grains of sand</u> and <u>water</u>, to  the <u>smoke of a flame</u> and even the <u>fire</u> itself<u>;</u> this aspect handles everything you '''touch'''.<br />It works closely in-tandem with  {{AspectIcon|2}}[[The 4 Aspects of Reality#Time|TIME]] and {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to make up the physical plane.<blockquote><small>The '''most common''' aspect for [[Archkin]] to manipulate, as it's the easiest to <u>pick up</u> and <u>practice</u>.</small></blockquote>
+
+=== Sample Abilities of Space ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Shapeshifting
+|Manipulation
+|All [[Archkin]] have this by default, but some are <u>better</u>/<u>worse</u> at it.
+|-
+|Telekinesis
+|Manipulation
+|Pick up and move objects from afar.
+|-
+|Mass Compression
+|Reinforcement<br />Interference
+|Shrinking or growing objects without changing mass value.
+|-
+|Elemental Reverberation
+|Manipulation<br />Manifestation
+|Control Air, Water, Earth, or Fire.<br /><small>("Long ago, the four natio- wait, wrong series...")</small>
+|-
+|Matter Transmutation
+|Reinforcement<br />Interference
+|Changing item properties or states by altering its atomic structure.
+|-
+|Coordinate Echoing
+|Movement
+|Be in two places at once within a short distance. <small>("Can't touch me now!")</small>.
+|-
+|Spatial Distortions
+|Movement
+|Mess with the flow of space, making rooms lead to the wrong location.<small><br />(*Insert the average Scooby Doo hallway chase scene)</small>.
+|-
+|*Teleportation
+|Movement
+|Instantly shift one's coordinates.
+|-
+|*Nuclear Resonance
+|Manipulation
+|Split an atom. See what happens.<br /><small>("Yes, I copied this over From CONTROL too. Both aspects can do this" -[[RAZEACC]])</small>
+|-
+|*Density/Mass Manipulation
+|Manipulation
+|Force an object to increase or decrease its mass value. '''Very dangerous''': High risk of forming <u>singularities</u>.<small><br />("Yes, this breaks the laws of physics, I know" -[[RAZEACC]])</small>.
+|-
+|*Pocket Dimension Creation
+|Manifestation
+|Create an isolated secondary existence within an area <small>(doesn't come with a [[The 4 Aspects of Reality#Time|Time]] flow disconnect)</small><br /><small>(Not to be confused with [[Archkin#Psyche Planes|Psyche Planes]])</small><br /><small>("Domain Expa-wait... wrong series again, sorry..")</small>.
+|-
+|[ This entry is locked ]
+|Utility
+|Creation of [ This entry is locked ]
+|}
+
+== Time ==
+<blockquote style="border-left:3px solid #00FF72;padding-left:8px;">
+{{Material_Template|title1=Time|image1=TimeAspect.png|type=Moments and Destiny|color=Green}}
+This acts as one of the more '''subtle''' and '''inconspicuous''' aspects. Although we normally barely feel it, it's just as prevalent as {{AspectIcon|1}}[[The 4 Aspects of Reality#Space|Space]].
+</blockquote>
+
+{{AspectIcon|2}}'''TIME''' encompasses '''Moments in Reality'''; From the <u>present day</u> and the <u>happenings of yester-year</u>, to the scripting of <u>fates</u> and <u>futures</u> itself.<blockquote>
+
+=== Temporal Bubbles ===
+'''WARNING''':<br />When time in a region <u>de-syncs</u> from the time <u>outside</u> the region, a '''temporal bubble forms'''.<br />Once the bubble bursts <small>(when the time manipulation ends)</small>, the <u>closer something is to the edge</u>, the more '''damage severity''' it would experience as time quickly catches up/slows down to match the larger body.<br />
+
+<small>Due to how bizarre the concept of time is, this is the '''least common''' aspect utilized by [[Archkin]]. In fact, it's normal for attempts to manipulate [[The 4 Aspects of Reality#Time|TIME]] to <u>randomly fail</u>, even with the most skilled of users. This is the only aspect that actively resists manipulation, as its structure is self-correcting. But, there is another reason...</small></blockquote>
+
+=== Sample Abilities of Time ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Future Sight
+|Manifestation<br />Perception
+|See beyond into the scripted fates itself.<br /><small>(OOH OOH TITLE DROP, TITLE DROP!!! WOAHH-)</small>
+|-
+|Past Sight
+|Perception
+|View into the scripted fates of before.<br /><small>(it's not as funny the second time 'round...-)</small>
+|-
+|Causality Delay
+|Interference
+|Delay the effects of an action.<br /><small>(yeah this one's confusing...)</small>
+|-
+|Temporal Lock (Time freeze)
+|Interference
+|Changing item properties or states.<br /><small>("[https://jojowiki.com/The_World ZA WARUDO]")</small>
+|-
+|*Chronological Erasure
+|Manifestation (inverse)
+|Delete an event from occurring, along with its effects.<br /><small>("[https://jojowiki.com/King_Crimson KUNG KURIMUZON!!]")</small>
+|-
+|Reality Rewind
+|Manipulation
+|Reverse the flow of time to a past event.<br /><small>(<i>"Ahh- that's hot! It's Rewind Time!"</i>)</small>
+|-
+|*Temporal Bubble Restoration
+|Reinforcement
+|Nullify the effects of Temporal Bubbles.
+|-
+|*Temporal Looping Field
+|Manipulation
+|Endlessly reset to a point of time in a region until the effect nullifies.<br />'''WARNING''': Causes highly-volatile <u>Temporal Bubbles</u> that even Restoration can't fully nullify the effects of at times.
+|-
+|*Timeline Manipulation
+|Manipulation
+|Split, destroy, or effect an entire timeline.
+|-
+|[ This entry is locked ]
+|[ This entry is locked ]
+|[ This entry is locked ]
+|}
+
+== Control ==
+<blockquote style="border-left:3px solid #FFE900;padding-left:8px;">
+{{Material_Template|title1=Control|image1=ControlAspect.png|type=Energy and Physics|color=Yellow}}
+<u>Potential</u> Energy (stillness), <u>Kinetic</u> Energy (motion), <u>Heat</u>, <u>Electricity</u>, <u>Gravity</u>, <u>Waves</u>, ''<u>Vibrations</u>''— the aspect of {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] governs the existence of '''Forces''' and '''Energy'''.
+</blockquote>
+
+It's all around us like {{AspectIcon|1}}[[The 4 Aspects of Reality#Space|Space]]., but not as subtle as {{AspectIcon|2}}[[The 4 Aspects of Reality#Time|TIME]]. {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] fills in a gap between these two aspects to make up the physical plane. The only force ungoverned by Control is ''[[The 4 Aspects of Reality#Phantasy|sentience]]''. When diving deeper into psyche, another aspect takes hold, the 4th and {{AspectIcon|4}}'''final aspect'''.<blockquote><small>Mostly used for '''combat''', [[Archkin]] training with this aspect were often called "sweats"</small></blockquote>
+
+=== Sample Abilities of Control ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Kinetic Storage
+|Reinforcement
+|Store kinetic energy within yourself to use later.
+|-
+|Kinetic/Potential Regulation
+|Interference
+|Cause an object to move or stop moving.
+|-
+|Kinetic Burst
+|Interference
+|Forces kinetic energy onto yourself or others.<br /><small>("Yes, this is just like telekinesis")</small>
+|-
+|Frequency Analysis
+|Perception
+|Accurately sense what Hz something is resonating on.<br /><small>("Now you can tell when I put 2413Hz and 3142Hz anywhere!" -[[RAZEACC]])</small>
+|-
+|Velocity Redirection
+|Manipulation
+|Alter the direction of movement.
+|-
+|Matter Transmutation
+|Reinforcement<br />Interference
+|Changing item properties or states by altering its "true resonance frequency".
+|-
+|Sound Dampening Field
+|Interference
+|Nullify the vibrations in an area for silence <small>(or more nefarious purposes)</small>.
+|-
+|Vibration/Frequency Alteration
+|Manipulation
+|Forces targets to vibrate at specific frequencies.
+|-
+|Temperature Flow
+|Manipulation
+|Steal or give heat onto targets by syphoning or bestowing it vibrations.<br /><small>("Yes, [[The 4 Aspects of Reality#Space|Space]] can do this too, but with less precision. Different formula, same-ish result.")</small>
+|-
+|Kinetic Rift
+|Interference
+|Halt movement in a certain space while forcing intense kinetic force into anything touching the frozen region.<br /><small>(*Insert that one Dr Strange gif of him flying off into the distance)</small> 
+|-
+|Photon Command
+|Manifestation<br />Manipulation
+|Control luminosity, causing things to brighten or darken.<br /><small>("Photon readings: Negative. Shadows cutting deeper-")</small>
+|-
+|Inertia Manipulation
+|Movement
+|Immediately halt, pause, or extend the effects of inertia
+.<br /><small>("Yes, this ALSO breaks the laws of physics. I know... but it makes for some EPIC MID-AIR DRIFTS using planes!" -[[RAZEACC]])</small>
+|-
+|Electrical Flow
+|Manifestation<br />Manipulation
+|Manipulate or create electricity, simple.<br /><small>("I... ''think'' this breaks the laws of physics?" -[[RAZEACC]])</small>
+|-
+|*Gravity Shift
+|Manipulation<br />Movement
+|Change the flow of gravity by manipulating its flow/field.<br /><small>(Only effective within <u>timelines/universes</u>)</small>
+|-
+|*Nuclear Resonance
+|Manipulation
+|Split an atom. See what happens.<br /><small>("Yes, I copied this over to SPACE too. Both aspects can do this" -[[RAZEACC]])</small>
+|-
+|*Physics Nullification Field
+|Interference
+|Absolutely disable the concept of physics in an area. Have fun.<br /><small>("Not sure if this breaks the laws of physics." -[[RAZEACC]])</small>
+|}
+
+== [[Phantasy]] ==
+{{Material_Template|title1=Phantasy|image1=PhantasyAspect.png|type=Abstract and Nothingness|color=Cyan / Red}}
+From the manifestations of your '''mind''' and the '''thoughts''' that race in your head, to the thinking process of one's '''creativity''' and the overwhelming dread of '''regret'''. 
+
+{{AspectIcon|4}} '''[[The 4 Aspects of Reality#Phantasy|Phantasy]]''' is easily the '''most complicated aspect''' as it almost single-handedly governs the entirety of '''non-existence''' and '''abstract''' nature, only gaining assistance from {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] in order to maintain the '''frequencies''' of [[PSYCHE (Soul)]] phenomena and [[Memories#Memory Amplitude|'''amplitude''']] of [[Memories]]. Outside of the vibrations from Souls, you can tell when <u>pure phantasmal phenomena</u> is occurring when you're in the presence of any '''2413Hz''' frequencies. 
+
+On a first glance, most assume <u>Non-Existence</u> is the ''absence of Existence''. While partially true, in full contextuality, it's the realm of '''unmaterialized ideas''', '''concepts''', '''[[Memories|memories]]''', '''dreams''', '''emotions''', and [[PSYCHE (Soul)]].
+
+To properly handle such a monumental pillar, this aspect is split into <u>two halves</u>. 
+----
+
+=== [[Fracturing]] ===
+<blockquote style="border-left:3px solid #00FFFF;padding-left:8px;">
+This half acts as the '''thinking''' mind. '''Fracturing''' handles <u>[[Memories]]</u>, <u>logic</u>, <u>mathematics</u>, <u>quantum</u> phenomena, <u>probability</u>, and <u>rational reasoning</u>. It is noted for acting similar to an '''echo''' but for [[memories]] that have '''ceased to exist'''.
+</blockquote>
+
+=== [[NulGraven]] ===
+<blockquote style="border-left:3px solid #FF0000;padding-left:8px;">
+This half acts as the '''feeling''' mind. '''NulGraven''' handles <u>[[Sentience]]</u>, <u>imagination</u>, <u>emotion</u>, <u>dreams</u>, <u>instincts</u>, and <u>spiritual phenomena</u>. It is noted for acting similar to a '''virus''' or '''feral animal''' as it often mirrors the <u>most primal emotions</u> of all: '''Fear''', '''Anger''', and '''Hunger'''.
+</blockquote>
+
+=== Entropy ===
+<div class="mw-collapsible">
+{{LockedEntry}}
+</div>
+----
+
+=== Phantasmal Unity ===
+Despite the split between both halves, they <u>often share dominions</u> among each other, as if this very aspect is a '''thinking''' and '''conscious being'''; a <u>'''living aspect'''</u>. Although one half may control a trait, it may <u>occasionally be controlled by the other half</u> as well. The most notable dominion '''both''' control is [[PSYCHE (Soul)]].<blockquote>
+<small>Due to the nature of Phantasy, [[Phantasmal Entities]], and how this aspect is dangerously hostile towards them— this is the '''most taboo''' aspect for [[archkin]] to practice.</small></blockquote>
+
+=== Sample Abilities of Phantasy ===
+<small>Listings with * are '''only capable by [[Archgods]]'''.</small>
+{| class="mw-collapsible mw-collapsed article-table fandom-table"
+!Ability
+!Type
+!Notes
+|-
+|Dream Walking
+|Movement
+|Explore the dreams of someone while they're asleep. Maybe even hop into another person's dreams and leave from there.<br /><small>(*Insert that one episode from Dungeon Meshi)</small>
+|-
+|Illusion Casting
+|Manifestation
+|Cause someone to see something that isn't there.
+|-
+|Emotive Influence
+|Manipulation
+|Manipulate the emotions of someone to feel another way.<br /><small>("Yes, the genie CAN make people fall in love, it just doesn't want to")</small>
+|-
+|Cognitive Stalking
+|Perception
+|Read someone's mind, peer into their thoughts— without consent.<br /><small>(Roll for [[Firmata's Rolling System|Spirituality]] to resist this)</small>
+|-
+|[[Memory Piece]] Extraction
+|Manifestation<br />Manipulation
+|Pull [[Memories]] and [[Sentience]] from someone to craft a [[Memory Piece]].<br /><small>(*Can be done on a mass scale)</small>
+|-
+|Sentience Hijack
+|Manipulation
+|Command someone follow your will instead, may need to sacrifice some of your sentience. Hard to control 2 bodies at once, can confirm -[[RAZEACC]].<br /><small>(Roll for [[Firmata's Rolling System|Spirituality]] to resist this)</small>
+|-
+|Mathematics Actualization
+|Manipulation
+|View the code of reality and twist it to your whim. Twist the golden ratio, flip the Fibonacci Sequence, split atoms without catastrophe, and completely turn logic into your tool.<br /><small>("This is the most bizarre ability, even I don't really understand it myself" -[[RAZEACC]])</small>
+|-
+|*Soul Echoing
+|Manifestation
+|Attempt to create a copy of a [[PSYCHE (Soul)|soul]] by hand.<br /><small>(Requires [[PSYCHE (Soul)#Attuned and Unattuned Souls|Unnatuned Souls]])</small>
+|-
+|*Life Giving
+|Manifestation
+|Bestow life into something.<br /><small>(Cannot be used to revive the dead once the [[PSYCHE (Soul)|soul]] is gone)</small>
+|-
+|*''Living Dreams''
+|Manifestation
+|[This lore entry is locked]
+.<br /><small>("Yes, this ALSO breaks the laws of physics. I know" -[[RAZEACC]])</small>
+|-
+|[ Several entries are currently locked ]
+|
+| 
+|}
+
+<span class="spoilerblur">
+== Authority ==
+</span>
+{{LockedEntry}}

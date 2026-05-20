@@ -1,0 +1,2 @@
+(WIP)
+Idea: Firmaments created by highly-skilled Archgods that simulate worlds perfectly while also allowing its own time-processing methods. Time can flow slower, faster, or loop infinitely within a Firmata, but most stop as its default state. It takes skill for a Firmata to have faster/slower speed, even more skill to loop, and the highest skill to sync perfectly with the time outside. They're mostly used by the AoS to keep civilizations within Exspanses contained, isolated, and oblivious to the outside world and other civilizations.
