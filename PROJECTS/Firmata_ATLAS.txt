@@ -1,4 +1,2 @@
-------------------------------
-### 		Firmata: ATLAS 
-------------------------------
 (WIP)
+Idea: Built using 3D Unity 6000.3.7f1, it will be a low-poly world simulator system primarily designed to to simulate Firmata Frontier's "The Continent", eventually expand it to the entire Lejos Exspanse, and maybe reuse this system once again for the environments and/or stages in Fourth Marshal.

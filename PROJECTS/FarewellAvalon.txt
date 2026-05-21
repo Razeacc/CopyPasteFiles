@@ -1,6 +1,3 @@
--------------------
-### Farewell Avalon 
--------------------
 {{Project_Template|type=Videogame|genre=Top-Down Adventure Bullet Hell|release_date=2023|location/s=[[Outpost 7]]|image1=FarewellAvalon 3-4.jpg|time_period=[[The Revolutions and Exodi Era]]|poster_artist=<data source="my_list">
 <ul>
 <li>Poster: [[Shizukana Arts]]</li>

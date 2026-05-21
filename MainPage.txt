@@ -1,9 +1,3 @@
-==========================================
-##		 MAIN PAGE 		##
-==========================================
-
-
-
 <mainpage-leftcolumn-start />
 <div style="text-align: center; font-size: x-large; padding: 1em;">
 '''<small>Greetings, member of the jury.</small>'''

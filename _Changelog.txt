@@ -1,11 +1,15 @@
-Version 1.0
-Last Updated:
+Version 1.1
+Title: Welcome Back, Fiends and Friends
+Last Updated: May 21, 2026
 
 Main Additions:
-- 
+- Further segmented and separated the Bestiary pages into text files for each race and creature (except Phantasmal Entities for now)
+- Added more "Ideas" and ported Firmata Frontier Discord Mini Wiki entries into their respective pages.
 
 Main Changes:
-- 
+- Added "Title" to the _Changelog
 
 Main Removals:
-- 
+- Removed Header in the following Pages:
+Main Page, Firmata_ATLAS, FirmataFrontier, FarewellAvalon, BeyondEternity, _ProjectsPage
+- Removed and Depricated Mechanics_And_Systems file

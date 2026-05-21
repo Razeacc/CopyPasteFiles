@@ -1,6 +1,3 @@
---------------------------------
-###		Firmata Frontier 
---------------------------------
 {{Project_Template|type=Roleplay Server|genre=Science-Fantasy Neolithic Multiverse|release_date=November 2025|location/s=[["The Continent"]]|image1=<gallery hideaddbutton="true">
 FirmataFrontier Poster.png|Poster
 Full FirmaFrontier Logo.png|Title

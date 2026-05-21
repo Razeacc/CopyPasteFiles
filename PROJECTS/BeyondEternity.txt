@@ -1,6 +1,3 @@
--------------------
-### Beyond Eternity 
--------------------
 {{Project_Template|type=Videogame|genre=Visual Novel|release_date=2020|location/s=[[The Null Crossing]]|image1=<gallery hideaddbutton="true">
 Beyond Eternity poster final v2.jpg|Poster
 BeyondEternity Title Transparent v3.png|Title

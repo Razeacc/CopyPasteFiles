@@ -1,7 +1,3 @@
-==========================================
-##		 PROJECTS 		##
-==========================================
-
 <blockquote>A collection page of all the projects in Scripted Fates, arranged in <u>the order they were released</u> in.
 
 For a '''chronological order''' of the projects, please refer to the [[Overarching Timeline]].</blockquote>
