@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\",
+  "WorkspaceRootPath": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_Changelogs\\1.4_Changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "1.4_Changelog.md",
-              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md",
+              "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md",
               "RelativeDocumentMoniker": "_Changelogs\\1.4_Changelog.md",
-              "ToolTip": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md",
+              "ToolTip": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\_Changelogs\\1.4_Changelog.md",
               "RelativeToolTip": "_Changelogs\\1.4_Changelog.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-05-24T18:25:31.566Z",
               "EditorCaption": ""
@@ -57,40 +57,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FirmataPaladins.md",
-              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
+              "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
               "RelativeDocumentMoniker": "LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
-              "ToolTip": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
+              "ToolTip": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
               "RelativeToolTip": "LORE_OVERVIEW\\Bestiary\\PhantasmalEntities\\FirmataPaladins.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-24T18:24:41.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T18:24:41.112Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProfessorBesado_67.md",
-              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
+              "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
               "RelativeDocumentMoniker": "CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
-              "ToolTip": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
+              "ToolTip": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
               "RelativeToolTip": "CHARACTERS\\4_FourthOntology\\ProfessorBesado_67.md",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwI8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-24T18:20:21.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T18:20:21.896Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Epicenterhood.md",
-              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
+              "DocumentMoniker": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
               "RelativeDocumentMoniker": "LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
-              "ToolTip": "C:\\Users\\natha\\OneDrive\\Documents\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
+              "ToolTip": "C:\\Users\\natha\\Downloads\\SyncthingBS\\ScriFa_CoreFiles\\ScrifaGithubWiki\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
               "RelativeToolTip": "LORE_OVERVIEW\\TermsAndConcepts\\Phenomena\\Epicenterhood.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-24T17:33:32.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T17:33:32.832Z"
             }
           ]
         }

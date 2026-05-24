@@ -27,7 +27,7 @@ Often known as "The 4 Fundamental Aspects of Reality", they are the '''building 
 == Aspectual Applications ==
 Think of these as the "'''type'''" of abilities  that Aspect Manipulation can do. While the aspects domain over certain parts of reality, applications are what the aspects do to these parts of reality.
 
-These types aren't '''hard-set''', some abilities can be considered under <u>multiple applications</u> at once as there are many different formulas that can bring you to the same solution.<br />If you feel and ability fits better under a different application, your thought is valid and aren't wrong to think so. You're likely to reach the same effect regardless.
+These types aren't '''hard-set''', some abilities can be considered under <u>multiple applications</u> at once as there are many different formulas that can bring you to the same solution.<br />If you feel an ability fits better under a different application, you're likely to reach the same effect regardless, and that is perfectly normal. A "fast movement" ability can be done using either {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to directly increase kinetic energy, or {{AspectIcon|2}} [[The 4 Aspects of Reality#Time|TIME]] to speed up the flow of time around you. You can use multiple formulas to reach the same solution, after all.
 
 <div class="mw-customtoggle-myFirstText mw-customtoggle-myOtherText" style="color:#5DE29B">View Applications</div>
 <div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-myFirstText">
@@ -158,7 +158,7 @@ Debuffs, disruptions, breaks, negations, neutralizers.
 {{Material_Template|title1=Space|image1=SpaceAspect.png|type=Matter and Elements|color=Blue}}
 The most '''obvious''' of the 4 Aspects, as we '''see''' and '''feel''' it everywhere <u>at all times</u>.  
 </blockquote>
-'''{{AspectIcon|1}}SPACE''' encompasses '''Physical Matter'''; From the <u>smallest grains of sand</u> and <u>water</u>, to  the <u>smoke of a flame</u> and even the <u>fire</u> itself<u>;</u> this aspect handles everything you '''touch'''.<br />It works closely in-tandem with  {{AspectIcon|2}}[[The 4 Aspects of Reality#Time|TIME]] and {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to make up the physical plane.<blockquote><small>The '''most common''' aspect for [[Archkin]] to manipulate, as it's the easiest to <u>pick up</u> and <u>practice</u>.</small></blockquote>
+'''{{AspectIcon|1}}SPACE''' encompasses '''Physical Matter.''' From the <u>smallest grains of sand</u> and <u>water</u>, to  the <u>smoke of a flame</u> and even the <u>fire</u> itself<u>;</u> this aspect handles everything you '''touch'''.<br />It works closely in-tandem with  {{AspectIcon|2}}[[The 4 Aspects of Reality#Time|TIME]] and {{AspectIcon|3}} [[The 4 Aspects of Reality#Control|CONTROL]] to make up the physical plane.<blockquote><small>The '''most common''' aspect for [[Archkin]] to manipulate, as it's the easiest to <u>pick up</u> and <u>practice</u>.</small></blockquote>
 
 === Sample Abilities of Space ===
 <small>Listings with * are '''only capable by [[Archgods]]'''.</small>
@@ -201,7 +201,7 @@ The most '''obvious''' of the 4 Aspects, as we '''see''' and '''feel''' it every
 |-
 |*Nuclear Resonance
 |Manipulation
-|Split an atom. See what happens.<br /><small>("Yes, I copied this over From CONTROL too. Both aspects can do this" -[[RAZEACC]])</small>
+|Split an atom. See what happens.<br /><small>("Yes, I copied this over from CONTROL. Both aspects can do this" -[[RAZEACC]])</small>
 |-
 |*Density/Mass Manipulation
 |Manipulation
@@ -351,7 +351,7 @@ It's all around us like {{AspectIcon|1}}[[The 4 Aspects of Reality#Space|Space]]
 |-
 |*Nuclear Resonance
 |Manipulation
-|Split an atom. See what happens.<br /><small>("Yes, I copied this over to SPACE too. Both aspects can do this" -[[RAZEACC]])</small>
+|Split an atom. See what happens.<br /><small>("Yes, I copied this over to SPACE. Both aspects can do this" -[[RAZEACC]])</small>
 |-
 |*Physics Nullification Field
 |Interference

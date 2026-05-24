@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LORE_OVERVIEW\\Bestiary",
-    "\\LORE_OVERVIEW\\Bestiary\\PhantasmalEntities",
+    "\\LORE_OVERVIEW",
     "\\LORE_OVERVIEW\\TermsAndConcepts",
-    "\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena",
-    "\\_Changelogs"
+    "\\LORE_OVERVIEW\\TermsAndConcepts\\Elementarium",
+    "\\LORE_OVERVIEW\\TermsAndConcepts\\Elementarium\\Supernatural",
+    "\\LORE_OVERVIEW\\TermsAndConcepts\\Phenomena"
   ],
-  "SelectedNode": "\\_Changelogs\\1.4_Changelog.md",
+  "SelectedNode": "\\LORE_OVERVIEW\\TermsAndConcepts\\Elementarium\\Supernatural\\Memories.txt",
   "PreviewInSolutionExplorer": false
 }
