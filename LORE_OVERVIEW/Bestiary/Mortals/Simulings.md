@@ -1,0 +1,4 @@
+(WIP)
+## IDEA
+The main cast if "playable characters" in Project: FOURTH MARSHAL. They are bits of code containing personalities and memories harvested and cloned from Decanoluzioned, processed by the Alternate Fiction to simulate these characters. When the player modifies or edits their personalities/memories, the Alternate Fiction merely looks for the closest version of that character within Decanoluzioned, meaning it only fakes the "creation" of new "alternates". However, this truth isn't obvious yet from the beginning of the game.
+They are primarily programs and datasets, given sentience through their Epicenter: Original Razi-AI, before Simulette is reborn and takes her rightful place as the Epicenter of Simulings from Razi-AI.
