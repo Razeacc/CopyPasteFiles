@@ -1,7 +1,34 @@
 (WIP)
-Idea: Supercontinents or "groups of continents" found in the endless Aeonic Sea of The Infinite Fields.
+## Overview
 
-Chatty's Additional Notes:
+
+## Known Exspanses
+
+
+### Locunex
+
+
+### Lejos
+
+
+### Movakoz
+
+
+### Cubiqua
+
+
+### Eastern Edge
+
+
+### Western Edge
+
+
+
+
+## Idea
+Supercontinents or "groups of continents" found in the endless Aeonic Sea of The Infinite Fields.
+
+## Chatty's Additional Notes
 Exspanses are enormous supercontinental regions scattered across the Aeonic Sea within The Infinite Fields.
 
 Although publicly described as naturally-separated continental masses, some evidence suggests Exspanses may partially function as organizational partitions used by the AoS for large-scale civilizational management.

@@ -5,9 +5,9 @@ Ultima Spectata, as his name suggests, is an omniveral spectator that jumps from
 He's akin to Gaunter o'Dimm from the Witcher games, but with a bit more of a commical twist.
 
 There are two important factors to consider with Ultima. They don't interact or meddle with reality levels as much as possible by utilizing two properties:
-The material, Questionablium Canonininite.
+The material, **Questionablium Canonininite**.
 and
-The location, The Bobuverse.
+The location, **The Bobuverse**.
 
 ## Questionablium Canonininite
 An energy-like material from whatever level of reality Ultimata originated from, it's a substance that acts akin to Shrodinger's Cat, but with a level of unbreakability. No matter what this material does, it will never leave a lasting effect, meaning it's always questionable whether or not whatever it does is "canon" in whenever level of reality it wad active in.
