@@ -9,8 +9,14 @@ It is essentially a Psyche User's own Fracturing Zone or NulGraven Site: a physi
 (Also, all information regarding why Overwrites became a thing following The Spirepocalypse is currently a mystery. As far as everyone's concerned, people just started developing Psyche Planes more rapidly, and being able to "somehow" leak them out of their bodies ever since The Spirepocalypse.)
 
 ## Differences between Psyche Duels and Overwrites
-While Psyche Duels happened within the plane itself and caused no high-stakes consequences, Overwrites pulls the Psyche Plane into reality. Time continues to flow, physical damage is retained, and the Ovewrite itself is highly unstable comprared to planes. The longer an Overwrite is maintained, the more instrusive thoughts and deep secrets leak out into the surface, potentially hindering even the user of the Overwrite. This differs greatly from Psyche Planes and Duels, which are more stable in comparison.
+* **Timeflow**: While Psyche Duels happened within the plane itself and caused no high-stakes consequences, Overwrites pulls the Psyche Plane into reality— time continues to flow normally, unless specified.
+* **Consequences**: During an Overwrite, pysical damage is retained, unlike Psyche Duels where it's transfered into Psyche Damage or nullified entirely at the end of the duel. Furthermore, in a Psyche Duel, losing causes your ability to use Psyche Skills to weaken greatly. In contrast, it is instead the inscriber of an Overwrite that gets their Psyche Skills weakened following an Overwrite.
+* **Instability**: Ovewrites are highly unstable comprared to planes and duels, as Overwrites are subject to Intrusive Bleed.
+
 However, just like Psyche Planes, not all Overwrites are combat-focused, as some Overwrites can instead be used to help find clues, reveal footprints, display "interactables" (commonly used by videogame character-controlled skribbles), create temporary resting points, etc.
+
+## Intrusive Bleed
+The longer an Overwrite is maintained, the more instrusive thoughts and deep secrets leak out into the surface, potentially hindering the inscriber of the Overwrite. This is directly the consequence of an unstable and wavering psyche plane and sense of self. The weaker your psyche/spirituality is, the faster Instrusive Bleed kicks in. And the more regrets, doubts, worries, fears, etc. you have, the more violent and hazardous the instrusive bleeds of your Overwrite are.
 
 ## How to inscribe an Overwrite
 First, a user needs to be **aware of Overwrites** in the first place, awareness is key, similar to how awareness of spell incantations shortcuts is important to actually use spell shortcuts. Overwrite is, in of itself, a type of "global spell", after all.
@@ -24,4 +30,11 @@ Third, **shout "Overwrite"**, which acts similarly to a spell. It commands the a
 Those with a soul capable of witnessing the incantation (hear, feel, see, sense, etc.) will then feel the user's soul stretch out from their eyes and into the world around them, like massive flowing flows of ink decorating a canvas. And just like that, a psyche plane has now overwritten the physical world.
 
 ## Overwrite Samples
-### Kalayan's 
+### Kalayan
+> Turns the environment into a random type of arena match based on the setting. A street would create an illusionary crowd around you and Kalayan. A large open area would become an arena with spectators. Etc.
+
+### Morgale
+> Splits the environment itself into massive distant sections, replacing the gray blocks in Morgale's Psyche Plane into islands from the real world. 
+
+### Khueen
+> N/A - No difference.
