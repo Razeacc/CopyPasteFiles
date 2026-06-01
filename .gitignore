@@ -2,4 +2,28 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/ScrifaGithubWiki/FileContentIndex/4e723c27-81da-48c6-a0d3-28ee54ee2991.vsidx
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Common Text Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*~
+.obsidian/
+
+# Temporary draft files you want to keep local
+# (Prefix any private files with "draft_" to keep them offline)
+draft_*
+scratchpad.*
+*.tmp
+*.bak
+
+# AI & Workspace Specifics
+# (Keeps local prompt tests or secret API keys out of your repo)
+.env
+*prompt_draft*
+*.log
