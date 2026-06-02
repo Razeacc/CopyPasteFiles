@@ -29,6 +29,8 @@ It's widely-believed "expanse" refers to any large geographic region, following 
 * Lands marked with the typo were **rummored to contain Avalonian Outposts**.
 
 No official explanation has ever been provided, either by the AoS, nor through written doctrine, as this was most likely lost upon the Collapse of Marlika, when the AoS began transitioning from guerilla warfare to full-blown militarized and organized assaults, when such specific categorization held next to no need any longer.
+In fact, some historians have started rumors of ancient records predating the Archgod Revolution that appear to use the conventional spelling "expanse." The transition to "Exspanse" occurred gradually over an undisclosed period of time, and all physical proof explicitly documenting/explaining the change is long gone following the fall of Marlika.
+
 At the very least, it remains a traditional quirk within AoS archivists and loggers. And for the sake of convenient consistency, the term "Exspanse" will be used specifically to indicate large archipelagos of continents across the Aeonic Ocean, over terms like "Supercontinent" or "Continental Archipelago". 
 
 ## Known Exspanses
