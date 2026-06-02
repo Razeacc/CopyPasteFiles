@@ -1,13 +1,12 @@
 (WIP)
 # Overview
-
-# Layers of The Worlds Aplenty
 As the world is infinitely expansive across all four quadra-...
 (wait... there's the Eastern edge with The 4th's Wall-)
 Across three sides-...
 (... Vektat's Valley?... damn it-)
 ALMOST infinitely expansive to the west, and SURELY infinite to the north and south, The Worlds Aplenty is a bizarre new take on a fictional setting, as it is an almost-entirely flat world— one that also utilizes a multiverse, where the multiverse is not the main focus. Not by a long-shot.
 
+# Geographical Layers of The Worlds Aplenty
 The Worlds Aplenty has 3 major layers, The Ceiling, The Floor, and The Mantle. Each layer serves major functions and purposes both naratively, and geographically, as this world functions entirely differently from most other fictional settings.
 
 ## The Ceiling
@@ -34,6 +33,7 @@ Nobody knows what lies beyond the unknown space, with some researchers having ru
 ### Control Barrier
 Created by Sandatta Ulhysse during the creation war, this barrier is what keeps The Worlds Aplenty separated from The Null Crossing, with the only known "leak" being at its center, which would allow Sandatta Ulhysse and any other archkin to return at any time, but makes it difficult for Nul Detta to escape due to this "leak" being where the Locus Spire is: where the core of every single Spire comes from; the "locus point" of spirite itself.
 In a way, The Control Barrier almost acts like Sandatta Ulhysse's own Firmata— the very first Firmata— as it almost completely blocks timelight from passing through into The NullCrossing.
+Some historians even consider it "the first firmata". While it  has some rudamentary and aged aspects, its spatial manipulation is not only entirely unique, but also impossibley-advanced on a multiversal scale, something not even Vektat is capable of, nor ever will be.
 
 ### Null Crossing
 (Insert link to Null Crossing page here)
@@ -47,6 +47,10 @@ An invisible property called "timelight" flows out from the Timelines in the Tim
 This is partially why it gets hotter when you approach timelines, as your body literally moves faster through time, heating up more than you're used to, while also aging you slightly faster than normal.
 This phenomena is also why Firmatas are so complicated, as they entirely block out timelight by default in order to simulate an actual sky. Translating timelight into "artificial timelight" within the Firmata, or letting it flow through the firmata, is incredibly difficult— with the later being akin to a machine that automatically threads moving needles.
 
+## Cardinal Directions
+*   **North and South** - These sides extend infinitely. It is unknown truly how far they go.
+*   **West** - This side can potentially extend endlessly, but you'll eventually step into Vektat's Valley, which means you should step back as soon as possible before you either go beyond into the 2nd dimension, or Vektat flies overhead and accidentally sends you into spatial limbo.
+*   **East** - Go far enough east, and you'll simply reach The 4th's Wall. Travel along the central exis, and you'll even find the Eastern Edge and Avalon City itself.
 
 ## Date Tracking
 Time (months/days/years/hours/minutes, etc.) is synced perfectly with how our real world time measurements are scaled. This is due to the AoS and Archkin influence, taking direct inspiration from our real world. Higher-up AoS members, and previous Archgod rulers, were ware of The 4th Beyond's (our) role in this world as spectators. Thus, they manipulated their societies to follow 12-month calendars, 24-hour days, 60-second minutes, 30/31/28-day months, etc. This genuinely makes it more difficult for them, but they adapted and adjusted overtime. They even came up with their own fake stories to tell the masses to explain why time is organized as such, with barely anyone knowing it's organized like our time measurement systems specifically for our convenience.

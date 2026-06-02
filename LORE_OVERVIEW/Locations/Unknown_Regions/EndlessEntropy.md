@@ -9,3 +9,5 @@ If Fracturing is the absense of Sentience, and NulGraven is the absense of Memor
 Entropy is the absesnece of nothing, and everything, at the same time.
 
 It is rumored, and believed, that this entropy actually extends passed The Worlds Aplenty, stretching out across all levels of reality, acting as the ultimate finality to anything and everything.
+
+Unlike nearly every other force in existence, Endless Entropy cannot be weaponized, negotiated with, reasoned with, manipulated, harvested, consumed, or controlled... without a major sacrifice, one that is virtually never worth taking.
