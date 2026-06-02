@@ -94,6 +94,12 @@ It can inscribe a miniature Overwrite around the inscriber, keeping it small and
 * **Intrusion Rate**: N/A
 * **Intrusion Severity**: N/A
 > Due to how NulGraven Sites work, it's easy to assume that they can technically be considered the Overwrites of Memetta being the Epicenter of Sentience herself.
+> Since Memetta can exist outside of a NulGraven Site, it's believed that the "core/anchor" of these, are the NulGraven Tumors.
+
+### Nul Detta/Dett Minor's Fracturing Zones
+* **Intrusion Rate**: N/A
+* **Intrusion Severity**: N/A
+> This works almost exactly the same as NulGraven Sites, just with Fracturing Zone logic instead, such as the "Core/Anchor" being the Fracturing Fissures rather than NulGraven Tumors or Dett Minor.
 
 ## History
 Following The Spirepocalypse, Nul Detta begun breaking down Khueen further in order to test his hypothesis:
