@@ -7,6 +7,11 @@ They often house almost entirely-different civilizations, most of which are ofte
 ## How Exspanses Form
 There are two primary methods for how an Exspanse can form. They can either be through natural means via Spires and Spirite Leylines (similar to how real life islands like Hawaii formed), or through artificial means through archkin or archgod involvement (akin to land reclamation in the Netherlands).
 
+## Discovery & Classification
+Because the Aeonic Ocean surrounding each Exspanse is effectively infinite, the total number of Exspanses remains unknown. New Exspanses continue to be discovered on an inconsistent basis through exploration efforts, accidental dimensional drift, time travel mishaps, Archkin hunt expeditions, and Firmata maintenance operations.
+
+The AoS maintains an internal classification system for cataloguing Exspanses based on population, strategic importance, archkin activity, Firmata status, and anomalous phenomena. A timeline map is currently being established to help facilitate the commute between Exspanses via spirevators.
+
 ### Natural Spire Formation
 When gradual water errosion cuts away the seabed, it can occasionally dig into a spirite leyline. Given enough time, this can cause an erruption of spirite, creating a spire from the sea floor. Over many years, the constant mutation and transfiguration of rocks around the spire pulls land higher and higher, slowly raising light minerals from the ground and pulling it up. This forms massive swells of spirite wells underneath the seabed as mountainous islands breach the ocean's surface.
 This process is unbearably slow, and mostly results in archipelagos or small islands.
@@ -39,6 +44,10 @@ At the very least, it remains a traditional quirk within AoS archivists and logg
 (Located in the very center of The Worlds Aplenty and right above The Null Crossing's Locus Spire)
 (Inspired by the most diverse group of real-world nations, from the Americas and Europes, to Africas and Asias. If you'd compress the entire Infinite Fields down to a single Exspanse, Locunex has a little bit of everything, being the cradle of The Infinite Fields.)
 // (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
+// While it technically IS the first exspanse, it isn't all that special. It doesn't have the most spires nor the most population. It might have the most diverse culture, but that also only considers its period during the Archeic Eons. In fact, right now in where Firmata Frontier is currently, it's still recovering from the Archgod Revolution, being in a barely-medieval period with distant *GROUPS* of people, rather than the almost-modern civilization of Lejos, or even the Science-Fantasy Wonderlands of Cubiqua and Avalon. In fact, Locunex currently is probably the best example of a "default exspanse", and I think that might be its strongest feat in a way.
+// 
+// It feels like it'll be important in the future, which it 100% will be. But right now, it's taking a backseat to let the world have its time in the spotlight for now. Because being the central exspanse and being directly on top of The Null Crossing's Locus Spire IS 100% going to cause massive massive problems in the future.
+// (IE: The Return of Khueen, Ouya, and Crimmy. The Great Gungnir War. The Big Crunch. Basically, Locunex is where my "mainline series Scripted Fates" games will take place, my planned trilogy of games I plan to make once my gamedev skills are good enough, that will dictate the final stories of Scripted Fates as a series, what every single plotpoint and project thus far is leading up to).
 
 ### Lejos
 (One of the most isolated Exspanses in the far north east of Locunex)
@@ -48,6 +57,7 @@ At the very least, it remains a traditional quirk within AoS archivists and logg
 ### Movakoz
 (Close enough to Locunex for a several month-long sea voyage, can be found in the west-north-west of the central Exspanse)
 (As stated in the Movakoz page: Filler Exspanse. Just dump random shit here. Never make a story takes place here. If you don't know where to have something happen, and it doesn't matter where it happened, say "Movakoz".)
+Historians estimate that approximately 62-67% of all poorly-documented events in barely-recorded history are rumored to have allegedly occurred somewhere within Movakoz.
 // (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
 ### Cubiqua Exspanse
@@ -59,6 +69,7 @@ At the very least, it remains a traditional quirk within AoS archivists and logg
 ### Eastern Edge
 (Where Avalon City can be found, this isn't a normal exspanse, as it ends somewhat abruptly, as if cut-off by The 4th's Wall. This is quite similar to finding landmass cut off by the "Farlands" in old versions of Minecraft.)
 (It's inspired by... well, the minecraft farlands, due to The 4th's Wall bearing an uncanny resemblance to it. We couldn't have Cubiqua here due to potential copyright problems, even if The 4th's Wall is tall and rainbow rather than stony and hole-y.)
+Many Avalonians and AoS members regard the Eastern Edge as the symbolic frontier of reality itself. In truth, it's the literal frontier of their reality and our fiction. Located just beyond Avalon City is The 4th's Wall.
 // (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
 ### Western Edge

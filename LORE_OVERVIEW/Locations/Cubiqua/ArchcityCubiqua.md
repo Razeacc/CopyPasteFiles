@@ -1,0 +1,4 @@
+(WIP)
+## Idea
+Main Capital of Cubiqua. As its name suggests, it's a very subtle name to Quebec in real life, while also being a playful homage to how Genshin Impact names its nations and capitals.
+***The Capital of Gold, Gambling, and Gaming.**

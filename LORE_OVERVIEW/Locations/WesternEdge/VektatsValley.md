@@ -1,0 +1,4 @@
+(WIP)
+## Idea
+This isn't really an exspanse. It's Vektat's giant bigass spatial scar.
+Expeditions attempting to map the Western Edge have repeatedly produced contradictory results. Some surveyors claim the Exspanse bends back onto itself. Others insist it intersects alternate dimensions. A few reports suggest portions of the land periodically cease to exist altogether before reappearing elsewhere. Unknowingly, all these spatial distortions were being caused by Vektat merely flying overhead, his spatial-bending roars twisting where explorers are. Only those that survive actually report these, however. As those that don't merely get reported as "missing", as bodies that get lost from Vektat's roars are never found. They're rumored to have been launched deep into the 1st and 2nd dimensions, where their bodies become entirely incompatible with the reduced spatial dimensions, making escape near-impossible.

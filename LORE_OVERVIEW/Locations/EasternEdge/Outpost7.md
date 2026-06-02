@@ -1,0 +1,3 @@
+(WIP)
+# Idea
+Main setting of Farewell Avalon, largest single fracturing zone in history, where Morgale de Metso was captured.
