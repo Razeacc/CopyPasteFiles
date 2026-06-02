@@ -12,7 +12,9 @@ When gradual water errosion cuts away the seabed, it can occasionally dig into a
 This process is unbearably slow, and mostly results in archipelagos or small islands.
 
 ### Archkin Involvement
-Most Exspanses seen today were formed by Archkin training to achieve Archgodhood. They'd practice raising land above the sea by manipulating reality through their archose. They'd raise islands, archipelagos, mountains, and slowly start terraforming a whole new Exspanse purely as a method of "practicing". This continued on and on during the Archaeic Eons, resulting in vast and sparse exspanses scattered all across the infinite Aeonic Ocean.
+Many modern Exspanses are remnants of ancient Archkin training grounds trying to achieve Archgodhood.
+Aspiring Archgods would practice large-scale reality manipulation by raising islands, carving mountains, redirecting rivers, and sculpting entire continental regions from the sea itself.
+This continued on and on during the Archaeic Eons, resulting in vast and sparse exspanses scattered all across the infinite Aeonic Ocean.
 
 ## Exspanse vs Expanse
 
@@ -33,18 +35,31 @@ At the very least, it remains a traditional quirk within AoS archivists and logg
 
 ### Locunex
 (Located in the very center of The Worlds Aplenty and right above The Null Crossing's Locus Spire)
+(Inspired by the most diverse group of real-world nations, from the Americas and Europes, to Africas and Asias. If you'd compress the entire Infinite Fields down to a single Exspanse, Locunex has a little bit of everything, being the cradle of The Infinite Fields.)
+// (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
 ### Lejos
 (One of the most isolated Exspanses in the far north east of Locunex)
+(Has inspiration from mainly Spanish and African cultures, with hints of Gaelic culture from Avalonian settlers and a bit of Filipino culture as well from Marlikan refugees following the collapse of the Godcity.)
+// (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
 ### Movakoz
 (Close enough to Locunex for a several month-long sea voyage, can be found in the west-north-west of the central Exspanse)
+(As stated in the Movakoz page: Filler Exspanse. Just dump random shit here. Never make a story takes place here. If you don't know where to have something happen, and it doesn't matter where it happened, say "Movakoz".)
+// (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
-### Cubiqua
+### Cubiqua Exspanse
 (One of the rare Exspanses not contained within a Firmata, mostly because of how influential it is in The Worlds Aplenty's economy. Cubiqua's main strength is in its lack of a Firmata and how open/diverse its cities are. Cityscape has almost completely taken over these lands.)
+(Several parts of Cubiqua have landscapes sprawling in cubic/voxel patterns thanks to Pennypal Pincher. This makes it easier for the Archcity to expand further and further. Furthermore, an *actual* "sun" and "moon" fly across the exspanse in a rotating manner, rising and driving into the sea just beyond its borders. It's currently unknown what these "celestial bodies" are, but it's believed to merely be a tourist attraction to show Infinite Field citizens what it's like to live inside a timeline/universe, where an "normal" sun/moon/sky exists.)
+(Cubiqua Exspanse exists in the south-east-south of the Locunex Exspanse)
+// (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
 ### Eastern Edge
 (Where Avalon City can be found, this isn't a normal exspanse, as it ends somewhat abruptly, as if cut-off by The 4th's Wall. This is quite similar to finding landmass cut off by the "Farlands" in old versions of Minecraft.)
+(It's inspired by... well, the minecraft farlands, due to The 4th's Wall bearing an uncanny resemblance to it. We couldn't have Cubiqua here due to potential copyright problems, even if The 4th's Wall is tall and rainbow rather than stony and hole-y.)
+// (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
 
 ### Western Edge
-(Where Vektat's Valley can be found, it's a long massive stretch of land pulled together by Vektat's space manipulation to act as somewhat of a bufferzone between the other spatial dimensions. This is probably the largest Exspanse recorded, as it's not an archipelago, but rather, just one absolutely massive and unmeasurably-long line of landmasses crushed into each other. It's unknown how far it goes.)
+(Where Vektat's Valley can be found, it's a long massive stretch of land pulled together by Vektat's space manipulation to act as somewhat of a bufferzone between the other spatial dimensions. This is probably the largest Exspanse recorded, as it's not an archipelago, but rather, just one absolutely massive and unmeasurably-long line of landmasses crushed into each other. It's unknown how far it goes, how much it bends inwards and outwards, and how often if shifts/breaths/flows through the boundaries between the 1st, 2nd, and 3rd dimensions.)
+(Either way, it's impressive to imagine what merely the 2nd strongest living Archgod is capable of, making Kalayan, the currently-known strongest living archgod, that much more of a high-risk high-reward threat for the AoS to capture, being Vektat's master.)
+// (Could use slightly more expanding, as a "mini overview" before linking to its proper page)
