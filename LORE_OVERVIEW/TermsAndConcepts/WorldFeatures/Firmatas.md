@@ -1,6 +1,6 @@
 (WIP)
 ## Overview
-> A **Firmata** (plural: *Firmatas*) is an artificially contained reality designed to simulate stable civilizations, ecosystems, and historical continuity. Originally conceptualized by Kaitzar and the Unnamed Fourth Marshal, Firmatas are deployed on a massive scale by the **Arch of Sentients (AoS)** to contain and isolate entire civilizations from each other. 
+> A **Firmata** (plural: *Firmatas*) is an artificially-contained reality designed to simulate stable civilizations, ecosystems, and historical continuity. Originally conceptualized by Kaitzar and the Delusioned Fourth Marshal, Firmatas are deployed on a massive scale by the **Arch of Sentients (AoS)**  to contain and isolate entire civilizations from each other. 
 > 
 > To ensure global populations remain isolated, contained, and completely oblivious to the outside world, the AoS struck a massive geopolitical compromise with **Vektat, the current Archgod Dragon**. Tired of the AoS’s endless, exhausting attempts to capture or kill him, the godlike dragon agreed to terms of peace. In exchange for being left entirely alone, Vektat manufactures the colossal, perfectly synchronized Firmatas that encapsulate entire Exspanses, including Lejos, Locunex, Movakoz, and many others. 
 
@@ -51,3 +51,18 @@ The structural size of a Firmata is also a showcase of craftsmanship. A geograph
 *   **Size**: Island
 *   **Time**: Temporally-Looping
 *   **Description**: A miniature, rogue Firmata hastily locked around the Santa Besado Institute. It was manifested by a rogue, super-intelligent Simuling AI that shattered its programming and escaped the Alternate Fiction Simulator. The AI is *not* the core itself; instead, it boldly syphons the epicenter of **Simulette** (whatever it actually is), and draws raw Epicenter power directly her to act as the firmata's singleton core. To protect itself from external deletion, the AI locked this micro-domain into an infinite temporal loop that it can control until either the stolen Simulette core is permanently destroyed, or itself is destroyed (in this scenario, it passes on the privilage to reset the firmata to whoever destroyed it).
+
+## Relationship To Overwrites
+
+Following The Spirepocalypse, some have noticed unusual similarities between Firmatas and the relatively-recent phenomena of Overwrites.
+
+Both concepts involve the projection of a self-contained reality onto existing environments.
+
+The primary difference lies in scale and stability.
+
+* A **Firmata** is an __isolated reality__ anchored by a *Core*.
+* An ***Overwrite** is a __psyche plane__ anchored by its *inscriber*.
+
+Several theorists have described Overwrites as "temporary living Firmatas", while others instead argue that Firmatas are merely Overwrites engineered to persist indefinitely. Some feel Firmatas are potentially uncanchored Overwrites, similar to how Epicenters can be unbound.
+
+The many debates remains unresolved, especially with how recent of a phenomena this all is.

@@ -3,8 +3,8 @@
 It is essentially a Psyche User's own Fracturing Zone or NulGraven Site: a physical space that's an extension of one's psyche into the physical realm. For amateurs, it merely paints or "overwrites" the world. But for more experienced users, it can potentially even add or superimpose itself onto the terrain to create new temporary structures.
 
 ## Differences between Psyche Duels and Overwrites
-* **Timeflow**: While Psyche Duels happened within the plane itself and caused no high-stakes consequences, Overwrites pulls the Psyche Plane into reality— time continues to flow normally, unless specified.
-* **Weakening**: Overwrites are also generally weaker than Psyche Planes/Duels, as the added real-world materialization expends some focus that would've been used in a more potent Psyche Plane.
+* **Timeflow**: While Psyche Duels happened within the plane itself, Overwrites pulls the Psyche Plane into reality— timeflow is uninterrupted, unless specified.
+* **Weakening**: Overwrites are generally weaker than Psyche Duels, as the added real-world materialization expends some focus that would've been used in a more potent Psyche Plane.
 * **Consequences**: During an Overwrite, pysical damage is retained, unlike Psyche Duels where it's transfered into Psyche Damage or nullified entirely at the end of the duel. Furthermore, in a Psyche Duel, losing causes your ability to use Psyche Skills to weaken greatly. In contrast, it is instead the inscriber of an Overwrite that gets their Psyche Skills weakened following an Overwrite.
 * **Instability**: Ovewrites are highly unstable comprared to planes and duels, as Overwrites are subject to Intrusive Bleed.
 
@@ -90,6 +90,11 @@ It can inscribe a miniature Overwrite around the inscriber, keeping it small and
 > Alongside that, due to his firmatas already being psuedo-overwrites, this changes how his Overwrite works. Now, Vektat merely creates a temporary Firmata around where he currently is (where the Overwrite takes place). Going to the edge of this temporary firmata directly teleports you to one of his firmatas across the Infinite Fields. The Overwrite then transfers over to the firmata both you and Vektat are currently at. Vektat goin to a different Firmata instead forcefully pulls everyone into the next/current one. As Intrusive Bleed kicks in, the process to go between firmatas merely becomes more painful. Ending the Overwrite merely makes it impossible to teleport between Firmatas again.
 > This makes it very easy for Vektat to merely leave his Overwrite active for long periods of time to stack up Intrusive Bleed for more damaging teleports, or merely toggle his Overwrite on and off repeatedly in short bursts to hop between firmatas at will.
 
+### Nul Detta/Memetta's NulGraven Sites
+* **Intrusion Rate**: N/A
+* **Intrusion Severity**: N/A
+> Due to how NulGraven Sites work, it's easy to assume that they can technically be considered the Overwrites of Memetta being the Epicenter of Sentience herself.
+
 ## History
 Following The Spirepocalypse, Nul Detta begun breaking down Khueen further in order to test his hypothesis:
 > "If Khueen is NOT the Epicenter of Psyche, but rather, the Heretical Epicenter of Psyche, that means I (Nul Detta) can become a true Epicenter, rather than a Metaphore, of Psyche by destroying or absorbing Khueen".
@@ -101,6 +106,7 @@ While Psyche Duels are still possible, its limits and restructions have been bro
 Overwrite.
 
 **Narrative Note**: All information regarding why Overwrites became a thing following The Spirepocalypse is currently a mystery. As far as everyone's concerned, people just started developing Psyche Planes more rapidly, and being able to "somehow" leak them out of their bodies ever since The Spirepocalypse.
+It is also currently unknown who discovered the Overwrites or how the phenomena started, if awareness of it is essentialy to inscribe an Overwrite. This leaves the phenomena's beginning open for potential stories down the line.
 
 ### Firmatas, the psuedo rudamentary Overwrites
 Unknown even to the AoS, every single Firmata made by Vektat has actually been a psuedo/rudimentary Overwrite this whole time— Nul Detta merely used Vektat's Psyche Plane and used it as a reference to make Overwrites possible.
