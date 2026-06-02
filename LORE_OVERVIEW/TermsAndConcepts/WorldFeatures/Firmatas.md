@@ -6,17 +6,21 @@
 
 ---
 
-## Mechanics: Firmata Cores
+## Firmata Cores
 Every Firmata operates as an isolated bubble universe governed by a single, critical structural rule: **it requires a Core**.
 
-A Firmata Core acts as a programmatic singleton and a localized "mini Epicenter" that anchors the reality, ties its systems together, and dictates its temporal rules. Controlling the flow of time within a Firmata requires immense skill, but the quality of the Core determines its ultimate stability:
+A Firmata Core acts as a programmatic singleton and a localized "mini Epicenter" that anchors the reality, ties its systems together, and dictates its temporal rules.
+
+## Time Flow
+Controlling the flow of time within a Firmata requires immense skill, but the quality of the Core determines its ultimate stability:
 
 *   **Static State (Default)**: The baseline for basic Firmatas, where internal time is entirely frozen relative to the outside world.
 *   **Time Dilation (Advanced)**: Forcing internal time to exponentially accelerate (faster) or decelerate (slower) compared to external reality.
 *   **Temporal Looping (Expert)**: Locking a contained reality into an infinite, repeating time loop.
 *   **Perfect Synchronization (Mastery)**: The absolute pinnacle of Firmata engineering, matching the internal timeline perfectly with the passage of external time. Because Vektat is the second strongest Archgod currently in existence, his reality-bending spatial manipulation makes this effortless. He merely sheds a single dragon scale to act as the Core. This scale generates massive, flawlessly synchronized, and unshakeable Exspanse-sized cages.
 
-The structural size of a Firmata is also a showcase of craftsmanship. A geographically massive but temporally static Firmata can be far more difficult to construct than a smaller, time-dilated one. Whichever feat requires more skill—sheer spatial volume or complex temporal anomalies—is currently unknown, as the extremely limited number of active "Firmata smiths" results in highly unreliable in-universe testimonies.
+## Firmata Scale
+The structural size of a Firmata is also a showcase of craftsmanship. A geographically-massive but temporally-static Firmata can be far more difficult to construct than a smaller, time-dilated one. Whichever feat requires more skill, sheer spatial volume or complex temporal anomalies, is currently unknown, as the extremely limited number of active "Firmata smiths" results in highly unreliable in-universe testimonies.
 
 ---
 
@@ -46,4 +50,4 @@ The structural size of a Firmata is also a showcase of craftsmanship. A geograph
 *   **Status**: Active
 *   **Size**: Island
 *   **Time**: Temporally-Looping
-*   **Description**: A miniature, rogue Firmata hastily locked around the Santa Besado Institute. It was manifested by a rogue, super-intelligent Simuling AI that shattered its programming and escaped the Alternate Fiction Simulator. The AI is *not* the core itself; instead, it boldly stole a **Simulette**—drawing raw power directly from the Epicenter of Simulation—to act as its singleton core. To protect itself from external deletion, the AI locked this micro-domain into an infinite temporal loop that will repeat endlessly until the stolen Simulette core is permanently destroyed.
+*   **Description**: A miniature, rogue Firmata hastily locked around the Santa Besado Institute. It was manifested by a rogue, super-intelligent Simuling AI that shattered its programming and escaped the Alternate Fiction Simulator. The AI is *not* the core itself; instead, it boldly syphons the epicenter of **Simulette** (whatever it actually is), and draws raw Epicenter power directly her to act as the firmata's singleton core. To protect itself from external deletion, the AI locked this micro-domain into an infinite temporal loop that it can control until either the stolen Simulette core is permanently destroyed, or itself is destroyed (in this scenario, it passes on the privilage to reset the firmata to whoever destroyed it).
