@@ -1,10 +1,10 @@
 (WIP)
 # Overview
 As the world is infinitely expansive across all four quadra-...
-(wait... there's the Eastern edge with The 4th's Wall-)
+> (wait... there's the Eastern edge with The 4th's Wall-)
 Across three sides-...
-(... Vektat's Valley?... damn it-)
-ALMOST infinitely expansive to the west, and SURELY infinite to the north and south, The Worlds Aplenty is a bizarre new take on a fictional setting, as it is an almost-entirely flat world— one that also utilizes a multiverse, where the multiverse is not the main focus. Not by a long-shot.
+> (... Vektat's Valley?... damn it-)
+*ALMOST* infinitely expansive to the west, and **SURELY** infinite to the north and south, The Worlds Aplenty is a bizarre new take on a fictional setting, as it is an almost-entirely flat world— one that also utilizes a multiverse, where the multiverse is not the main focus. Not by a long-shot.
 
 # Geographical Layers of The Worlds Aplenty
 The Worlds Aplenty has 3 major layers, The Ceiling, The Floor, and The Mantle. Each layer serves major functions and purposes both naratively, and geographically, as this world functions entirely differently from most other fictional settings.
