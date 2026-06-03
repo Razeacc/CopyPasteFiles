@@ -1,5 +1,5 @@
 # Overview
-The "creation story" of The Worlds Aplenty
+The "creation story" of The Worlds Aplenty.
 
 ## Characters Involved
 

@@ -113,6 +113,7 @@ Usurper: Simuling Kaitzar
 Holder: Tool Razhom
 > Acting as the perfect mirror to Humanity, Tool is a perfectly-grey character, but one that leans towards more positive aspects, leaning towards a human's general innate drive to be better.
 > However, the amount of experiences Tool processes is what slowly pushes him into becoming the next Epicenter of Fiction by the end of Scripted Fates.
+> Furthermore, the "Boundless" trait is held by Epicenters. Since Metaphors are a similar but slightly-different trate, and since Tool is still actively working towards being an even more "perfect" representation of Humanity, this is why he's both a Metaphor and still Boundless. He's still actively working on it. This contrasts Kalayan, who already perfectly-represents strength.
 
 ## Epicenter of Simulation and Decanoluzion
 Singleton: Simulette-Chan
