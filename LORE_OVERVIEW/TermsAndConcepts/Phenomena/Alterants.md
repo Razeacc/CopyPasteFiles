@@ -1,18 +1,17 @@
 (WIP)
-Firmata Frontier Discord Server Mini Wiki Entry:
-
-
-Born from her insatiable greed and lust for stability.
-She knew better than anyone—
-why they were made that way, fated for extinction.
-
-Despite that, she defied the highest degree of The Court.
-And for such, many continue to suffer existence till this day.
-All because of her.
+Firmata Frontier Discord Server Mini Wiki Entry
+---
+> Born from her insatiable greed and lust for stability.
+> She knew better than anyone—
+> why they were made that way, fated for extinction.
+> 
+> Despite that, she defied the highest degree of The Court.
+> And for such, many continue to suffer existence till this day.
+> All because of her.
 
 -An Agent
-
-Overview
+---
+# Overview
 Infused or modified through an archkin's archose, Alterants are humans who's very biology has been modified beyond that of a typical evolutionary-line of genetic evolution.
 Some grew fangs, others became genetically snobbish.
 The lucky remained humanoid, while others were reduced to sentient sand.
@@ -21,7 +20,7 @@ Despite that, alterant humans continued to evolve and develop well into the mode
 
 
 You can find open playable Alterant races over in ⁠【👽local⸱races】 to spice up your Local Character experience.
-
+---
 Below the post, there are 4 buttons that reveal different text when clicked on.
 1. Ubir:
 *You feel a natural sense of calmness around you.
