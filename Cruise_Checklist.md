@@ -8,7 +8,7 @@ Memory hunger mechanic in detail (how often, what counts as "feeding", consequen
 His role at the start AND end of Season 1 specifically
 His relationship with Morgale's Living Piece
 What he knows vs. doesn't know about the broader situation
-Season 2 "next Besado" role � what that actually means for his arc
+Season 2 "next Besado" role what that actually means for his arc
 
 ~~The Creation War~~
 
@@ -17,26 +17,26 @@ Season 2 "next Besado" role � what that actually means for his arc
 ~~The typo mechanic and what it means that Ulhysse was a real person~~
 ~~The Pandemonium event and creation of the Infinite Fields~~
 ~~The aftermath (renaming, Ulhysse splitting, Kalayan's soul, Court taking Ulhysse)~~
-Morgale's choice and what Nul Detta did to her frequency
+~~Morgale's choice and what Nul Detta did to her frequency~~
 
 Morgale de Metso Supplemental Notes
 Her page exists but needs a private notes section covering:
 
-Fae le Traitorous � sleeper agent mission in full detail
-Nul Detta's specific instructions to her ("let the world bully you...")
-What "snapping" looks like narratively at the end of Scripted Fates
-Her knowledge of Ulhysse's true nature and why that terrifies her specifically
-The 2413Hz frequency modification � when it happened, what she traded for it
+Fae le Traitorous sleeper agent mission in full detail
+~~Nul Detta's specific instructions to her ("let the world bully you...")~~
+~~What "snapping" looks like narratively at the end of Scripted Fates~~
+~~Her knowledge of Ulhysse's true nature and why that terrifies her specifically~~
+The 2413Hz frequency modification when it happened, what she traded for it
 
 
 ## TIER 2 � Important, Do After Tier 1
-Ulhysse � Expanded Notes
+Ulhysse Expanded Notes
 Her character sheet is dangerously thin for someone this important. Write:
 
 Her real-world origin (the person who wanted to be fictional, the typo of Ulysses)
 What her experience of becoming fictional felt like from her perspective
 Her relationship with Kalayan during the Creation War
-The Epicenterhood of Fiction � what she can actually do with it
+The Epicenterhood of Fiction what she can actually do with it
 Why she chose to give her physical body to Kalayan rather than anyone else
 Her current state (held by the Court, Worldbuilder role, is she aware? Does she communicate?)
 
@@ -49,14 +49,13 @@ His long-term plan in plain language what is the True Formula actually trying to
 His relationship with each of his segments (Memetta, Dett, Familiar Familiar) in more detail.
 Does he know about Besado's lineage and the Long Shush?
 
-Epicenterhood � Expanded Notes
-The concept page needs more flesh on:
+~~Epicenterhood Expanded Notes~~
 
-Full list of known Epicenters and what concept each embodies
-How someone becomes an Epicenter (the Fiction Trial is mentioned for Ulhysse, is there a general process?)
-What Failed Epicenters actually went through � the Fiction Trial failure specifically
-Concepthood vs. Epicenterhood � is there a distinction?
-Can an Epicenter lose their status?
+~~Full list of known Epicenters and what concept each embodies~~
+~~How someone becomes an Epicenter~~ (the Fiction Trial is mentioned for Ulhysse, is there a general process?)
+What Failed Epicenters actually went through the Fiction Trial failure specifically
+~~Concepthood vs. Epicenterhood is there a distinction?~~
+~~Can an Epicenter lose their status?~~
 
 
 ## TIER 3 � Write If You Have Time
@@ -122,9 +121,7 @@ Marks
 Placeholder � add at least the Pennypal Pincher connection and what makes Marks unusual as a currency
 ScriptingInk
 Placeholder � Chatty's notes are good but your own explanation of its role in Firmata Frontier events is missing
-Spirite
-The 1.3 note about cyan/pale green/gold frequencies needs to be formally added to this page
-Spires
-Same � the AoS corruption of gold to pale green is undocumented on the actual page
+~~Spirite~~
+~~Spires~~
 The Continent
 Wynaquette's Spire-building goal is hinted but not explained

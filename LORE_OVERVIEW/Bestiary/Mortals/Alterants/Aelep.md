@@ -1,7 +1,7 @@
 (WIP)
 Firmata Frontier Discord Server Mini Wiki Entry:
 
-The Tortured Artists of Sentience
+*The Tortured Artists of Sentience*
 
 
 > As their creator slowly dove into insanity
@@ -12,34 +12,38 @@ The Tortured Artists of Sentience
 
 -An Agent
 
-Short Description
+## Short Description
 Tortured artists with a genetically-short temper. Aeleps are quick in their thought, but always on the verge of having the worst day ever.
 
-📚 Classification
+## 📚 Classification
 Humanoid Alterant
 
-Weaknesses
-Blood-calming Reliant
-Uneasy Personality
-Constantly on-edge
-Needs a therapist
+### Weaknesses
+*   Blood-calming Reliant
+*   Uneasy Personality
+*   Constantly on-edge
+*   Needs a therapist
 
-🌳 Lifespan
+### 🌳 Lifespan
 60-80 Years
 
-Traits
-Quick Thinking, Artistically Gifted, Naturally Creative
+### Traits
+*   Quick Thinking
+*   Artistically Gifted
+*   Naturally Creative
 
-Abilities
-Blood Soothing 🩸
+### Abilities
+#### Blood Soothing 🩸
 When the scent of blood is in the air, the mood of an Aelep is immediately soothed and calmed, giving them a rare chance at both clarity and tranquility.
 Without the scent of blood, they're constantly on-edge and on the verge of crashing out. These "crashouts" are rarely violent, but rather, take on the form of verbal or emotional outrage.
 
-Tortured Artists
+#### Tortured Artists
 Aeleps, without blood soothing, are constantly having the worst day ever. Everything and anything can set them off or tick them the wrong way. While that does offer a horrible life experience, with everything being a minor inconvenience, it offers great opportunities for them to think outside the box and offer creative ideas not many others could come up with.
 
+---
+
 If you read ⁠Ubirs (Vampires), you may notice Aeleps share a striking number of similar traits. And for that, your attention is rewarded:
-Rather than being alterants of humans, Aeleps are alterants Ubirs.
+Rather than being alterants of humans, **Aeleps are alterants Ubirs**.
 
 During the time of their creation, their inventor was well on her way to losing her mind. As a form of 'stress relief' she thought it'd be a funny idea to create a race who's sole-purpose is to counter The Ubirs, her older invention, in any way possible.
 Thus, the Aeleps were born... unfortunately.
@@ -55,25 +59,25 @@ Where they lack in life quality, they make up for being naturally-gifted creativ
 You may never see an Aelep on the battlefield.
 Rather, they'd be sitting in their desk far away from the fight— planning schematics for their next quantum hand grenade while snorting some blood-scented powder and taking in the fresh air of their blood-scented air freshener— both of which they designed themselves... during an artistic crashout, as per usual.
 
-Current Status on The Continent (Firmata Frontier)
+### Current Status on The Continent (Firmata Frontier)
 Without the technology to make any of their blood-scented equipment, they are constantly under immense stress and suffering.
 If you thought Archkin had it bad with them losing almost all their abilities, Aeleps have been on the verge of losing their marbles for the past 20 years.
 
-How to make an Aelep:
-Appearance
+## How to make an Aelep
+### Appearance
 > Some Aeleps have long elf ears, some don't. Their inventor thought it'd be funny if only some Aeleps had them, making that single bit of inconsistency be another addition to the already-large pool of things that piss them off.
 > "Ugh, why are my ears too long, why can't I be like the others, damn it!"
 > "Ugh, why are my ears too short, why can't I be like the others, damn it!"
 > Aside from that, there's nothing else that differentiates them from humans, appearance-wise. Although some Aeleps still have their blood cheeks from their Ubir origins, it doesn't do anything now.
 > As you expected, their inventor ALSO left this inconsistent genetic factor as yet another addition to the "Let's piss them off" pool.
 
-Personality
+### Personality
 > Aeleps can be happy if you want them too, as if they're trying their best to keep it together. Some Aeleps can control their mood after all, at least, to an extent. But deep down, they're always just having the worst day ever.
 
-Aelep Physiology:
-Abandoned Sentience Fiends
+## Aelep Physiology
+### Abandoned Sentience Fiends
 > Aeleps still have their blood cheeks from their Ubir origins, but they don't do anything now. They didn't even get to keep their fangs as they lost those over time through evolution.
 > There is hope that the blood cheeks slowly go away as well, but for some reason, they're still around every now and then.
 
 Known Aeleps:
-Razi-Chan (or whoever she's possessing currently)
+*   Razi-Chan (or whoever she's possessing currently)
