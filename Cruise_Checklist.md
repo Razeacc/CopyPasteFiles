@@ -10,17 +10,16 @@ His relationship with Morgale's Living Piece
 What he knows vs. doesn't know about the broader situation
 Season 2 "next Besado" role � what that actually means for his arc
 
-The Creation War
-This entire era only exists in our chat logs right now. Write it up as a proper story note covering:
+~~The Creation War~~
 
-The timeline (pre-Infinite Fields, The Null Crossing setting)
-All named participants and their roles (Ulhysse, Kalayan, Morgale/Morgan le Fae, Ulysses, Gilgamesh, Nul Detta, Memetta, Dett)
-The typo mechanic and what it means that Ulhysse was a real person
-The Pandemonium event and creation of the Infinite Fields
-The aftermath (renaming, Ulhysse splitting, Kalayan's soul, Court taking Ulhysse)
+~~The timeline (pre-Infinite Fields, The Null Crossing setting)~~
+~~All named participants and their roles (Ulhysse, Kalayan, Morgale/Morgan le Fae, Ulysses, Gilgamesh, Nul Detta, Memetta, Dett)~~
+~~The typo mechanic and what it means that Ulhysse was a real person~~
+~~The Pandemonium event and creation of the Infinite Fields~~
+~~The aftermath (renaming, Ulhysse splitting, Kalayan's soul, Court taking Ulhysse)~~
 Morgale's choice and what Nul Detta did to her frequency
 
-Morgale de Metso � Supplemental Notes
+Morgale de Metso Supplemental Notes
 Her page exists but needs a private notes section covering:
 
 Fae le Traitorous � sleeper agent mission in full detail
