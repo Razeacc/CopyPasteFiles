@@ -1,29 +1,21 @@
 (WIP)
 *A desperate attempt to evolve the gods, by drenching them in the devil's blood.*
 
-> 
-
--An Agent
-
 ## Short Description
-
+Archkin, combined with certain traits of Archubi, alongside properties held by caradels. This results in a creature capable of resisting the effects of 2413Hz frequencies, at the cost of now needing to consume memories to sustain its abilities.
 
 ## 📚 Classification
-Humanoid Alterant
+Experimental Phantasmal Entity
 
 ### Weaknesses
-*   Blood-calming Reliant
-*   Uneasy Personality
-*   Constantly on-edge
-*   Needs a therapist
+*   Memory Consumption Reliance
+*   Increased 3142Hz Sensitivity
 
 ### 🌳 Lifespan
-60-80 Years
+Unaging
 
 ### Traits
-*   Quick Thinking
-*   Artistically Gifted
-*   Naturally Creative
+*   
 
 ## Overview
 
