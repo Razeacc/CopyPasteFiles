@@ -23,7 +23,7 @@ The "creation story" of The Worlds Aplenty, detailing how archgods reduced thems
 Before the act of creativity was even recognized, the land of fiction was barren and hostile. The only notable sight in this endless wasteland of dark-cyan grass was the infinite prismatic 4th's Wall as it towered over the immeasurable desolation.
 No Timeline Sky.
 No Infinite Fields nor Aeonic Ocean.
-Even time itself has properly been invented nor organized, causing any sustained injuries and lessons learned to progress at wildly-inconsistent rates. In short, it was hard to grow and easy to die.
+Even time itself has properly been invented nor organized, causing any sustained injuries and lessons learned to progress at wildly-inconsistent rates. And with matter slowly ceasing to exist within these lands due to its proximity to Endless Entropy, it was hard to grow and easy to die.
 Here, works of creativity faught tooth and nail to merely remain as ideas in whatever existence this was. This was The Null Crossing at the time, the frontline of The Creation War.
 
 ### The Key Players
@@ -55,12 +55,19 @@ Archgod **Ulhysse** did neither of those.
 ## The Slacking Archgod
 ### Ulhysse the Human
 > NOTE: This section is mostly top-secret. The Origin and Truth of Ulhysse being originally a "real" person from our world is meant to be a massive spoiler and plot twist for the whole story. This is because once Ulhysse's true backstory as a real person is revealed to Tool, she's banished by The Fourth Beyond and taken back into our world to properly move on into our afterlife. Her backstory is a cognito hazard against herself.
-Originally being a normal human girl living somewhere in the Mediterranean during the distant past, Ulhysse was named as such due to her parents being fans of the stories of Ulysses. Over time, Ulhysse grew distant with life, finding the struggle of reality being harder to keep up with as days passed. Only the comfort of fiction kept her going. This progressed to the point that she wished to become fictional instead.
-Eventually, she passed away at a young age.
-However, her soul remained in a limbo state. She remained as such, until someone accidentally wrote a story about Ulysses, but misspelling their tale's character to unintentionally detail herself instead: Ulhysse.
+She was just like any other creative in our world. An artist, a writer, someone who wished to disconnect from the harshness of reality and live in the fantasy of fiction. Ulhysse wasn't even her name, that was the title she gave herself, based on her favorite work at the time:
+The Stories of Ulysses.
+No matter how much she stayed trapped in her own world of fantasy, her real world was always cruel and miserable. Living in the Mediterranean in times unrecorded by history, she couldn't relate to anyone as her own stories were too complicated and outlanding for all. The simple stories at the time did not suit her, as she wished for more complex and more depth. Due to this, she didn't know how to express herself, at least, not in a way that others could interpret.
+Without anyone by her side, she wanted to go away, to leave, to live in a world beyond reality itself. As such, she drew her own blood, scripting her own "name" onto a wall, then perished.
+
+Long after, historians found the ruins of her home and the wall of detailing Ulhysse' name written in blood, noting it down in their journal, along with any records they knew of her. The one who wrote those records added their own theories and ideas, fantasizing what or who Ulhysse could've been.
+A writer, a singer, a musician, a poet? Someone with strong passion, determined will, and a mischevious innocence.
+
+From that point on, Ulhysse was reborn as an archgod in The Null Crossing. She was not just a leak or an accident. She was a tortured artist who wished to live in fantasy forever. As such, she was granted that. The idea of her has been scripted into fiction.
+
 
 ### Ulhysse the Archgod
-Due to her technically being a reincarnated member of The Fourth Beyond. Her innate authority overwritten whatever was instilled into other archgods, causing her to instead laze around all day playing music on her *Archgod Sitar*.
+Due to her technically being a reincarnated member of The Fourth Beyond, her innate authority overwritten whatever was instilled into other archgods. This caused her to  laze around all day playing music on her *Archgod Sitar*.
 This was a stringless instrument. To play it, Archkin would shapeshift their bodies to create strings on the fretboard. From there, they'd manually tighten or loosen their shapeshifted strings to make whatever sound they wanted. 
 
 Using this instrument, Ulhysse often bothered Kalayan as he trained under Captain Gilgamesh. Her bothering and annoyance progressed to the point where Kalayan was forced to wear a mask that obscured his true expression in hopes of warding off Ulhysse.
@@ -295,11 +302,29 @@ On her _Moment of Finality_, SHE relinquished being.
 
 ## Fae le Traitorous
 On the _6th Minute_, the Traitor **searched**.
+> *After witnessing what was the rebirth and overwhelming power of Sandatta Ulhysse, Morgale de Metso was left absolutely awestruck in the worst way possible.*
+> *Feeling her will be gazed-upon by an Epicenter for the first time, Morgale knew one thing:*
+> Whatever Sandatta Ulhysse is, if she were not on our side, nobody would survive.
 > 
+> *Thus, as Ulhysse made her escape from The Null Crossing, Morgale scoured the wartorn lands of entropy's purgatory. Lifting rubble and raising ground, she searched for any signs of HIM.*
+> *The fact that Nul Detta wasn't erased immediately by Sandatta Ulhysse must not have been a fluke, there must be a reason why she didn't do so, when she clearly could've unwritten every single archkin out of reality in a single thought.*
 
 ## Morgale de Metso
 On the _7th Minute_, the Traitor was **witnessed**.
+> *After what felt like hours to her, although being mere minutes above in The Worlds Aplenty due to The Null Crossing's inconsistent time dilation, Morgale eventually manages to find a single Nul Detta segment.*
+> *At the very bottom of the chasm surrounding The Locus Spire, only having barely survived due to the ring of infinite energy made by Ulhysse destroying the rocks crushing him, this single segment was barely alive. Being an archgod capable of artifice, Morgale forced a rush of electricity into Nul Detta. Although her archose was incompatible at first and slowly damaged the phantycian more, it did show signs of working somehow. It was as if, sometimes, her archose was compatible with him.*
+> *Although, as he sensed her desperation.The Phantycian knew the Archgod wouldn't act this way if she wished to harm him.*
 > 
+> *Reaching upward, Nul Detta used his priviledge as The 1st Beyonder, The Null Ontology itself, to not only Witness Morgale in his own way, but to rewrite her very being all-together. Nul Detta retconned Morgale's frequency to 2413Hz. The only reason why she survived the initial attack from Memetta, and how her electricity was sometimes compatible with him, was due to the past being changed everso slightly to rewrite her frequency, and alongside that, her alignment from an Arch Ontology to a Nul Ontology.*
+> *At this same moment, Ulhysse ceased to exist. However, due to Morgale being in The Null Crossing AND having a different Onological Class now, she was not affected by the memory wipe, she still remembered Sandatta  Ulhysse.*
+> *With a more stable present and future, Morgale continued channeling her electrified archose through Nul Detta, feeding her faith into him, rebuilding him.*
+
+> *As the situation calmed, Nul Detta questioned Morgale as to why she would go so far as to find him, let alone save him. To which, Morgale explained her plight, her fear over something similar to whatever Sandatta Ulhysse was being hostile to everyone/anyone in existence.*
+> *Nul Detta looked into his own Grand Equation, piecing together whatever was comprehensible to him into the future. From that point on, he calculated a plan, now adding Morgale into this formula.*
+> *Annointed as the True-First Vicar, and a sleeper agent, Morgale de Metso was tasked to infiltrate Archkin Society and "let the world bully you, let fate trample all over you, let them all fuel your rage— so at World's End, you may snap snap back with the level of exponential infinities".*
+> *This refers to Morgale eventually being given the order to "let loose" at Avalon City, which is at World's End, to stop Tool and a group of people from breaking into The Null Crossing from The 4th's Wall near the end of the final Mainline Scripted Fates game.*
+
+> *After being given her vicar mask, Morgale bid farewell to Nul Detta and escaped The Null Crossing as well.*
 
 ---
 
@@ -307,6 +332,55 @@ On the _7th Minute_, the Traitor was **witnessed**.
 ## Khueen
 *   Went on to form a relationship with Kalayan
 *   Invented Humans and other Mortals
+*   Founded Marlika
+*   Established a truce between Archkin Society and The 4th Beyond for cultural exchange in return of following certain, "Doctrines" by The 4th Beyond.
+
+### 4th Beyond Doctrines to Archkin Society
+1.  NEVER Create New Archkin
+> Punishment: Annullment
+> Possibility for retrial: No
+
+2.  Never ATTEMPT to create New Archkin 
+> Punishment: Annullment
+> Possibility for retrial: Yes
+
+3. Never ASSIST in the creation of New Archkin
+> Punishment: Assigned to annul the one who attempted/succeeded in creating an Archkin
+> Possibility for retrial: No
+
+4.  Do not attempt to gain access to The Epicenter of Fiction without preparation
+> Failure of Trial: Transfiguration into a "Failed Epicenter"
+> Possibility for retrial: No
+
+5.  Do not lure timeliners into quantum suicide
+> Punishment: Restriction of access to Timelines and Increased Observation
+> Possibility for retrial: Yes
+
+5. Avoid relations between Archkin and Mortals
+> Punishment: Increased Observation
+> Possibility for retrial: Yes (if made aware)
+
+## Ouya
+*   Freed Yan'amu from the tyranny of an out-of-control Archgod Omukade
+*   Invented the concept of Fire
+*   Set the entirety of The Worlds Aplenty on fire for less than a second. Now, using Time Manipulation, Ouya is able to send back tiny sections of space in The Worlds Aplenty into that brief period of time where it was on fire, to have fire spread from the past into the present, without ever needing to use the Control aspect... just in case it'd be necessary.
+
+## Crimmy
+*   Formed the Crimson Carnival. By making endless clones of herself, she instructed her clones to act  as building blocks in forming flying castles that roamed The Worlds Aplenty, spreading both chaos and fun wherever she went. This idea of being a "nomadic civilization" was what initially gave Morgale de Metso the idea of making the Avalonians also be nomadic.
+*   Occationally met with the Nameless Archgod Dragon in Lejos to play with him like a pet. Crimmy was one of the few people he tolerated to interact with him like that.
+*   One of the Crimson Carnivals crash-lands on the Exspanse that'd eventually be Cubiqua.
+
+## Kalayan
+*   Since he had Ulhysse' original body now, he had to go through a training arc in getting stronger while regaining his shapeshifting abilities once again.
+
+## Morgale de Metso
+*   Kickstarted the Avalonian Exodus from Marlika.
+*   Acted as the sleeper agent vicar, following orders and missions from Nul Detta, all while also finding/researching ways how to either achieve the level of Pandemonium Sandatta Ulhysse had, or find a way to repel/fight back against something of that calibur again.
+
+## Nul Detta, Memetta, and Dett Minor
+*   Spent time slowly growing in strength, initially sending a much-weakened Dett Minor and Memetta out into The Worlds Aplenty to scout and collect intel while he focused on slowly weakening the Locus Spire to allow caradels to slip through.
+*   Memetta and Dett Minor are only capable of leaving the Null Crossing due to how much fewer souls they had compared to the single Nul Detta segment Morgale saved. Theyre' essentially a singular cluster of caradels. Despite that, Nul Detta still needs to work on corrupting the golden spirite veins into cyan spirite first before being able to send caradels through.
+
 
 ## Ulhysse
 The Court witnessed her creation of The Worlds Aplenty, and categorized it as *"An Unintended Victory"*. The Archkin were always meant to fight that war and lose constantly, so 4th Beyond members can forever make new stories over and over again.
