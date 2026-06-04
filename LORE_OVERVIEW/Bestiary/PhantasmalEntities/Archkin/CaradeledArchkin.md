@@ -1,14 +1,10 @@
 (WIP)
-*The Tortured Artists of Sentience*
+*A desperate attempt to evolve the gods, by drenching them in the devil's blood.*
 
-
-> As their creator slowly dove into insanity
-> She created the greatest victim of them all.
-
-> To think, there is a race out there-
-> who's sole purpose is designed as a joke.
+> 
 
 -An Agent
+
 ## Short Description
 
 
