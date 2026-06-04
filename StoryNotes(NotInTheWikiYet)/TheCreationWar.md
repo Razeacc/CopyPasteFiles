@@ -290,16 +290,6 @@ On her _Moment of Finality_, SHE relinquished being.
 > *... however, before she could move on, Ulhysse was annulled from existence.*
 > *Everyone not Null ontologically-aligned, forgot about The Creation War and Ulhysse, as if she never existed.*
 > *But this was not done by Nul Detta, but rather, The Court of The 4th.*
-> 
-> *The Court witnessed her creation of The Worlds Aplenty, and categorized it as "An Unintended Victory". The Archkin were always meant to fight that war and lose constantly, so 4th Beyond members can forever make new stories over and over again.*
-> *However, due to Ulhysse actually succeeding, they had to stop making new archkin, or else the world would just overflow with them. Instead, they worked on the timelines Ulhysse invented, making their own new stories in fiction. However, they needed someone capable of creation. A right-hand man.*
->*As we worked on creating the Skribbles to replace archkin as our new fate-manipulation story creation tools, Ulhysse was turned into The Worldbuilder, designated to use her creation capabilities to expand The Fictional World for our own endeavors.*
-> 
-> *Since then, until now, Ulhysse awaits in the depths of The Court of The 4th, as our worldbuilding tool.*
-> *Whenever we needed a new world built, we command the power of Ulhysse to build our world using her power via a Worldbuilder, the same entity which "Failed Epicenters" are based on (punished entities for attempting to claim the Epicenter of Fiction). She could return to reality, but only under direct order and commands from The Court.*
-> *She would repeat her actions in the Creation War, but under our rule. She could also free herself at any time due to her immense power and control over The Epicenter, but... she refused. Instead, she repeatedly cried out for help. She wanted Kalayan to save her. But no matter how much she plead, he never came. He was already happy with Khueen. And since the world forgotten her now due to The Court, nobody knew she was "missing".*
-> *Not only that, without her Passion, Will, nor Mischievous Innocence, Ulhysse was an emotional husk of who she once was and could've been. Someone who wouldn't go all out and rebel for her own self.*
-> *She waits in The Court, for someone to take her place as the next Epicenter of Fiction.*
 
 ---
 
@@ -314,5 +304,17 @@ On the _7th Minute_, the Traitor was **witnessed**.
 ---
 
 # Epilogue
+## Khueen
+*   Went on to form a relationship with Kalayan
+*   Invented Humans and other Mortals
 
-# Final Aftermath
+## Ulhysse
+The Court witnessed her creation of The Worlds Aplenty, and categorized it as *"An Unintended Victory"*. The Archkin were always meant to fight that war and lose constantly, so 4th Beyond members can forever make new stories over and over again.
+> *However, due to Ulhysse actually succeeding, they had to stop making new archkin, or else the world would just overflow with them. Instead, they worked on the timelines Ulhysse invented, making their own new stories in fiction. However, they needed someone capable of creation. A right-hand man.*
+>*As we worked on creating the Skribbles to replace archkin as our new fate-manipulation story creation tools, Ulhysse was turned into The Worldbuilder, designated to use her creation capabilities to expand The Fictional World for our own endeavors.*
+> 
+> *Since then, until now, Ulhysse awaits in the depths of The Court of The 4th, as our worldbuilding tool.*
+> *Whenever we needed a new world built, we command the power of Ulhysse to build our world using her power via a Worldbuilder, the same entity which "Failed Epicenters" are based on (punished entities for attempting to claim the Epicenter of Fiction). She could return to reality, but only under direct order and commands from The Court.*
+> *She would repeat her actions in the Creation War, but under our rule. She could also free herself at any time due to her immense power and control over The Epicenter, but... she refused. Instead, she repeatedly cried out for help. She wanted Kalayan to save her. But no matter how much she plead, he never came. He was already happy with Khueen. And since the world forgotten her now due to The Court, nobody knew she was "missing".*
+> *Not only that, without her Passion, Will, nor Mischievous Innocence, Ulhysse was an emotional husk of who she once was and could've been. Someone who wouldn't go all out and rebel for her own self.*
+> *She waits in The Court, for someone to take her place as the next Epicenter of Fiction.*
