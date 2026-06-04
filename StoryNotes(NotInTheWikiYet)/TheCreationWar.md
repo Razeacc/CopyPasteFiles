@@ -54,9 +54,11 @@ Archgod **Ulhysse** did neither of those.
 
 ## The Slacking Archgod
 ### Ulhysse the Human
-> NOTE: This section is mostly top-secret. The Origin and Truth of Ulhysse being originally a "real" person from our world is meant to be a massive spoiler and plot twist for the whole story. This is because once Ulhysse's true backstory as a real person is revealed to Tool, she's banished by The Fourth Beyond and taken back into our world to properly move on into our afterlife. Her backstory is a cognito hazard against herself.
+> NOTE: This section is compleyely top-secret. The Origin and Truth of Ulhysse being originally a "real" person from our world is meant to be a massive spoiler and plot twist for the whole story. This is because once Ulhysse's true backstory as a real person is revealed to Tool near the end of ScriFa, she's banished by The Fourth Beyond and taken back into our world to properly move on into our afterlife. Her backstory is a cognito hazard against herself.
+
 She was just like any other creative in our world. An artist, a writer, someone who wished to disconnect from the harshness of reality and live in the fantasy of fiction. Ulhysse wasn't even her name, that was the title she gave herself, based on her favorite work at the time:
 The Stories of Ulysses.
+
 No matter how much she stayed trapped in her own world of fantasy, her real world was always cruel and miserable. Living in the Mediterranean in times unrecorded by history, she couldn't relate to anyone as her own stories were too complicated and outlanding for all. The simple stories at the time did not suit her, as she wished for more complex and more depth. Due to this, she didn't know how to express herself, at least, not in a way that others could interpret.
 Without anyone by her side, she wanted to go away, to leave, to live in a world beyond reality itself. As such, she drew her own blood, scripting her own "name" onto a wall, then perished.
 
