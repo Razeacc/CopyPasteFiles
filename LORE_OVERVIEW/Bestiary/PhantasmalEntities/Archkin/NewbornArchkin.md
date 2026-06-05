@@ -23,7 +23,7 @@ This does open up several unique properties in them, with some being negative, a
 Due to how critical soul logic are with [[archkin]], alongside newly-created [[archkin]] not having enough experience with life in general, their souls are naturally easy to modify and access, similar to having the "Exposed Psyche" state.
 While this "Freshness" degrades over time as they become more experienced, this leaves them vulnerable to creatues like Archubi, [[Caradeled [[archkin]]]], and other similar low-intensity soul-focused phenomena that normal [[archkin]] would be naturally resistant towards.
 
-<small>Also, yes, the "Fresh Soul" is an archkin's equivalent of the soft spot atop a human baby's skull.</small.>
+<small>Also, yes, the "Fresh Soul" is an archkin's equivalent of the soft spot atop a human baby's skull.</small>
 
 ## Known Compatibilities
 Here are some unique phenomena, or potential evolutionary states, applicable to Newborn [[archkin]].
