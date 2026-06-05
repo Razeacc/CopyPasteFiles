@@ -23,6 +23,8 @@ This does open up several unique properties in them, with some being negative, a
 Due to how critical soul logic are with [[archkin]], alongside newly-created [[archkin]] not having enough experience with life in general, their souls are naturally easy to modify and access, similar to having the "Exposed Psyche" state.
 While this "Freshness" degrades over time as they become more experienced, this leaves them vulnerable to creatues like Archubi, [[Caradeled [[archkin]]]], and other similar low-intensity soul-focused phenomena that normal [[archkin]] would be naturally resistant towards.
 
+<small>Also, yes, the "Fresh Soul" is an archkin's equivalent of the soft spot atop a human baby's skull.</small.>
+
 ## Known Compatibilities
 Here are some unique phenomena, or potential evolutionary states, applicable to Newborn [[archkin]].
 
@@ -36,9 +38,10 @@ In truth, there's no direct downside to this form of archkin, as if it's a direc
 
 ### A Fissuring Caradeled Exploit
 A Surface-Level exploit can be seen in potentially making a __permanently-fissuring archkin__.
-With the "Fresh Soul" property in Caradeled Archkin[^1] and the adventures of Archkin in Farewell Avalon, it's believed a caradeled archkin can simply hold a Memory Piece from Morgale to stay Fissuring Forever.
+With the "Fresh Soul" property in Caradeled Archkin[^1] and the adventures of Archkin in Farewell Avalon, it's believed a caradeled archkin can simply hold a Memory Piece from Morgale and stay within range of "certain" Fracturing Fissures to stay Fissuring Forever.
 Unfortunately, **Caradeled Archkin cannot turn into Fissuring Archkin**.
 This is due to the properties of Fissuring Archkin relying on many base properties within normal Archkin, which includes Newborn Archkin. The process of becoming Caradeled Archkin removes and destroys several of these complex innate properties for the sake of "future-proofing". While that remains true, it means locking away the one upgrade possible with natural Archkin: Fissuring.
+Not only that, it is currently unknown what Morgale exactly did to those certain fissures in Outpost 7 that allowed Archie to become fissuring while holding one of her memories around them. Much more study has to be done regarding those fracturing fissures.
 
 ---
 
@@ -61,7 +64,7 @@ All newborn [[archkin]] after them were made with varying stages of memory-reduc
 
 While going through Outpost 7, they ran into a Memory Piece from [[Morgale de Metso]] prior to The AoS capturing her. Ever since they collected this, approaching certain fissures changed the archkin slightly. [[Archie]] temporarily turns into a fissuring archkin due to these fissures mistaking [[Archie]] as [[Morgale]]. Their Fresh Soul somewhat blurred who they really were, making the fissures accidentally see the not-fresh Memory Piece instead. It's akin to having a face perfectly fit for a mask, and carrying the mask by wearing it.
 
-This allowed [[Archie]] access to travel between these Fracturing Fissures, while also gainin temporary immunities while within their vicinity.
+This allowed [[Archie]] access to travel between these Fracturing Fissures, while also gainin temporary immunities from 2413Hz within their vicinity.
 At some point in Farewell Avalon, they find a device that lets them send a "relay message". It records a video message, confusing [[Archie]] at first, but [[Morga's Living Piece]] receives this message from Outpost 7 all the way in Outpost 3. During the time of Farewell Avalon, An-Tri'Fhiana was still active.
 
 ### A Relay

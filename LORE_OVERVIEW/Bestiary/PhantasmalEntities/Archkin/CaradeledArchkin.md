@@ -57,10 +57,12 @@ But in this case, rather than becoming aberrant caradels, [[newborn archkin]] wi
 
 However, there is a very specific clause and requirement for this process.
 
-### Fresh Soul[^1]
+### Fresh Soul[^1] and Lejeseh Caradel
 Although Lithe won't have access to this certain mechanic, Morgale's Living Piece installed a backdoor that would affect all future archkin transformed into caradeled archkin.
-Essentially, this keeps their souls "Fresh" permanently, leaving future modifications and edits to caradeled archkin possible. This does leave them more vulnerable to psyche-based attacks, but The Living Piece saw this as a necessary sacrifice in exchange for a whole immunity against their main opponent (and natural predator) during The Creation War— alongside the added benefit of being able to easily modify or improve archkin now.
-Essentially, you can inject "soul steroids" and "psyche drugs" into Caradeled Archkin in the future. It's like being able to use a "kryptonite knife" to do surgery on Superman.
+By utilizing the easily-modifiable properties of Caradels from Lejos, Morgale's Living Piece managed to make the "Fresh Soul" of caradeled archkin transformed from newborn archkin, remain permanently fresh forever. This ensures caradeled archkin are uniquely vulnerable to future modifications, improvements, and psyche-based alterations.
+Although, this also leaves them more vulnerable to psyche-based attacks. However, The Living Piece saw this as a necessary sacrifice in exchange for a whole immunity against their main opponent (and natural predator) during The Creation War— alongside the added benefit of deep kernel-like modifiability long after creation.
+
+In leyman's terms, you can inject "soul steroids" and "psyche drugs" into Caradeled Archkin in the future that would do crazy stuff like let them stop shapeshifting, or change the base mollecular density of their archose. It's like being able to use a "kryptonite knife" to do surgery on Superman.
 
 ---
 

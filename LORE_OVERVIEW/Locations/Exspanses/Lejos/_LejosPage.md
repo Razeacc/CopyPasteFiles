@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Lejos
+category: location
+tags: [exspanse, location, draft]
+last_modified: Jun-5-2026
+status: draft
+---
 ## Overview
 > A vast and varied continental archipelago, the **Lejos Exspanse** is situated at the furthest possible northeast distance from any other known Exspanse. This extreme geographic isolation is entirely intentional. 
 > 
