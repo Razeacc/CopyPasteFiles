@@ -303,7 +303,7 @@ On her _Moment of Finality_, SHE relinquished being.
 ---
 
 ## Fae le Traitorous
-On the _6th Minute_, the Traitor **searched**.
+On the _6th Minute_, the traitor **searched**.
 > *After witnessing what was the rebirth and overwhelming power of Sandatta Ulhysse, Morgale de Metso was left absolutely awestruck in the worst way possible.*
 > *Feeling her will be gazed-upon by an Epicenter for the first time, Morgale knew one thing:*
 > Whatever Sandatta Ulhysse is, if she were not on our side, nobody would survive.
@@ -312,7 +312,7 @@ On the _6th Minute_, the Traitor **searched**.
 > *The fact that Nul Detta wasn't erased immediately by Sandatta Ulhysse must not have been a fluke, there must be a reason why she didn't do so, when she clearly could've unwritten every single archkin out of reality in a single thought.*
 
 ## Morgale de Metso
-On the _7th Minute_, the Traitor was **witnessed**.
+On the _7th Minute_, the traitor was **witnessed**.
 > *After what felt like hours to her, although being mere minutes above in The Worlds Aplenty due to The Null Crossing's inconsistent time dilation, Morgale eventually manages to find a single Nul Detta segment.*
 > *At the very bottom of the chasm surrounding The Locus Spire, only having barely survived due to the ring of infinite energy made by Ulhysse destroying the rocks crushing him, this single segment was barely alive. Being an archgod capable of artifice, Morgale forced a rush of electricity into Nul Detta. Although her archose was incompatible at first and slowly damaged the phantycian more, it did show signs of working somehow. It was as if, sometimes, her archose was compatible with him.*
 > *Although, as he sensed her desperation.The Phantycian knew the Archgod wouldn't act this way if she wished to harm him.*
