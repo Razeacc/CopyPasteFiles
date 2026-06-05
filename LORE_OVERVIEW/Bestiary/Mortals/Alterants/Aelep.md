@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Aelep
+category: race
+tags: [race, alterant, draft]
+last_modified: Jun-5-2026
+status: draft
+---
 Firmata Frontier Discord Server Mini Wiki Entry:
 
 *The Tortured Artists of Sentience*

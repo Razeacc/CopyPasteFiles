@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Caradeled Archkin
+category: race
+tags: [race, archkin, phantasmal entity, draft]
+last_modified: Jun-5-2026
+status: draft
+---
 *A desperate attempt to evolve the gods, by drenching them in the devil's blood.*
 
 ## Short Description
@@ -19,6 +25,7 @@ Unaging
 
 ## Overview
 Following Morgale's creation of the Archubi and her Living Piece, she assigned control of An-Tri'Fhiana to this new "clone" of hers alongside the mission of finding a way to ascend beyond even an Archgod; they both knew and remembered this was to prepare for a being as strong as Sandatta Ulhysse.
+
 Using the innate editable properties of caradel in Lejos, combined with her origin's creation of the Archubi, the Living Piece did her best to brutally combine properties of both into an archkin's body.
 The result was a caradeled archkin.
 
@@ -44,30 +51,27 @@ In a way, Caradeled Archkin store memories-to-be-consumed in their Aberrant Cara
 Lithe, in particular, stores all his memories-to-be-consumed as "Memory Tabs" in his Spire Bell, hence why he carries it around everywhere. That bell is techincally an aberrant caradel. 
 
 ### Caradel Spread
-Another side-effect of the archubi's properties mutating within the caradeled archkin.
-When sharing memories with newborn archkin, a caradeled archkin is able to overwrite the newborn archkin's memories, similar to how it does so with caradels to make aberrant caradels, or archubi with other memory-holders.
-But in this case, rather than becoming aberrant caradels, newborn archkin with memories overwritten by a caradeled archkin, turns them into caradeled archkin as well.
+This is another side-effect of the archubi's properties mutating within the caradeled archkin.
+When sharing memories with [[newborn archkin]], a caradeled archkin is able to overwrite the [[newborn archkin]]'s memories, similar to how it does so with [[caradels]] to make aberrant caradels, or archubi with other memory-holders.
+But in this case, rather than becoming aberrant caradels, [[newborn archkin]] with memories overwritten by a caradeled archkin, turns them into caradeled archkin as well.
 
 However, there is a very specific clause and requirement for this process.
 
-### Newborn Archkin
-Chronologically-Speaking, Caradeled Archkin were made AFTER Farewell Avalon.
-At some point in that game, the playable character (Newborn Archkin Archie) will need to "send a relay message" to progress through their story. It records a video message, confusing Archie at first, but Morga's Living Piece receives this message from Outpost 3, An-Tri'Fhiana.
-
-She, too, was confused by who the archkin was. That's when it hit her: The 4th Beyond was making new archkin, something they have never done since The Creation War.
-Due to how skilled all archkin are at this point, it's actually impossible for a caradeled archkin to overwrite the memories of an archkin, especially using an archubi's abilities (as archkin are one of the few creatures immune to archubi memory rewriting). However, by fine-tunning the Caradeled Archkin's Caradel Spread rewriting to ONLY work on these newborn archkin, not only would it make the process faster and more efficient, it could also help actually make this new breed of archkin achieve one of its purposes: to evolve the archkin race into defeating being similar to Sandatta Ulhysse.
-As such, the process was fine-tuned. Even a backdoor was made in the caradel spread logic in order to receive more updates and changes to their ecology in the future, so that experienced archkin can still be upgraded further.
-This will surely not cause any problems in the future.
-
-But at least, in this way, a Caradeled Archkin Pandemic won't be possible, as long as The 4th Beyond don't make too much neborn archkin.
+### Fresh Soul[^1]
+Although Lithe won't have access to this certain mechanic, Morgale's Living Piece installed a backdoor that would affect all future archkin transformed into caradeled archkin.
+Essentially, this keeps their souls "Fresh" permanently, leaving future modifications and edits to caradeled archkin possible. This does leave them more vulnerable to psyche-based attacks, but The Living Piece saw this as a necessary sacrifice in exchange for a whole immunity against their main opponent (and natural predator) during The Creation War— alongside the added benefit of being able to easily modify or improve archkin now.
+Essentially, you can inject "soul steroids" and "psyche drugs" into Caradeled Archkin in the future. It's like being able to use a "kryptonite knife" to do surgery on Superman.
 
 ---
 
 ## Current Status on The Continent (Firmata Frontier)
-Currently, Lithe (The Spireknell) is the only caradeled archkin active. He managed to take an experimental "caradel bell" made by Morga's Living Piece using Avalonian Steel (the metal capable of storing memories), and turn that bell into an aberrant caradel. To avoid capture from the AoS and Steel Sanctuary as much as possible, he often has his normal aberrant caradel destroy themselves shortly after creating them, relying mostly on just his Caradel Bell for memory consumption.
+Currently, <mark>Lithe (The Spireknell)</mark> is the **only caradeled archkin active**.
+He managed to take an experimental "caradel bell" made by Morga's Living Piece using Avalonian Steel (the metal capable of storing memories), and turn that bell into an aberrant caradel. To avoid capture from the AoS and Steel Sanctuary as much as possible, he often has his normal aberrant caradel destroy themselves shortly after creating them, relying mostly on just his Caradel Bell for memory consumption.
 He does try limiting the usage of his abilities, as he mainly relies on consuming memories from The Failed Epicenter of Morga's Living Piece. In fact, that's partially why she gathered all the memories on The Continent in the first place. Not only was she trying to gain access to The Epicenter of Fiction for a sliver of its infinite power to make HER Firmata, alongside using the memories to power HER Firmata, she also wanted to make a stockpile of memories for Lithe to consume over the next potentially hundreds or thousands of years within HER Firmata.
 
 Later on, during Season 2 in Frontline Firmata, Lithe will meet two newborn archkin from Steel Sanctuary, Meshgal and Dustina. At some point, they'll be trapped by Fracturing Zones made by Steel Sanctuary, forcing Lithe to turn the two archkin into caradeled archkin as well.
 
 
 // Note: Oh god, I just realized, Caradeled Archkin are LITERALLY just Jojo Vampires-
+
+[^1]: [[NewbornArchkin.md|Fresh Soul]]

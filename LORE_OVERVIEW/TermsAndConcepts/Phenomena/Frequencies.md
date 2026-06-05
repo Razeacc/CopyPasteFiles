@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Frequencies
+category: phenomena
+tags: [phenomena, draft]
+last_modified: Jun-5-2026
+status: draft
+---
 # Overview
 In the Scripted Fates stories, all "magical" phenomena take the form of frequencies. This explains how even electricity and fire can be considered "magical" in this world, due to its reliance and usage of frequencies and vibrations.
 

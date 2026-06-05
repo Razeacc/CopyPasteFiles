@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Seperatist Sequence
+category: phenomena
+tags: [phenomena, draft]
+last_modified: Jun-5-2026
+status: draft
+---
 # Overview
 Numbers are very important and powerful in the Scripted Fates series due to its reliance of magical/spiritual properties being frequencies. As such, certain forces have learned how to harness and use these powers for highly unorthodox manners.
 

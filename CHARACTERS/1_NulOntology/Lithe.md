@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Lithe
+category: character
+tags: [character, nul ontology, draft]
+last_modified: Jun-5-2026
+status: draft
+---
 # OVERVIEW
 Also known as The Spireknell following The Spirepocalypse, he was the lead lab assistant of Morgale's Living Piece in An-Tri'fhiana.
 Initially a caretaker in Marlika, he joined Avalon seeking greater purpose. He originally served under Morgale herself, but was eventually transitioned to her Living Piece after Morgale had to continue the exodus, leaving her Living Piece and Lithe on Lejos to continue working on their soul experiements. Following the disappearance of Khueen, he was the lead scientist behind trying to figure out what happened to several humans who lost all their memories following her anullment from reality.
