@@ -22,7 +22,7 @@ Following Morgale's creation of the Archubi and her Living Piece, she assigned c
 Using the innate editable properties of caradel in Lejos, combined with her origin's creation of the Archubi, the Living Piece did her best to brutally combine properties of both into an archkin's body.
 The result was a caradeled archkin.
 
-It utilized the more mortal properties of archubi as a medium akin to a "cushion" for the 2413Hz caradel properties to coexist with the archkin's innately incompatible properties. However, due to this, it introduced some unique challenges and difficulties for caradeled archkin, making them similar to "vampires" from traditional folktale.
+It utilized the more mortal properties of archubi as a medium to "cushion" the 2413Hz caradel properties, letting it coexist with the archkin's innately incompatible properties. However, due to this, it introduced some unique challenges and difficulties for caradeled archkin, making them similar to "vampires" from traditional folktale.
 
 ## Abilities
 ### Memory Hunger
@@ -63,9 +63,10 @@ But at least, in this way, a Caradeled Archkin Pandemic won't be possible, as lo
 
 ---
 
-##I would Current Status on The Continent (Firmata Frontier)
+## Current Status on The Continent (Firmata Frontier)
 Currently, Lithe (The Spireknell) is the only caradeled archkin active. He managed to take an experimental "caradel bell" made by Morga's Living Piece using Avalonian Steel (the metal capable of storing memories), and turn that bell into an aberrant caradel. To avoid capture from the AoS and Steel Sanctuary as much as possible, he often has his normal aberrant caradel destroy themselves shortly after creating them, relying mostly on just his Caradel Bell for memory consumption.
 He does try limiting the usage of his abilities, as he mainly relies on consuming memories from The Failed Epicenter of Morga's Living Piece. In fact, that's partially why she gathered all the memories on The Continent in the first place. Not only was she trying to gain access to The Epicenter of Fiction for a sliver of its infinite power to make HER Firmata, alongside using the memories to power HER Firmata, she also wanted to make a stockpile of memories for Lithe to consume over the next potentially hundreds or thousands of years within HER Firmata.
+
 Later on, during Season 2 in Frontline Firmata, Lithe will meet two newborn archkin from Steel Sanctuary, Meshgal and Dustina. At some point, they'll be trapped by Fracturing Zones made by Steel Sanctuary, forcing Lithe to turn the two archkin into caradeled archkin as well.
 
 
