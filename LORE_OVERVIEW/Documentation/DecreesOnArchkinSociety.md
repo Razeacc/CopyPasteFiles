@@ -2,11 +2,11 @@
 title: Decrees on Archkin Society
 category: documentation
 tags: [documentation, fourth_beyond, archkin, draft]
-last_modified: Jun-6-2026
+last_modified: Jun-7-2026
 status: draft
 ---
 # Overview
-Formulated with Archgod Khueen following the ending of The Creation War, the Decrees on Archkin Society were established between The Fourth Beyond and the overall Archkin race in order to actively maintain the newly-acquired peace of the epoch.
+Formulated by The Fourth Beyond and its fate scripted to be agreed upon by Archgod Khueen following the ending of The Creation War, the Decrees on Archkin Society were established between The Court of The Fourth towards the overarchking Archkin race in order to actively maintain the newly-acquired peace of the epoch. This only includes Archkin and all Archkin Sub-Classes, not the entire Arch Ontological Class (may be ammended).
 Initially consisting of merely two foundational rules, **new decrees may be appended or amended** over-time. Any and all modifications **will be enforced retroactively**.
 So long as "Archkin Society" can be reasonably considered "active" by *any* definition possible, these decrees maintain **absolute authoritative weight**.
 
@@ -17,11 +17,38 @@ Definition: To be sentenced to the Seizure of Existence via banishment to The Nu
 ## Archkin Society
 Any group of entities possessing a cognitive sentience equal to or exceeding "Mortalistic" parameters where at least one archkin is, or historically was, present.
 
+---
+
+# Penalties
+Being accussed of breaking a Decree by The Fourth Beyond summons those accused of contempt to The Court of The Fourth, the metaphysical courtroom located at the top of The 4th's Wall.
+Here, a guilty verdict is already determined and guaranteed. However, a sentence can be lightened based on how "entertaining" the accussed acts and defends themselves in the courtroom.
+Yes, there is no defense attourneys in a case within The Court of The Fourth. Only the Defendant, and The Court itself as the prosecutor and judge. It is a trial where it is impossible to win, making up for The Creation War having been originally=intended to be an actual unwinnable endeavor for endless entertainment.
+Ever since, trials in The Court of The Fourth have been a new source of entertainment for us.
+
+Those *suspected of breaking a decree*, are listed as "_Suspected Contempt_". Those currently servince sentences are "In Contempt".
+
+## Annulment
+After a spiritual/psyche execution is performed within The Court of The Fourth, the defendant's soul and physical body are immediately Annuled and sentenced to The Null Crossing.
+This is one of the most severe penalties. However, it is also the simplest and quickest. Whether you categorize penalty severity based on length of suffering or severity of it, falls onto the interpreter to decide. 
+Annulment is The Court of The Fourth's equivalent of most real life court's "Death penalty". There is no other alternative.
+
+## Failed Epicenter Transfiguration
+Reserved specifically
+
+## Restricted Timeline Access
+
+
+## Scrutiny
+Being granted more, or less, "scrutiny" by The Court determines how "lenient" we will be when delivering final sentencings and verdicts. It's not an actual pennalty, but rather, a modifier for future penalties.
+It also determines how likely we'll be to accusse a character of breaking a decree in the first place.
+
+---
+
 # Decrees
 ## 1. NEVER Create New Archkin
 *   **Punishment**: _Annulment_
 *   **Retrial Potential**: _None_
-*   **Establishment Period**: _End of Creation War_
+*   **Enactment Period**: _End of Creation War_
 
 *   **In Contempt**
     *   [[Khueen]]
@@ -34,7 +61,7 @@ Any group of entities possessing a cognitive sentience equal to or exceeding "Mo
 ## 2. Never ATTEMPT to create New Archkin 
 *   **Punishment**: _Annulment_
 *   **Retrial Potential**: _Unlikely_
-*   **Establishment Period**: _End of Creation War_
+*   **Enactment Period**: _End of Creation War_
 
 *   **In Contempt**
     *   [[Ouya]]
@@ -46,7 +73,7 @@ Any group of entities possessing a cognitive sentience equal to or exceeding "Mo
 ## 3. Never ASSIST in the creation of New Archkin
 *   **Punishment**: _Annulment as an accessory to those in contempt of attempting to, or successfully, creating new Archkin_
 *   **Retrial Potential**: _None_
-*   **Establishment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
+*   **Enactment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
 
 *   **Served Contempt**
     *   [[Kalayan]]
@@ -58,7 +85,7 @@ Any group of entities possessing a cognitive sentience equal to or exceeding "Mo
 ## 4. Never LURE timeliners into quantum suicide
 *   **Punishment**: _Restricted Access to Timelines and Increased Scrutiny_
 *   **Retrial Potential**: _Likely_
-*   **Establishment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
+*   **Enactment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
 
 *   **In Contempt**
     *   [[Kalayan]]
@@ -71,7 +98,7 @@ Notes:
 ## 5. FAILING the trial to access The Epicenter of Fiction
 *   **Punishment**: _Transfiguration into a "Failed Epicenter" due to excessive hubris_
 *   **Retrial Potential**: _None_
-*   **Establishment Period**: _Beginning of The Spirepocalypse, Creation of "HER Firmata"_
+*   **Enactment Period**: _Beginning of The Spirepocalypse, Creation of "HER Firmata"_
 
 *   **Served Contempt**
     *   [[Nimuel]]
@@ -92,7 +119,7 @@ Notes:
 ## 6. Prohibition of Archkin-Mortal Potentially-Romantic Relations
 *   **Punishment**: _Increased Scrutiny from The Court of The Fourth_
 *   **Retrial Potential**: _High (if aware)_
-*   **Establishment Period**: _(Currently Unknown)_
+*   **Enactment Period**: _(Currently Unknown)_
 
 *   **In Contempt**
     *   [[Emperor Arthur]] (Mortal) and [[Morgale de Metso]]
@@ -101,5 +128,15 @@ Notes:
 Notes:
 > [^1]: It remains uncertain whether Living Pieces are narratively-classified as Archkin. Although derived from sentient Archgod Memory Pieces, the scarcity of recorded cases leaves the matter highly debatable within both The Court of The Fourth and The Arch of Sentients.
 > It is currently undetermined whether Living Pieces constitute as a new sub-race of archkin, or are merely newly fabricated entities utilizing a Memory Piece as a physical vessel— akin to Caradel utilizing annuled souls within their fabricated forms.
+
+---
+
+### Amendment 6B. Prohibition of Potentially-Romantic Relations between Fictional Entities and Fourth Beyonders 
+*   **Punishment**: _Varies on a case-by-case basis_
+*   **Retrial Potential**: _N/A_
+*   **Enactment Period**: _Some time prior to Project: FOURTH MARSHAL_
+
+*   **In Contempt**
+    *   [[Kaitzar]] (Fictional) and [[Redacted Fourth Marshal]] (Non-Fictional)
 
 ---
