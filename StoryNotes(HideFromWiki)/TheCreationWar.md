@@ -1,3 +1,11 @@
+---
+title: The Creation War
+category: story
+tags: [story, time period, historical event, archkin, fourth_beyond, nul, draft]
+last_modified: Jun-6-2026
+status: draft
+---
+
 # Overview
 The "creation story" of The Worlds Aplenty, detailing how archgods reduced themselves to archkin, the invention of time, formation of spirite, how the Infinite Fields were formed, and the birth of the first epicenter: The Epicenter of Fiction.
 
@@ -335,32 +343,8 @@ On the _7th Minute_, the traitor was **witnessed**.
 *   Went on to form a relationship with Kalayan
 *   Invented Humans and other Mortals
 *   Founded Marlika
-*   Established a truce between Archkin Society and The 4th Beyond for cultural exchange in return of following certain, "Doctrines" by The 4th Beyond.
+*   Established a truce between Archkin Society and The 4th Beyond for cultural exchange in return of following certain, "Doctrines" by The 4th Beyond[^1].
 
-### 4th Beyond Doctrines to Archkin Society
-1.  NEVER Create New Archkin
-> Punishment: Annullment
-> Possibility for retrial: No
-
-2.  Never ATTEMPT to create New Archkin 
-> Punishment: Annullment
-> Possibility for retrial: Yes
-
-3. Never ASSIST in the creation of New Archkin
-> Punishment: Assigned to annul the one who attempted/succeeded in creating an Archkin
-> Possibility for retrial: No
-
-4.  Do not attempt to gain access to The Epicenter of Fiction without preparation
-> Failure of Trial: Transfiguration into a "Failed Epicenter"
-> Possibility for retrial: No
-
-5.  Do not lure timeliners into quantum suicide
-> Punishment: Restriction of access to Timelines and Increased Observation
-> Possibility for retrial: Yes
-
-5. Avoid relations between Archkin and Mortals
-> Punishment: Increased Observation
-> Possibility for retrial: Yes (if made aware)
 
 ## Ouya
 *   Freed Yan'amu from the tyranny of an out-of-control Archgod Omukade
@@ -397,3 +381,5 @@ She wants Kalayan to save her, but no matter how much she plead, he never came, 
 Kalayan was already happy with Khueen. And since the world forgotten her, nobody knew she was "missing" in the first place.
 Not only that, without her Passion, Will, nor Mischievous Innocence, Ulhysse was an emotional husk of who she once was and could've been. Someone who wouldn't go all out and rebel for her own self.
 She waits in The Court, for someone to take her place as the next Epicenter of Fiction; someone she can trust the secret of her creation to, which would force The Court to bring her back here instead to finally pass over into our afterlife.
+
+[^1]: [[DecreesOnArchkinSociety.md]]
