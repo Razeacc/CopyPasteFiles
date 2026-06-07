@@ -1,4 +1,10 @@
-(WIP)
+---
+title: Memetta
+category: character
+tags: [character, phantycian, nul ontology, draft]
+last_modified: Jun-7-2026
+status: draft
+---
 # Idea
 Embodiment of all teenagers that have ceased to exist.
 Epicenter of Sentience. Will eventually become the Epicenter of Sentience AND Sacrifice by the end of Firmata Frontier season 1.
