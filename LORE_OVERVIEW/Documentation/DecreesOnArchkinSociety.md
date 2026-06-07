@@ -49,7 +49,7 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 
 # Decrees
 ## 1. NEVER Create New Archkin
-*   **Punishment**: _Annulment_
+*   **Penalty**: _Annulment_
 *   **Retrial Potential**: _None_
 *   **Enactment Period**: _End of Creation War_
 
@@ -62,7 +62,7 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 ---
 
 ## 2. Never ATTEMPT to create New Archkin 
-*   **Punishment**: _Annulment_
+*   **Penalty**: _Annulment_
 *   **Retrial Potential**: _Unlikely_
 *   **Enactment Period**: _End of Creation War_
 
@@ -73,8 +73,21 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 
 ---
 
-## 3. Never ASSIST in the creation of New Archkin
-*   **Punishment**: _Annulment as an accessory to those in contempt of attempting to, or successfully, creating new Archkin_
+## 3. Never REWRITE one's scripted fate
+*   **Penalty**: _Annulment\*_
+*   **Retrial Potential**: _Likely_
+*   **Enactment Period**: _End of Creation War_
+
+Notes:
+> One of the last of the initial decrees, this commandment specified the true purpose of archkin from the beginning of the Archaic Eons onward: To be a source of entertainment for The Fourth Beyond.
+> Archkin, especially those aware of their purpose, were to follow their "scripts" and avoid going "out of character".
+> While one of the most heavily-restrictive decrees, this is also the most contested. Although countless characters are technically in Suspected Contempt for this decree, they're almost never listed, and even fewer are acted upon.
+> This is due to an important hidden clause in this decree specifically: **All charges are dropped if rewriting one's scripted fate resulted in a more interesting script.**
+
+---
+
+## 4. Never ASSIST in the creation of New Archkin
+*   **Penalty**: _Annulment as an accessory to those in contempt of attempting to, or successfully, creating new Archkin_
 *   **Retrial Potential**: _None_
 *   **Enactment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
 
@@ -83,10 +96,11 @@ It also determines how likely we'll be to accusse a character of breaking a decr
     *   [[Ayumu]]
 *   **Suspected Contempt**
     *   [[Lithe]]
+
 ---
 
-## 4. Never LURE timeliners into quantum suicide
-*   **Punishment**: _Restricted Access to Timelines and Increased Scrutiny_
+## 5. Never LURE timeliners into quantum suicide
+*   **Penalty**: _Restricted Access to Timelines and Increased Scrutiny_
 *   **Retrial Potential**: _Likely_
 *   **Enactment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
 
@@ -98,8 +112,8 @@ Notes:
 
 ---
 
-## 5. FAILING the trial to access The Epicenter of Fiction
-*   **Punishment**: _Transfiguration into a "Failed Epicenter" due to excessive hubris_
+## 6. FAILING the trial to access The Epicenter of Fiction
+*   **Penalty**: _Transfiguration into a "Failed Epicenter" due to excessive hubris_
 *   **Retrial Potential**: _None_
 *   **Enactment Period**: _Beginning of The Spirepocalypse, Creation of "HER Firmata"_
 
@@ -119,8 +133,8 @@ Notes:
 
 ---
 
-## 6. Prohibition of Archkin-Mortal Potentially-Romantic Relations
-*   **Punishment**: _Increased Scrutiny from The Court of The Fourth_
+## 7. Prohibition of Archkin-Mortal Potentially-Romantic Relations
+*   **Penalty**: _Increased Scrutiny from The Court of The Fourth_
 *   **Retrial Potential**: _High (if aware)_
 *   **Enactment Period**: _(Currently Unknown)_
 
@@ -134,8 +148,8 @@ Notes:
 
 ---
 
-### Amendment 6B. Prohibition of Potentially-Romantic Relations between Fictional Entities and Fourth Beyonders 
-*   **Punishment**: _Varies on a case-by-case basis_
+### Amendment 7B. Prohibition of Potentially-Romantic Relations between Fictional Entities and Fourth Beyonders 
+*   **Penalty**: _Varies on a case-by-case basis_
 *   **Retrial Potential**: _N/A_
 *   **Enactment Period**: _Some time prior to Project: FOURTH MARSHAL_
 
