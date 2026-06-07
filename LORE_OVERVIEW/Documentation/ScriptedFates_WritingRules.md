@@ -46,6 +46,9 @@ The fun with Scripted Fates is that you can start with Firmata Frontier, Beyond 
 Only ideas not critical to the story can be left unexplained, to be clarrified further in other projects. Viewers/Players should be able to experience any Scripted Fates project in any order (with the exception of any sequels, of course. Like Firmata Frontier to Frontline Firmata, or Farewell Avalon to Trek to Avalon), and still be able to make sense of the stories they encompass.
 Do NOT do interconnected stories like Marvel, where you almost HAVE to watch everything else to make sense of future/current stories. Treat Scripted Fates projects similar to Jojo's Bizarre Adventure, where all relevant ideas are re-explained or re-introduced in the beginning of each story/project.
 
+### *  9. The Fourth Beyond's Decrees on Archkin Society MUST get more complex over time
+"Over Time" refers to the in-story chronology. The initial and early decrees must be simple (IE: Make Archkin, get annuled. Break character, get annuled. Etc.). But over time, later on in the story, they must get more and more complicated. (IE: Fail to acquire the Epicenter of Fiction, ~~get annuled~~ turn into a Failed Epicenter. Make a timeliner do quantum suicide, ~~get annuled~~ get **stalked** more).
+
 ## Gamedev Rules
 
 ### *    1. Gameplay Mechanics must ALWAYS be connected to the world/story
