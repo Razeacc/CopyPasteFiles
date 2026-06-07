@@ -49,9 +49,9 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 
 # Decrees
 ## 1. NEVER Create New Archkin
-*   **Penalty**: _Annulment_
-*   **Retrial Potential**: _None_
-*   **Enactment Period**: _End of Creation War_
+*   **Penalty**: __Annulment__
+*   **Retrial Potential**: __None__
+*   **Enactment Period**: __End of Creation War__
 
 *   **In Contempt**
     *   [[Khueen]]
@@ -62,9 +62,9 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 ---
 
 ## 2. Never ATTEMPT to create New Archkin 
-*   **Penalty**: _Annulment_
-*   **Retrial Potential**: _Unlikely_
-*   **Enactment Period**: _End of Creation War_
+*   **Penalty**: __Annulment__
+*   **Retrial Potential**: __Unlikely__
+*   **Enactment Period**: __End of Creation War__
 
 *   **In Contempt**
     *   [[Ouya]]
@@ -74,9 +74,10 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 ---
 
 ## 3. Never REWRITE one's scripted fate
-*   **Penalty**: _Annulment\*_
-*   **Retrial Potential**: _Likely_
-*   **Enactment Period**: _End of Creation War_
+*   **Penalty**: __Annulment\*__
+*   **Retrial Potential**: __Likely__
+*   **Enactment Period**: __End of Creation War__
+
 
 Notes:
 > One of the last of the initial decrees, this commandment specified the true purpose of archkin from the beginning of the Archaic Eons onward: To be a source of entertainment for The Fourth Beyond.
@@ -88,9 +89,9 @@ Notes:
 ---
 
 ## 4. Never ASSIST in the creation of New Archkin
-*   **Penalty**: _Annulment as an accessory to those in contempt of attempting to, or successfully, creating new Archkin_
-*   **Retrial Potential**: _None_
-*   **Enactment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
+*   **Penalty**: __Annulment as an accessory to those in contempt of attempting to, or successfully, creating new Archkin__
+*   **Retrial Potential**: __None__
+*   **Enactment Period**: __Quantum Suicide Incident of Grigori "Razhom" Rasputin__ <small>(Tool Razhom)</small>
 
 *   **Served Contempt**
     *   [[Kalayan]]
@@ -101,27 +102,30 @@ Notes:
 ---
 
 ## 5. Never LURE timeliners into quantum suicide
-*   **Penalty**: _Restricted Access to Timelines and Increased Scrutiny_
-*   **Retrial Potential**: _Likely_
-*   **Enactment Period**: _Quantum Suicide Incident of Grigori "Razhom" Rasputin_ <small>(Tool Razhom)</small>
+*   **Penalty**: __Restricted Access to Timelines and Increased Scrutiny__
+*   **Retrial Potential**: __Likely__
+*   **Enactment Period**: __Quantum Suicide Incident of Grigori "Razhom" Rasputin__ <small>(Tool Razhom)</small>
 
 *   **In Contempt**
     *   [[Kalayan]]
+
+
 Notes:
 > This archaic method of extracting timeliners from their timelines and into The Worlds Aplenty has been outlawed and deemed strictly, and logically, unnecessary.
-> Following the incident referenced above, timeliners are no longer required to annul every instance of themself across the multiverse merely to exit their timeline automatically collapsing into another.
+> Following the incident referenced above, timeliners are no longer required to annul every instance of themself across the multiverse merely to exit their timeline without automatically collapsing into another.
 
 ---
 
 ## 6. FAILING the trial to access The Epicenter of Fiction
-*   **Penalty**: _Transfiguration into a "Failed Epicenter" due to excessive hubris_
-*   **Retrial Potential**: _None_
-*   **Enactment Period**: _Beginning of The Spirepocalypse, Creation of "HER Firmata"_
+*   **Penalty**: __Transfiguration into a "Failed Epicenter" due to excessive hubris__
+*   **Retrial Potential**: __None__
+*   **Enactment Period**: __Beginning of The Spirepocalypse, Creation of "HER Firmata"__
 
 *   **Served Contempt**
     *   [[Nimuel]]
 *   **In Contempt**
     *   [[Morgale's Living Piece]]
+
 
 Notes:
 > Morgale's Living Piece proved it was possible to harness a sliver of The Epicenter of Fiction's infinite narrative authority, if only momentarily. This occurred during the brief window between accessing the Epicenter to fabricate "HER Firmata" and subsequently losing it due to an inability to process the required perceptive load. 
@@ -135,13 +139,14 @@ Notes:
 ---
 
 ## 7. Prohibition of Archkin-Mortal Potentially-Romantic Relations
-*   **Penalty**: _Increased Scrutiny from The Court of The Fourth_
-*   **Retrial Potential**: _High (if aware)_
-*   **Enactment Period**: _(Currently Unknown)_
+*   **Penalty**: __Increased Scrutiny__
+*   **Retrial Potential**: __High (if aware)__
+*   **Enactment Period**: __(Currently Unknown)__
 
 *   **In Contempt**
     *   [[Emperor Arthur]] (Mortal) and [[Morgale de Metso]]
     *   [[Lithe (The Spireknell)]] and [[Morgale's Living Piece]] (Mortal[^1])
+
 
 Notes:
 > [^1]: It remains uncertain whether Living Pieces are narratively-classified as Archkin. Although derived from sentient Archgod Memory Pieces, the scarcity of recorded cases leaves the matter highly debatable within both The Court of The Fourth and The Arch of Sentients.
@@ -150,9 +155,9 @@ Notes:
 ---
 
 ### Amendment 7B. Prohibition of Potentially-Romantic Relations between Fictional Entities and Fourth Beyonders 
-*   **Penalty**: _Varies on a case-by-case basis_
-*   **Retrial Potential**: _N/A_
-*   **Enactment Period**: _Some time prior to Project: FOURTH MARSHAL_
+*   **Penalty**: __Varies on a case-by-case basis__
+*   **Retrial Potential**: __N/A__
+*   **Enactment Period**: __Some time prior to Project: FOURTH MARSHAL__
 
 *   **In Contempt**
     *   [[Kaitzar]] (Fictional) and [[Redacted Fourth Marshal]] (Non-Fictional)
