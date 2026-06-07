@@ -146,3 +146,28 @@ Professor Besado the 67th (Eventual Love Interest)
 > Spending borrowed values brings the subtracted item back into reality (subtracted and returned items are marked to be "valueless" for Memetta, to avoid infinite borrowing from the same items) while multiplying the focus cost on Memetta, tiring her out faster. Unspent values are returned back into reality after 1 hour, but are left unmarked, meaning Memetta can borrow their value again.
 > However, she can also spend borrowed values to instantly consume and process certain items. For instance, if she subtracts healing potions, stamina-regnerating substances, drugs, or even food, she can instantly "spend" those values on herself. The items return to reality, become marked, and Memetta instantly gains the effects from those substances.
 > Technically speaking, Memetta can borrow high values from things like grains of sand or even atoms in a bottle. But since Memetta still isn't THAT much smarter yet, she had yet to comprehend borrowing large values from such small targets yet. To her, a smaller value with a bigger font size is "easier" to borrow grom, than a bigger value with a smaller font size.
+
+
+# Story Writing Notes:
+## Narrative Purpose
+Memetta is not some "death-themed teenager deity". In truth, she's made to represent countless possibilities of lives that were trapped in between the stage of "enjoying childhood" and "handling responsibilities". It's why she's the Warden for all Vicars of Null; she's permanently in a state of training for a heavy responsibility of actually doing missions like vicars, but she's trapped in this weird limbo of just making sure the vicars do their job, never actually being intended to do anything in the first place.
+This is why she likes watching people.
+Why she enjoys seeing others live.
+Why she struggles to pursue her own desires.
+Why she's fascinated by social interaction.
+Why she's simultaneously incredibly mature and incredibly immature.
+
+## The Contract
+During the beginning of the Revolutions and Exodi Era, when human Ciela Besado The First called upon the powers of "two beyonds" to take down an archgod,she enlisted support from The Court of The Fourth, and Nul Detta. The Court sent the first "playable skribble" (turning Ciela into the first playable character), and Nul sent Memetta.
+Memetta was contracted by The Court to "Remain with Ciela's soul and serve her until she passes, or else all memories of Memetta while the contract was active will be erased. In return, The Court, and its co-conspirators (The AoS) will not target or attack Memetta during this contract's validity". It was The Court's clause to avoid the two beyonds from conflicting during this attack on archkin society.
+
+## The Beginning of The Archgod Revolution (put this in its own page eventually)
+Bringing a skribble and Memetta into The Archgodic Court, Ciela the first claimed she was there to "perform" for the archgods.
+Lining herself up with Memetta, Ciela lobbed a ball of pure narrative energy from her Skribble while it controlled her. Memetta, in return, bounced the energy back at Ciela. Overhead, the two were playing Pong, one of the first video games invented in our history, and Ciela was the first playable character.
+(I know asteroids was the first game, but pong was more well known as the first game. For once, I'll take recognizability over historical accuracy. Perhaps Ciela tested the skribble out in an Asteroids-style game first alone, hehe).
+Anyways, as soon as Ciela scored her first point, Memetta missed the energy, and it instantly deleted an archgod who was standing behind Memetta, becoming the first instance of a human slaying an archgod.
+
+Some time after, The Fourth Beyond rewarded Ciela for making this move and forming The Arch of Sentients. From this point on, Ciela will age slower and slower, remain at the peak of her youth (25 years old), and be granted plot armor immortality. In exchange, as soon as she gives birth to a daughter, the daughter will inherit her soul, passing off these blessing, locking away the new mother's memories, and rapidly aging the mother to her proper age.
+While this seemed good at first, not only did it mean no Ciela/Besado will ever be raised by their own mothers, it also meant Memetta was trapped and tied to serve every single Ciela daughter, lest she wishes to lose a growing weight of memories. And by the time The Court added this "clause" it already felt "too late" for her.
+Memetta could still perform vicar warden duties, but as long as this contract was active, her priority was with the current Ciela Besado.
+
