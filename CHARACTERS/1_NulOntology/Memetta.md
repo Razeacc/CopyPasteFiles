@@ -68,6 +68,9 @@ Professor Besado the 67th (Eventual Love Interest)
 ### Personality
 > Since she rarely talks to people, with it being debatable that she's even spoken to anyone at all, it is difficult to discern her personality. In truth, Memetta spends immense amounts of time observing sentient beings rather than directly interacting with them, making her strangely knowledgeable about people despite her isolation.
 > 
+> Occasionally, if given enough wiggle room, one of Memetta's only ways of expressing herself is through mischief. She'd sometimes use her social skills to manipulate people, mock others, twist feelings, and adjust opinions to further whatever goals she may have at the time as long as it doesn't directly go against one of her directives.
+> This is what caused her to eventually act on her own in forming the Vermillion Chapel in Firmata Frontier in hopes of getting people to have Besado come forward with The Long Shush.
+> 
 > She also seems to match the mood and tone of those around her to a frightening degree, as if her personality was highly dependent and reliant on the environment. Like a living embodiment of a meme (not the internet joke meme, as in the scientific definition of a meme, the DNA of culture).
 > Her eyes also remain, almost completely, wrapped in bandages. To most, this may seem like a mystery, but in truth, this is due to how "distracting" her eys look.
 > Many people would stare into her eyes and become caught by them, or put off. In return, Memetta herself gets uncomfortable by the staring.
