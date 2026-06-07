@@ -2,7 +2,7 @@
 title: Lithe
 category: character
 tags: [character, archkin, nul ontology, draft]
-last_modified: Jun-5-2026
+last_modified: Jun-7-2026
 status: draft
 ---
 # OVERVIEW
