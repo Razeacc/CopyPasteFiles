@@ -167,13 +167,29 @@ Memetta was contracted by The Court to "Remain with Ciela's soul and serve her u
 
 ## The Beginning of The Archgod Revolution (put this in its own page eventually)
 Bringing a skribble and Memetta into The Archgodic Court, Ciela the first claimed she was there to "perform" for the archgods.
-Lining herself up with Memetta, Ciela lobbed a ball of pure narrative energy from her Skribble while it controlled her. Memetta, in return, bounced the energy back at Ciela. Overhead, the two were playing Pong, one of the first video games invented in our history, and Ciela was the first playable character.
-(I know asteroids was the first game, but pong was more well known as the first game. For once, I'll take recognizability over historical accuracy. Perhaps Ciela tested the skribble out in an Asteroids-style game first alone, hehe).
-Anyways, as soon as Ciela scored her first point, Memetta missed the energy, and it instantly deleted an archgod who was standing behind Memetta, becoming the first instance of a human slaying an archgod.
+On the surface, this was akin to a court jester annointed by the gods to perform for the court of kings. As Ciela lined herself up with Memetta in the Archgodic Court, The Fourth Beyond stipulated a contract to all participants AND spectators.
+"This will be a fair match between Humanity, represented by Ciela Besado, and The Null, represented by Memetta. Each participant must ricochet a projectile to the best of their ahilitoes and protect each other's side."
+"Anyone withdrawing from the match, while in session, will be immediately annuled. Entertainment must not be disrespected through withdrawal."
+"No combat or hostility shall be permitted, punishable by annulment. Same logic as the previous order."
+"The match will only end once one side runs out of members."
+The rules seemed simple enough, on the surface. And since all the punishments were annulment, the archgods didn't question it, as all "judgements" from The Fourth at this point were the same (see Decress on Archkin Society).
+As soon as Ciela Besado's skribble took control of her, turning her into the first playable character, the game begun.
+Memetta and Ciela were poised to play Pong live, a reference to this being one of the first videogames in real life. In fact, this moment is meant to represent the first time Pong was showcaded in-perdon. (Although Asteroids was one of the first games, Ciela merely did an Asteroid-like test to prototype the playable character concept.)
+The two girls had to lob, block, and reflect a ball of pure 2413Hz and 3142Hz energy across the court. And, due to the rules, they had to put in their full effort.
+However, as soon as Ciela scored her first point due to Memetta misssing the ball, it flew passed her and hit an archgod. Due to the extreme power of 2413Hz somehow combining with 3142H (a loophole in Memetta's contract due to the 2413Hz coming from her and The Court being unable to hurt Memetta, causing the two forces to just not interact), this paradoxical projectile immediately annihilated the archgod.
+Like an explosion, the outrage was instant. Seeing a human kill an archgod for the first time caused several spectating archgods to leave. Due to one of the game's clauses, those archgods were immediately annuled.
+Some archgods attempted to attack Ciela and Memetta. They too were annuled.
+However, as the game still had "members" in all three "sides" (Player 1: Ciela the first. Player 2: Memetta. Spectators: The Archgodic Court), the game went on.
+This was not an assassination disguised as a game. It was a mass public execution arranged by The Court of The Fourth. 
+One by one, as archgods fled missed projectiles one after another, eventually, they all fell. Not a single member of the Archgodic Court survived, with the news only breaking out once second-hand witnesses arrived at the scene later to a courtroom of empty members, covered in untuned archose.
 
-Some time after, The Fourth Beyond rewarded Ciela for making this move and forming The Arch of Sentients. From this point on, Ciela will age slower and slower, remain at the peak of her youth (25 years old), and be granted plot armor immortality. In exchange, as soon as she gives birth to a daughter, the daughter will inherit her soul, passing off these blessing, locking away the new mother's memories, and rapidly aging the mother to her proper age.
+## Formation of the AoS
+Later on, Ciela the first formed the Arch of Sentients, subtly referencing her companion, Memetta, being the Epicenter of Sentience. Ciela annointed Memetta as her second in command, essentially unifying The Fourth, Humanity, and even a sliver of The Null in a single multi-ontolotical faction.
+Some time after, The Fourth Beyond rewarded Ciela for her strides in replacing the Archgodic Court with a new multiversal power under The Fourth's control. From this point on, Ciela will age slower and slower, remain at the peak of her youth (25 years old), and be granted plot armor immortality. In exchange, as soon as she gives birth to a daughter, the daughter will inherit her soul, passing off these blessing, locking away the new mother's memories, and rapidly aging the mother to her proper age.
 While this seemed good at first, not only did it mean no Ciela/Besado will ever be raised by their own mothers, it also meant Memetta was trapped and tied to serve every single Ciela daughter, lest she wishes to lose a growing weight of memories. And by the time The Court added this "clause" it already felt "too late" for her.
 Memetta could still perform vicar warden duties, but as long as this contract was active, her priority was with the current Ciela Besado.
+Wanting to give Memetta some freedom at least, Ciela created The Midwife division. Prior to her first daughter being born, the midwives were essentially highly skilled women in the AoS who served Ciela and her descendants directly regardless of her current status and allegiance. Their purpose was to ensure the birth and development of every descendant of Ciela the first, with Memetta being the first midwife and their leader, meaning she can fulfill her other duties elsewhere from time to time.
+It was enough to satiate her freedom for a time, but not enough. Eventually, by Firmata Frontier, The Spirepocalypse, and The Long Shush— time has eroded even Memetta's sense of duty eventually.
 
 ## Epicenter of Sacrifice witnessing
 Near the end of Firmata Frontier Season 1, Memetta would've grown enough throughout the course of that story (while being witnessed by The Fourth Beyond) to eventually willingly risk giving up her memories of all Cielas thus far.
