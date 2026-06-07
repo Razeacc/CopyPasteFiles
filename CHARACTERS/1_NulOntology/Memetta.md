@@ -168,7 +168,7 @@ Memetta was contracted by The Court to "Remain with Ciela's soul and serve her u
 ## The Beginning of The Archgod Revolution (put this in its own page eventually)
 Bringing a skribble and Memetta into The Archgodic Court, Ciela the first claimed she was there to "perform" for the archgods.
 On the surface, this was akin to a court jester annointed by the gods to perform for the court of kings. As Ciela lined herself up with Memetta in the Archgodic Court, The Fourth Beyond stipulated a contract to all participants AND spectators.
-"This will be a fair match between Humanity, represented by Ciela Besado, and The Null, represented by Memetta. Each participant must ricochet a projectile to the best of their ahilitoes and protect each other's side."
+"This will be a fair match between Humanity, represented by Ciela Besado, and The Null, represented by Memetta. Each participant must ricochet a projectile to the best of their abilities and protect each other's side."
 "Anyone withdrawing from the match, while in session, will be immediately annuled. Entertainment must not be disrespected through withdrawal."
 "No combat or hostility shall be permitted, punishable by annulment. Same logic as the previous order."
 "The match will only end once one side runs out of members."
@@ -180,7 +180,7 @@ However, as soon as Ciela scored her first point due to Memetta misssing the bal
 Like an explosion, the outrage was instant. Seeing a human kill an archgod for the first time caused several spectating archgods to leave. Due to one of the game's clauses, those archgods were immediately annuled.
 Some archgods attempted to attack Ciela and Memetta. They too were annuled.
 However, as the game still had "members" in all three "sides" (Player 1: Ciela the first. Player 2: Memetta. Spectators: The Archgodic Court), the game went on.
-This was not an assassination disguised as a game. It was a mass public execution arranged by The Court of The Fourth. 
+What appeared to be an assassination disguised as a game— was, in truth, a mass public execution arranged by The Court of The Fourth.
 One by one, as archgods fled missed projectiles one after another, eventually, they all fell. Not a single member of the Archgodic Court survived, with the news only breaking out once second-hand witnesses arrived at the scene later to a courtroom of empty members, covered in untuned archose.
 
 ## Formation of the AoS
