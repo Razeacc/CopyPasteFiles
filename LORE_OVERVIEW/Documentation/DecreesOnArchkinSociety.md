@@ -48,7 +48,7 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 ---
 
 # Decrees
-## 1. NEVER Create New Archkin
+## 1. Never CREATE New Archkin
 *   **Penalty**: __Annulment__
 *   **Retrial Potential**: __None__
 *   **Enactment Period**: __End of Creation War__
