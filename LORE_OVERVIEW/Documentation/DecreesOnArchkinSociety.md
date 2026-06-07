@@ -25,7 +25,7 @@ Here, a guilty verdict is already determined and guaranteed. However, a sentence
 Yes, there is no defense attourneys in a case within The Court of The Fourth. Only the Defendant, and The Court itself as the prosecutor and judge. It is a trial where it is impossible to win, making up for The Creation War having been originally=intended to be an actual unwinnable endeavor for endless entertainment.
 Ever since, trials in The Court of The Fourth have been a new source of entertainment for us.
 
-Those *suspected of breaking a decree*, are listed as "_Suspected Contempt_". Those currently servince sentences are "In Contempt".
+Those *suspected of breaking a decree*, are listed as "_Suspected Contempt_". Those currently servince sentences are "In Contempt". And those who've served sentences are "Served Contempt".
 
 ## Annulment
 After a spiritual/psyche execution is performed within The Court of The Fourth, the defendant's soul and physical body are immediately Annuled and sentenced to The Null Crossing.
@@ -33,10 +33,13 @@ This is one of the most severe penalties. However, it is also the simplest and q
 Annulment is The Court of The Fourth's equivalent of most real life court's "Death penalty". There is no other alternative.
 
 ## Failed Epicenter Transfiguration
-Reserved specifically
+Reserved specifically for those failing the trail to obtain the Epicenter of Fiction. The accused is transfigurated into a Failed Epicenter, a grotesque being resembling one of Sandatta Ulhysse's World Builders but with an archkin cage encapsulating its head. During this state, the mind is entirely overwhelmed with force-read access of The Epicenter of Fiction without any chance of write access.
+It's all the downsides of Epicenterhood at the highest degree, with none of the benefits.
+The only punishment challenging the severity of this, is Annulment.
 
 ## Restricted Timeline Access
-
+Those convincted of this relatively-light sentencing is actively barred from making any active or noticeable actions within timelines.
+Showing oneself and "making a scene" would immediately warrant action by The Arch of Sentients. What they do is out of The Court's jurisdiction.
 
 ## Scrutiny
 Being granted more, or less, "scrutiny" by The Court determines how "lenient" we will be when delivering final sentencings and verdicts. It's not an actual pennalty, but rather, a modifier for future penalties.
