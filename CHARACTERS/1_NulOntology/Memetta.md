@@ -45,8 +45,7 @@ Young Adult (Epicenter of Sentience and Sacrifice)
 ```
 ### **Sexuality:**
 ```
-SYNTAX ERROR (Epicenter of Sentience)
-Lesbian (Epicenter of Sentience and Sacrifice)
+Lesbian
 ```
 ### **<< Relations >>**
 
@@ -58,7 +57,7 @@ Familiar Familair (Symbolic Pet)
 ```
 **Close Friends:**
 ```
-Professor Besado (Eventual Love Interest)
+Professor Besado the 67th (Eventual Love Interest)
 ```
 ### Personality
 > Since she rarely talks to people, with it being debatable that she’s even talked to anyone, it’s hard to discern her personality. It's as if she's a master at hiding her true personality.
@@ -113,7 +112,7 @@ Professor Besado (Eventual Love Interest)
 > Memetta has Echo Caradels surrounding her at all times.
 > These invisible entities acts as Memettas eyes and ears everywhere, explaining how the fuck she can still see despite her bandaged eyes.
 
-- "Mathematics Actualization" - Addition / Subtraction / Multiplication / Division (Active)
+- "Mathematics Actualization" (Active)
 > Borrowing powers from Fracturing, Memetta can manipulate the world via math and her hands.
 > - **Addition** lets her forcefully add objects together, smashing them via a force similar to telekinesis.
 > - **Subtraction** has two objects destroy each other instead, with the force depending on how much mass the two variables have.
@@ -121,7 +120,7 @@ Professor Besado (Eventual Love Interest)
 > - **Division** forcibly cuts and divides objects depending on how many fingers she has held up, similar to slashes from Sukuna from JJK— these cuts do not kill, but provide intense discomfort as the sentience inside nervous systems/wires are overloaded and filled with intense confusing pain— they can still be controlled, albeit, barely, and is mostly used for torture but can kill if used Division on enough times.
 
 - Divide by ZERO (Ultimate Active)
-> By using **Division** from "Mathematics Actualization" to throw a fist to a solid surface, Memetta divides the surface by zero, breaking the laws of reality and creating a NulGraven Site.
+> By using **Division** from "Mathematics Actualization" to throw a fist to a solid surface, Memetta divides the surface by zero, breaking the laws of reality and creating a NulGraven Tumor, kickstarting a Nulgraven site.
 
 - NulGraven Hivemind (Passive)
 > Memetta is a walking NulGraven site. She can summon NulGraven caradels around her at any time. Not only that, all NulGraven sites act as her "immune system".
@@ -130,5 +129,14 @@ Professor Besado (Eventual Love Interest)
 > In truth, there is a reason for this. Due to Memetta already being aware of all sentience, her added extra awareness of NulGraven sites shot her awareness of them up so high, they cycled back to her being "unaware" of them, akin to a 32-bit integer limit overflow.
 
 - Epicenter of Sentience (Passive / Active)
-> Active: Memetta is capable of imbuing sentience onto an inanimate object for her to relay instructions to. Sentience-imbued items cannot contain memories by default, unless it's designed with those capabilities in-mind. By default, it uses and processes Memetta's memories and intent.
-> That means she's able to freely, and infinitely, maintain Marlimatas, who rely on sentience to maintain their 
+> Active: Memetta is capable of imbuing sentience onto an inanimate object for her to relay instructions to. Sentience-imbued items cannot contain memories by default, unless it's designed with those capabilities in-mind. Without the capability, it uses and processes Memetta's memories and intent.
+> That means she's able to freely, and infinitely, maintain Marlimatas, who rely on sentience to maintain their khueenite chassis.
+> 
+> Passive: Memetta is aware of all current instances of sentience. However, unless she actively remembers it, she can't remember where or what all instances of sentience were at all times. IE: She can't tell you where a specific character was last week, unless she actively tries to keep tabs on that character since last  week.
+
+- Epicenter of Sacrifice (Active)
+> Upon achieving this at the end of Firmata Frontier Season 1, Memetta is capable of storing values deleted by Subtraction. She can then spend those values to modify and enhance Mathematics Actualization.
+> In Practice, she can delete 10 coins to store the number 10. Then, using that borrowed value, she can increase the number of Divisions done on a single finger from one division per 2 fingers, to 10 divisions per 2 fingers.
+> Spending borrowed values brings the subtracted item back into reality (subtracted and returned items are marked to be "valueless" for Memetta, to avoid infinite borrowing from the same items) while multiplying the focus cost on Memetta, tiring her out faster. Unspent values are returned back into reality after 1 hour, but are left unmarked, meaning Memetta can borrow their value again.
+> However, she can also spend borrowed values to instantly consume and process certain items. For instance, if she subtracts healing potions, stamina-regnerating substances, drugs, or even food, she can instantly "spend" those values on herself. The items return to reality, become marked, and Memetta instantly gains the effects from those substances.
+> Technically speaking, Memetta can borrow high values from things like grains of sand or even atoms in a bottle. But since Memetta still isn't THAT much smarter yet, she had yet to comprehend borrowing large values from such small targets yet. To her, a smaller value with a bigger font size is "easier" to borrow grom, than a bigger value with a smaller font size.
