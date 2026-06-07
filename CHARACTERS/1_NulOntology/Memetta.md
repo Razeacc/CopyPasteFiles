@@ -17,7 +17,7 @@ Memetta
 ```
 ### **Alias:**
 ```
-- Memett
+- Mem
 - The Flower Girl
 - Meme
 ```
@@ -59,7 +59,7 @@ Lesbian
 ```
 Nul Detta (Symbolic Father)
 Dett Minor (Symbolic Brother)
-Familiar Familair (Symbolic Pet)
+Familiar Familiar (Symbolic Pet)
 ```
 **Close Friends:**
 ```
@@ -69,7 +69,7 @@ Professor Besado the 67th (Eventual Love Interest)
 > Since she rarely talks to people, with it being debatable that she's even spoken to anyone at all, it is difficult to discern her personality. In truth, Memetta spends immense amounts of time observing sentient beings rather than directly interacting with them, making her strangely knowledgeable about people despite her isolation.
 > 
 > Occasionally, if given enough wiggle room, one of Memetta's only ways of expressing herself is through mischief. She'd sometimes use her social skills to manipulate people, mock others, twist feelings, and adjust opinions to further whatever goals she may have at the time.
-> That is, as long as it doesn't seem to go against whatever she's been told to do. This should seem fine, but due to her intellect, Memetta often just sees orders on the surface level,leading her to occasionally misinterpret orders and unknowingly go against it for the sake of a little mischief. This exact trait, combined with her authority as the daughter of Nul Detta AND her specific abilities is why the Vicars of Null often fear her and follow her command over disobeying her. (Basically, if she's too stupid to understand the reason behind a job, she'll probably go against it without realizing it).
+> That is, as long as it doesn't seem to go against whatever she's been told to do. This should seem fine, but due to her intellect, Memetta often just sees orders on the surface level, leading her to occasionally misinterpret orders and unknowingly go against it for the sake of a little mischief. This exact trait, combined with her authority as the daughter of Nul Detta AND her specific abilities is why the Vicars of Null often fear her and follow her command over disobeying her. (Basically, if she's too stupid to understand the reason behind a job, she'll probably go against it without realizing it).
 > This is also what caused her to eventually act on her own in forming the Vermillion Chapel in Firmata Frontier in hopes of getting people to have Besado come forward with The Long Shush.
 > 
 > She also seems to match the mood and tone of those around her to a frightening degree, as if her personality was highly dependent and reliant on the environment. Like a living embodiment of a meme (not the internet joke meme, as in the scientific definition of a meme, the DNA of culture).
@@ -156,7 +156,7 @@ Professor Besado the 67th (Eventual Love Interest)
 > In Practice, she can delete 10 coins to store the number 10. Then, using that borrowed value, she can increase the number of Divisions done on a single finger from one division per 2 fingers, to 10 divisions per 2 fingers.
 > Spending borrowed values brings the subtracted item back into reality (subtracted and returned items are marked to be "valueless" for Memetta, to avoid infinite borrowing from the same items) while multiplying the focus cost on Memetta, tiring her out faster. Unspent values are returned back into reality after 1 hour, but are left unmarked, meaning Memetta can borrow their value again.
 > However, she can also spend borrowed values to instantly consume and process certain items. For instance, if she subtracts healing potions, stamina-regnerating substances, drugs, or even food, she can instantly "spend" those values on herself. The items return to reality, become marked, and Memetta instantly gains the effects from those substances.
-> Technically speaking, Memetta can borrow high values from things like grains of sand or even atoms in a bottle. But since Memetta still isn't THAT much smarter yet, she had yet to comprehend borrowing large values from such small targets yet. To her, a smaller value with a bigger font size is "easier" to borrow grom, than a bigger value with a smaller font size.
+> Technically speaking, Memetta can borrow high values from things like grains of sand or even atoms in a bottle. But since Memetta still isn't THAT much smarter yet, she had yet to comprehend borrowing large values from such small targets yet. To her, a smaller value with a bigger font size is "easier" to borrow from, than a bigger value with a smaller font size.
 
 
 # Story Writing Notes:
@@ -169,19 +169,19 @@ Why she's fascinated by social interaction.
 Why she's simultaneously incredibly mature and incredibly immature.
 
 ## The Contract
-During the beginning of the Revolutions and Exodi Era, when human Ciela Besado The First called upon the powers of "two beyonds" to take down an archgod,she enlisted support from The Court of The Fourth, and Nul Detta. The Court sent the first "playable skribble" (turning Ciela into the first playable character), and Nul sent Memetta.
+During the beginning of the Revolutions and Exodi Era, when human Ciela Besado The First called upon the powers of "two beyonds" to take down an archgod, she enlisted support from The Court of The Fourth, and Nul Detta. The Court sent the first "playable skribble" (turning Ciela into the first playable character), and Nul sent Memetta.
 Memetta was contracted by The Court to "Remain with Ciela's soul and serve her until she passes, or else all memories of Memetta while the contract was active will be erased. In return, The Court, and its co-conspirators (The AoS) will not target or attack Memetta during this contract's validity". It was The Court's clause to avoid the two beyonds from conflicting during this attack on archkin society.
 
 ## The Beginning of The Archgod Revolution (put this in its own page eventually)
 Bringing a skribble and Memetta into The Archgodic Court, Ciela the first claimed she was there to "perform" for the archgods.
-On the surface, this was akin to a court jester annointed by the gods to perform for the court of kings. As Ciela lined herself up with Memetta in the Archgodic Court, The Fourth Beyond stipulated a contract to all participants AND spectators.
+On the surface, this was akin to a court jester anointed by the gods to perform for the court of kings. As Ciela lined herself up with Memetta in the Archgodic Court, The Fourth Beyond stipulated a contract to all participants AND spectators.
 "This will be a fair match between Humanity, represented by Ciela Besado, and The Null, represented by Memetta. Each participant must ricochet a projectile to the best of their abilities and protect each other's side."
 "Anyone withdrawing from the match, while in session, will be immediately annuled. Entertainment must not be disrespected through withdrawal."
 "No combat or hostility shall be permitted, punishable by annulment. Same logic as the previous order."
 "The match will only end once one side runs out of members."
-The rules seemed simple enough, on the surface. And since all the punishments were annulment, the archgods didn't question it, as all "judgements" from The Fourth at this point were the same (see Decress on Archkin Society).
+The rules seemed simple enough, on the surface. And since all the punishments were annulment, the archgods didn't question it, as all "judgements" from The Fourth at this point were the same (see Decrees on Archkin Society).
 As soon as Ciela Besado's skribble took control of her, turning her into the first playable character, the game begun.
-Memetta and Ciela were poised to play Pong live, a reference to this being one of the first videogames in real life. In fact, this moment is meant to represent the first time Pong was showcaded in-perdon. (Although Asteroids was one of the first games, Ciela merely did an Asteroid-like test to prototype the playable character concept.)
+Memetta and Ciela were poised to play Pong live, a reference to this being one of the first videogames in real life. In fact, this moment is meant to represent the first time Pong was showcased in-person. (Although Asteroids was one of the first games, Ciela merely did an Asteroid-like test to prototype the playable character concept.)
 The two girls had to lob, block, and reflect a ball of pure 2413Hz and 3142Hz energy across the court. And, due to the rules, they had to put in their full effort.
 However, as soon as Ciela scored her first point due to Memetta misssing the ball, it flew passed her and hit an archgod. Due to the extreme power of 2413Hz somehow combining with 3142H (a loophole in Memetta's contract due to the 2413Hz coming from her and The Court being unable to hurt Memetta, causing the two forces to just not interact), this paradoxical projectile immediately annihilated the archgod.
 Like an explosion, the outrage was instant. Seeing a human kill an archgod for the first time caused several spectating archgods to leave. Due to one of the game's clauses, those archgods were immediately annuled.
@@ -191,11 +191,11 @@ What appeared to be an assassination disguised as a game— was, in truth, a mas
 One by one, as archgods fled missed projectiles one after another, eventually, they all fell. Not a single member of the Archgodic Court survived, with the news only breaking out once second-hand witnesses arrived at the scene later to a courtroom of empty members, covered in untuned archose.
 
 ## Formation of the AoS
-Later on, Ciela the first formed the Arch of Sentients, subtly referencing her companion, Memetta, being the Epicenter of Sentience. Ciela annointed Memetta as her second in command, essentially unifying The Fourth, Humanity, and even a sliver of The Null in a single multi-ontolotical faction.
+Later on, Ciela the first formed the Arch of Sentients, subtly referencing her companion, Memetta, being the Epicenter of Sentience. Ciela anointed Memetta as her second in command, essentially unifying The Fourth, Humanity, and even a sliver of The Null in a single multi-ontological faction.
 Some time after, The Fourth Beyond rewarded Ciela for her strides in replacing the Archgodic Court with a new multiversal power under The Fourth's control. From this point on, Ciela will age slower and slower, remain at the peak of her youth (25 years old), and be granted plot armor immortality. In exchange, as soon as she gives birth to a daughter, the daughter will inherit her soul, passing off these blessing, locking away the new mother's memories, and rapidly aging the mother to her proper age.
 While this seemed good at first, not only did it mean no Ciela/Besado will ever be raised by their own mothers, it also meant Memetta was trapped and tied to serve every single Ciela daughter, lest she wishes to lose a growing weight of memories. And by the time The Court added this "clause" it already felt "too late" for her.
 Memetta could still perform vicar warden duties, but as long as this contract was active, her priority was with the current Ciela Besado.
-Wanting to give Memetta some freedom at least, Ciela created The Midwife division. Prior to her first daughter being born, the midwives were essentially highly skilled women in the AoS who served Ciela and her descendants directly regardless of her current status and allegiance. Their purpose was to ensure the birth and development of every descendant of Ciela the first, with Memetta being the first midwife and their leader, meaning she can fulfill her other duties elsewhere from time to time.
+Wanting to give Memetta some freedom at least, Ciela created The Midwife division. Prior to her first daughter being born, the midwives were essentially highly skilled women in the AoS who served Ciela and her descendants directly regardless of her current status and allegiance. Their purpose was to ensure the birth and development of every descendant of Ciela the first, with Memetta being the first midwife and their leader, meaning she can fulfil her other duties elsewhere from time to time.
 It was enough to satiate her freedom for a time, but not enough. Eventually, by Firmata Frontier, The Spirepocalypse, and The Long Shush— time has eroded even Memetta's sense of duty.
 
 ## Epicenter of Sacrifice witnessing

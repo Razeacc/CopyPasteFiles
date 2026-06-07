@@ -6,13 +6,14 @@ last_modified: Jun-7-2026
 status: draft
 ---
 # Overview
-Formulated by The Fourth Beyond and its fate scripted to be agreed upon by Archgod Khueen following the ending of The Creation War, the Decrees on Archkin Society were established between The Court of The Fourth towards the overarchking Archkin race in order to actively maintain the newly-acquired peace of the epoch. This only includes Archkin and all Archkin Sub-Classes, not the entire Arch Ontological Class (may be ammended).
+Following the ending of The Creation War, sustained peace was paramount. Thus, The Fourth Beyond scripted a legislation towards the fates of fiction to be agreed upon by Archgod Khueen . Thus, The Decrees on Archkin Society were established.
+Between The Court of The Fourth towards the overarching Archkin race, the doctrines actively maintain the newly-acquired peace of the epoch. These laws only affect Archkin and all Archkin Sub-Classes. The entire Arch Ontological Class isn't affected (may be amended).
 Initially consisting of merely two foundational rules, **new decrees may be appended or amended** over-time. Any and all modifications **will be enforced retroactively**.
 So long as "Archkin Society" can be reasonably considered "active" by *any* definition possible, these decrees maintain **absolute authoritative weight**.
 
 # Terminologies
 ## Annulment
-Definition: To be sentenced to the Seizure of Existence via banishment to The Null Crossing, whether mandated by the Fourth Court or other consequences outside of The Fourth Beyond.
+To be sentenced to the Seizure of Existence via banishment to The Null Crossing. Whether mandated by the Fourth Court or other consequences outside of The Fourth Beyond, the term remains constant.
 
 ## Archkin Society
 Any group of entities possessing a cognitive sentience equal to or exceeding "Mortalistic" parameters where at least one archkin is, or historically was, present.
@@ -20,12 +21,12 @@ Any group of entities possessing a cognitive sentience equal to or exceeding "Mo
 ---
 
 # Penalties
-Being accussed of breaking a Decree by The Fourth Beyond summons those accused of contempt to The Court of The Fourth, the metaphysical courtroom located at the top of The 4th's Wall.
-Here, a guilty verdict is already determined and guaranteed. However, a sentence can be lightened based on how "entertaining" the accussed acts and defends themselves in the courtroom.
-Yes, there is no defense attourneys in a case within The Court of The Fourth. Only the Defendant, and The Court itself as the prosecutor and judge. It is a trial where it is impossible to win, making up for The Creation War having been originally=intended to be an actual unwinnable endeavor for endless entertainment.
+Being accused of breaking a Decree by The Fourth Beyond summons those accused of contempt to The Court of The Fourth, the metaphysical courtroom located at the top of The 4th's Wall.
+Here, a guilty verdict is already determined and guaranteed. However, a sentence can be lightened based on how "entertaining" the accused acts and defends themselves in the courtroom.
+Yes, there is no defense attorneys in a case within The Court of The Fourth. Only the Defendant, and The Court itself as the prosecutor and judge. It is a trial where it is impossible to win, making up for The Creation War having been originally=intended to be an actual unwinnable endeavor for endless entertainment.
 Ever since, trials in The Court of The Fourth have been a new source of entertainment for us.
 
-Those *suspected of breaking a decree*, are listed as "_Suspected Contempt_". Those currently servince sentences are "In Contempt". And those who've served sentences are "Served Contempt".
+Those *suspected of breaking a decree*, are listed as "_Suspected Contempt_". Those currently serving sentences are "In Contempt". And those who've served sentences are "Served Contempt".
 
 ## Annulment
 After a spiritual/psyche execution is performed within The Court of The Fourth, the defendant's soul and physical body are immediately Annuled and sentenced to The Null Crossing.
@@ -38,12 +39,12 @@ It's all the downsides of Epicenterhood at the highest degree, with none of the 
 The only punishment challenging the severity of this, is Annulment.
 
 ## Restricted Timeline Access
-Those convincted of this relatively-light sentencing is actively barred from making any active or noticeable actions within timelines.
+Those convicted of this relatively-light sentencing is actively barred from making any active or noticeable actions within timelines.
 Showing oneself and "making a scene" would immediately warrant action by The Arch of Sentients. What they do is out of The Court's jurisdiction.
 
 ## Scrutiny
-Being granted more, or less, "scrutiny" by The Court determines how "lenient" we will be when delivering final sentencings and verdicts. It's not an actual pennalty, but rather, a modifier for future penalties.
-It also determines how likely we'll be to accusse a character of breaking a decree in the first place.
+Being granted more, or less, "scrutiny" by The Court determines how "lenient" we will be when delivering final sentencings and verdicts. It's not an actual penalty, but rather, a modifier for future penalties.
+It also determines how likely we'll be to accuse a character of breaking a decree in the first place.
 
 ---
 
