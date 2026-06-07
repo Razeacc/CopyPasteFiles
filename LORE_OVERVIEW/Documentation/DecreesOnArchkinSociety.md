@@ -80,9 +80,10 @@ It also determines how likely we'll be to accusse a character of breaking a decr
 
 Notes:
 > One of the last of the initial decrees, this commandment specified the true purpose of archkin from the beginning of the Archaic Eons onward: To be a source of entertainment for The Fourth Beyond.
-> Archkin, especially those aware of their purpose, were to follow their "scripts" and avoid going "out of character".
+> Archkin, especially those aware of their purpose, were to follow the fates "scripted" to them and avoid going "out of character".
 > While one of the most heavily-restrictive decrees, this is also the most contested. Although countless characters are technically in Suspected Contempt for this decree, they're almost never listed, and even fewer are acted upon.
 > This is due to an important hidden clause in this decree specifically: **All charges are dropped if rewriting one's scripted fate resulted in a more interesting script.**
+> Those that do end up breaking this decree, and results in poorer stories, result in their existence being swept away and forgotten in our entertainment industry; the most direct but also subtle method of annulment we feel and enact every day.
 
 ---
 
