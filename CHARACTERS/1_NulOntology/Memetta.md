@@ -29,7 +29,7 @@ Firmata Frontier
 
 ### **Species:**
 ```
-Phantysian
+Phantycian
 ```
 ### **Height:**
 ```
@@ -175,3 +175,7 @@ Some time after, The Fourth Beyond rewarded Ciela for making this move and formi
 While this seemed good at first, not only did it mean no Ciela/Besado will ever be raised by their own mothers, it also meant Memetta was trapped and tied to serve every single Ciela daughter, lest she wishes to lose a growing weight of memories. And by the time The Court added this "clause" it already felt "too late" for her.
 Memetta could still perform vicar warden duties, but as long as this contract was active, her priority was with the current Ciela Besado.
 
+## Epicenter of Sacrifice witnessing
+Near the end of Firmata Frontier Season 1, Memetta would've grown enough throughout the course of that story (while being witnessed by The Fourth Beyond) to eventually willingly risk giving up her memories of all Cielas thus far.
+At the time, Professor Besado used her connection with Memetta to force herself into becoming The Wuthering Concept of Self Destruction. To Memetta, the only way to cur this connection, was to sever the contract once and for all. Thus, putting this major piece of herself on the line, Memetta uses the Epicenter of Sentience to do the very first thing she wanted to do in her whole life thus far: Save Besado. She used her sentience to also acquired the Epicenter of Sacrifice.
+Thus, once the contract breaks, she remains the Epicenter of Sentience and Sacrifice, while all her teenage souls emotionally/mentally age to young adults instead. However, due to the contract's clause, not only can the AoS attack her now, she also needs to remember who Professor Besado the 67th was in the first place, learning why she loved her again...
