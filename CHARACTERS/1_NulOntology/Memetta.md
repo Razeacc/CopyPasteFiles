@@ -66,7 +66,7 @@ Familiar Familair (Symbolic Pet)
 Professor Besado the 67th (Eventual Love Interest)
 ```
 ### Personality
-> Since she rarely talks to people, with it being debatable that she’s even talked to anyone, it’s hard to discern her personality. It's as if she's a master at hiding her true personality. In truth, Memetta spends immense amounts of time observing sentient beings rather than directly interacting with them.
+> Since she rarely talks to people, with it being debatable that she's even spoken to anyone at all, it is difficult to discern her personality. In truth, Memetta spends immense amounts of time observing sentient beings rather than directly interacting with them, making her strangely knowledgeable about people despite her isolation.
 > 
 > She also seems to match the mood and tone of those around her to a frightening degree, as if her personality was highly dependent and reliant on the environment. Like a living embodiment of a meme (not the internet joke meme, as in the scientific definition of a meme, the DNA of culture).
 > Her eyes also remain, almost completely, wrapped in bandages. To most, this may seem like a mystery, but in truth, this is due to how "distracting" her eys look.
@@ -105,7 +105,7 @@ Professor Besado the 67th (Eventual Love Interest)
 ### Vulnerabilities
 - Broken Freedom
 > Without external factors, Memetta would almost never act on her own ambitions and desires, like a rowdy child whose will has been broken by their parents.
-> When forced to do things she's not interested in by most people, she'd still do them, but with bare-minimum effort. In return, things she actually likes doing, or ordered by people she enjoys (Professor Besado), results in 100-120% effort spent.
+> When ordered to do things she has no personal investment in, she will still comply, but rarely with the enthusiasm or creativity she demonstrates when pursuing something meaningful to her. In return, things she actually likes doing, or ordered by people she enjoys (Professor Besado), results in 100-120% effort spent.
 > But this also means she currently cannot will herself to do the things she wants, without someone else telling her to do it.
 > 
 > This is caused by a combination of Nul Detta constantly giving her orders in her vicar wardening responsibility, and having to serve under 67 generations of Ciela Besados thus far. She's in a position of authority and high critically, without any of the actual authority whatsoever.
