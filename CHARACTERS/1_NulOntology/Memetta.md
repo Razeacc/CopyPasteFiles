@@ -189,7 +189,7 @@ Some time after, The Fourth Beyond rewarded Ciela for her strides in replacing t
 While this seemed good at first, not only did it mean no Ciela/Besado will ever be raised by their own mothers, it also meant Memetta was trapped and tied to serve every single Ciela daughter, lest she wishes to lose a growing weight of memories. And by the time The Court added this "clause" it already felt "too late" for her.
 Memetta could still perform vicar warden duties, but as long as this contract was active, her priority was with the current Ciela Besado.
 Wanting to give Memetta some freedom at least, Ciela created The Midwife division. Prior to her first daughter being born, the midwives were essentially highly skilled women in the AoS who served Ciela and her descendants directly regardless of her current status and allegiance. Their purpose was to ensure the birth and development of every descendant of Ciela the first, with Memetta being the first midwife and their leader, meaning she can fulfill her other duties elsewhere from time to time.
-It was enough to satiate her freedom for a time, but not enough. Eventually, by Firmata Frontier, The Spirepocalypse, and The Long Shush— time has eroded even Memetta's sense of duty eventually.
+It was enough to satiate her freedom for a time, but not enough. Eventually, by Firmata Frontier, The Spirepocalypse, and The Long Shush— time has eroded even Memetta's sense of duty.
 
 ## Epicenter of Sacrifice witnessing
 Near the end of Firmata Frontier Season 1, Memetta would've grown enough throughout the course of that story (while being witnessed by The Fourth Beyond) to eventually willingly risk giving up her memories of all Cielas thus far.
