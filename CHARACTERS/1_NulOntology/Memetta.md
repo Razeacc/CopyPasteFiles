@@ -75,6 +75,9 @@ Professor Besado the 67th (Eventual Love Interest)
 > Her eyes also remain, almost completely, wrapped in bandages. To most, this may seem like a mystery, but in truth, this is due to how "distracting" her eys look.
 > Many people would stare into her eyes and become caught by them, or put off. In return, Memetta herself gets uncomfortable by the staring.
 > So, to make it brief, she hides her eyes because she's shy and nervous about them.
+> 
+> Furthermore, she's just not that smart.
+> Memetta mainly just uses Divide (currently) in her abilities, as Addition, Subtraction, and Multiplication feel too complicated for her to use instinctively.
 
 ### Appearance
 > Memetta has strange wrappings covering her eyes and body at all times. They must be thin, otherwise how would she be able to see out from them? Although, her dusken hair, which drapes down over her forehead and along the back of her neck, seems to add further coverage to any remaining vision she would’ve had.
