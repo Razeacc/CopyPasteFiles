@@ -2,7 +2,8 @@
 title: Memetta
 category: character
 tags: [character, phantycian, nul ontology, draft]
-last_modified: Jun-7-2026
+last_modified: Jun-8-2026
+recent_changes: Epicenter of Sacrifice and Subtract tweak
 status: draft
 ---
 # Idea
@@ -131,10 +132,15 @@ Professor Besado the 67th (Eventual Love Interest)
 
 - "Mathematics Actualization" (Active)
 > Borrowing powers from Fracturing, Memetta can manipulate the world via math and her hands.
-> - **Addition** lets her forcefully add objects together, smashing them via a force similar to telekinesis.
-> - **Subtraction** has two objects destroy each other instead, with the force depending on how much mass the two variables have.
+> - **Addition** sets two objects as "Addends". Afterwards, they're forcefully "added" together, smashing them via a force similar to telekinesis.
+> - **Subtraction** sets one object as the "Subtrahend", withs its size determining cognitive load as Memetta needs to "remember" how big the subtrahend is. Afterwards, she can set another target as the Minuend. Based on how much harder and larger the Minuend is from the Subtrahend, will determine how much of the Minuend is erased from reality, and how effective the erasure is. The Subtrahend is erased as well, forcing Memetta to set a new Subtrahend. If the Subtrahend is larger than the Minuend, Subtraction fails.
 > - **Multiplication** forcibly multiplies an object based on how many fingers she has held up, and they remain as long as those fingers are held while disappearing after the fingers drop— this can be done to confuse nervous systems by multiplying arms or create temporary bridges to cross gaps using merely a single plank.
-> - **Division** forcibly cuts and divides objects depending on how many fingers she has held up, similar to slashes from Sukuna from JJK— these cuts do not kill, but provide intense discomfort as the sentience inside nervous systems/wires are overloaded and filled with intense confusing pain— they can still be controlled, albeit, barely, and is mostly used for torture but can kill if used Division on enough times.
+> - **Division** forcibly cuts and divides objects depending on how many fingers she has held up (targets are "Dividends", and held-up fingers act as "Divisors"). These cuts do not kill, but instill a torturous pain as the sentience inside nervous systems/wires are overloaded and filled with intense confusing agony. They can still be controlled, albeit, barely, and is mostly used for torture or Division on enough times. The more active divisions, the more cognitivie load Memetta needs to carry to "remember each division". This load increases exponentially.
+> 
+> Halfway through Firmata Frontier, Memetta realizes she can let each Division be "permanent", forgetting about it, and merely Adding the divided halves back together later.
+> Since there's no sentience in innanimate objects, Division actually just straight-up cuts through and spatially separates them permanently, with Addition being the only way to repair these divisions perfectly.
+> 
+> At some point during Frontlien Firmata (Firmata Frontier Season 2), Epicenter of Sentience and Sacrifice Memetta develops Division even further. By pulling back one of her fingers partially during Divide, she turns the Divisor from 2 to 1.5, creating a decimal. This, in turn, allows her divides to occationally create Remainders, tiny chunks that break off the target and are automatically subtracted to turn each chunk into a "Borrowed" value. These Remainder-Values are spent first before other borrowed values, returning them almost immediately but providing another source for Borrow.
 
 - Divide by ZERO (Ultimate Active)
 > By using **Division** from "Mathematics Actualization" to throw a fist to a solid surface, Memetta divides the surface by zero, breaking the laws of reality and creating a NulGraven Tumor, kickstarting a Nulgraven site.
@@ -151,12 +157,19 @@ Professor Besado the 67th (Eventual Love Interest)
 > 
 > Passive: Memetta is aware of all current instances of sentience. However, unless she actively remembers it, she can't remember where or what all instances of sentience were at all times. IE: She can't tell you where a specific character was last week, unless she actively tries to keep tabs on that character since last  week.
 
-- Epicenter of Sacrifice (Active)
-> Upon achieving this at the end of Firmata Frontier Season 1, Memetta is capable of storing values deleted by Subtraction. She can then spend those values to modify and enhance Mathematics Actualization.
-> In Practice, she can delete 10 coins to store the number 10. Then, using that borrowed value, she can increase the number of Divisions done on a single finger from one division per 2 fingers, to 10 divisions per 2 fingers.
+- Epicenter of Sacrifice (Passive / Active)
+> Active: "Borrow"
+> Upon achieving this at the end of Firmata Frontier Season 1, Memetta is capable of "borrowing" values deleted by Subtraction.
+> If there are 5 keyboards infront of Memetta, and she subtracts 3 of them, she borrows a value of "3". In theory, she could instead subtract the specific keys to get potentially a value somewhere within the hundreds range, but smaller and more specific borrows cost more cognitive load.
+> Afterwards, Memetta can then spend borrowed values to modify and enhance Mathematics Actualization.
+> She can increase the number of Divisions done on a single finger from one division per 2 fingers, to something like 3 divisions per 2 fingers— Multiply her limbs for a single round of subtraction to borrow even more value around her (which can then let her multiply even more limbs, essentially creating a barrier of Subtraction around Memetta to nullify projectiles), strengthening the severity of Addition, or allow herself to subtract larger values from her target.
+> 
 > Spending borrowed values brings the subtracted item back into reality (subtracted and returned items are marked to be "valueless" for Memetta, to avoid infinite borrowing from the same items) while multiplying the focus cost on Memetta, tiring her out faster. Unspent values are returned back into reality after 1 hour, but are left unmarked, meaning Memetta can borrow their value again.
 > However, she can also spend borrowed values to instantly consume and process certain items. For instance, if she subtracts healing potions, stamina-regnerating substances, drugs, or even food, she can instantly "spend" those values on herself. The items return to reality, become marked, and Memetta instantly gains the effects from those substances.
-> Technically speaking, Memetta can borrow high values from things like grains of sand or even atoms in a bottle. But since Memetta still isn't THAT much smarter yet, she had yet to comprehend borrowing large values from such small targets yet. To her, a smaller value with a bigger font size is "easier" to borrow from, than a bigger value with a smaller font size.
+> 
+> Passive: Memetta can store "Borrowed" values for as long as she can handle the temporary increase in her Cognitive Load to "remember" the borrowed numbers.
+> Memetta also cannot borrow values from living matter or creatures containing sentience. In return, she can now subtract cubic-meter chunks of the air itself to act as "Subtrahend" and "Minuend", allowing her to borrow and store a constistent supply of at least a value of "10" for emergencies.
+
 
 
 # Story Writing Notes:
