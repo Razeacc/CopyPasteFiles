@@ -144,7 +144,7 @@ Although, at Psyche Burden does increase Intrusion Severity logarithmically, cau
 ### Psyche Decompression
 Once the Psyche Plane Overwrite returns into the inscriber's soul, they get a brief moment where the sudden expansion and compression of their plane feels akin to "good stretch" for their soul.
 **Cognitive Quality is temporarily increased**, granting noticably-faster processing capabilities, easier memory recallection, sharper awareness/instincts, and reduced burden inscribing an Overwrite immediately after.
-Roughly-speaking, one's Cognitive Load increases in performance by roughly 25%, allowing a total maxium load usage of 125%.
+Roughly-speaking, one's Cognitive Load increases in performance by roughly 20-30%, allowing a total maxium load usage of roughly ~125%.
 Although, this "Psyche Decompression" does have its limits, as the benefits drop exponentially if performed in rapid succession. Unless you genuinely have Cognitive Load to spare, it's often not worth the risk to spam Overwrites.
 Psyche Decompression benefits do not stack with itself.
 > <small>Note: more technical users have scientifically coined this term "Temporary Cognitive Defragmentation", unfortunately.</small>

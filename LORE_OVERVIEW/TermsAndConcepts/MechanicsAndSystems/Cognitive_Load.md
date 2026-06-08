@@ -3,7 +3,7 @@ title: Cognitive Load
 category: mechanic
 tags: [mechanic, psyche, draft]
 last_modified: Jun-8-2026
-recent_changes: Clarrified Explanation
+recent_changes: Added G-Force Compatibility
 status: draft
 ---
 # Overview
@@ -68,3 +68,10 @@ If you do happen to have archose within your soul, performing training with your
 ## Spell System
 Longer and more complicated spells take more Cognitive Load (Psyche Burden) to cast/use. This is quite literally due to how complex and long the commands for these spells can be. However, the cost is more obvious with innate magic users due to the Cognitive Burden being carried by their the internal archose/mana/magic in their souls.
 Spell Cartridge users, however, merely deal with the Cognitive Load of casting the spell itself. However, since they don't have innate archose, the burden actually evens out to be roughly the same.
+
+## G-Forces
+While High-G movement feels like increasing Cognitive Load, in truth, it actually decreases your maximum load while under its effect due to the loss of blood to the brain.
+Of course, creatures that don't use blood can ignore this subheader.
+
+## Overwrites
+(See Overwrites page)
