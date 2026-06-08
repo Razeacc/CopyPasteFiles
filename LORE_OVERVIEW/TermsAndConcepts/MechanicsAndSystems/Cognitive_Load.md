@@ -3,17 +3,33 @@ title: Cognitive Load
 category: mechanic
 tags: [mechanic, psyche, draft]
 last_modified: Jun-8-2026
+recent_changes: Clarrified Explanation
 status: draft
 ---
 # Overview
 Often called "*Psyche Strain*" or "*Mana Capacity*" in more fantastical settings/context, **Cognitive Load** is the overarching mental and spiritual "resource" system used in the Scripted Fates series.
-Its usaging spans widely, from the most overwhelming Epicenters and Mana-slingers in the verse, to mere office workers multitasking paperwork.
+Its usage spans widely, from the most overwhelming Epicenters and Mana-slingers in the verse, to mere office workers multitasking paperwork. Just like how kilograms measure mass, calcius measures temperature, and watts measures electricity— "Load", "Strain", "Burden", "Capacity/Reserves" all measure how much the brain/mind/soul is processing at once.
+*   Mages say:
+> My mana reserves are low.
 
-Cognitive Load is an abstract resource that functions similarly to Bandwidth or RAM. It is technically possible to attach a value to it, but that number will never be 100% accurate.
+*   Scientists say:
+> My cognitive burden is nearing overload.
+
+*   Vicars say:
+> My psyche is strained.
+
+*   Computers say:
+> `FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory`
+
+They're all describing the same phenomenon: **Cognitive Load**.
+> <small> There is a subtle difference.
+> Cognitive Load is often used for mental/logical/scientific tasks, while Psyche Burden is for spiritual/magical/fantastical tasks. The terms can be used interchangably based on the writer, but this is the standard procedure.</small>
+
+It is an abstract resource that functions similarly to Bandwidth or RAM. It is technically possible to attach a value to it, but that number will never be 100% accurate.
 > <small>(This allows for measurements to change and adjust from project to project to better-fit game design... and to make writing easier while adding mystique).</small>
 Although recording consistently is near-impossible, it's meant to be simple enough for almost any setting/mechanic. It may even be added to a complex mechanic and help "dumb it down".
 
-All creatures with SOUL are subjected to Cognitive Load. It essentially acts as space occupying brain processing capabilities. Normally, it's almost unnoticeable. But when performing complex spells or actions, that's when a noticeable amount of cognitive load needs to be allocated. 
+All creatures with SOUL are subjected to Cognitive Load. It essentially acts as space occupying brain processing capabilities. Normally, it's almost unnoticeable. But when performing complex spells or actions, that's when a noticeable amount of cognitive load needs to be allocated.
 
 ## Cognitive Overload
 The more cognitive load in-use, the slower a creature's thinking process becomes— both instinctual and active thinking.

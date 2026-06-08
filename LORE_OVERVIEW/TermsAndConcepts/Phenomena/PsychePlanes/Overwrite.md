@@ -1,4 +1,11 @@
-(WIP)
+---
+title: Overwrite
+category: mechanic
+tags: [mechanic, psyche, psyche planes, draft]
+last_modified: Jun-8-2026
+recent_changes: Added Cognitive Load Compatibility
+status: draft
+---
 # Overview
 It is essentially a Psyche User's own Fracturing Zone or NulGraven Site: a physical space that's an extension of one's psyche into the physical realm. For amateurs, it merely paints or "overwrites" the world. But for more experienced users, it can potentially even add or superimpose itself onto the terrain to create new temporary structures.
 
@@ -125,4 +132,19 @@ Second, depending on which "Frontier Stat" you prioritize (or which one you pers
 *   **ALACRITY**: Close or squint your eyes
 *   **MENTALITY**: Press a finger to your temple or press a fist to your chin in a "thinking" motion
 *   **SPIRITUALITY**: Grasp your heart, or pump your chest
-Third, **shout "Overwrite"**, which acts similarly to a spell. It commands the archose within their soul to inscribe the psyche pane outside of their body and into the world, overwriting the world around them.
+Third, **shout "Overwrite"**, which acts similarly to a spell. It commands the archose within their soul to inscribe the psyche pane outside of their body and into the world, overwriting the world around them. This does utilize a significant portion of Psyche Burden, so do be weary of your own capabilities.
+
+# Compatibilities
+
+## Cognitive Load
+Since Overwrites have their own resource to balance (Intrusive Bleed), surprisingly, there isn't much utilization in Cognitive Load, or in this case, Psyche Burden.
+While it does cost a hefty toll to Inscribe one's Overwrite, that's only the inscription. In fact, once the Overwrite is inscribed, Psyche Burden grows at a slower rate due to the surface area of your psyche being spread out in the Overwrite.
+Although, at Psyche Burden does increase Intrusion Severity logarithmically, causing already-burdened Inscribers to make very hazardeous Overwrites for everyone caught within it.
+
+### Psyche Decompression
+Once the Psyche Plane Overwrite returns into the inscriber's soul, they get a brief moment where the sudden expansion and compression of their plane feels akin to "good stretch" for their soul.
+**Cognitive Quality is temporarily increased**, granting noticably-faster processing capabilities, easier memory recallection, sharper awareness/instincts, and reduced burden inscribing an Overwrite immediately after.
+Roughly-speaking, one's Cognitive Load increases in performance by roughly 25%, allowing a total maxium load usage of 125%.
+Although, this "Psyche Decompression" does have its limits, as the benefits drop exponentially if performed in rapid succession. Unless you genuinely have Cognitive Load to spare, it's often not worth the risk to spam Overwrites.
+Psyche Decompression benefits do not stack with itself.
+> <small>Note: more technical users have scientifically coined this term "Temporary Cognitive Defragmentation", unfortunately.</small>
