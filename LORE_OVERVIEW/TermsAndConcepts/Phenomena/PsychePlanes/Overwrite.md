@@ -7,7 +7,7 @@ recent_changes: Added Cognitive Load Compatibility
 status: draft
 ---
 # Overview
-It is essentially a Psyche User's own Fracturing Zone or NulGraven Site: a physical space that's an extension of one's psyche into the physical realm. For amateurs, it merely paints or "overwrites" the world. But for more experienced users, it can potentially even add or superimpose itself onto the terrain to create new temporary structures.
+It is essentially someone's personal Fracturing Zone or NulGraven Site: a metaphysical space acting as an extension of one's psyche as it overwrites the tangible realm. For amateurs, it merely paints or "overwrites" the world. But as experience grows, it can potentially add or superimpose itself onto the terrain to create new temporary structures.
 
 ## Differences between Psyche Duels and Overwrites
 * **Timeflow**: While Psyche Duels happened within the plane itself, Overwrites pulls the Psyche Plane into reality— timeflow is uninterrupted, unless specified.

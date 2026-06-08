@@ -2,8 +2,8 @@
 title: Caradeled Archkin
 category: race
 tags: [race, archkin, phantasmal entity, draft]
-last_modified: Jun-5-2026
-recent_changes: 
+last_modified: Jun-8-2026
+recent_changes: Integrated Psyche Burden
 status: draft
 ---
 *A desperate attempt to evolve the gods, by drenching them in the devil's blood.*
