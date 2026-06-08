@@ -3,6 +3,7 @@ title: Caradeled Archkin
 category: race
 tags: [race, archkin, phantasmal entity, draft]
 last_modified: Jun-5-2026
+recent_changes: 
 status: draft
 ---
 *A desperate attempt to evolve the gods, by drenching them in the devil's blood.*
@@ -34,20 +35,25 @@ It utilized the more mortal properties of archubi as a medium to "cushion" the 2
 ## Abilities
 ### Memory Hunger
 Taken from the archubi's need for memories as well, Caradeled Archkin were made with a somewhat-similar mechanic. However, it's used differently.
-While more archkin could merely use their magic-like abilities at the cost of mere stamina/focus, Caradeled Archkin also need to expend "Consumed Memories" alongside the stamina/focus cost. Without a supply of consumed memories, their abilities would slowly chip away at their own memories instead, making them exponentially weaker and weaker.
+While archkin merely perform magic-like abilities at the cost of Psyche Strain, Caradeled Archkin **also** need to expend "Consumed Memories" alongside the added psyche burden. Without a supply of consumed memories, their abilities would slowly chip away at their own memories instead, making them exponentially weaker and weaker.
 
 ## Amplified Frequency Weakness
-Due to Archkin AND Caradels being weak to 3142Hz frequencies, that vulnerability is amplified for caradeled archkin.
+Due to Archkin AND Caradels being weak to 3142Hz frequencies, that vulnerability is amplified for caradeled archkin. Furthermore, 3142Hz also adds slight Psyche Burden while within its resonance range.
 
 ### Aberrant Caradels
 To Consume Memories, Caradeled Archkin cannot strip it away from targets directly under normal circumstances. Instead, they use aberrant caradels. These beings are a manifestation of an archubi's ability to "overwrite" memories. In this case, the caradeled archkin is capable of overwriting a fracturing caradel to become "Aberrant" by attempting to recreate one of the caradel's fragmented memories, just like how Archubi overwrite memories.
 > Do Note: This means NulGraven Caradels are immune to becoming Aberrant due to them having next to no memories for overwriting.
 
+#### Purpose
 All aberrant caradels act as extentions to its caradeled archkin host, functioning as its "mouths" for memory consumption. Aberrant Caradels are capable of symphoning away memories from targets similar to Fracturing Zones.
 By acting as relays of its caradeled archkin host's will, they can be seen as something similar to how vampires in Jojo's Bizarre Adventure are capable of turning humans into zombies. In a way, caradeled archkin also function as "psuedo epicenters" for all of its aberrant caradels.
 
 Furthermore, one of the reason why Caradeled Archkin NEED Aberrant Caradels and can't absorb memories themselves, is because aberrants specifically act like mouths.
 In a way, Caradeled Archkin store memories-to-be-consumed in their Aberrant Caradels, just like how rodents keep food in their mouths. This makes it so those memories are consumed first when using abilities, over their own memories.
+
+#### Cost
+A Caradeled Archkin cannot create an endless army of Aberrant Caradels, as each caradel adds a load of Psyche Burden as long as its active. The only way to "lighten the load", would be to reduce the number of active aberrants.
+
 Lithe, in particular, stores all his memories-to-be-consumed as "Memory Tabs" in his Spire Bell, hence why he carries it around everywhere. That bell is techincally an aberrant caradel. 
 
 ### Caradel Spread

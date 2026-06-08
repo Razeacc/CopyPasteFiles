@@ -3,6 +3,7 @@ title: Frequencies
 category: phenomena
 tags: [phenomena, draft]
 last_modified: Jun-5-2026
+recent_changes: 
 status: draft
 ---
 # Overview
