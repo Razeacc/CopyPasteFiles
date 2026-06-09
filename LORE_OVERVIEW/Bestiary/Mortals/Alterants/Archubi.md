@@ -2,7 +2,7 @@
 title: Archubi
 category: race
 tags: [race, alterant, draft]
-last_modified: Jun-5-2026
+last_modified: Jun-9-2026
 recent_changes: 
 status: draft
 ---
@@ -14,6 +14,7 @@ status: draft
 ## Short Description
 
 ## 📚 Classification
+Humanoid Alterant
 
 ### Weaknesses
 
