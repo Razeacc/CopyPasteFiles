@@ -6,8 +6,8 @@ last_modified: Jun-7-2026
 status: draft
 ---
 # Overview
-Following the ending of The Creation War, sustained peace was paramount. Thus, The Fourth Beyond scripted a legislation towards the fates of fiction to be agreed upon by Archgod Khueen. Thus, The Decrees on Archkin Society were established.
-Between The Court of The Fourth towards the overarching Archkin race, these doctrines actively maintain the newly-acquired peace of the epoch. The laws only affect Archkin and all Archkin Sub-Classes, not the entire Arch Ontological class. (may be amended).
+Following the ending of The Creation War, sustaining the newly-invented peace was paramount. Thus, The Court of The Fourth scripted legislation towards the fates of fiction— which were later agreed upon by Archgod Khueen. Thus, The Decrees on Archkin Society were established.
+Between The Court of The Fourth towards the overarching Archkin race, these doctrines actively maintain tranquility in the new epoch. 
 Initially consisting of merely two foundational rules, **new decrees may be appended or amended** over-time. Any and all modifications **will be enforced retroactively**.
 So long as "Archkin Society" can be reasonably considered "active" by *any* definition possible, these decrees maintain **absolute authoritative weight**.
 
