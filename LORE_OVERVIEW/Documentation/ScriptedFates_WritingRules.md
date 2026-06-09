@@ -2,7 +2,8 @@
 title: Scripted Fates Writing Rules
 category: documentation
 tags: [documentation, meta, behind_the_scenes, draft]
-last_modified: Jun-7-2026
+last_modified: Jun-9-2026
+recent_changes: Added Writing Rule 10
 status: active
 ---
 
@@ -50,6 +51,10 @@ Do NOT do interconnected stories like Marvel, where you almost HAVE to watch eve
 
 ###     9. The Fourth Beyond's Decrees on Archkin Society MUST get more complex over time
 "Over Time" refers to the in-story chronology. The initial and early decrees must be simple (IE: Make Archkin, get annuled. Break character, get annuled. Etc.). But over time, later on in the story, they must get more and more complicated. (IE: Fail to acquire the Epicenter of Fiction, ~~get annuled~~ turn into a Failed Epicenter. Make a timeliner do quantum suicide, ~~get annuled~~ get **stalked** more).
+
+###     10. Modi, skills, abiliies, etc. should have more than JUST combat applications
+Whether through a character's own creativity or flexible limitations, characters should not feel like their skills/abilites have PURELY combat applications/uses... that is, unless it perfectly fits their character.
+A good example is Ayumu, who can travel beyond light speed to rewind time and change fate. Not only can she use it in combat be pre-loading damage onto enemies, she can also use it to relay instuctions and messages to the present from the future.
 
 ## Gamedev Rules
 
