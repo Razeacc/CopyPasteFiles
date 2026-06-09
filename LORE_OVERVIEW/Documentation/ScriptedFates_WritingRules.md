@@ -12,7 +12,8 @@ This acts as a simple guide not meant for any audiences to see, unless specifica
 These writing rules are similar to the "Game Design Rules" implemented in Minecraft by Mojang, steps and precautions to take in ensuring Scripted Fates maintains its specific vibe no matter how much it expands.
 
 ## Scripted Fates' Core Theme
-While it does carry themes of connection/separation (Fracturing Seperatist frequencies vs Archkin unifying archose hiveminds / Epicenters), tackles deep topics like whether or not archkin should exist, etc. At the core of these stories, Scripted Fates is a "**Celebration of Fiction and Creativity**".
+While it does carry themes of connection/separation (Fracturing Seperatist frequencies vs Archkin unifying archose hiveminds / Epicenters), tackles deep topics like whether or not archkin should exist, etc.
+At the core of these stories, Scripted Fates is a "**Celebration of Fiction and a Love letter to Creativity**".
 Its main goal is to redefine the meaning of fiction, help people rediscover why fiction is so important, and what fiction means to us as "real" people.
 
 ## Writing Rules
