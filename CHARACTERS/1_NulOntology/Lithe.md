@@ -2,8 +2,8 @@
 title: Lithe
 category: character
 tags: [character, archkin, nul ontology, draft]
-last_modified: Jun-7-2026
-recent_changes: 
+last_modified: Jun-10-2026
+recent_changes: Table Update
 status: draft
 ---
 # OVERVIEW
@@ -15,28 +15,17 @@ When The Spirepocalypse happened, Lithe was the sole person instructed by Morgal
 Note:
 > A lot of this information will be revealed over the course of Firmata Frontier seasons 1 and 2. Lithe's wiki page will even initially just be known as "The Spireknell" at first, with him having his own separate page in the beginning of season 2, until it's confirmed Lithe IS The Spireknell.
 
-Title
-> The Spireknell
-Age
-> Ageless (30 y/o appearing)
-Pronouns + Gender
-> He/Him | Male
-Species
-> Archkin (Mariped Disguise)
-Birthday
-> 
-Affiliation
-> 
-Background
-> 
-Status
-> Local
-Residency
-> Grand Central Cathedral
-Height
-> 
-Weight
-> 
+| Title | The Spireknell |
+| Age | Ageless (30 y/o appearing) |
+| Pronouns + Gender | He/Him + Male |
+| Species | Archkin (Mariped Disguise) |
+| Birthday | N/A |
+| Affiliation | Survivors of Avalon |
+| Background | *   ~~Daycare Attendand~~ *   ~~Lab Assistant~~ *    Faction Guardian |  
+| Status | Local |
+| Residency | Grand Central Cathedral |
+| Height | |
+| Weight | |
 
 ---
 
