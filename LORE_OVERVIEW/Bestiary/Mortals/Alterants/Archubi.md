@@ -3,7 +3,7 @@ title: Archubi
 category: race
 tags: [race, alterant, draft]
 last_modified: Jun-10-2026
-recent_changes: Initial Draft
+recent_changes: Overview and Description rewordings
 status: draft
 ---
 *When you yesterday becomes the lies of today.*
@@ -38,8 +38,9 @@ Unaging (relies on Memory Superimposition)
 # Overview
 They're Scripted Fates' take on Succubi. Made by Morgale de Metso in An-Tri'Fhiana, Archubi are humans that were infused with the properties of Fracturing Fissures.
 Although being around them, or even a group of them, won't result in a Fracturing Zone, Archubi are in a constant state of attempting to "superimpose" memories. This is a weakened version of fissures directly siphoning memories from those within its vicinity.
-Due to how they're forced to live, evolution dictated only the "prettiest" and "most unique/memorable" archubi survive and pass off their memes. This results in a severe drought of "average-looking" archubi.
-This puts them in a rather shaky position in society prior to The Spirepocalypse.
+Due to how they're forced to live, evolution dictated only the most unique/memorable archubi survive and pass off their memes.
+Later on, archubi who wanted the "easy way" of achieving a good life did so by actively harming/harassing others. They did so to take advantage of humanity's "negativity bias" to be remembered more easily. This forms a psudeo faction of archubi who either follow "Pretty Bias" or "Negativity Bias" in their memology. Furthermore, this also results in a severe drought of "average/mundane" archubi.
+Due to their innate natures, they're in a rather shaky position in society prior to The Spirepocalypse.
 
 While they are often eye candy and heart stoppers, with some capable of truly changing someone's outlook in life due to their intense innate attraction, this also comes at a cost for superimposing memories. Some people are fine with this and willingly allows popular archubi to straight-up rewrite their memories. And others heavily-restrict and regulate them, with other nations even outright banning archubi completely.
 
@@ -64,9 +65,15 @@ The more superimposed memories being forgotten (digested) at a time, the more li
 
 #### Limitations
 Memory Superimposition relies on the viewer's perspective and all their senses when "receiving" the "superimposing" signals from an Archubi. Which means **screens** and even **Virtual Reality Experiences** completely nullify the chances for an Archubi to superimpose themself into your memories.
+This is because fracturing fissures cannot take memories away without your soul being physcially within their vicinity. And since Archubi are already weaker fissures, this limitation is merely an extention of that mechanic.
+This "Virtual Distance" is the same rule and logic used by Overwrites.
 
 Forming new memories with an archubi does nothing. Memory Superimposition, for the purpose of sustinence, relies entirely on the fact that the original memory STILL exists, as the original person in the superimposed memory is merely layered over with Archubi.
-However, 2 Archubi can theoretically superimpose each other in someone's memory constantly. While this won't generate "infinite sustinence", it would distribute the memory to both archubi as it's slowly forgotten.
+However, 2 Archubi can theoretically superimpose each other in someone's memory constantly. While this won't generate "infinite sustinence", it would distribute the memory to both archubi as it's slowly forgotten. There is a limitation though.
+Memory Superimposition requires the archubi to be more memorable than the person they're superimposing in the memory. For most humans, this would be easy. But if it's a memory already superimposed by an archubi, this makes it increasingly more and more difficult to overwrite that specific memory.
+
+Each "Memory" superimposed is meant to be a single moment in time. Superimposition can be as small as 5 seconds (5 grams of food) or 5 years (50-ish grams?). Theoretically speaking, an Archubi can only overwrite entire years of someone in a person's memory, if that someone has spent a total of several years-worth of memories within that person's memory. And even if, it won't be a constant single-take of memories. It's additive. And it all gets digested at the same time, over time.
+This also doesn't meant you can survive off the memories from 1 person. Just like how you need a balanced diet, archubi need a balanced diet of different personalities with superimposed memories to promote a healthier lifestyle. Too much aggressive hosts (which is believed to be the equivalent of protein) can result in overly-buff archubi, which may not be the typical goal for all.
 
 An archubi can survive for 10 years in total without having any superimposed memories. This may seem a lot, but it's akin to a human being able to survive 10 years in total without food. If an Archubi goes for 3-5 days without any superimposed meomries in anyone, that's 3-5 days total shredded off their seemingly-immortal lifespan.
 
@@ -83,6 +90,8 @@ However, there's stil the Biological Parents' recessive memes to take into accou
 These are all the cultural ideologies and practices the parents actively refused, but remembered, in their life. This results in the archubi child having most of the archubi parent's traits, some of the biological parents' "personallly-negative" traits alongside their genes.
 
 It is impossible to pass-down genetic material from an archubi, as they are actually biologically sterile. Some may still have human reproductive organs, but their genetic material is incapable of being passed down due to their innate Fracturing Fissure biology.
+
+Due to how complicated and morally-divisive this process is, it has resulted in archubi being the least-populous alterant race across The Worlds Aplenty. For every thousands of ubir, there's believed to only be 1 archubi. Their total population, prior to The Spirepocalypse, can be counted around the ranges of 150-300.
 
 ## Current Status on The Continent (Firmata Frontier)
 There are currently several archubi that were left in "psyche stasis" within An-Tri'fhiana's prisons. While some are living amongst The Stone Society unaware of their innate abilities, those within the underground cells were slated to serve "death sentences" for... now-unknown reasons. Even they don't know, as their memory pieces were actually the first drained by Morgale's Living Piece in order to see if she can gain power from doing so.
