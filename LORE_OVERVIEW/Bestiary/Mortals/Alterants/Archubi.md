@@ -15,6 +15,8 @@ status: draft
 
 ## Short Description
 While some may see them as "Memory Stealing Fiends", rather, Archubi are closer in-line to being "Memory Rewriting Fiends". They can theoretically live forever as long as people remember them... as long as those memories were layered, that is.
+*   Archubus = Singular
+*   Archubi = Plural
 
 
 ## 📚 Classification
@@ -62,9 +64,21 @@ For instance:
 When they superimpose themself into someone's memory, that memory acts as a source of "sustinence" to them as it's slowly forgotten. Forgetting superimposed memories is how an archubi "digests" their nutrients.
 
 ### Memory Nutrients
-The more superimposed memories an archubus has active at the time, the more lively they can be. Each memory has different properties based on the memory holder's personality (psyche stats), with certain traits acting like nutrients such as protein or sugar.
-However, the nutrient equivalent to each personality is still unknown. In fact, it's *uncertain whether the memory holder's personality or the memory's emotions itself are what constitues "nutrients"*. This is due to how relatively-recent archubi are, alongside their low population. A chart is being formulated, but it isn't ready for public viewing.
-It's simply just best to have a varied memory diet of more than one person, akin to eating at more than one restaurant.
+The more superimposed memories an archubus has active at the time, the healthier and more lively they are. Each memory has different properties based on the memory holder's personality (psyche stats), with certain traits acting like nutrients such as protein or sugar.
+However, the nutrient equivalent to each personality is still unknown. In fact, it's *uncertain whether the memory holder's personality or the memory's emotions itself are what constitues "nutrients"*.
+Fault lies in how <u>relatively-recent</u> archubi are, paired with their <u>low population</u>. A chart is being formulated, but it isn't ready for public viewing.
+| Psyche Trait | Nutrient Equivalent |
+|--------------|---------------------|
+| Happiness | Carbohydrates |
+| Impatience/Anger? | Protein |
+| Greed/Desire | Fat |
+| Greed/Desire? | Cholesterol |
+| Intelligence/Happines?? | Sugar |
+| Religiousness??? | Fiber |
+| "Rock Music Tolerance" | Potassium???? |
+> <small> This table is potentially highly innacurate. Reference at your own voalition.
+
+Regardless, it's simply just best to have a varied memory diet of more than one person, akin to eating at more than one restaurant.
  
 ### Range Limitations
 Memory Superimposition relies on the target's soul "receiving" the "superimposing" frequencies from an archubus. Physical distance from an archubus is enough to avoid Memory Superimposition— as well as being behind a screen or radio signal. Just hearing/reading stories about an archubus is not enough to have memories superimposed as well.
@@ -79,7 +93,7 @@ Two Archubi can theoretically superimpose each other in someone's memory, but th
 <u>Memory Superimposition requires the archubi to be more memorable than the person they're superimposing</u> in the memory. For most humans, this would be easy. But if it's a memory already superimposed by an archubi, this makes it increasingly more and more difficult to blanket that memory.
 
 ### Memory Measurement
-Each "Memory" superimposed is a single moment in time. Superimposition can be as small as 5 seconds (5 grams of food) or as large as 5 years (50-ish grams?). Theoretically speaking, an Archubi can only overwrite entire years of someone in a person's memory, if that someone has spent a total of several years-worth of memories within that person's memory. And even if, it won't be a constant single-take of memories. It's additive. And it all gets digested at the same time, over time.
+Each "Memory" superimposed is a single moment in time, and each "moment" of memory has "nutritional mass". Theoretically speaking, an Archubi can only overwrite entire years of someone in a person's memory, if that someone has spent a total of several years-worth of memories within that person's memory. And even if, it won't be a constant single-take of memories. It's additive. And it all gets digested at the same time, over time.
 
 ### Memory Hunger Limit
 An archubi can survive a total of 10 years without having any superimposed memories. This may seem a lot, but it's akin to a human being able to survive 10 years in total without food. If an Archubi goes for 3-5 days with no superimposed memories, that's 3-5 days total shredded off their seemingly-immortal lifespan.
