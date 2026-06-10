@@ -3,7 +3,7 @@ title: Overwrite
 category: mechanic
 tags: [mechanic, psyche, psyche planes, draft]
 last_modified: Jun-8-2026
-recent_changes: Added Cognitive Load Compatibility
+recent_changes: Removed Marginalia
 status: draft
 ---
 # Overview
@@ -69,10 +69,6 @@ Meant for inscribers who have **positive feelings** to the Base Layer Overwrite,
 
 #### Revisions
 For those with more **negative outlooks** on the Base Layer, this Overwrite dampens and changes certain factors in the Base Layer to a degree based on how incompatible it is. The more incompatible, the more drastic the revisions.
-
-#### Marginalia
-An outlier in the categories, Marginalia Overwrites are for those **wishing to prematurely escape** the Overwrite. Their Overwrite would attempt to carve a path through the Base Layer to help the Inscriber leave, or at the very least, survive within the Base Layer.
-It can inscribe a miniature Overwrite around the inscriber, keeping it small and compressed to act as a safety barrier around the inscriber. If the Base Layer is weak enough, or the inscriber is strong enough, a path would be carbed out instead.
 
 ## Overwrite Samples
 ### Kalayan
