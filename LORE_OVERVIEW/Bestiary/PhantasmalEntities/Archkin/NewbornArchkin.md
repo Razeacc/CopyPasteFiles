@@ -16,6 +16,8 @@ status: draft
 > "Sacrifice one's memories and faith to repair the wall."
 - The Agent
 
+---
+
 ## Short Description
 They are essentially no different from normal [[[[archkin]]]], aside from being newly-created.
 This does open up several unique properties in them, with some being negative, and others positive.

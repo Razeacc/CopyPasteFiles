@@ -23,6 +23,7 @@ Unaging
 
 ### Traits
 *   2413Hz Immunity
+*   Hunger and Thirst Immunity
 
 ## Overview
 Following Morgale's creation of the Archubi and her Living Piece, she assigned control of An-Tri'Fhiana to this new "clone" of hers alongside the mission of finding a way to ascend beyond even an Archgod; they both knew and remembered this was to prepare for a being as strong as Sandatta Ulhysse.
