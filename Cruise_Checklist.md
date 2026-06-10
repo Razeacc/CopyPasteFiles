@@ -3,8 +3,8 @@
 Lithe / The Spireknell
 Write a proper character brief covering:
 
-Full Caradeled Archkin explanation (how it happened, Morgale's Living Piece doing it, why)
-Memory hunger mechanic in detail (how often, what counts as "feeding", consequences of starvation)
+~~Full Caradeled Archkin explanation~~ (how it happened, Morgale's Living Piece doing it, why)
+~~Memory hunger mechanic in detail~~ (how often, what counts as "feeding", consequences of starvation)
 His role at the start AND end of Season 1 specifically
 His relationship with Morgale's Living Piece
 What he knows vs. doesn't know about the broader situation

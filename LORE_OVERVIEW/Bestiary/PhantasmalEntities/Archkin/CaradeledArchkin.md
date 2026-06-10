@@ -2,8 +2,8 @@
 title: Caradeled Archkin
 category: race
 tags: [race, archkin, phantasmal entity, draft]
-last_modified: Jun-8-2026
-recent_changes: Integrated Psyche Burden
+last_modified: Jun-10-2026
+recent_changes: Added History
 status: draft
 ---
 *A desperate attempt to evolve the gods, by drenching them in the devil's blood.*
@@ -82,5 +82,17 @@ Later on, during Season 2 in Frontline Firmata, Lithe will meet two newborn arch
 
 
 // Note: Oh god, I just realized, Caradeled Archkin are LITERALLY just Jojo Vampires-
+
+## History
+### Timeline of Events
+| Era / Time Period | Event | Responsible | 
+|-------------------|-------|-------------|
+| Late Archgodic Eons | Creation of Archubi | Morgale de Metso |
+| Early Archgod Revolution | Creation of Living Piece | Morgale de Metso |
+| Mid Archgod Revolution | Ownership Transfer of An-Tri'Fhiana | Morgale's Living Piece |
+| Mid-Late Archgod Revolution | Confirmation of Newborn Archkin | Archie to Morgale's Living Piece |
+| Late Archgod Revolution | Creation of First Caradeled Archkin (Lithe) | Morgale's Living Piece |
+
+
 
 [^1]: [[NewbornArchkin.md|Fresh Soul]]
