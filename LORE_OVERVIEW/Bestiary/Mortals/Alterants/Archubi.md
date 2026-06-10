@@ -77,6 +77,7 @@ Fault lies in how <u>relatively-recent</u> archubi are, paired with their <u>low
 | Religiousness??? | Fiber |
 | "Rock Music Tolerance" | Potassium???? |
 > <small> This table is potentially highly innacurate. Reference at your own voalition.
+> <small> The Rock-tassium Hypothesis remains highly controversial and hotly debated amongst researchers in Santa Besado Institute's "Lejeseh Firmatology" program.
 
 Regardless, it's simply just best to have a varied memory diet of more than one person, akin to eating at more than one restaurant.
  
