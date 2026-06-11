@@ -82,15 +82,34 @@ At least, that's how they hope the plan would go.
 -   This meant, not only was a Full-Scale Invasion of AoS troops sent to An-Tri'Fhiana, but an undisclosed number of more soldiers, citizens, captured/enslaved archkin, scholars, workers, and timeliners.
 -   At the same time, Morgale's Living Piece began syphoning memories from everyone on Central Lejos, gathering their memories in a blanket of rainbow glittering the skies.
 -   Morgale's Living Piece crossed the threshold and was summoned to The Court of The Fourth
+-   The Mask Maker dips tf outa this shit
 
 ## Hijacking of The Alternate Fiction (Santa Besado Institute)
--   
+-   During one of Kaitzar's classes, when Razi-AI was at her busiest, Kaitzar's Simuling made his move.
+-   He began sending reauest after request to try and DDos Razi-AI
+-   She eventually gave in. Her firewalls started breaking down, letting the simuling inject a backdoor/trojan.
+-   Using this backdoor, the simuling forcefully assigned himself certain/similar singleton variables as Razi-AI, making him officially the Heretical Concept of Script... at least, within the Alternate Fiction.
 
 ## The Trial of Morgale's Living Piece (The Court of The Fourth)
+-   Morgale's Living Piece enters The Court of The Fourth.
+-   She sees, and recognizes, Ulhysse, who's now in a teenage body with broken chains wrapped around her wrists.
+-   The Court challenged Mogale's Living Piece if she is capable of "experiencing and witnessing the absolution of everything".
+-   Before she could respond, she immediately rushed for Ulhysse.
+-   Using her own psyche manipulation, she forced a backdoor into Ulhysse's soul, tapping into the Epicenter of Fiction, even if it's but a miniscule portion of it.
+-   Morgale's Living Piece is immediately punished as she's instantly subjected to the endless incomprehensible cognitive load of The Epicenter of Fiction.
+-   However, with this infinite power, she pushed through it as much as she can to kickstart the creation of HER Firmata.
 
 
 ## Fracturing of Khueen (The Null Crossing)
--   As this happens, Nul Detta cracks Khueen's soul while within The Null Crossing, shattering the Epicenter of Psyche and making Overwrites possible.
+-   Immediately after the events of Beyond Eternity and Khueen's failed attempt to break out of The Null Crossing, she was at her weakest emotionally.
+-   Nul Detta struck.
+-   Khueen and Nul Detta started fighting. Ouya tried joining in, but the archgod and phantycian were too fast.
+-   Blow after blow, Nul Detta focused on damaging Khueen's soul. Specifically, her Epicenter of Psyche.
+-   By leaving Fracturing Fissures within the Epicenter of Psyche, this created a "leak" within the very idea of souls. This shattering of psyche started a ripple effect across The Worlds Aplenty.
+-   Nul Detta attempted to force Khueen into opening an Overwrite so Nul Detta could assimilate her stretched-out soul.
+-   Khueen inscribed an Overwrite.
+-   However, Nul Detta did not expect Khueen to be able to make Nul Detta's own endless annuled souls attack himself, permanently damaging parts of himself as well and making himself "leak" more psyche energy as well.
+-   The two continued struggling, until the both evaded and escaped each other.
 
 
 ## Forming of HER Firmata (Central Lejos)
@@ -102,14 +121,26 @@ At least, that's how they hope the plan would go.
 -   Morgale's Living Piece splits herself using the Overwrite, transfering half of her soul into HER Firmata while cutting her other half off from Her Failed Epicenter physical body, letting the Failed Epicenter curse fully consume it.
 
 ## Forming of HIS Firmata (Santa Besado Institute)
--   Kaitzar's Simuling ran into a similar problem. Simulette, while still being inside Razi-AI, did not have enough Epicenter Power to create a Firmata OUTSIDE the Alternate Fiction. He could only make a Firmata inside it, which would do nothing.
+-   Kaitzar's Simuling ran into a similar problem as Morgale's Living Piece.
+-   Simulette, while still being inside Razi-AI, did not have enough "Infinite Epicenter Power" to create a Firmata OUTSIDE the Alternate Fiction. He could only make a Firmata inside it, which would do nothing.
 -   Then, the epicenter of psyche's fragmenting's effects reached the school.
--   Kaitzar's Simuling began inscribing a psyche plane starting from The Alternate Fiction simulator, encompasing the whole school.
--   After manifesting a weakened body within HIS Firmata and taking the current Fourth Marshal's skravatar body, the timeloop officially begins.
+-   Kaitzar's Simuling began inscribing an Overwrite starting from The Alternate Fiction simulator, encompasing the whole school. It was weaker and MUCH smaller than HER Firmata, but he didn't use the Epicenter of Fiction, after all. He used the Alternate Fiction's equivalent to the Epicenter of Fiction: Whatever the fuck Simulette is.
+-   After manifesting a weakened body for himseld within HIS Firmata, he took the current Fourth Marshal's skravatar body.
+-   With the first body piece acquired, the timeloop officially begins and events are sent back in time using a portion of the Fourth Marshal's power.
 
+## The Birth of Professor Besado (The Continent)
+-   Mademoiselle Ciela's plan went smoothly so far. Her soul was taken by the memory wipe, then revived alongside the unborn Ciela the 67th being unpetrified.
+-   However, her theory worked a bit *too* well. As Mademoiselle woke up from the memory wipe, her soul was beyond exposed.
+-   Due to the memory wipe, psyche epicenter fracturing, and her own experiments— this caused bits and pieces of memories from ALL previous Ciela Besado generations to be "accessible", flooding Mademoiselle Besado with  memories and cognitive load with a similar logic to the overload caused by the Epicenter of Fiction.
+-   Usable to tolerate the overwhelming sensory input and psyche pain, she had Memetta and the midwives immediately process the birth of her daughter.
+-   The Last Miwdife, currently an animalistic thingamakin at this time, witnesses the whole process.
+-   Professor Besado the 67th is born, with the same fragmented memory damage in her soul, giving her unwanted and unintended experiences from all her mothers' mothera.
+-   Mademoiselle Ciela the 66th passes away.
 
 # Final Aftermath
 -   **Lejos** - HER Firmata is now established. The memories of everyone on, and sent to, Central Lejos has been taken away and stored within the Failed Epicenter, which is in the bottom of the Lunore Conservation Site.
--   HIS Firmata is now active, and The Epicenter of Psyche is now damaged.
--   Spires all across The Worlds Aplenty readjust themselves to Lejos.
--   The Spirepocalypse has begun.
+-   **Santa Besado Institute** - HIS Firmata is now active and time-looping. Cubiqua City officially closed-off the school for the time-being. AoS investigations have begun on HIS Firmata.
+-   **AoS Spire Network** - All AoS-controlled Spires are now directing to Lejos' central spire. The Mask Maker has also gone off the grid and is currently missing even in the present day of Firmata Frontier.
+-   **The Epicenter of Psyche** - slightly fractured with Nul Detta leaving some fissures in Khueen's soul. She also managed to damage Nul Detta, which indirectly sped up the fabrication of caradels, while also eventually leading to the creation of Familiar Familiar.
+
+The Spirepocalypse has begun.
