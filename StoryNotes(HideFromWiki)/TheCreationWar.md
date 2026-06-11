@@ -2,7 +2,8 @@
 title: The Creation War
 category: story
 tags: [story, time period, historical event, archkin, fourth_beyond, nul, draft]
-last_modified: Jun-6-2026
+last_modified: Jun-11-2026
+recent_changes: Typo Fixes
 status: draft
 ---
 
@@ -31,11 +32,11 @@ The "creation story" of The Worlds Aplenty, detailing how archgods reduced thems
 Before the act of creativity was even recognized, the land of fiction was barren and hostile. The only notable sight in this endless wasteland of dark-cyan grass was the infinite prismatic 4th's Wall as it towered over the immeasurable desolation.
 No Timeline Sky.
 No Infinite Fields nor Aeonic Ocean.
-Even time itself has properly been invented nor organized, causing any sustained injuries and lessons learned to progress at wildly-inconsistent rates. And with matter slowly ceasing to exist within these lands due to its proximity to Endless Entropy, it was hard to grow and easy to die.
+Even time itself hasn't been invented nor organized, causing any sustained injuries and lessons learned to progress at wildly-inconsistent rates. And with matter slowly ceasing to exist within these lands due to its proximity to Endless Entropy, it was hard to grow and easy to die.
 Here, works of creativity faught tooth and nail to merely remain as ideas in whatever existence this was. This was The Null Crossing at the time, the frontline of The Creation War.
 
 ### The Key Players
-**Archgods** represented *our creations*, invented from The 4th's Wall to represent creative works like Ulysses, Gilgamesh, Beowulf, and Morgan le Fae.
+**Archgods** were *our creations*, invented from The 4th's Wall to represent creative works like Ulysses, Gilgamesh, Beowulf, and Morgan le Fae.
 **Phantycians** represented the *entropic decay of idea*, hunting down each one in a brutal war that could not be won— a war not designed to be won.
 Puppeteering this ontological war was us, **The 4th Beyond**. Fuelled and goaded on by us, we commanded the Archgods to live and die at this war for our entertainment. There was no true purpose or goal for this struggle, merely a wish to see characters we saw as "fictional" strive against conflict that seemed "real" to them and overcome it.
 
@@ -46,14 +47,15 @@ Although, on occasion, alongside these proper-named Archgods representing our cr
 
 ### Typo Archgods
 The most famous example of this is Archgod **Morgan le Fae**, and Archgod **Morgale de Metso**.
-While Morgan was another one of Gilgamesh's lieutenants. However, Morgale always remained under her shadow, as a stain to the concept of Archgodhood. 
-Another rising star at the time was Archgod **Kalayan**. Although he was a typo, his misspelling was an intentional change from the word "Kalayaan" in order to turn the word into a "proper noun" fit for being a name. This intentional type of misspelt archgod held none of the drawbacks as accidental misspells, as they were still supported and properly-written by an actual creator.
+While Morgan was another one of Gilgamesh's lieutenants, Morgale always remained under her shadow— a stain to the idea of Archgodhood.
+Another rising star at the time was Archgod **Kalayan**. Although he was a typo, his misspelling was an intended change from the word "Kalayaan", turning the word into a "proper noun" fit for a name. This intentional type of misspelt archgod held none of the drawbacks as accidental misspells, as they were still supported and properly-written by an actual creator.
 
 Accidental typo Archgods were often _weaker_ and _less powerful_ due to their *lack of support and character development* from us.
 
 ---
 
-Archgod Ulysses' command always had his eye set on this one typo of his, one that seemed far more different than the rest.
+Archgod Ulysses' command always had his eye set on his typo, one that seemed far more different than the rest.
+
 When Archgods were fabricated into The Null Crossing's war for creation, they were immediately given innate directives and orders for what to do and the context of their mission:
 *   **Defeat The Phantycians** 
 *   **Establish a world of fiction**
@@ -77,7 +79,7 @@ From that point on, Ulhysse was reborn as an archgod in The Null Crossing. She w
 
 
 ### Ulhysse the Archgod
-Due to her technically being a reincarnated member of The Fourth Beyond, her innate authority overwritten whatever was instilled into other archgods. This caused her to  laze around all day playing music on her *Archgod Sitar*.
+Due to her technically being a reincarnated member of The Fourth Beyond, her innate authority overwritten whatever was instilled into other archgods. This caused her to laze around all day playing music on her *Archgod Sitar*.
 This was a stringless instrument. To play it, Archkin would shapeshift their bodies to create strings on the fretboard. From there, they'd manually tighten or loosen their shapeshifted strings to make whatever sound they wanted. 
 
 Using this instrument, Ulhysse often bothered Kalayan as he trained under Captain Gilgamesh. Her bothering and annoyance progressed to the point where Kalayan was forced to wear a mask that obscured his true expression in hopes of warding off Ulhysse.
@@ -171,12 +173,12 @@ Without further ado, here's the lyrics/transcript from the "Our First Song" Musi
 Some time passed and the two archgods have grown somewhat.
 Ulhysse seemed to physically grow significantly more than Kalayan due to The Null Crossing's inconsistent time fluctuation. However, Kalayan mentally developed better, as he was now a Lieutenant, taking over Beowulf's position as he himself was promoted to fill-in for Gilgamesh as Captain, who has fallen by this time.
 
-However, Ulhysse seemed to develop mentally somewhat as well, as she devoted and expanded her craft beyond just music. She's begun dabbling in the art of emotions, wondering why feeling certain ways made herself weaker or stronger in certain aspects and actions. Kalayan noticed this too, and it's by his utilization of Ulhysse's studies that rose him up the ranks the way he did. He knew when to use his anger to hit harder, and when sadness to persist longer.
+However, Ulhysse seemed to develop mentally somewhat as well, as she devoted and expanded her craft beyond just music. She's begun dabbling in the art of emotions, wondering why feeling certain ways made herself weaker or stronger in certain aspects and actions. Kalayan noticed this too, and it's by his utilization of Ulhysse's studies that rose him up the ranks the way he did. He knew when to use his anger to hit harder, and when to embrace sadness to persist longer.
 This was a rudimentary and preliminary analysis on the Pandemonium State.
 
 While most people in the modern day knew the phenomenon as the cause of outraged archkin, Ulhysse noticed that ANY emotion tweaked and fine-tuned an Archkin's prowess. Although Pandemonium itself wasn't discovered yet, Ulhysse (and maybe Khueen later on) were the only archkin alive to have not only noticed this fundamental truth about Archkin/Archgod physiology, but fully understood it as well.
 However, there was one core problem all archgods at the time faced: Damage was still near-permanent.
-Since time hasn't been fully actualized invented yet, lots of effects normally attributed to time were off.
+Since time hasn't been fully actualized yet, lots of effects normally attributed to time were off.
 However, that all changed one day.
 
 ## Birth of The Creator
@@ -226,10 +228,10 @@ Now playing: "Birth of a Creator". (https://www.youtube.com/watch?v=Xsc07aNWIG0)
 
 ### 1st Minute
 On the _First Minute_, SHE invented **PAST and PRESENT**.
-> *High above The Null Crossing, countless beams of light blanketed the sky as the stretched beyond sight. These beams shone timelight Archgods below, reassuring that the past existed and that the present can progress, healing their wounds at a stable rate. These were timelines of the Timeline Sky, endless periods of time in countless worlds, generating timelight for the soon-to-be Infinite Fields.*
+> *High above The Null Crossing, countless beams of light blanketed the sky and stretched beyond sight. These beams shone timelight to the Archgods below, reassuring that the past now existed and that the present can progress, healing their wounds at a stable rate. These were the timelines of the Timeline Sky, endless periods of time in countless worlds, generating timelight for the soon-to-be Infinite Fields.*
 > 
-> *As this happened, Ulhysse immediately called upon attention from The 4th Beyond. By spectating and gazing upon her, Ulhysse fully realized the core concept that's been imbued within her this whole time: The First Epicenter, the Epicenter of Fiction.*
-> *Using this new privilege, Ulhysse gave the archgods a single commandment: Rise Up. As such, as if by an innate narrative will scripted into be from The Fourth Beyond ourselves, all archgods flew high into the sky.*
+> *As this happened, Ulhysse immediately called upon attention from The 4th Beyond. By spectating and witnessing her, Ulhysse fully realized the core concept that's been imbued within her this whole time: The First Epicenter, the Epicenter of Fiction.*
+> *Using this new privilege, Ulhysse gave the archgods a single commandment: Rise. As such, as if by an innate narrative will scripted into be from The Fourth Beyond ourselves, all archgods flew high into the sky.*
 > *All, except one, who was allowed to stay and watch, for she too was pandemonic at the time. It was out of pity from Sandatta that she didn't force Morgale to follow her orders.*
 > *Either way, she was safe now, no matter what.*
 
@@ -304,9 +306,9 @@ On her _Moment of Finality_, SHE relinquished being.
 > *In an act of quick thinking, Ulhysse gave up her body to Kalayan, giving the person she loved the most a second chance at life.*
 > *Hoping she'd be remembered by all, Ulhysse bid Kalayan a final farewell as she drifted into the afterlife in his place.*
 >
-> *... however, before she could move on, Ulhysse was annulled from existence.*
-> *Everyone not Null ontologically-aligned, forgot about The Creation War and Ulhysse, as if she never existed.*
-> *But this was not done by Nul Detta, but rather, The Court of The 4th.*
+> ... however, before she could move on, Ulhysse was annuled from existence.
+> Everyone not Null ontologically-aligned, forgot about The Creation War and Ulhysse, as if she never existed.
+> However, she was not taken back to The Null Crossing. This annulment wasn't enacted upon by Nul Detta, but rather— The Court of The 4th.
 
 ---
 
