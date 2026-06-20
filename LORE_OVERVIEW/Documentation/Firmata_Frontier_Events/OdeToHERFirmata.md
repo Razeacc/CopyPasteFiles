@@ -145,7 +145,10 @@ She establishes the Vermillion Chapel in the ruins of Newpoint Village where peo
 
 # Event Shop
 ```
-In a nearby booth hosted by...
+One of the buildings in the event seems almost run-down, with barricades blocking its door.
+Nobody can enter, nobody can leave, nobody knows who even barricaded it. The problem is, nobody knows no one knows, so no one asks.
+
+Inside, Tool has stationed himself inside. As his skribble take complete control of the set, they open up shop (using Tool's likeness in a non-canon projection) to sell services for other skribbles— roleplayers.
 ```
 
 *Yes, I stole this joint.
