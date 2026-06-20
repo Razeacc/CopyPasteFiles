@@ -12,6 +12,7 @@ For Otherworlders, they hope it'll be a gateway or bridge that'll take them home
 
 # Timeline of Events
 ## The Take-Off Carnival
+In Newpoint Village, people have gathered to form a carnival around the new hot air balloon. Booths have been constructed around the town, giving it a more "festive" mood as people trade goods everywhere to celebrate the occasion.
 
 ### Listed Carnival Booths
 This list was written by role players who posted submissions through a google form, hence why the writing styles may differ from booth to booth, and why some containts may or may not be suitable.
@@ -83,24 +84,62 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 | Attendant/s | Aislinn |
 | Reward | Trinkets, medicine |
 **Appearance Description**
-> A wooden table with large hide on top, looks like from a bigger animal like dog or some feline. Around are made little bowls in size of palm made out of baked ceramic with medicine in and on left side hanged or displayed on the table a trinkets made out of bones,stone and hide together.
-> The table is lowered, but not too much. It is not entirely on ground but in high of 120 centimeters as Aislinn is crouched down like a bird. (Bc... she is a bird... heh)
+> A wooden table with large hide on top, looks like from a bigger animal like dog or some feline. Around are made little bowls in size of palm made out of baked ceramic with medicine in and on left side hanged or displayed on the table a trinkets made out of bones, stone, and hide together.
+> The table is lowered, but not too much. It is not entirely on ground but in high of 120 centimeters as Aislinn is crouched down like a bird. (beacuse she is a bird... heh)
 
-#### Salt Rocket Archery
-| Roleplayer | Burn man (marbles) |
-| Organizer | Ernst  |
-| Attendant/s | Ernst and an NPC |
-| Stat to Roll | Mentality |
-| Reward | Recipe for making salt rocket fireworks |
+#### Rattle Crafts
+| Roleplayer | Cass |
+| Organizer | Altarhea  |
+| Attendant/s | Altarhea |
+| Stat to Roll | N/A (Suggestion: Mentality to determine how loud the made rattle is) |
+| Reward | A rattle they get to use during the takeoff |
 **Mechanic Description**
-> Display and archery challenge. You approach the booth, point and laugh at the funny man and his silly contraption, you also get to mog him in archery competition and laugh at his pitiful rockets.
+> There aren't any rolling stats unless Rayzie suggests it. For now, I'd wish people just sit down and make a rattle.
+> There will be basic materials that have already been collected by Altarhea. (I imagine there could be a rolling mechanism for how loud every characters rattle would be, but Im not sure)
 
 **Appearance Description**
-> Its a simple tent with mud tablets announcing the breakthroughs of a crazy man in big and bold words, inside the tent there's a table with with the prototype for the steam engine and a little rack with bows and arrows, (may have little trinkets to enhance the decor if i make the npc, otherwise its as described above) 
+> A medium sized hut made of sticks and bamboo. Tall bamboo pillars create the supports, while the circular, centrally symetrical roof is created by small sticks. The booth has no walls, which allows one to easily enter it and exit it. The materials gathered for making rattles are secured in a wooden box guarded by the owner of the booth, and there are simple wooden planks placed around the booth to serve as improvised working spaces.
 
-## The Spireknell's Attack
+## (Side Story: Anullment of the Udyverse Decanoluzioned Timeline)
+As the event happens, vicar Aysa ventured above HER Firmata to the "Udyverse Timeline" in the Timeline Sky. Prior to Firmata Frontier, I was roleplaying on a different server called Udyverse, and I made a character there named Blanche Auclaire. A few months after Firmata started, Udyverse Public shut down, went private, and allowed people to make personal "Alternate Universes", causing its timeline in the timeline sky to branch out.
+One of those timelines was treated as a "dumping zone" for forgotten/abandoned characters and ideas, the Decanoluzioned Timeline. It slowly grows and spreads on its own, posing a risk to other timelines if infected.
+That's why Aysa went to this timeline to use his weapon, the "Baker Blade", to "Render" the timeline, cutting it off partially at its tip to stop it from growing.
+However, when Aysa tries this, Blanche was hidden inside of a Fracturing Fissure, having unlocked that ability during her time within the Decanoluzion. While everyone else froze and "rendered" in-place, Blanche was unaffected. This meant her tiny singular piece kept growing outside the timeline, which caught Aysa's attention.
+Aysa focused his Baker Blade to Render Blanche one more time, but while doing so, this somehow managed to break Blanche out of the timeline.
+Before she could attack, Aysa Renders Blank herself, fully decanoluzioning her in an instant.
+She has been added to the pool of potential Decanoluzion Caradels summonable by the NulGraven.
 
-## Beginning of the NulGraven Infection
+### Mac's Carnival Rally
+Near the end of the carnival, Mac (the hot air balloon pilot) opts to play and experience every single carnival booth in one single relay, ensuring everybody gets a chance to showcase their booth while also giving Mac a sendoff before he leaves on the balloon.
+
+### The Take-Off
+After the rally, and as the sky darkens into night, Mac alongside Winchester and Halooma board the hot air balloon as they take off to The Spire.
+However, Emma sees this, and notices it's her cue to call The Spireknell for her "ticket home" instead.
+
+## Combat Section
+### Battle against The Spireknell
+As Emma rings the Spire Chime given to her, Lithe rises from the Fracturing sea and immediately flies towards the cliffside where he's confronted by other characters, namely Emma, Vita, Kafka, and Altarhea.
+There, a fight begins as Lithe tries making his way towards the hot air balloon.
+From Lithe's perspective, he believes the Stone Society are either secretly part of the AoS (similar to Steel Sanctuary), or are at high risk of joining them in fighting against the archkin.
+Since he's also going to The Continent to ransack and salvage its An-Tri'Fhiana base structure of resources, he thought he might as well go in and attack the Stone Society too and make sure they don't travel to his continent (which he believes is where the hot air balloon is actually going).
+
+During the attack, he eventually spots Memetta and panicks due to Memetta LITERALLY being THE Flowergirl.
+Lithe pops Overwrite: False Epitaph. This freezes the sentience of everyone on-scene, except Memetta (of course). The two fight for a brief moment behind everyone's backs where nobody can witness, not even the roleplayers. Tossing Spire Bell over to Mac, Lithe almost entirely drains his memories (recognizing him as an AoS pilot from before). However, Memetta, manages to steal his sentience and memories away ahead of time, only giving Lithe half of Mac's memories while psyche-petrifying the stone pilot. This leaves Lithe under-supplied in Memory Tabs, leaving him open for Memetta to open a NulGraven Tumor in the middle of Newpoint to ward Lithe away.
+
+### Beginning of the NulGraven Infection
+As soon as people start coming to again, all they see is The Spireknell a NulGraven Tumor in the middle of Newpoint and the hot air balloon crashing down (nobody even knew Memetta created the tumor, let alone knows she fought The Spireknell). This causes Lithe to make a getaway as the RPers are then forced to fight off the Nulgraven Caradels.
+
+### Return of Blanche Auclaire
+At some point during the NulGraven spread, a Decanoluzioned Caradel is summoned, introducing RPers to the idea of Decanoluzion Caradels using Blanche Auclarie as an example. They're kina like the "Hero Units" in a MOBA game. This proves a significant foe for the characters to deal with, alongside this new spreading threat.
+
+### Memetta's Intervention
+As they struggle, Memetta eventually guides and helps everyone push the NulGraven back, even using her "prayers" to contain it. In a single swipe, she "banishes" Blanche Auclaire's Decanoluzion Caradel.
+While it looks like she's doing her best to resist the NulGraven, even going so far as to call for people to "pray for her" to defeat the "Vermillion Sickness", she is obviously not actually struggling. This situation is similar to what Syndrome TRIED to do in The Incredibles. Memetta obviously has full control of The NulGraven, but the ONLY person who knows this, is Besado...
+The problem is, Besado has NO evidence to back her up in exposing Memetta... or, at least, no evidence that would expose The Long Shush... which is exactly what Memetta is hoping for.
+
+### Memtta's Lie
+By the end of the event, Memetta claims to be an Otherworlder and explains that the "NulGraven" is a "Vermillion Sickness" from her world, which seemed to have finally followed her after her initial arrival on The Continent almost 20 years ago, being "the first otherworlder".
+She establishes the Vermillion Chapel in the ruins of Newpoint Village where people serve/pray to her so she can help keep the NulGraven contained. This new evil biome spread threat will push the Stone Society into An-Tri'Fhiana to explore its ruins, learn more about this land, upgrade their tech, and HOPEFULLY eventually SOMEHOW get Besado to come clean, expose The Long Shush, reveal the truth that is has NOT been 20 years since The Spirepocalypse inside HER Firmata (with it being potentially hundreds or thousands of years), and finally get the emotional help she desparately needs.
 
 ---
 
