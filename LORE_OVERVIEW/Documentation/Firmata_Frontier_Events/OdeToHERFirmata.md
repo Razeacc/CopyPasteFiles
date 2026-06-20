@@ -3,7 +3,7 @@ title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
 last_modified: Jun-20-2026
-recent_changes: Added Shop inventory, reply transcript so far, Additional Prologue prior to event, and planned responses
+recent_changes: Added Shop inventory, reply transcript so far, Additional Prologue prior to event, planned responses, Prayer Chapel-Tent, and Food Court Booths
 status: draft
 ---
 # OVERVIEW
@@ -247,6 +247,31 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 
 **Appearance Description**
 > A medium sized hut made of sticks and bamboo. Tall bamboo pillars create the supports, while the circular, centrally symetrical roof is created by small sticks. The booth has no walls, which allows one to easily enter it and exit it. The materials gathered for making rattles are secured in a wooden box guarded by the owner of the booth, and there are simple wooden planks placed around the booth to serve as improvised working spaces.
+
+#### Prayer Chapel-Tent
+| Roleplayer | N/A |
+| Organizer | Memetta |
+| Attendant/s | N/A |
+| Stat to Roll | SPIRituality (to determine prayer effectiveness) |
+| Reward | "Calmed Cognition" status effect (one-time use +MENTality boost during event) |
+**Mechanic Description**
+> Roll for SPIRituality to pray and give yourself a One-Time +MENTality boost during the event through an effect called "Calmed Cognition".
+
+**Appearance Description**
+> A small tent near the outskirts of town has been set up by Memetta near the quietest part of the carnival.
+> Tallow candles have been setup around the tent, alongside a small altar with more candles inside.
+> The place provides a calm corner of solace for anyone in need of a few moments of quiet from the chaos and noise outside. Since the tent is large enough for several people, Memetta's opted to call it a "Chapel-Tent".
+
+#### Food Court Booths
+| Roleplayer | N/A |
+| Organizer | Professor Besado |
+| Attendant/s | NPCs (free-range RP) |
+| Reward | Food (make up your own food) |
+**Mechanic Description**
+> This is merely a neutral gathering spot for character interactions and eating. No need to play any games here.
+
+**Appearance Description**
+> A bunch of booths have been set up around the hot air balloon specifically for giving away food, with some accepting trades for food instead. Many different-colored cloth covers blanket the surrounding town square as 
 
 ## (Side Story: Anullment of the Udyverse Decanoluzioned Timeline)
 As the event happens, vicar Aysa ventured above HER Firmata to the "Udyverse Timeline" in the Timeline Sky. Prior to Firmata Frontier, I was roleplaying on a different server called Udyverse, and I made a character there named Blanche Auclaire. A few months after Firmata started, Udyverse Public shut down, went private, and allowed people to make personal "Alternate Universes", causing its timeline in the timeline sky to branch out.
