@@ -16,7 +16,7 @@ In Newpoint Village, people have gathered to form a carnival around the new hot 
 
 ### Listed Carnival Booths
 This list was written by role players who posted submissions through a google form, hence why the writing styles may differ from booth to booth, and why some containts may or may not be suitable.
-The Mechanic and Appearance Descriptions were copy and pasted from the submission. Meanwhile, the Appearance Description specifically will be used as the opening post in each  (YOU LEFT OFF HERE)
+The Mechanic and Appearance Descriptions were copy and pasted from the submission. Meanwhile, the Appearance Description specifically will be used as the opening post in each thread.
 
 #### Endure The Heat!
 | Roleplayer | Voidka |
@@ -71,7 +71,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 | Organizer | Naeriel |
 | Attendant/s | Naeriel |
 | Stat to Roll | Physicality |
-| Reward | to few, Naeriel will reward with small crystalic stones in purplish and gray colors in size of little 3x3 centimeters |
+| Reward | Naeriel may gift a small crystalic stone decorated in purplish-gray hues as small as 3x3 centimeters |
 **Mechanic Description**
 > Simply Arm Wrestling
 
@@ -84,8 +84,8 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 | Attendant/s | Aislinn |
 | Reward | Trinkets, medicine |
 **Appearance Description**
-> A wooden table with large hide on top, looks like from a bigger animal like dog or some feline. Around are made little bowls in size of palm made out of baked ceramic with medicine in and on left side hanged or displayed on the table a trinkets made out of bones, stone, and hide together.
-> The table is lowered, but not too much. It is not entirely on ground but in high of 120 centimeters as Aislinn is crouched down like a bird. (beacuse she is a bird... heh)
+> A wooden table with large hide on top, seemingly from a bigger animal like a dog or feline. Scattered around are little bowls in size a of palm made out of baked ceramic. Medicine is contained in these pots. Alongside that, being hanged and displayed on the table are trinkets made out of bones, stone, and hide.
+> The table is lowered, but not too much. It is not entirely on ground but in high of 120 centimeters as Aislinn is crouched down like a bird. (because she is a bird... heh)
 
 #### Rattle Crafts
 | Roleplayer | Cass |
@@ -137,9 +137,107 @@ As they struggle, Memetta eventually guides and helps everyone push the NulGrave
 While it looks like she's doing her best to resist the NulGraven, even going so far as to call for people to "pray for her" to defeat the "Vermillion Sickness", she is obviously not actually struggling. This situation is similar to what Syndrome TRIED to do in The Incredibles. Memetta obviously has full control of The NulGraven, but the ONLY person who knows this, is Besado...
 The problem is, Besado has NO evidence to back her up in exposing Memetta... or, at least, no evidence that would expose The Long Shush... which is exactly what Memetta is hoping for.
 
-### Memtta's Lie
+### Memetta's Lie
 By the end of the event, Memetta claims to be an Otherworlder and explains that the "NulGraven" is a "Vermillion Sickness" from her world, which seemed to have finally followed her after her initial arrival on The Continent almost 20 years ago, being "the first otherworlder".
 She establishes the Vermillion Chapel in the ruins of Newpoint Village where people serve/pray to her so she can help keep the NulGraven contained. This new evil biome spread threat will push the Stone Society into An-Tri'Fhiana to explore its ruins, learn more about this land, upgrade their tech, and HOPEFULLY eventually SOMEHOW get Besado to come clean, expose The Long Shush, reveal the truth that is has NOT been 20 years since The Spirepocalypse inside HER Firmata (with it being potentially hundreds or thousands of years), and finally get the emotional help she desparately needs.
+
+---
+
+# Event Shop
+```
+In a nearby booth hosted by...
+```
+
+*Yes, I stole this joint.
+
+Depending on your Event Activity, you gain a set number of "Scripting Ink" that can be used to purchase items in this Event Shop.
+These items are more akin to "things you do to manipulate reality" for your character to keep event-exclusive items after the event
+"Scripting Ink" expires at the end of the event, so make sure to spend all your ink before the event ends.
+
+## Gaining and Spending Skripting Ink
+Click on the "Ink List" button to see what Event Activities you can do to gain "Skripting Ink".
+Think of it as a checklist. Each item crossed-off for you is 1 Skripting Ink.
+
+As for Spending your ink, click on the "Buy" button to see your available options.
+
+When you see something you like, message in this thread that you're spending scripting ink to purchase something.
+Say what you're spending on, and once a staff member sees and approves your purchase, you should be good to go~
+
+### Buy
+*Here's what I got~
+```
+-The Immortal Pumpkin-
+"Your carved pumpkin will last forever and not rot away after the event ends. The perfect Harrow-Ween Souvenir"
+1x Scripting Ink
+
+
+-Besado Candy (Prototype)-
+"Besado made some candy for the occasion. Although not as good as a sweet, it's... very spicy, for some reason. Perfect to help you scream your heart out! Or to... poison anyone who's very bad at handling spicy stuff-"
+1x Scripting Ink
+
+
+-Scripted Pumpkin Seed Supplies-
+"You've collected enough pumpkin seeds to grow pumpkins whenever you want. It will never run out, somehow, for plot reasons."
+2x Scripting Ink
+
+
+-Crimmy Plush-
+"Memetta sewed this herself. Where she got the cotton from, I'm not sure. But it's nice to keep in your room and cuddle with at night!"
+(Provides the "Crimmy Blessed" effect. It doesn't do anything, I think)
+2x Scripting Ink
+
+
+-Memetta's Harrow-ween Rosary-
+"You seemed to impress the loner enough for her to craft a unique rosary necklace just for you! How wonderful! Whether or not it'll help against Phantasmal Entities, better wait and see~ At the very least, it's very pretty with orange and black beads."
+(Tool) | (Spirituality +2)
+3x Scripting Ink
+
+
+-The Maracas of Agony-
+"It may be made of wood, but don't underestimate how absolutely annoying this thing can be when you shake it around. The rattling noise it provides can prove useful against actual Phantasmal Entities..."
+"Also, this is the only canon-thing I made myself. Your character just finds this on the ground when you purchase it, heh~"
+(Tool) | (Spirituality +2)
+3x Scripting Ink
+
+
+-The Torture Cap-
+"Ok I may have taken this a bit too far."
+"I installed a Wood Maraca on a leather cap, letting it produce its annoying-ass loud-ass noise whenever you move around. Good for warding off Phantasmal Entities, but... not very good for your ears..."
+"ok seriously, why would you buy this?"
+(Armor) | (Alacrity -2) | (Spirituality +2)
+3x Scripting Ink
+```
+
+### Ink List
+*Here's what you can do to gain "<:Skribble_Hed:1430146317761646612>**Scripting Ink**"
+```
+Pumpkin Carving:
+[ ] Carve a pumpkin in-character
+[ ] Help decorate the village or your own home
+
+Costume Crafting:
+[ ] Draw art or write a description of your character's costume
+[ ] Form a group to go "House Blessing"
+[ ] "Bless" a house by yelling obnoxiously at it
+[ ] Send a voice recording of you actually yelling in real life
+(Razy is not responsible for any problems caused by this)
+
+???:
+[ ] Find something on the beach
+[ ] ???
+
+Event Closing:
+[ ] Write a prayer urging the Crimson Harrow to "please stop yelling"
+```
+
+### Talk
+> 💬Honestly, I ain't sure if me being here and talkin' to ya is actually canon or not.
+> 
+> 💬Rayzie just didn't have someone better to use as a "4th Wall Breaking" vendor for this system of theirs.
+
+> 💬So, for both our sakes, it's best you pretend I ain't ever actually been here once we meet IRP, alright, pal?
+> 
+> 💬Either way, I'll be able to share a LOT more when we officially meet. Don't ya worry a bit, sweetie~
 
 ---
 
