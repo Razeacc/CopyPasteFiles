@@ -389,7 +389,7 @@ Say what you're spending on, and once a staff member sees and approves your purc
 
 - Take-Off Carnival Rosary -
 > Prerequisite: **Pray in the "[Prayer Chapel-Tent](https://discord.com/channels/1359439581274968156/1517701451630120970)"**
-*You seemed to impress Memetta enough for her to craft a unique rosary necklace just for you! How wonderful! Whether or not it'll help against Phantasmal Entities, better wait and see.
+*You impressed Memetta enough for her to craft a unique rosary necklace just for you! Whether or not it'll help against Phantasmal Entities, better wait and see.
 *At the very least, it's quite pretty, addorned with red beads and cyan pebbles.
 (Tool) | (Spirituality +3)
 3x Scripting Ink
@@ -476,7 +476,7 @@ Carnival Challenges 0/13:
 ### Talk
 > 💬Honestly, I ain't sure if me being here and talkin' to ya is actually canon or not.
 > 
-> 💬I will say, the actual Tool you know is fast-asleep. Your talking to one of his two skribbles right now.
+> 💬I will say, the actual Tool you know is fast-asleep. You're talking to one of his two skribbles right now.
 > 
 > 💬... how's a skribble talking? Well, wouldn't you like to know~
 > 
