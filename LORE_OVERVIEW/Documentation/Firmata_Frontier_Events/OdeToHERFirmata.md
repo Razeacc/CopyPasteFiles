@@ -153,8 +153,9 @@ Inside, Tool has stationed himself inside. As his skribble take complete control
 
 *Yes, I stole this joint.
 
+## Overview
 Depending on your Event Activity, you gain a set number of "Scripting Ink" that can be used to purchase items in this Event Shop.
-These items are more akin to "things you do to manipulate reality" for your character to keep event-exclusive items after the event
+These items are akin to "things you do to manipulate reality" for your character to keep event-exclusive items after the event.
 "Scripting Ink" expires at the end of the event, so make sure to spend all your ink before the event ends.
 
 ## Gaining and Spending Skripting Ink
@@ -169,18 +170,18 @@ Say what you're spending on, and once a staff member sees and approves your purc
 ### Buy
 *Here's what I got~
 ```
--The Immortal Pumpkin-
-"Your carved pumpkin will last forever and not rot away after the event ends. The perfect Harrow-Ween Souvenir"
+- Gag Helium Balloon -
+*This helium balloon cannot be popped nor have its helium extracted due to plot armor. It's merely a decorative set piece that would last as long as the story goes on
 1x Scripting Ink
 
 
--Besado Candy (Prototype)-
-"Besado made some candy for the occasion. Although not as good as a sweet, it's... very spicy, for some reason. Perfect to help you scream your heart out! Or to... poison anyone who's very bad at handling spicy stuff-"
+- 5x Besado Candy (Prototype v2) -
+*Besado made some candy for the occasion. Although not as good as a sweet, it's... very bitter, for some reason. Perfect to help wake yourself up!
 1x Scripting Ink
 
 
--Scripted Pumpkin Seed Supplies-
-"You've collected enough pumpkin seeds to grow pumpkins whenever you want. It will never run out, somehow, for plot reasons."
+- Scripted Pumpkin Seed Supplies -
+*You've collected enough pumpkin seeds to grow pumpkins whenever you want. It will never run out, somehow, for plot reasons.
 2x Scripting Ink
 
 
