@@ -3,6 +3,7 @@ title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
 last_modified: Jun-20-2026
+recent_changes: Added Shop inventory, reply transcript so far, Additional Prologue prior to event, and planned responses
 status: draft
 ---
 # OVERVIEW
@@ -11,6 +12,153 @@ For Locals, they hope that's where their memories from before The Spirepocalypse
 For Otherworlders, they hope it'll be a gateway or bridge that'll take them home.
 
 # Timeline of Events
+## Nul Detta First Meeting
+Channel - A Space Beyond Eternity
+*   Nul Detta:
+> how long it has been.
+> over there, in your realm beyond infinity, we'd estimate it has been almost a decade since our first confluence.
+> long ago, here in the crossing.
+> many have gone, few have returned.
+> most are new.
+> 
+> welcome, @「 🎪 Event Participant 」. you may call us: Nul Detta, the first beyond.
+
+> before your event begins, let us use this moment of vulnerability to engage in information trade.
+> we ask one question, you ask us one in return.
+> 
+> let us start:
+> how does it feel to use the power of our ontology? the FIRST ontology?
+> 
+> creating characters in other peoples' worlds, making fan fiction "alternate universes", engaging in "head canon" discourse, theorizing, and many other ways of engaging with fiction.
+> how does it differ from calculating your own fictions from scratch?
+> 
+> while it is very common for fourth beyonders to use our ontology of rewriting instead of their innate ontology of creation, we've never had to chance to properly discuss such opinions and feelings towards the matter... until now.
+> so, do tell us. entertain us, just like how you use us for entertainment, Fourth Beyond.
+
+> you are free to speak here as you wish. the logic of "role play" has yet to be activated.
+> you may communicate with me, just how how you communicate with your peers, colleagues, and acquaintances of the court.
+> 
+> this means there is no need to utilize your "Tupper" bot, nor to declare messages are "out-of-character".
+> you should have understood this by now. here, there is not line between fiction and non-fiction. it is merely a blurry, fragile, sheet of glass.
+
+*   Peter Nettle:
+Hello.
+I love your design.
+Really aesthetic.
+
+*   TheSadMeatloaf:
+I have two answers for you.
+
+One from the part of me that loves the thought of chaos, destruction, entertainment, and other things that correlate.
+
+And the part of me that cares for such things as if they were my own children. Heh, funny thought when I am just barely an adult and the characters I make are far older than me. The part of me that sees this as just a story, but one with life. Yes, but a story still one with a beginning and an end, one that I wish to see to the best of my ability. Completed. Though stories are never really completed if there is more to tell. Is there? To make this short and easy, I'll put the answer together.
+
+I find the power exhilarating, but also I can't quite think of the word, but a somewhat somber experience because I can create and destroy. I can mend and break. I can create order or chaos, and so on and so forth.
+
+*   Peter Nettle:
+For me, it's been a long time since I've borrowed the works of another writer for me to play around with. 
+
+There was even a period where I found such a genre... Beneath me. 
+But I've since learned and since been humbled that these kinds of works have earned their place in the world of fiction, and that their existence is something to be celebrated, not tolerated. 
+
+One reason however why I refrain nowadays from creating "fan-fiction" is that I can never have the full satisfaction of knowing that what I created was truly my own. It is always borrowed. Speculated. A "What If".
+
+I can not make myself the main character in someone else's story. At least, not in bad taste.
+
+*   AKiro:
+I know what you are. You are giving me PTSD.
+// (For context, this note is only for your eyes, Claudie. Akiro has read The Creation war, minus the Morgale section and truth on Ulhysse, hence why she recognizes Nul Detta)
+
+*   Cass:
+It is more fun because my characters get to experience a reality that isn't owned by me. There's something spontaneous and mysterious about it that entertains me. And it allows me to experience the setting through them.
+I've never really been into writing for canon media, custom worlds are more fun.
+
+*   Akiro:
+This character is giving me PTSD so much I cant even come in here!
+That smile... the ^ eye... the blush...
+I AINT LETTING U FOOL ME
+AAGHH
+
+(Sent messages end off here)
+(Here's what I plan to respond with, let me know your thoughts and whatcha think~!)
+
+Nul Detta:
+... how unfortunate, our connection is fleeting faster than expected.
+rest assured, your answers have all been interesting and enlightening to read. we are greatly appreciative of you fourth beyonders.
+we'll depart from this confluence for now. but when we meet once more, you may each deliver your single inquery.
+may fate show mercy to thee.
+(Below this embed message would be a button for each received response, a personalized reply from Nul Detta that's sent to the DMs of whoever clicked the buttons)
+
+[To Peter]
+it seems you have found your balance, that is good— very good.
+there are many creatives like you, believe it or not. in fact, a colleague of yours in the court is just like yourself in that regard.
+however, just like him, you both have conquered that innate pride within yourself. it may not be a total dominion, nor a perfect one. but even a sliver of control is better than naught.
+among your fellow jury, your blurring of the fourth's wall has been of upmost fascination. i am admittedly curious to see where, and how, your calculations formulate in coming times ahead.
+take care of the flower girl, my only begotten daughter.
+
+[To Meatloaf]
+the word you query for is responsibility.
+it may not seem like it, but ponder on the meaning for a moment with me.
+you are still young, admittedly, but you're at the age where expectations of adulthood are beginning to formulate around and within you. at this stage of life, responsibility grows and molds itself. to most, they fear and loathe it. but to you, you find it "Exhilarating". why is that so?
+perfectly speaking, my daughter, the flower girl, is in that stage of her life as well.
+externally, she feels exhausted and troubled when handed tasks regarding her wardening of the vicars. but internally, she enjoys the rare fleeting moments where she's in control of those who would actively reject her.
+that risk of losing control but striving to maintain it regardless, it makes her appreciate the responsibility handed to her. this feeling is quite similar to your willingness to create characters, stories, and worlds— and thinking of them as your own "childred" regardless of the fact that these creations have to end one day.
+you will make a great human. keep your heart where it is, it is in the right place.
+
+[To Akiro]
+judge not subject of an incomplete telling. do you truly trust the court's ambassadors, so blindly?
+admittedly, that is not the most foolish option. however, refrain from further limiting your perspectives based on unfinished equations.
+we have seen your ability to create, your strive for visualization both in narration and spaciality. your dedication is tremendously inspiring.
+whether you wish to interact with us in the future or not, we do hope you continue your craft in the many more coming tomorrows we have yet to be presented to.
+
+[To Cass]
+we've heard you've entered somewhat of a stagnation when it comes to narrative creativity. rest assured, you are not alone. this feeling is quite normal.
+right now, you are being pulled back on a slingshot. things may feel calm, your mind potentially may question why you're "going back" or even regressing in skill. but in truth, all you need is that single spark.
+someone to let the slingshot go, something to give you that push— a single moment of inspiration. you have not been abandoned by creativity. you are in a transitional phase with it.
+and with how long you've been scripting prior to this development, you are very much due for moment of reprive.
+i hope your interest with "mystery" and "spontaneity" remains consistent and relevant moving forward. once the flower girl makes sacrifice, she will need people like you to process situations quickly and act accordingly.
+ALACrity will save her, after all. but, that is something for the coming future— not today, nor any time next week.
+enjoy your reprive, you deserve this moment.
+
+Narrator:
+``` ```
+Connection Terminated
+``` ```
+Channel Rename - Hot Air Balloon Stage
+Narrator:
+As a pair of kids run through the crowd of carnival-goers, they accidentally knock out someone's grip on a handfull of balloon-lanterns. The small internal fire chambers inside them almost spill out charcoals on the ground as the several lantern balloons float up into the sky.
+The woman who lost his balloons almost immediately turns towrds the kids in a grumpy manner, causing the youngsters to flee from the scene.
+Ayumu:
+"Ugh, I JUST traded for those too..."
+Narrator:
+Just now entering the village is Professor Besado herself, with Memetta following close behind.
+Memetta:
+Are you sure you're not giving an opening speech...? `the zealot asked with a hint of hesitation in her voice.`
+Besado:
+These people aren't accustomed to, nor expecting of, the formal proceedings of events yet. I'd prefer to keep things that way for as long as I can. Besides...
+`Ciela then looks around her then back at Memetta, a smile almost forming on her face.` It seems we're late for the party, heh~
+Memetta:
+`Memetta almost caught herself staring for quite a while at Besado's smile. With how fleeting and rare her this emotion of hers is genuine, she couldn't help but let her be at least this once.`
+Heh, whatever you say, ma'am Besado~
+Besado:
+Mhm mhm, good~
+Now, I'll be at the sausage stall. Go make yourself busy, mkay? I don't have any tasks for you today, so just enjoy the moment.
+Hopefully when we get to The Spire, I won't need you around anymore.
+Memetta:
+... yeah, hopefully so... `the zealot mumbled dismissively before wandering off on her own.`
+Besado:
+`However, the science leader does not notice this, as she was already on her way to the food stalls.`
+Narrator:
+With the booths all set up, @「 🎪 Event Participant 」, Ode to HER Firmata has officially commenced!
+During this festival stage, time is but a mere figment of our imagination.
+As long as you manage continuity and don't do anything too major, your character can go to, and experience, *multiple booths* at once at the same time. Narratively, we just assume that your characters go to the diffent booths at different times of the day.
+-# (If you were a participant of the Tech Expo Event from Udyverse, this is the same logic used from there)
+Take this time to complete event quests in the shop's scripting ink checklist, meet/interact with more characters, and enjoy the wholesome/fun bliss of the scenario!
+This may or may not be the last time we'll be having something this lighthearted. So spend your time wisely.
+
+Happy Take-Off Carnival!
+
+
 ## The Take-Off Carnival
 In Newpoint Village, people have gathered to form a carnival around the new hot air balloon. Booths have been constructed around the town, giving it a more "festive" mood as people trade goods everywhere to celebrate the occasion.
 
@@ -169,79 +317,145 @@ Say what you're spending on, and once a staff member sees and approves your purc
 
 ### Buy
 *Here's what I got~
-```
+``` ```
 - Gag Helium Balloon -
-*This helium balloon cannot be popped nor have its helium extracted due to plot armor. It's merely a decorative set piece that would last as long as the story goes on
+*This helium balloon cannot be popped nor have its helium extracted due to plot armor. Perfect for Otherworlders
+*It's merely a decorative set piece that would last as long as the story goes on.
+*Can be worn or used as a furniture.
+(Accessory) | (PHYSicality +1 ) | (ALACrity -1)
 1x Scripting Ink
 
-
-- 5x Besado Candy (Prototype v2) -
-*Besado made some candy for the occasion. Although not as good as a sweet, it's... very bitter, for some reason. Perfect to help wake yourself up!
+- Decorative Lantern Balloon -
+*This Lantern Balloon's fire chamber can never run out of fuel nor can the balloon itself be destroyed due to plot armor. Perfect for Locals
+*It's merely a decorative set piece that would last as long as the story goes on.
+*Can be worn or used as a furniture.
+(Accessory) | (PHYSicality +1 ) | (ALACrity -1)
 1x Scripting Ink
 
+- 5x Besado Candy (Prototype v2) - (Repeatable Purchase)
+*Besado made some candy for the occasion. Although not as good as a sweet, it's... very bitter, for some reason.
+*Perfect to help wake yourself up!
+1x Scripting Ink
 
-- Scripted Pumpkin Seed Supplies -
-*You've collected enough pumpkin seeds to grow pumpkins whenever you want. It will never run out, somehow, for plot reasons.
+- Shoddy Metal Equipment - 
+*It seems too many people needed Wynaquette. That, or a single person needed them for too long.
+*Either way, their booth was left unattended and unfinished.
+*Whether you stole it, or mistook it for free samples, your character now has a set of Shoddy Metal equipment:
+(Tool) | (PHYSicality +3) | (ALACrity -1)
+> Consists of a trowel, sheers, and chissel. Enough for basic terraforming. Better than stone and flint, worse than any other metal possible.
 2x Scripting Ink
 
-
--Crimmy Plush-
-"Memetta sewed this herself. Where she got the cotton from, I'm not sure. But it's nice to keep in your room and cuddle with at night!"
-(Provides the "Crimmy Blessed" effect. It doesn't do anything, I think)
+- Scripted Dandelion Seeds -
+*You've plucked enough dandelions around the village to grow dandelions whenever you want. It will never run out, somehow, for plot reasons.
 2x Scripting Ink
 
+- Aura Farmer's Cape -
+*While it seems to blow at the slightest breeze while, it will never actually fly off your character.
+*This does absolutely nothing (for now) other than making you feel cooler than you actually are.
+*Aura Farming.
+(Back Accessory) | (Spirituality +1)
+1x Scripting Ink
 
--Memetta's Harrow-ween Rosary-
-"You seemed to impress the loner enough for her to craft a unique rosary necklace just for you! How wonderful! Whether or not it'll help against Phantasmal Entities, better wait and see~ At the very least, it's very pretty with orange and black beads."
-(Tool) | (Spirituality +2)
+- **"Waited Longest" Role** -
+*Receive a unique role to mark your participation in this event.
+*This also allows you permission to purchase items from this shop even after the event concludes using scripting ink obtained in future events.
+*Comes with a Spire Bell Plush for your Court Quarters once that's available.
+2x Scripting Ink
+
+- Take-Off Carnival Rosary -
+> Prerequisite: **Pray in the "[Prayer Chapel-Tent](https://discord.com/channels/1359439581274968156/1517701451630120970)"**
+*You seemed to impress Memetta enough for her to craft a unique rosary necklace just for you! How wonderful! Whether or not it'll help against Phantasmal Entities, better wait and see.
+*At the very least, it's quite pretty, addorned with red beads and cyan pebbles.
+(Tool) | (Spirituality +3)
 3x Scripting Ink
 
+- Scripted Rattle -
+> Prerequisite: **Participate in "["Rattle em up!"](https://discord.com/channels/1359439581274968156/1517871311240560781)"**
+*By imbuing the rattle your character crafted with YOUR authority as a Fourth Beyond Roleplayer, you enhance the rattle's capabilities while also making it narratively-immortal.
+*No matter how many times it breaks or gets lost, your character will always be able to recover it in the next roleplay session.
+[This Item has an undiscovered effect]
+1x Scripting Ink
 
--The Maracas of Agony-
-"It may be made of wood, but don't underestimate how absolutely annoying this thing can be when you shake it around. The rattling noise it provides can prove useful against actual Phantasmal Entities..."
-"Also, this is the only canon-thing I made myself. Your character just finds this on the ground when you purchase it, heh~"
-(Tool) | (Spirituality +2)
+- Scripted Pocket Sand -
+> Prerequisite: **Participate in "[Toss Sand In Your Eyes™](https://discord.com/channels/1359439581274968156/1517712385052508191)"**
+*Your character will always have at least a single handfull of sand in their pockets at all times from this point onward.
+*The sand is replenished in the following roleplay session.
+Eyes-Sanded Debuff: (ALACrity -2) | (PHYSicality -1)
 3x Scripting Ink
 
-
--The Torture Cap-
-"Ok I may have taken this a bit too far."
-"I installed a Wood Maraca on a leather cap, letting it produce its annoying-ass loud-ass noise whenever you move around. Good for warding off Phantasmal Entities, but... not very good for your ears..."
-"ok seriously, why would you buy this?"
-(Armor) | (Alacrity -2) | (Spirituality +2)
+- Skill: Memory of Clash (Passive) -
+> Prerequisite: **Participate in "[Armwrestling!](https://discord.com/channels/1359439581274968156/1517704039045927083)"**
+*When clashing against another character in an offensive PHYSicality roll using your own offensive PHYSicality roll, you gain +2 PHYSicality.
+*IE: Arm Wrestling, Sword Clashing, Tug of War, Pushing, Parrying, etc.
 3x Scripting Ink
-```
+
+- Skill: Memory of Scripted Heat (Passive) -
+> Prerequisite: **Participate in "[Endure the Heat!](https://discord.com/channels/1359439581274968156/1517740390181244959)"**
+*Vita's specific type of heat has seemingly rubbed-off on your character.
+*From this point on, while they can still receive damage from heat-based attacks, hot environments will never hinder their capabilities.
+*Disclaimer: This merely removes 1 problem in hot environments. Lack of humidity, winds, etc. may still cause problems.
+3x Scripting Ink
+
+- 5x Salt Rocket Arrows - (Repeatable Purchase)
+> Prerequisite: **Participate in "[Tent of Technological Progress](https://discord.com/channels/1359439581274968156/1517710185198653450)"**
+*While participating in Ernst's booth, your character managed to swipe a few salt rocket arrows from the display stand.
+*Using them instead of normal arrows requires one to roll for MENTality to aim rather than ALACrity.
+1x Scripting Ink
+
+- Haggle Art - (Repeatable Purchase)
+*A One-Time Use narrative manipulation trick.
+*Usable in either "[Shaman Trinkets and Medicine](https://discord.com/channels/1359439581274968156/1517708095411720314)" or "[Mask/Trinket Booth](https://discord.com/channels/1359439581274968156/1517698938277330966)", your character may avail for one of their items/services free of charge/without needing to trade due to an insane stroke of luck.
+*Whether this be from an innadequate previous trade, a miscommunication, an act of confusion, or your character attempting to merely haggle their way. The plot would demand this to work.
+*Disclaimer: This Art does not expire after the event, and may be used in future events if they contain in-world shops.
+2x Scripting Ink
+
+- 1x Spire Chime - (Repeatable Purchase)
+> Prerequisite: **Survive**
+*After the ashes have cleared, you find a tiny glowing shard on the grass near the outskirts of what once was Newpoint Village.
+*Spire Chimes are a shared resources across The Stone Society. They'll have to be spent from this point onward to call upon new Otherworlder characters.
+1x Scripting Ink
+
+``` ```
 
 ### Ink List
-*Here's what you can do to gain "<:Skribble_Hed:1430146317761646612>**Scripting Ink**"
-```
-Pumpkin Carving:
-[ ] Carve a pumpkin in-character
-[ ] Help decorate the village or your own home
+*Here's what you can do to gain "**Scripting Ink**"
+``` ```
+Booth Participation 0/9:
+[ ] Pray in the [Prayer Chapel-Tent](https://discord.com/channels/1359439581274968156/1517701451630120970)
+[ ] Craft in ["Rattle em up!"](https://discord.com/channels/1359439581274968156/1517871311240560781)
+[ ] Play(?) [Toss Sand In Your Eyes™](https://discord.com/channels/1359439581274968156/1517712385052508191)
+[ ] Play [Armwrestling!](https://discord.com/channels/1359439581274968156/1517704039045927083)
+[ ] Play [Endure the Heat!](https://discord.com/channels/1359439581274968156/1517740390181244959)
+[ ] Play [Tent of Technological Progress](https://discord.com/channels/1359439581274968156/1517710185198653450)
+[ ] Browse [Shaman Trinkets and Medicine](https://discord.com/channels/1359439581274968156/1517708095411720314)
+[ ] Browse [Mask/Trinket Booth](https://discord.com/channels/1359439581274968156/1517698938277330966)
+[ ] Chat with someone in the [Food Court Booths](https://discord.com/channels/1359439581274968156/1517695953249763368), preferably while eating some snacks.
 
-Costume Crafting:
-[ ] Draw art or write a description of your character's costume
-[ ] Form a group to go "House Blessing"
-[ ] "Bless" a house by yelling obnoxiously at it
-[ ] Send a voice recording of you actually yelling in real life
-(Razy is not responsible for any problems caused by this)
+Carnival Challenges 0/13:
+[ ] Beat Naeriel in [Armwrestling!](https://discord.com/channels/1359439581274968156/1517704039045927083)
+[ ] Impress Vita in [Endure the Heat!](https://discord.com/channels/1359439581274968156/1517740390181244959)
+[ ] Score a Bulls-eye in [Tent of Technological Progress](https://discord.com/channels/1359439581274968156/1517710185198653450)
+[ ] Prevent casualties from reaching 75%
+[ ] Prevent casualties from reaching 25%
+[ ] Somehow beat Nettle at [his own game](https://discord.com/channels/1359439581274968156/1517712385052508191)
+[ ] Prevent NulGraven spread from reaching 10%
+[ ] Blow Dandelion's seeds off the cliff (Dandelions can be found near the [Prayer Chapel-Tent](https://discord.com/channels/1359439581274968156/1517701451630120970))
+[ ] Pay a fair trade in [Shaman Trinkets and Medicine](https://discord.com/channels/1359439581274968156/1517708095411720314) or [Mask/Trinket Booth](https://discord.com/channels/1359439581274968156/1517698938277330966)
+[ ] Banish the Decanoluzion Caradel yourself
+[ ] Join Mac in his Carnival Relay
+[ ] Witness the take-off
+[ ] Find either The Last Midwife or Mak'hel scuttering about
 
-???:
-[ ] Find something on the beach
-[ ] ???
-
-Event Closing:
-[ ] Write a prayer urging the Crimson Harrow to "please stop yelling"
-```
+``` ```
 
 ### Talk
 > 💬Honestly, I ain't sure if me being here and talkin' to ya is actually canon or not.
 > 
-> 💬Rayzie just didn't have someone better to use as a "4th Wall Breaking" vendor for this system of theirs.
-
-> 💬So, for both our sakes, it's best you pretend I ain't ever actually been here once we meet IRP, alright, pal?
+> 💬I will say, the actual Tool you know is fast-asleep. Your talking to one of his two skribbles right now.
 > 
-> 💬Either way, I'll be able to share a LOT more when we officially meet. Don't ya worry a bit, sweetie~
+> 💬... how's a skribble talking? Well, wouldn't you like to know~
+> 
+> 💬Maybe next time, I can let ya in on my little secret, sweetie jury~
 
 ---
 
