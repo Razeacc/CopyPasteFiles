@@ -106,7 +106,7 @@ that risk of losing control but striving to maintain it regardless, it makes her
 you will make a great human. keep your heart where it is, it is in the right place.
 
 [To Akiro]
-judge not subject of an incomplete telling. do you truly trust the court's ambassadors, so blindly?
+judge no subject of an incomplete telling. do you truly trust the court's ambassadors, so blindly?
 admittedly, that is not the most foolish option. however, refrain from further limiting your perspectives based on unfinished equations.
 we have seen your ability to create, your strive for visualization both in narration and spaciality. your dedication is tremendously inspiring.
 whether you wish to interact with us in the future or not, we do hope you continue your craft in the many more coming tomorrows we have yet to be presented to.
