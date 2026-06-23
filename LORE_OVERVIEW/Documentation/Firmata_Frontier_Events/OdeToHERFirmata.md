@@ -789,7 +789,37 @@ He lowered his gaze, shoulders suddenly making slight jump from his chuckling sc
 Naeriel: "Very well then, I suppose facing you in my actual form wouldn't be so fun or fair. And because it is more fun for me."
 He shrugged off, turning on his feet to face him. His voice was not harsh but it was surely different, almost scary how calm it was too.
 
-(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
+(This is where the RP ended off last time during the previous timeline overview)
+
+Hearing Naeriel's words got Kalayan to start bouncing side to side while still in his boxing stance. It was almost like a golden retriever dog starting to get the zoomies.
+Only here, it was a big buff white guy.
+
+Kalayan: 🗯️ Oh don't you hold back, cause I ain't!
+In a near instant, Kalayan disappeared in the middle of one of his bounces.
+Then, right behind Naeriel, Kalayan winds his fist back for a split second.
+Kalayan: ❗ Modus: Barrage Armament.
+
+After receiving the verbal incantation, his archose instantly formed an array of fists behind the archgod, all aimed at Naeriel.
+With a single punch at his direction, the barrage of fists crash down on Naeriel in succession. Most of them seem to miss though, hitting around Naeriel instead.
+Kalayan didn't even give the archkin a chance to comprehend how "low stakes" this duel is.
+
+Kalayan: 💬 If you can land even a single hit on me, you win~!
+He declared.
+
+After landing before Naeriel, Kalayan extended his hand to call upon his leftover archose in the air.
+As it forms a boxing glove over his fist, he raises his other hand to form its pair. With his opening move finish, Kalayan was now properly ready to start.
+He faces Naeriel once more, with his Almost-iconic wide grin. In fact, the ex-tyrant may perhaps even find Kalayan's smile potentially familliar.
+
+Naeriel's eyes widened for only a fraction of a second. The man's speed was almost absurd.
+He twisted his body toward where Kalayan had appeared, only to be met with blow after a blow. Naeriel did not raise his hands to even protect as if he wanted to be punched. He watched each move of Kalayan.
+
+A final strike forced a grunt from his throat, he curled forward. A long, measured exhale escaped him. He stayed a bit curled, his eyes looked over at him. Kalayan's smile did not annoy him.
+The middle of the tattoo start on Naeriel's chest began to light up, it was faint but it did change color.
+
+Without a word, Naeriel suddenly spread his arms from his sides, palms turned behind him. A violent burst of violet energy erupted from behind him, racing across his arms and legs to his feet.
+The surge launched him forward with force, closing distance with Kalayan. Right hand fisted to deliver direct punch to Kalayan's lower ribs.
+
+(This is where the RP ends off so far)
 
 ##### Return to reality
 (TO BE WRITTEN)
