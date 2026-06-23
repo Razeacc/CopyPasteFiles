@@ -79,8 +79,6 @@ That smile... the ^ eye... the blush...
 I AINT LETTING U FOOL ME
 AAGHH
 
-(Sent messages end off here)
-(Here's what I plan to respond with, let me know your thoughts and whatcha think~!)
 
 Nul Detta:
 ... how unfortunate, our connection is fleeting faster than expected.
@@ -125,48 +123,123 @@ Narrator:
 Connection Terminated
 ``` ```
 Channel Rename - Hot Air Balloon Stage
-Narrator:
-As a pair of kids run through the crowd of carnival-goers, they accidentally knock out someone's grip on a handfull of balloon-lanterns. The small internal fire chambers inside them almost spill out charcoals on the ground as the several lantern balloons float up into the sky.
-The woman who lost his balloons almost immediately turns towrds the kids in a grumpy manner, causing the youngsters to flee from the scene.
-Ayumu:
-"Ugh, I JUST traded for those too..."
-Narrator:
+
+As a pair of kids run through the crowd of carnival-goers, they accidentally knock out someone's grip on a handful of balloon-lanterns.
+
+Ayumu: "Omf- HEY!"
+
+She yelled out in anger.
+The small internal fire chambers inside them almost spill out charcoals on the ground as the several lantern balloons float up into the sky.
+As the woman who lost his balloons immediately turns towards the kids in a frustrated tumble, the frightened youngsters flee from the scene in a panic.
+
+The woman sighs to herself as she tries her best to calm down. She reasons with herself, but it's no use.
+
+Ayumu: "Ugh, I JUST traded for those too..."
+"... no matter. Once Aysa gets back, I'll just ask him to fetch me something to trade with."
+
+Ayumu then checks her pocket to see if she has anything left trade-worthy.
+Alas, more disappointment befalls her.
+
+Ayumu: "Being in a world without currency is such a pain..."
+
+The disguised vicar casually begins strolling down the carnival while clasping two small Mythillium chunks in her gloved hand, knowing she can't trade these in for anything.
+As she walked, Ayumu coincidentally passes by two more people, but they barely exchange a glance from each other.
+
 Just now entering the village is Professor Besado herself, with Memetta following close behind.
-Memetta:
-Are you sure you're not giving an opening speech...? `the zealot asked with a hint of hesitation in her voice.`
-Besado:
-These people aren't accustomed to, nor expecting of, the formal proceedings of events yet. I'd prefer to keep things that way for as long as I can. Besides...
-`Ciela then looks around her then back at Memetta, a smile almost forming on her face.` It seems we're late for the party, heh~
-Memetta:
-`Memetta almost caught herself staring for quite a while at Besado's smile. With how fleeting and rare her this emotion of hers is genuine, she couldn't help but let her be at least this once.`
-Heh, whatever you say, ma'am Besado~
-Besado:
-Mhm mhm, good~
-Now, I'll be at the sausage stall. Go make yourself busy, mkay? I don't have any tasks for you today, so just enjoy the moment.
-Hopefully when we get to The Spire, I won't need you around anymore.
-Memetta:
-... yeah, hopefully so... `the zealot mumbled dismissively before wandering off on her own.`
-Besado:
-`However, the science leader does not notice this, as she was already on her way to the food stalls.`
-Narrator:
-With the booths all set up, @「 🎪 Event Participant 」, Ode to HER Firmata has officially commenced!
+They gaze upon the Hot Air Balloon for a moment, tied down to the ground with various thick ropes to the heavily-weighted wooden stage below.
+
+Memetta: 💬 Are you sure you're not giving an opening speech...?
+the zealot asked with a hint of hesitation in her voice.
+
+Prof. Besado: 💬 These people aren't accustomed to,
+"- nor expecting of, the formal proceedings of events yet" 
+The science leader explained with a gradually-growing grin on her face.
+Not needing to do any public speaking in such a public gathering, it was almost a dream-come-true.
+
+Prof. Besado: "I'd prefer to keep-
+💬 things that way for as long as I can.
+💬 Besides...
+Ciela then looks around her then back at Memetta, a smile almost forming on her face.
+💬 It seems we're late for the party, heh~
+
+Memetta almost caught herself staring for quite a while at Besado's smile.
+With how fleeting and rare her this emotion of hers is genuine, she couldn't help but let her be at least this once.
+Memetta: 💬 Heh, whatever you say, ma'am Besado~
+Prof. Besado: "Mhm mhm, good~"
+
+Then, turning around, Ciela sets her sights on something specific nearby.
+Prof. Besado: 💬 Now, I'll be at the sausage stall.
+💬 Go make yourself busy, mkay? I don't have any-
+"- tasks for you today, so just enjoy the moment~!"
+
+"Hopefully when we get to The Spire, I won't need you around anymore."
+
+Her last sentence almost seems to graze over Memetta's mind as she mentally refused to believe Besado actually said that... at least, at first.
+
+She eventually shakes herself back to reality to give Ciela a response.
+Memetta: 💬 ... yeah, hopefully so...
+The zealot mumbled dismissively before wandering off on her own.
+However, the science leader does not notice this, as she was already on her way to the food stalls.
+
+
+With the booths all set up, @「 🎪 Event Participant  」, 
+Ode to HER Firmata has officially commenced!
 During this festival stage, time is but a mere figment of our imagination.
-As long as you manage continuity and don't do anything too major, your character can go to, and experience, *multiple booths* at once at the same time. Narratively, we just assume that your characters go to the diffent booths at different times of the day.
--# (If you were a participant of the Tech Expo Event from Udyverse, this is the same logic used from there)
-Take this time to complete event quests in the shop's scripting ink checklist, meet/interact with more characters, and enjoy the wholesome/fun bliss of the scenario!
+As long as you manage continuity and don't do anything too major, your character can go to, and experience, multiple booths at once, all at the same time.
+Narratively, we just assume that your characters go to the diffent booths at different times of the day.
+(If you were a participant of the Tech Expo Event from Udyverse, this is the same logic used from there)
+
+Use this opportunity to complete event quests in the ⁠ODE EVENT SHOP 's :Skribble_Hed: Scripting Ink checklist, meet/interact with more characters, and enjoy the wholesome/fun bliss of the scenario!
 This may or may not be the last time we'll be having something this lighthearted. So spend your time wisely.
 
-Happy Take-Off Carnival!
+Happy Take-Off Carnival! 🎈 🎪
 
+---
 
 ## The Take-Off Carnival
 In Newpoint Village, people have gathered to form a carnival around the new hot air balloon. Booths have been constructed around the town, giving it a more "festive" mood as people trade goods everywhere to celebrate the occasion.
 
-### Listed Carnival Booths
+From this point on, the event takes a non-linear story-telling approach.
+Each booth and stage has its own thread and tags in the event forum. This timeline of events will be a rough transcript of everything that's happened in the event, listing down occurances as they happen.
+
+The official timeline of events will be determined at the end once everything has occured, to try out best in avoiding continuity conflicts.
+
+
+### Listed Carnival Booths and Forum Threads
 This list was written by role players who posted submissions through a google form, hence why the writing styles may differ from booth to booth, and why some containts may or may not be suitable.
 The Mechanic and Appearance Descriptions were copy and pasted from the submission. Meanwhile, the Appearance Description specifically will be used as the opening post in each thread.
 
+#### Hot Air Balloon Stage
+Tags: Main Event Thread | Casual RP
+
+While roaming around the hot air balloon, Ayumu spots Professor Besado eating a sausage on a stick while leaning on the balloon's basket.
+Tapping her foot with a makeshift sausage kebab on-hand, the science leader seems to be impatiently looking around the village, taking advantage of the stage's height, while eating her carnival snack.
+Prof. Besado: 💬 where is he...
+"I need him to inspect those mythillium rivets he used on the balloon..."
+Besado mumbled to herself while waiting for Winchester.
+
+Unsure of what she may be doing, Ayumu walks through the stalls casually, making herself look busy or appear like she's window shopping.
+It seems she too is waiting for someone.
+
+Stultus, Winchester's pet mythillium-mutated owl, roams from one stall to another by her lonesome, stopping as she tils her head left to right all curiously before moving on to the next.
+Stultus: "Huhu.. oo.. wassthat? Oh wow..."
+Prof. Besado: ❗ 💬 OH! Stultus! Nice to see ya~!
+💬 Thanks for saving my butt the other night again, we were really lucky that shadow guy left-
+"- before shit really hit the fan..."
+The science leader comments, regarding their previous initial encounter with Aysa during the "Coda Reprise" RP where Aysa attempted to "assassinate" Memetta to make it clear she isn't one of the Vicars, helping her disguise while sacrificing Aysa's disguise.
+Besado reaches up to call Stultus over and pat her feathers.
+
+- Stultus and Besado chat for a bit.
+- Stultus points out Winchester is "praying" over at the Prayer Booth
+- Besado gets worried he's with Memetta right now, before seeing Memetta over by Cassius' stall, the Mask/Trinket Booth. This calms Besado's worries.
+- Adrian, an Otherworlder with a leg problem, crawls over to the stage, approaching the hot air balloon.
+- Besado helps Adrian up and she begins pondering over uniquely-modern medical appliances used for lame disabled people, a side-effect of her fractured memories from all the previous Ciela Besados.
+- Winchester arrives shortly after
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
+
 #### Endure The Heat!
+Tags: Game Booth | Casual RP
 | Roleplayer | Voidka |
 | Organizer | Vita |
 | Attendant/s | Vita |
@@ -181,6 +254,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > Next to it is a chair where Vita sits, and a sign made of hemp cloth with the words "Endure The Heat!" painted onto it with red dye.
 
 #### Toss Sand In Your Eyes™
+Tags: Game Booth | Casual RP
 | Roleplayer | Peter Nettle |
 | Organizer | Peter Nettle |
 | Attendant/s | Peter Nettle |
@@ -194,6 +268,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > No physical, just Nettle bobbing up and down enthusiastically shouting: "THROW SAND IN MY EYES!" towards anyone passing by. 
 
 #### Mask/Trinket Booth
+Tags: Trade Booth | Casual RP
 | Roleplayer | TheSadMeatloaf |
 | Organizer | Cassius |
 | Attendant/s | Cassius |
@@ -203,6 +278,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > The masks depict ancestral spirits, beasts each painted with natural pigments in earthy reds, blacks, and whites. Shelves lined with fur and woven mats display necklaces of teeth, carved talismans, feathered fetishes, and ritual charms believed to offer protection, luck, or guidance... or something else entirely. The scent of smoke, herbs, and dried flowers lingers around the stall, giving it an air of mystery.
 
 #### Salt Rocket Archery
+Tags: Game Booth | Casual RP
 | Roleplayer | Burn man (marbles) |
 | Organizer | Ernst  |
 | Attendant/s | Ernst and an NPC |
@@ -215,6 +291,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > Its a simple tent with mud tablets announcing the breakthroughs of a crazy man in big and bold words, inside the tent there's a table with with the prototype for the steam engine and a little rack with bows and arrows, (may have little trinkets to enhance the decor if i make the npc, otherwise its as described above) 
 
 #### Arm Wrestling
+Tags: Game Booth | Casual RP
 | Roleplayer | Akiro |
 | Organizer | Naeriel |
 | Attendant/s | Naeriel |
@@ -227,6 +304,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > Older table but with smoother top for easy playing. It ain't decorated with anything much.
 
 #### Bone Stone Trinkets and Herbs
+Tags: Trade Booth | Casual RP
 | Roleplayer | Akiro |
 | Organizer | Aislinn |
 | Attendant/s | Aislinn |
@@ -236,6 +314,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > The table is lowered, but not too much. It is not entirely on ground but in high of 120 centimeters as Aislinn is crouched down like a bird. (because she is a bird... heh)
 
 #### Rattle Crafts
+Tags: Game Booth | Casual RP
 | Roleplayer | Cass |
 | Organizer | Altarhea  |
 | Attendant/s | Altarhea |
@@ -249,6 +328,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > A medium sized hut made of sticks and bamboo. Tall bamboo pillars create the supports, while the circular, centrally symetrical roof is created by small sticks. The booth has no walls, which allows one to easily enter it and exit it. The materials gathered for making rattles are secured in a wooden box guarded by the owner of the booth, and there are simple wooden planks placed around the booth to serve as improvised working spaces.
 
 #### Prayer Chapel-Tent
+Tags: Game Booth | Casual RP
 | Roleplayer | N/A |
 | Organizer | Memetta |
 | Attendant/s | N/A |
@@ -263,6 +343,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 > The place provides a calm corner of solace for anyone in need of a few moments of quiet from the chaos and noise outside. Since the tent is large enough for several people, Memetta's opted to call it a "Chapel-Tent".
 
 #### Food Court Booths
+Tags: Trade Booth | Casual RP
 | Roleplayer | N/A |
 | Organizer | Professor Besado |
 | Attendant/s | NPCs (free-range RP) |
@@ -273,14 +354,355 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 **Appearance Description**
 > A bunch of booths have been set up around the hot air balloon specifically for giving away food, with some accepting trades for food instead. Many different-colored cloth covers blanket the surrounding town square as 
 
-## (Side Story: Anullment of the Udyverse Decanoluzioned Timeline)
-As the event happens, vicar Aysa ventured above HER Firmata to the "Udyverse Timeline" in the Timeline Sky. Prior to Firmata Frontier, I was roleplaying on a different server called Udyverse, and I made a character there named Blanche Auclaire. A few months after Firmata started, Udyverse Public shut down, went private, and allowed people to make personal "Alternate Universes", causing its timeline in the timeline sky to branch out.
+## Anullment of the Udyverse Decanoluzioned Timeline (B Plot)
+As the carnival takes place, vicar Aysa ventures above HER Firmata to the "Udyverse Timeline" in the Timeline Sky.
+Prior to Firmata Frontier, I (Rayzie) was roleplaying on a different server called Udyverse, and I made a character there named Blanche Auclaire. A few months after Firmata started, Udyverse Public shut down, went private, and allowed people to make personal "Alternate Universes", causing its timeline in the timeline sky to branch out.
 One of those timelines was treated as a "dumping zone" for forgotten/abandoned characters and ideas, the Decanoluzioned Timeline. It slowly grows and spreads on its own, posing a risk to other timelines if infected.
-That's why Aysa went to this timeline to use his weapon, the "Baker Blade", to "Render" the timeline, cutting it off partially at its tip to stop it from growing.
-However, when Aysa tries this, Blanche was hidden inside of a Fracturing Fissure, having unlocked that ability during her time within the Decanoluzion. While everyone else froze and "rendered" in-place, Blanche was unaffected. This meant her tiny singular piece kept growing outside the timeline, which caught Aysa's attention.
-Aysa focused his Baker Blade to Render Blanche one more time, but while doing so, this somehow managed to break Blanche out of the timeline.
-Before she could attack, Aysa Renders Blank herself, fully decanoluzioning her in an instant.
-She has been added to the pool of potential Decanoluzion Caradels summonable by the NulGraven.
+As story details from "Public Udyverse" are forgotten and abandoned, they find themselves in this hellish landscape where everything slowly ceases to exist. It is akin to The Null Crossing, but in a barely-controlled and actively-hostile environment.
+
+Sentenced to be decanonized, and plagued by delusions of a proper ending: 
+That is what it means to suffer **Decanoluzion**.
+
+### Outside the Decanoluzioned Timeline
+Aysa: < 💭 ... now, where is that thing... >
+
+After exiting HER Firmata through the backdoor tunnel method devised by The Prince and Dett, Aysa begins roaming across the timeline sky— slinging from timeline to timeline using elongated shadowy limbs.
+Although, this time, things felt different. His movements were more sluggish. His instincts and reflexes dulled.
+Darting his eyes around faster than normal. Without Al'Knoxus to help ease his cognitive load, Aysa's left with fewer senses to keep an eye on his surroundings. Especially with how high-risk and high-activity this specific area is, the vicar is left in a precarious situation. 
+
+Kaitzar: 📻 < On your left >
+📻 < To your left >
+📻 < Left side >
+📻 < 9'o-clock >
+A single voice echoes roughly the same dialogue line several times through Aysa's vicar mask.
+Picking his mask up and putting it on, he responds:
+Aysa: < 🎭 I still have your map, don't worry >
+< 🎭 Don't risk sending comms out HIS Firmata. It sounds a lot worse than you think >
+
+The voice behind the "radio" maintains silence, immediately understanding Aysa's warning.
+While keeping his mask on Aysa immediately aims for something invisible to his left, something he "knew" was hanging off the Udyverse timeline.
+
+Aysa: ❗ < Modus: Render >
+
+💥 B A N G
+
+His oversized cutter manages to dice through a machine that seemed to suddenly reappear into existence.
+With the machine gone, the timeline above him starts reappearing as well.
+
+Before him, Aysa stared out as the timeline seemingly revealed a hidden "explosion" at some point within its formation. Several branching timelines scattered about from the main one.
+To most, such a sight would be quite lovely to behold. But for the vicars' timeline renderer, this was merely part of the job.
+
+However, a cancer has begun to form on this timeline— something in-need of immediately clearing up.
+A redened timeline branch has sprouted and formed nodes across its cancerous thread. If left unchecked, this sickness will infect and proceed to "decanonize" more timelines.
+
+Readying his cutter, Aysa locks-in on Udyverse's Decanoluzioned Timeline.
+Aysa: < 🎭 Found the node. Proceeding with operation. >
+
+As he approaches the decanoluzioned timeline branch, Aysa sees it actively growing and expanding— akin to a pool of blood spreading out from its source.
+
+Raising his Baker Blade, the shadekin finally cuts down the timeline, grafting its tip off to Render the verse.
+
+Aysa: ❗ < Modus: Render >
+
+💥 B A N G
+With a single slash of his cutter, the Baker Blade slashes the timeline, rendering it and ensuring it stops advancing further in time.
+However...
+💥 K R A H K A H K A K A H K A H K AH 💥
+Something happens inside the universe, as the DecanoluIoned Timeline gets rendered.
+
+The vicar leans in closer, noticing something odd...
+Alhough the entire timeline has turned pale green, indicating the Render was a success, a few almost-miniscule sections of the timeline continued to grow.
+
+Aysa: < 💢 *What the hell- this has NEVER happened before- >
+Aysa puts away the baker blade as he equips a temporal breaker knife, preparing to investigate the timeline himself to see what's going on.
+
+Drawing his timeline knife back, Aysa cuts into parts of the timeline that continued to grow. From the temporal wound, he creates a gateway capable for the shadekin to slip in through.
+
+Once it was wide enough, Aysa enters the Decanoluzioned Timeline.
+
+### Within the Decanoluzioned Timeline
+> (This part of the transcript takes place in the Udyverse Private server)
+Through the desolate landscape of Coneda, as buildings slowly materialize into the underground city, the space surrounding the Xenon Brotherhood's Headquarters feels almost unnaturally detailed.
+From cars that were used during Operation: Night Light, to the windows of the New Malika Apartments that were broken-in. Everything in this faction has been sentenced to decanoluzion.
+
+However, not everyone has— despite how long it's  been.
+Walking through the empty corridors, someone stumbles around, tired after another round of experiments and studies.
+
+Trying to break out of a Decanoluzioned Timeline, even with Fracturing technology, had proven quite difficult.
+
+Unbeknownst to her, Decanoluzioned Timelines are the largest possible Fracturing Zones. Breaking out of it, using the same technology, is akin to slicing butter with a stick of butter.
+It's useless, difficult, futile, and leaves your hands dirties and muddied from the tireless efforts that bare no fruits to show.
+
+Despite that, she continues, limping out the Apartments to see if anything new has changed.
+
+Blanche: "Ugh- so...bright..."
+Noire White: You call this bright? We've been staring at those fissures for too long, it seems...
+
+As usual, whenever Blanche and Noire swap control over their Otherkin body, they still glitch out slightly while adjusting to the other's form. Like a flash of light glitching through the curtains of the previous' form.
+
+Blanche: "Not... my fault they're so... fucked up."
+"Why did they turn red, out of all things-!?"
+
+Coughing into her fist, Blanche finally opens the broken-down door to the building. She takes in the fresh air of underground Coneda while surveying the environment.
+Blanche: "... doesn't... seem like anything's new. What day are we on now again?"
+Noire: ... why are you asking me? You expect me to have been keeping count?
+Blanche: "Not you, of course. Him."
+
+Taking out a bowler hat from behind her back, he puts it on while darkening his facial features to a pure-vantablack mask of shadow.
+Surveying the scene, the "boss" prepares an analysis.
+Axon: 👁‍🗨 "We are on Day 125."
+
+Looking through Axon's eyes, she tries pointing some stuff out herself.
+Blanche: "The can we left outside is gone too... but the glass bottle is still there."
+Axon: 👁‍🗨 The bottle has a brand and label, but the can...
+👁‍🗨 It didn't have any markings on it, did it not?
+Noire, Axon's Otherkin, shook her head, being the only one who remembers what the can looked like.
+
+Putting a finger to his chin, the gnaiju (an alien nerve robot from Udyverse) processes something.
+Axon: 👁‍🗨 That at least confirms one theory: The less details something possesses, the less time it takes to disappear from this world.
+👁‍🗨 Or... rather... whatever "state" this world is in currently...
+Turning around, the axon closes the door to begin pacing down the aisle.
+
+Blanche: "Hmm, I see I see, good. Thanks, Axon."
+Taking control over her body again, Blanche stretches her legs a bit before pacing off.
+Blanche: "... no sign of Echo, yet?"
+She asked about her partner, lover, someone she used to care deeply for prior to her decanoluzion.
+Axon: 👁‍🗨 Negative-
+Blanche: "Well keep serching. He's bound to show up eventually."
+The mob boss barks out a command to her alien nerve parasite.
+Preparing to enter deep focus once more, Axon nods.
+Axon: 👁‍🗨 You're the boss...
+👁‍🗨 ... Don Blanche.
+
+Blanche: "Good, good... I swear- how do you get used to being called that..."
+Just before entering deep focus, the alien manages one more response to the mafioso.
+Axon: 👁‍🗨 ... who said I ever did?
+
+---
+
+After this opening scene, several roleplayers from Public Udyverse who moved to Private Udyverse joined in.
+Arbok (the source of the Arbor NulGraven Caradels) brought in an evil version of his robot character, Marcus.
+Infy brought in a Luxia, a sorceress who apparently dated Marcus— and Teknicia, a Warhammer 40k OC.
+Orange roleplayed as a "version" of his midget robot character, Odyssey, who's apparently a version of Odyssey that's a "figment of Winchester's Imagination", the same Winchester currently in Firmata Frontier.
+
+The group squabble for a bit as Blanche's isolation with Noire and Axon in her head for the past few hundreds days is suddenly interrupted by people just... suddenly showing up. She indirectly shows off her new ability to create Fracturing Fissures using a spinning top (or rather, any exertion of her own kinetic force), while also highlighting how "casual" her relationship with Axon is now, when it was previously a VERY big secret that Blanche was Axon's host during Udyverse's public days.
+
+❗ Warning:
+This Timeline has been flagged for Rendering
+💥 K R A H K A H K A K A H K A H K AH 💥
+Something happens outside the universe, Rendering this DecanoluIoned Timeline.
+All around everyone, everything gains a pale green tint. Alongside that, they seem to freeze in-place, as if they've been frozen in time.
+No matter how much force is applied, this timeline can no longer be edited further. It has been Rendered, Baked.
+
+Normally, your characters would remain stationary and rendered in-place as well. However, due to YOUR presence as Roleplayers— this effectively overrules the effects of the render.
+In summary: Your characters are the only entities capable of moving forward in time here.
+
+The mob boss was the first to notice this, immediately feeling the effects of the Render down to her very core.
+Blanche looks around frantically at the others, trying to get a feeling on how everyone else is reacting to this.
+
+Blanche: 👁‍🗨 ... Axon- hold off on the hack-
+Axon: 👁‍🗨 I was just thinking the same thing.
+👁‍🗨 Something's up.
+
+The rendering would freeze Marcus for a moment, his Neural processes paused as his gaze was stuck on Luxia... but something nudged him... something he couldn't see, and he almost immediately began moving again.
+Marcus didn't say a word, he moved forward and protectively put one arm around Luxia as he drew his PlasRail again and examined his surroundings. He remained quiet, all his attention was focused towards assessing what just occurred...
+And for now, with Marcus being the only thing she knew anything about, and the whole place becoming frighteningly still?
+Lux leant in, and just chose to close her eyes and calm herself.
+
+As the sorceress and robot held onto each other, a tear in reality started bleeding out behind them.
+Quickly, a shadowy blur leaps out through, potentially knocking Luxia and M&R3u apart.
+
+Aysa tumbles onto the ground of the apartments. With the three people being knocked around, dust would normally be kicked up. But due to the timeline's rendering, even the dust remained still and unmoving.
+
+Aysa: < . . . >
+< ano-? > (what?)
+
+Aysa's eyes darted around to inspect the room, keeping an eye on Luxia and Marcus. His freshly-glowing temporal breaker knife took a moment to cool down in hia hand, potentially hinting at this being the tool he used to break into here.
+
+It took Aysa a moment, but seeing Marcus and Luxia still moving and reacting confirmed something.
+Aysa: < ... you're *not abandoned*- >
+< why the hell are you two here- >
+
+Axon: 👁‍🗨 We'd like to know-
+Blanche: 👁‍🗨 - the same thing.
+
+Standing behind Aysa, Blanche has obscured her face again like Axon. With one hand pressed onto the shadekin's shoulder, she creates blade made of light using Noire's light manipulation— something she has a hunch would be unsurprisingly effective on the shadekin.
+Taking a mere glance behind him, Aysa recognizes the red-tinted hue coating Blanche. Unlike the others in this room, Auclaire has already succumbed to the Decanoluzionion.
+
+Aysa: < this is why I prefer not entering these zones... >
+He pondered to himself.
+
+Teknicia simply stared upon the various entities here, with a casual gaze and a steel stare mingled in one with eyes unblinking, and focus unwavering.
+This is not ordinary.
+In response to Aysa's appearance, every single one of Teknicia's weapons have appeared out from below her robe. Most concerning would be the Transonic blades.
+
+Already having stood completely still, nothing had changed for the android during the render...
+Odyssey: "I am Odyssey." 
+
+It suddenly speaks, as if assuring itself of its own identity rather than making an introduction. It stares at its own palms, coated in glistening black steel like the rest of its body.
+
+Odyssey: "But something is strange. I do not belong. I am out of place."
+"Am I. . . incomplete? Where. . ."
+Odyssey observes Blanche/Axon, recognising either.
+Odyssey: "I know you. Hello."
+Its stare slowly drifted to Marcus and the rest, analysing its surroundings.
+
+Feeling himself surrounded and potentially at risk of getting stuck here, the shadekin is forced to take drastic action. Aysa twitches one of his fingers, preparing to pull out something from his shadowy form.
+Meanwhile, the mob boss notices this and prepares to take immediate action as soon as Aysa tries something.
+
+Axon: 💭 hmm he doesn't remember...?
+The gnaiju ponders, confused as to why this version of Odyssey won't attack him.
+Axon: 👁‍🗨 Odyssey can you hear me?
+Axon asks, attempting to talk to the robot using radio waves.
+Axon: 👁‍🗨 you're with us, ok? When we make a move, do as we do.
+
+Odyssey finds that all necessary data is mostly intact, but even then its mind is fragmented in a way it can't describe, and the more time is spent the more data leaks from its memory, piece by piece. Like its body shouldn't exist all by its lonesome, yet there it is.
+Additionally, it doesn't experience any anger upon seeing Axon, like its protocols aren't there... as if this Odyssey is nothing more than a mere copy of the original.
+"Odyssey": [ I understand. ]
+
+Taking his vicar mask out, the shadekin immediately tosses it across the floor— having it bounce and ricochet repeatedly as it opens several Fracturing Fissures in rapid succession.
+Immediately, Noire White takes control over Blanche's body and swipes her light blade across the shadekin's body, immediately severing Aysa's arm off him.
+Noire: "I'm sorry, but you seem to know too much, mister."
+"Please understand-" 
+Axon and Blanche: 👁‍🗨 NOW, GET HIM!
+
+Luckily for Aysa, Noire didn't seem to know the true weakness of a shadekin. It isn't their shadowy form, but rather, the mechanical core in their chest that solidifies their darkness in the first place.
+
+Wanting to maintain distance from the people here, especially the Decanoluzioned Blanche, Aysa quickly pulls his arm back before summoning several caradels through the fissures.
+
+A rogue caradel pulls itself out to keep Luxia and Marcus away from Aysa. By extending its floating arms out, it seems to almost body-block the two.
+
+Meanwhile, surprising even Aysa, a NulGraven Ghastette caradel drags itself out of the Fracturing Fissure instead— when this should've been another Rogue Caradel.
+The Ghastette blocks the other end of the hallway to keep Luxia, Odyssey, and Blanche/Noire/Axon at bay.
+
+Opening its mouth wide, it begins releasing a strange gas-like entity from within its bowels.
+An Arbor Caradel forms around the room, its cloud-like appearance and bolts hanging under its mist create an almost uneasy and unsettling atmosphere in the hallway.
+
+It seems especially effective on Arbok's characters.
+
+Aysa: < 💭 Huh, so that's what happens when you open fissures in a Decanoluzion Zone... fucked up stuff- >
+the shadekin pondered to himself.
+
+Not wanting to waste anymore time, Aysa grabs his temporal breaker knife and cuts another wound in reality. Immediately, he jumps in, letting it close immediately after.
+
+Blanche: 🗯️ w-WHAT the hell-!? How'd he- No matter.
+
+Taking a single glance at the Rogue Caradel and the new Ghastette Caradel, it seems she's unfamiliar with the red ones.
+Regardless, she immediately hops back into her own fissure before leaving out one of the fissures Aysa himself made.
+
+Blanche: 🗯️ Oh, don't you think we're just gonna let you leave-!
+🗯️ GET BACK HERE! WHAT THE HELL'S YOUR DEAL!
+Blanche jumps into the temporal wound after Aysa.
+
+- Marcus somehow recognized what a caradel was from their limited presence in Udyverse. He slices open the Ghastette's mouth using a 3142Hz blade, which causes it to emit more Arbor caradels as it destabilizes away.
+- Meanwhile, the Temporal Wound Aysa opened up led to a "Fantasy" AU of Udyverse.
+- "Odyssey" punch the Rogue Caradel's head off with a 3142Hz-imbued fist before chasing after Aysa into the "Udantasy"
+
+### "Udantasy" the Udyverse Fantasy AU
+- In "Udantasy" Aysa runs away from a portal as Blanche goes through it as well.
+
+Clawing her arm out, Blanche manages to form scales on her body as her rage beings growing.
+Forcing the temporal wound open wider, she releases a sigh of fire breath as her form becomes more draconic.
+
+What Aysa truly feared was the effects of becoming marked by Decanoluzion. When this happens, the target becomes linked with the zone, meaning they'd disappear once the zone is gone.
+The reward for such a cost? Unlimited creative potential.
+
+The decay of narrative control within the Decanoluzion Zone grants those within it the ability to freely control their own forms. This allowed Blanche to become more dragon-like, alongside being able to create fissures on her own and jump through them.
+What Aysa was running from wasn't a cyberdoc, a gnaiju, a streamer, nor a fracturing anomaly.
+Aysa was running from a rogue god.
+
+Blanche: 🗯️ Where is Echo.
+Axon: 👁‍🗨 We just left that place, and the first thing you look for is the boy?
+Blanche: 👁‍🗨 Yes.
+Axon: 👁‍🗨 Understandable. Yes, truly.
+
+Leaving the portal behind, she starts chasing after Aysa with blitzing speed, using dragon-like wings on her back to propel her forward.
+Aysa tosses his temporal breaker knife across the air, opening several timeline wounds to several universes all at once.
+
+Flying through the air out the Wound, Odyssey protracts two blades from either forearm while its bright shining elements glow red as opposed to the original's blue. It looks very locked in on Aysa, both limbs outstretched to either side.
+Whatever this copy is, it'll be a lot more difficult to throw off the trail than expected. 
+
+"Odyssey": "I might understand my predicament soon. Until then, I will execute this task."
+But then, briefly glancing next to Aysa..
+"Odyssey": "Another familiar face. ."
+
+Immediately spotting "Odyssey", Aysa kicks the small robot into one of the opened temporal wounds.
+As soon as "Odyssey" went through, Aysa produced several smaller shadows, all of which flying into each of the temporal wounds while his main body enveloped and followed Odyssey.
+
+Only having seen the several shadows fly into each wound, the dragonic rogue god is left confused and bewildered as to where Aysa and Odyssey went.
+
+Odyssey and Aysa have entered The NEO Timeline.
+
+### The NEO Timeline
+> Rather than taking place on Discord, the NEO Timeline is a Google Doc file with edit permissions enabled to anyone with the link, allowing me (Rayzie) and Orange to "roleplay" by directly "typing out each others' responses".
+This timeline was still quite barren. It’s essentially an AoS experimental platform designed to figure out how to make their own timelines. Results so far are… inconclusive.
+Beyond the mechanical archamachine barriers and machines, is a blank white void ripe for rewriting and creation. However, they seem to be missing something…
+
+[A temporal wound has formed…]
+
+Aysa and “Odyssey” immediately break through the AoS’ machines, entering the pure-white voided-out timeline as they float amidst the plain blank space.
+
+Gazing beyond such void, even the shadekin is left confused, surprised that such a place even existed.
+< What the hell is this- >
+The shadekin pondered at first before drifting his attention back to “Odyssey”.
+
+< Alright, onto you first of all- you NEED to get away from that red girl. >
+< I can try explaining why, but you’ll HAVE to hear me out. >
+
+[ This must be a diversion. . . I know that girl. I do not know you. . . granted, I am missing details necessary to draw a conclusion. ]
+The android observed the… void. It couldn’t hope to be stronger than the shadekin, but it could try? Is it worth it?
+[ I. . will spare some time. ]
+Though its guard was up, its arms raised up in a bracing posture.
+[ Why should I get away from Ms. Blanche? ]
+
+Missing details, the robot claimed. Considering the circumstances of where this “Odyssey” may have originated from, Aysa tries to formulate a proper response to his question.
+
+< She has become… decanoluzioned. Of course, this is a term unfamiliar to you. But to keep it brief, she’s essentially become a rogue god that’s been scheduled for deletion. >
+
+< Not only is she unhinged, but she can do basically anything. Staying with her would surely spill your end eventually, whether intentional or not. >
+
+Seeing as how this place was quite peaceful and quiet, Aysa manages to take a breather for a moment.
+< … I am not sure how long we have until Blanche gets in here, but I suggest waiting with me for a moment longer. >
+
+[ Deletion? ] Odyssey echoes. A rogue god? Decanoluzionisation? These are some concepts that’ll take time for the machine to wrap its processor around. At the same time, these don’t seem too unfamiliar…
+The tranquil atmosphere prompts Odyssey to speak its mind for a while.
+[ Deep within the nethers of my consciousness I hear a voice. It is in a language I do not speak. It is faint. . but I know it, I think. It sounds lonely. ]
+
+The android has no clue what it’s saying. 
+[ I believe I am confused. Am I not real, too? Do you know whether. . I will be removed? ]
+The question posed doesn’t scare Odyssey as much as it merely interests the android. It’s still emotionless, but more aware than normal.
+
+< Hmm… while you were in the Decanoluzioned Timeline too, I believe you should be fine. >
+Aysa comments, attempting to ease the android’s potential concerns over its own existence.
+< You, alongside the others there, seemed unaffected by my attempt to Render the verse.>
+< That means you haven’t been truly abandoned, alongside not having spent enough time within the decanoluzioned space. >
+
+< It’s the red girl that concerns me, Blanche. She was unaffected by the render, but has already turned into a rogue god. Which only means she wasn’t abandoned either, but she’s been inside for too long… >
+
+As the shadekin ponders, he takes a moment to relax and take a breather. While Blanche has yet to find this place, he decides to take us much time as given to recuperate himself.
+Especially considering how it seemed she was starting to learn how to use her god-like abilities upon entering the “Udantisy” timeline.
+
+[ That is a relief. Ha-ha. ]
+Its arms drift through the blank space surrounding it. As it analyses further, its own body feels less and less like its own. 
+[ It seems as though I am engulfed in this substance. It feels like me. Or rather. . It is me, as opposed to me being it. I hold memories of things that are unknown to me. When I look at you, I think we have met, without the knowledge of when and where. Perhaps it is the voice speaking, and not my own thoughts. ]
+
+Odyssey shakes its head.
+[ No matter. If this. . version, of Ms. Blanche, is what you make her out to be- what do we do? What can we do, in order to delete her. . faster? That is our goal, yes? ]
+[ I hope I am not foolish to listen to you, void entity. Yet I do not trust you fully, either.] It thinks.
+
+(THIS IS WHERE THE ROLEPLAY ENDS CURRENTLY)
+
+- Eventually, Blanche begins destabilizing the NEO Timeline
+- Aysa and "Odyssey" retreat deeper, entering the NEO Timline V2, which is a YouTube Community Post on the RAZEACC YouTube Channel
+- Asya and "Odyssey" retreat from the V2 timeline and back into the Decanoluzioned Timeline
+- "Odyssey" lures Blanche over to a single point where Aysa opens one more timeline wound
+- This wound exited the timeline
+- As Aysa left and Blanche followed, Aysa immediately attacks Blanche with the Temporal Breaker Knife. Due to how many statuses and afflications Blanche has already, this somehow opens up a timeline wound within her body.
+- In this moment, she becomes something akin to a "living timeline". She gains "read" privilages to all Blanches across the multiverse.
+- RPers are given a vote, but it's rigged in favor of being "Witnessed". Blanche "witnesses" herself into becoming an "Homebrewed Epicenter of Blanche".
+- Aysa attacks Blanche one more time with his "Baker Blade", rendering Blanche.
+- This was the final straw in Blanche's state. She immediately gets Anulled into the Decanoluzioned Fiction, retaining her Epicenter status, and becoming a future "very big problem" for anyone dealing with NulGraven Sites in the future as a potential Decanoluzion Caradel.
+- Aysa takes a breather and returns back to HER Firmata to meet up with Ayumu.
 
 ### Mac's Carnival Rally
 Near the end of the carnival, Mac (the hot air balloon pilot) opts to play and experience every single carnival booth in one single relay, ensuring everybody gets a chance to showcase their booth while also giving Mac a sendoff before he leaves on the balloon.
