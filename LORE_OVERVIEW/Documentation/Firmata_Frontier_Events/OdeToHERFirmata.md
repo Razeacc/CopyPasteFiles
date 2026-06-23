@@ -201,6 +201,7 @@ In Newpoint Village, people have gathered to form a carnival around the new hot 
 
 From this point on, the event takes a non-linear story-telling approach.
 Each booth and stage has its own thread and tags in the event forum. This timeline of events will be a rough transcript of everything that's happened in the event, listing down occurances as they happen.
+Large portions of the transcript is directly from/written by other writers/roleplayers, especially when regarding PCs rather than SCs.
 
 The official timeline of events will be determined at the end once everything has occured, to try out best in avoiding continuity conflicts.
 
@@ -267,6 +268,129 @@ Tags: Game Booth | Casual RP
 **Appearance Description**
 > No physical, just Nettle bobbing up and down enthusiastically shouting: "THROW SAND IN MY EYES!" towards anyone passing by. 
 
+*Insert Spongebob Bubble Scene Transition*
+Ah, what a beautiful day for a fair in the lovely town of Newpoint village. It's a day for celebration as you can see from the many residents setting up booths for food, games, and many others surprises. 
+
+Out of the many individuals you may see. one of them might stand out to you, a certain red streaked boy with a stupid grin on his face, carrying what seems to be: a bucket of sand. 
+
+"Throw sand in my eyes! Play stupid games! Win stupid prizes!" Peter Nettle shouts in the middle of his designated spot. 
+
+Ah, what a perfect day.
+
+An UnExpEcted ViSItor Has Arrived.
+Boundary, an individual with no known origins and a reputation for making clothes for the locals at Erstburg, approaches the stranger bobbing up and down as they shouted at the top of their lungs.
+
+Earlier, the device in Boundary’s possession beeped out a message he could understand. While he was occupied with weaving together some clothes using plant fibers. The message is as follows:
+```Travel to the center of attention, Participate in an activity. Play the game of sand.```
+Boundary: …Guess I better go complete this decree…
+
+Back to the present-
+Boundary: ”Hey… uh. What is this I hear about throwing sand…?”
+He seemed somewhat confused by the stranger’s behavior, he had never seen someone so eager to damage their own sight before…
+
+Nettle pretended to lean on a non existent table (it looked really impressive actually). 
+
+Peter Nettle: "Yessir you heard me right! I've got this bucket for the express purpose of throwing sand in my eyes and yours! All for the low low fee of literally nothing!"
+"Plus! If you somehow manage to last longer than me, you get to win a prize!"
+
+Realizing he doesn't have a table yet, Peter runs off for a moment.
+A moment later, he returns.
+> Table added to Nettle's booth.
+
+There were heavier footsteps coming over to Peter's booth. A large black dragon with flowy white mane and eyes inside it all focusing just on Peter. 
+Naeriel towered like 3 meters over Peter before leaning down just to give loud threatening snarling growl right into his face with barred set of teeth.
+
+Naeriel: "Give me back my table!"
+The archkin dragon hissed loudly before straightening again to tower over him from reach again to not try the sand trick.
+Naeriel: "Or I will stomp you right here on the spot. THIEF."
+
+`Round 2 start!`
+Peter Nettle: "No I need it! This bucket is heavy!"
+`Nettle used sand throw!`
+The sand landed meaninglessly over the wyverns scaled face. Bits fell down and bits stayed on the scales. There was slight comical pause, before-
+
+Naeriel let another low growl, more threatening at that repeated try he now found even more pathetic and pitiful.
+
+Suddenly, Nettle's demeanor changed completely.
+Peter Nettle: "Oh wait it's my booth. That means it's your turn now."
+He walked up to the dragon and handed him the bucket of sand.
+Peter Nettle: "Welcome to Toss Sand In Your Eyes!™ Play stupid games win stupid prizes! How can I help you?"
+
+The eyes disappearing and appearing again in his mane squinted at him. He used his large strength to shove Pete aside. Being unfair just as Pete was. Naeriel kept him aside just to grab the table with his legs and fly off with it back.
+
+Naeriel: "If you need table so bad, GO TRADE FOR ONE."
+Naeriel roared as he flew off with the table, being careful to not cause too much whirl.
+
+Leaving only dust to where the "borrowed" table was.
+Peter Nettle: "aw..."
+"I really needed that table..."
+"And he didn't even play in my booth..."
+
+From somewhere, something suddenly flew across the market: A bucket.
+The bucket of sand hit Peter, but still like half of the sand remained inside despite it being kicked across from somewhere to his booth.
+CrAsH!!
+Peter Nettle: "Ohhh.. my head... Is there a bump..?
+He felt his head.
+Peter Nettle: "...It's dented... There's a dent on my head..."
+
+Boundary: ”……………”
+Boundary looked at his [DEVICE] and stared at it, by stare I mean he kinda just faced it with a look of confusion, before he looked at the Peter of Nettles and knelt down.
+Boundary: “… Are you okay? Are you still able play this sand game? I kind of need to do this… hello?”
+He began to poke Peter’s face with his finger as he waited for a response, he could “see” the dent in his head but he didn’t seem all that concerned about it.
+
+Peter Nettle: "..."
+"OF Course youuuu..."
+"Uh..."
+"Can!"
+"YEs!"
+"I am in. A..."
+"Huh..."
+"Wait..."
+
+Boundary: ”I see I see…”
+He grabbed the bucket nearby from the ground and began to pour its contents, the sand, on Peter’s face
+Peter Nettle: "Give me uno momento por favor merci..."
+"Oh dear..."
+Since Nettle was still clearly disoriented from from the dent on his... Everything. 
+He blinked rapidly as the sand slithered down his face.
+
+He stared blank eyed at the person who poured the bucket of sand on his face. 
+Trying to think of what to say.
+
+Oh what possible response could be appropriate to the situation?
+Peter Nettle: "..."
+"You win!"
+
+Boundary: ”Really? I thought I’d need more than a bucketfull of sand… allow me to refill this bucket for you in that case.”
+Refilling the bucket at a nearby patch of sand, Boundary returns and places the bucket next to Peter
+
+Boundary: “Hope your day goes well, I suppose. Uh, try not to steal more tables…?”
+He waved goodbye although he wasn’t sure Peter could see him with the pile of sand on his face, before leaving the area.
+
+Peter Nettle: "Wa-wait!"
+Nettle ran in front of Boundary. 
+"I didn't give you your prize yet!" 
+"Hold out your hands!"
+
+Boundary held out his hands in confusion, he forgot that this was a game booth and not a random person he was told to play this game with.
+Nettle poured out the bucket of sand that had just been filled by Boundary into his hands. 
+He poured it out as slowly and awkwardly as possible, making sure to hold eye contact throughout the entire procedure.
+Peter Nettle: "It's more sand!"
+He whispered.
+He held his face inches away from Boundary (no homo). 
+"Isn't that amaaazinggggg?!??"
+
+Boundary: ”Oh… I… see?”
+He watched as the sand landed on his gloved hands, this is one of those times where he was glad he was wearing gloves.
+“So, uh, I’ve got to go-“
+BEEP.
+```Play 2 Games Of Strength. Don the mask of a fool afterwards.```
+Boundary looked at his device for a split second, dropping half the sand on his hand to take it out of his pocket.
+Boundary: “I’ve got to go now, farewell.”
+He put some of the sand in his other hand in his left pocket before leaving in a hurry.
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
+
 #### Mask/Trinket Booth
 Tags: Trade Booth | Casual RP
 | Roleplayer | TheSadMeatloaf |
@@ -276,6 +400,72 @@ Tags: Trade Booth | Casual RP
 **Appearance Description**
 > A small, weathered booth built from rough-hewn logs, woven reeds, and stretched animal hides. Bone charms, carved wooden masks, and polished stone trinkets hang from cords overhead, swaying gently in the breeze.
 > The masks depict ancestral spirits, beasts each painted with natural pigments in earthy reds, blacks, and whites. Shelves lined with fur and woven mats display necklaces of teeth, carved talismans, feathered fetishes, and ritual charms believed to offer protection, luck, or guidance... or something else entirely. The scent of smoke, herbs, and dried flowers lingers around the stall, giving it an air of mystery.
+
+Cassius can be seen sitting in a makeshift chair of vines and flowers as... he seems to be sleeping? Though those who draw closer and have seen him do so know he is meditating. Why he is doing so is unknown, but those who glance would see his cyan fissures flash red here and there.
+hH suddenly jolts up as he opens his eyes as he looks around his fissures flashing red "another dream... another vision... another warning." His fissures return to its cyan hue as he sighs.
+
+Memetta: 💬 ... you awake yet?
+Standing just beyond his stand, the teen zealot seems to be staring up at Cassius despite her bandaged-up eyes.
+💬 I made this for ya, here-
+Memetta then tosses the Take-Off Carnival Rosary that was fated to be received by Reed at some point.
+💬 ... so- what can this trade get me?
+
+Cassius Reed looks at her for a moment.
+Cassius Eloise Reed: "Yes, yes, I am awake.... Miss Memetta."
+As he seems to blink a few times as he grabs ahold of his staff and uses it to get up with it as he moves forward a bit
+"What do you... ah, I see. I am grateful for this gift."
+As he picks it up with his free hand and examines it, he looks at the rosary, then his staff, and ties it to it as a way to tighten his grip around his staff while holding onto the rosary.
+
+As he thinks, stroking his beard, he then speaks.
+Cassius Eloise Reed: "Well, I would say take anything from my stand. But I almost forgot. I was convinced by someone I care for... to make specific things for specific people... you being one of them."
+As he reaches underneath the booth as he pulls out a sort of nicely made cloth thats wrapped around something as he places it on the booth desk and slides it in front of her.
+
+She tilts her head at Cassius' comment, perplexed by what he may be referring to.
+Memetta: 💬 specific things... for specific people?
+Memetta repeats Reed's words back at him, Solid Snake style, another unironically-effective manipulation tactic for building trust/rapport... and genuinely asking what he meant.
+
+The zealot stares down at the cloth-covered object Cassius presented to her, causing her to feel slightly embarassed.
+Memetta: 💬 Aww, is this for me-?
+💬 What could this even be though-
+She asks before promptly unravelling the cloth obscuring the object.
+
+Cassius sighs
+Cassius Reed: "Do not worry about it, Miss Memetta. Just take it as a gift from a comrade or ally—whichever you prefer." 
+As she unfolds the cloth, she will notice the cloth is actually attached to said item; said item being a mask and the cloth being a sort of strap for it.
+
+It is quite... no, it is very intricately carved. What is notable at first is... there are no eye holes. Instead, what replaces them are two closed eyes weeping... no, but there is also a smile on the mask, one of... a sort of happiness? No...
+What exactly is that emotion with that smile? Memetta would surely know. 
+And what rests at the top of the mask are flowers, almost like that of a crown, but with thorns intertwined with vines.
+
+Cassius Reed: "For the longest time, while I was creating such specific things, for the life of me I couldn't figure out what to do with yours."
+"But while I was doing one of my late-night rituals before I laid my head to rest, this came to mind; and before I knew it, it was morning when I was done with it. this was the outcome."
+
+For a moment, Memetta stares at the wooden mask in awe. Although she couldn't see the mask, her fingers grazed past its curves and edges, its grooves and details.
+Something about what this exactly is, it strikes a chord in the warden.
+
+Slowly raising it up, Memetta presses the mask over her face, the smile on it making her already look more joyous than she normally is. But with it covering her eye wraps completely— the flower girl manages to shed a single tear for the first time, without any worries of it staining the wraps and making its presence obvious.
+
+Even with these thorny vines decorating the mask like a crown, Memetta had to restrain herself as much as possible from sobbing. Even if it was quite ironic— the mere feeling of belonging, it hit her. And it hit hard.
+
+Memetta stays silent for a minute or two, maybe even three, as she gives herself time to calm down and let the tears dry up from her eye wraps.
+To Cassius, it may look like she merely stood in complete still silence for several minutes straight.
+
+Taking the mask off, she rests it next to her, sandwiching it between herself and the stole she wrapped around her waist.
+
+Memetta: 💬 I appreciate it, Reed.
+She says as casually as possible, trying her best to hold back the emotions.
+💬 I'll make sure to remember this act moving forward.
+
+She spoke quite formally, perhaps too formally. Realizing this, Memetta walks off before Cassius could question her further.
+... all while tapping the new mask on her hip, her new and first piece of contraband.
+
+Cassius Reed has performed a *BIIG Move*
+This action will have **critical consequences** in the future.
+
+Cassius stares as she walks away his body moves in a abnormal way for a moment something that isnt him before the way he stands returns to normal as he sits down as children come running along as some drag their guardians ect.
+As they point at the trinkets and masks wanting them as he starts speaking with the children guardians.
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
 
 #### Salt Rocket Archery
 Tags: Game Booth | Casual RP
@@ -290,6 +480,21 @@ Tags: Game Booth | Casual RP
 **Appearance Description**
 > Its a simple tent with mud tablets announcing the breakthroughs of a crazy man in big and bold words, inside the tent there's a table with with the prototype for the steam engine and a little rack with bows and arrows, (may have little trinkets to enhance the decor if i make the npc, otherwise its as described above) 
 
+Sean would approach the booth, not because he intentionally came here, no he simply wandered within proximity. His reason for being in the general area was simply because he felt a familiar presence he couldn’t put a memory to, it was too vague to identify. So alas, he came to investigate, and now here he is!
+
+Sean: “…What a strange looking tent…”
+
+It was a strange looking tent indeed, matter of fact, it seemed like a regular shop from the town more than a booth for the carnival. Making things worse for the poor attempt at a booth was the fact there was little to no advertisement or decorations outside of some mud tablets with scribbles that didn't make much sense either.
+
+Inside? A table with a strange contraption and a stand with some bows and arrows and a crude bullseye. Alongside said items? Two men, one of them with burnt skin and ragged clothing paying more attention to a mud tablet he was working next to the contraption. The other, a simpler individual, approached.
+
+Ernst: "Yeah... I tried to get a good looking stand going but ehh.. ain't my thing.. and good old Ernst here is too absorbed in his work..."
+The man explained with a sigh and a chuckle.
+
+Ernst: "But lemme tell you... That doohickey he's got there? Real impressive.. though in my opinion? Our game's more impressive than... Uhh.. whatever old Ernst is up to.."
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
+
 #### Arm Wrestling
 Tags: Game Booth | Casual RP
 | Roleplayer | Akiro |
@@ -303,6 +508,293 @@ Tags: Game Booth | Casual RP
 **Appearance Description**
 > Older table but with smoother top for easy playing. It ain't decorated with anything much.
 
+A simple booth stood in among few others, this one looked rather "sad" it as just a simple wooden table, it looked like it is about to get wobbly any time soon but the surface looked polished. A someone must have polished it carefully.
+But it did not look sad at all, the coming people to it have been having fun! Some watched and some just joined the game! Perhaps you can too if you are not intimidated!
+A man with white hair and large horns was sitting behind the booth and arm-wrestled anyone joining. Some simply lost and some were so close to winning, Naeriel is not giving in so easily! 
+What about you? Gonna play?
+
+There is no award, maybe~
+But it is simply to have fun and maybe see your strength!
+
+Naeriel just finished wrestling a burly man, the man looked like he was strong but to Naeriel it was easy, he had to admit the mad got his breath held a bit but eventually - his hand hit the table.
+
+Naeriel stood up from the chair excited over his another win, "That's what I like!" He laughed before giving the man nod and waiting if someone else dares to step over for next.
+
+"So who's next?" He called out, determined and excited for another round.
+
+**Match 1: Nettle**
+
+Nettle had just finished setting up his booth (Filling up a bucket of sand). And was exploring the rest of the fair when he spotted Naeriel's. Upon hearing his challenge Nettle ran up excitedly like a little kid. 
+
+Peter Nettle: "Me! I want next!"
+He said raising his hand.
+
+Looking at the calling out voice with smug expression, he smirked and nodded.
+Naeriel: "Brave! I like that. Come over here then."
+He called out, excited that another person showed up for his challenge.
+Naeriel motioned with his hand to the open spot at the front of the desk.
+
+Peter: "I don't think I have enough sense yet to be brave. I think I'm just stupid."
+He said as he slid into the seat in front of Naeriel.
+"Wowie you're tough looking guy aren't cha?"
+He set his arm on the table.
+"It sure does look like an uphill battle from here!"
+He said looking up at Naeriel.
+
+Ayumu: "This should be interesting"
+The vicar-in-disguise takes a sip from her wooden cup before setting it aside on a nearby stall. With it emptied out, she approaches the worn-down table and eyes Naeriel and Peter.
+She first glances over at the white-haired archkin while pondering to herself...
+Ayumu: 'The Crystalline Memoriam Keeper of An-Tri'Fhiana... still active, but... obviously no longer fulfilling his duties.'
+'him still being around does open more options later...'
+'but that one...'
+
+She then seems to almost glare at Peter's direction. Her experiences signal several warning signs, but nothing external or obvious seemed wrong, placing an uncanny valley of thoughts regarding the 'sand barer'. 
+She refrains from giving a clear thought, as per her training instructed.
+
+Ayumu: "I have a hunch on who'd win this... but I'd still like to see."
+Ayu comments while leaning on the pillar of a nearby stall.
+
+Naeriel raised his eyebrow at this person, finding him bit strange with his cheerfulness. But he decided to assume it on that the person looked young.
+Naeriel: "Alright young man, no grabbing with the other hand or pulling. You may sit or stand."
+He said with nod.
+Naeriel leened down to begin, offering him to take hold of his hand in the grab hold.
+
+A smile formed on Naeriel's lips when Peter began to use his strength, it did not much effect Naeriel. He felt the strength but he wanted to see more.
+
+Naeriel: "Come on, kid. You can do more."
+He taunted, waiting to see if he will take the bait and show more or chicken out.
+Peter Nettle: "Heh... I'm not even trying yet!"
+"I'm trying so hard right now, I think I dislocated something."
+
+Naeriel smirked widely at that, seeing Peter keep his cool gave him slight admiration in the younger man.
+Naeriel: "Then show me what you got!"
+He raised his voice at Peter. Taunting him some more.
+
+Naeriel still held their locked hands together tightly still in starting position as they were. There was slight tremble in the hands pushing against each other.
+Watching the match go on, Ayumu seems to take notes on the two's technique.
+
+Nettle was smiling on the outside but screaming internally as he could feel his tendons being stretched to their limit. 
+
+He should conserve his energy he thought. Go for the long game.
+Peter Nettle: "I can barely feel anything on your end!"
+"why did I say that. I'm so dumb. I'm dead."
+
+Naeriel raised eyebrow when he saw the slight inner feeling in Peter, it made him feel bit amused. Naeriel decided to ease on his own strength to let Peter bit let the inner holding out, worried he could pass out. He began to ease on, letting Peter overtilt his hand but still keeping it good inchest above the table from touching.
+Naeriel: "There is something in you, come on!"
+
+Ayumu: "... is this guy an idiot-"
+She mumbles beneath her breath before pondering something to herself.
+Ayumu: 'saying that to the Crystalline Memoriam Keeper himself...  he's lucky the archkin's been memory wiped.'
+
+Something that sounded like a balloon deflating seemed come from Nettle as he was somehow gaining ground against someone around twice his size. 
+
+Peter Nettle: "My fingers have gone numb-I mean bring it on!
+"please don't bring it on. I like this arm. I want to keep it."
+
+Smiled widely at him, not entirely staring him down but some people from the smaller crowd gathered around may assume it.
+
+Naeriel: "Brave boy!" Naeriel let out short laugh.
+He began to push with his strength, his grip like iron around Peter's hand. Not even noticing if it even still kept normal color...
+
+Nettle was feeling faint. He knew he was going to lose. There was no hope left. His skin was somehow getting whiter as the blood from his arm was getting drained. Oh if only there was something he could do to somehow turn the tables.
+
+Oh wait.
+There is.
+Peter Nettle: "Throw Sand In Your Eyes™"
+He said calmly. While throwing said sand.
+
+Ayumu: "... he did NOT just-"
+
+Naeriel did not have much time to even dodge, all the sand got into his sensitive eyes, he had already issues with eyes as he has not slept for days, the resting nights with them just closed so he won't fall asleep was barely something.
+His Polycoria eyes teared as he clutched his eyes. 
+There were probably few shocked gasps from bystanders.
+Nettle felt the tension loosen before Naeriel's arm is slammed down the table with the wails of Peter crying out in pain. 
+
+Peter Nettle: "WE WIN THESEEEEEE!!!"
+He said, after winning in the most dishonourable way possible.
+Watching Naeriel tearing up. He responded gently.
+Peter Nettle: "As the winner, I'll take the table as my prize."
+
+He grabbed the table under Naeriel and then bolted away like his life depended on it. Because it probably did. 
+Peter Nettle: "Bye have a great dayyyyy-"
+
+Naeriel: "Fuck- YOU LITTLE BASTARD!"
+Naeriel called out, he wipped them but it was not much help. When his hands felt around and noticed the table is gone, his jaw gritted in rage he has been patiently holding FOR LONG TIME Since flying from Sweltertops.
+
+Naeriel's voice disorted into deeper one as his body began to change into large black scaled beast. He roared and ran after him, using his additional eyes in his neck fur for navigating after Pete.
+
+Naeriel: "I WILL TAKE YOU ALL THE WAY TO THE SWELTERTOPS AND DROWN YOU IN THE FUCKING SAND WITH MY OWN LEGS AND THEN FEED YOU TO THE CINDERPEDES!"
+The archkin dragon roared as he ran after him. He was making sure to not knock someone over or step on anyone or destroy something, but his rage was too much that he for sure must have knocked few people over with his large body. His loud raspy and hiss voice rang through the air, certainly bringing gazes on him but that was the last thing he cared about.
+
+`Nettle made a note to make up for this in the future.`
+However not dying was his first priority as he screamed in horror at the man, turned dragon, promising his demise.
+
+---
+
+Naeriel soon after returned with the table, he flew over from across back to his spot. He took back the table. Willingly or unwillingly from Peter, it did not matter.
+He landed down and set it back. Before leaving close by just to wash his eyes out from the sand.
+
+It took him good maybe almost half hour to get all the grands of sand out of his eyes. He was cussing the whole time, not nice to hear.
+His white hair got damped from the water but he easily slicked it back and brushed his clothes clean. He still acted noble as he always did.
+
+Then Naeriel walked back with even bigger frown.
+Naeriel: 'Should have not come here, these humans piss me off.'
+Was enough for him to think in his head. He stepped over to his now table that was bit scratched from his claws but he had no time to polish it again.
+
+Ayumu: "... what the hell was that-!?"
+
+Cassius continues to walk around the festival as he stops and looks at this booth
+Naeriel looked angry but slowly lesser and lesser, he then looked at the masked man with antlers that stopped and looked over. He gave him a less angry glare.
+
+**Match 2: Cassius**
+
+Naeriel: "Want to armwrestle?"
+He was leaning with his both hands onto the table, as if pinning it down just in case certain someone would show up again for his table.
+
+Ayumu: "don't kill the old man now"
+She mumbled to the archkin before subtly thinking to herself-
+'I still need him for something...'
+
+Deep within Cassius, she still remembers the piece of her spiritual metal she shoved into his fissures. She wonders if it's grown since by now.
+
+Cassius seems to look at the archkin.
+Cassius Reed: "you willing to retrain yourself for this old man? I do not need my arm snapping."
+The way he says it almost seems at an attempt of a joke? as he moves up to the table 
+
+Naeriel would narrow his eyes, judginly by the girl's words. He frowned a bit before letting a hum, it was not brush off but just slight.
+Naeriel: "I heard it"
+Just to let her know he will... maybe keep the comment in-mind.
+
+Naeriel then turned back at the older looking man. He did not get the joke, he was not good at jokes. Or... maybe he was just humorless as always. Classic Naeriel...
+
+Naeriel nodded at Cassius when he approached the table.
+Naeriel: "Brave, you are ready to test your strength?"
+He stepped closer to the table himself but not offering hand yet.
+
+- The two proceed to have their arm wrestling match
+- Somehow, although it's unsure whether or not he intended for it, Cassius beats Naeriel "fair and square".
+
+Naeriel: "Agh- You win!"
+He said loudly for others. Despite losing he smiled widely with determination. Who knows maybe this booth is just him trying to get rid off his bad egoistic personality.
+"There is no prize, the only prize maybe is the fun."
+He straightened from the table, placing his hands on hips.
+
+Cassius seems to slightly chuckle as he looks the archkin in the eyes.
+Cassius Reed: "Well. Fun isn't the word I'd use entertaining, maybe."
+
+Naeriel let out scoff, not mad or mocking, he just often does that, almost as if letting the hot air inside him.
+
+Naeriel: "If you enjoyed, it is the most important."
+He nodded off and took step back from the table to wait and see if anyone else is willing to join to armwrestle him.
+
+The vicar watched in disbelief as the watches the tyrant of old, somehow, lose to a mere feeble human. And with such grace at that. Especially compared to how he treated Nettle mere moments ago, Ayumu is left stunned at the sight.
+She personally had a hunch that Cassius' fissures may have had a hand at weakening Naeriel, hence why she was less surprised about the old man's victory.
+
+Ayumu: 💭 "what the hell happened to him since the memory wipe-"
+she thought to herself, while remaining in shock.
+
+His ego got hurt for losing as this was his first lose of today, to human and especially old man.
+
+But he let out a sigh. His expression was hard again, like always. It was not sour but it almost funnily looked like his eyebrows are just forever stuck in frowning. He stared for bit into space, almost as if he could see all through the market far beyond where his mind suddenly wandered but then he just scoffed with turn around.
+
+He rubbed his eye, maybe still some sand was there. He grunt at it before his eyes landed on Ayumu. Seeing her expression.
+
+Naeriel: "What?"
+He said, tone sharp. He stared at her for a bit
+"Who you may be?"
+
+Not wanting to cause a bigger scene than she should be, the vicar stays silent while taking her leaving— turning around before walking away from Naeriel.
+
+Ayumu: 💭 "if the archose in his body reacted to my metal, it might just raise more suspicions... best keep my distance before he challenges me."
+Ayu thought to herself before travelling to the ⁠Hot Air Balloon Stage.
+
+Naeriel would watch her leave. He frowned a bit at being ignored but he did not think about it much more further. He assumed them to be just mere traveler as others around here. 
+
+For now, maybe.
+
+---
+
+Kalayan: ❗ You!
+A booming voice yells out from the crowd towards Naeriel.
+Approaching the archkin, a large man with eyes somewhat similar to his makes his way. One could assume he was also an archkin— especially with the confidence he excluded.
+
+**Match 3: Kalayan**
+
+Dusting off his shoulder cape, he raises a hand before giving Naeriel a wide-grinned smile.
+Kalayan: 💬 Let's have a duel.
+
+Naeriel looked over, he was not shaken by the sudden yelling voice or person approaching over with fast stride over. Naeriel's crossed arms stayed over his chest as he looked at the man. Naeriel did not look much in hurry.
+
+The confidence made Naeriel excited and he smirked. He liked challenges.
+Naeriel: "Straight at it, I like that!"
+He yelled at the man back with wide grin, stepping over and resting his elbow onto the table to take the offered hand.
+
+Walking over to the table immediately, he presses it down while locking hands and eyes with Naeriel.
+Kalayan: 💬 Now... are you ready...?
+A glint shines in Kalayan's eyes. It seems he has something in-store for the archkin.
+It seems Kalayan has something else in-store for Naeriel, other than an "arm-wrestling" match.
+
+Naeriel looked at him smugly, his frowned down eyebrows jumped up for second before frowning again.
+
+Naeriel: "I am always, READY."
+He said confidently, maybe a slight bite of arrogance in his tone.
+
+Naeriel locked their hands together, squeezing his hand but not painfully. His hand was hot, but not because of weather or sweating. Just because of his inner flame around his heart that heats up when the passion is there.
+
+Kalayan: 🗯️ Now THAT'S what I like to hear!
+The archkin yells out as excitement begins filling his voice.
+As Kalayan's grip on Naeriel's fist tightens, a strange air of tension begins filling the atmosphere around the booth.
+Wind blows through Naeriel's hair as an almost-familiar sense of dread casts down over him.
+
+A sense of deja vu.
+Kalayan: 💬 Before we begin, you may call me Kalayan.
+💬 And today, we're doing something a bit more fun than just Armwrestling.
+
+While maintaining physical contact with Naeriel, Kalayan shapeshifts his body to form an eye on his clasped palm.
+From there, Naeriel starts feeling something strange. It was as if his very consciousness was being draggeg closer and closer to Kalayan, despite his physical body remaining in-place.
+Kalayan: 👁‍🗨 It's time you learned about Psyche Duels!
+
+He felt the slow rush of the tension run through him. His eyes glaring right at Kalayan, curious what this person has in plan. Somehow he hoped it won't be like what Peter did.
+But once he heard about doing something more fun than armwrestling, it filled him with thrill he has not felt for so long, maybe since Emberest when he hosted events in The Dunes for choosing men specially for his Legion.
+
+He remained silent but his smirk widened, a line on his face appeared from ho wide the smile was. Not happy one, but rather excited.
+
+The world around Naeriel starts growing darker and darker as his soul is dragged into Kalayan's psyche plane.
+
+Meanwhile outside, in the real world, it looked like the two large men were merely having a perfectly-normal, but intense, arm wrestling match.
+
+-[ Psyche Duel ]- 
+
+##### Kalayan's Psyche Plane
+
+As Kalayan drags Naeriel's soul into his Psyche Plane, the archkin would find himself in what seemed to be a caged arena stage as invisible lights blast down around him.
+One by one, crowds of faceless people fill the bleachers as roars of spectators fill this "pocket dimension" within Kalayan's soul.
+
+There, standing right before Naeriel, Kalayan can already be found bouncing side to side.
+Kalayan: 💬 I imagine this is your first Psyche Duel, fellow Archkin. Let me tell ya how this works.
+💬 Right now, your soul is within my soul, hence the term "Psyche Duel". Outside, our bodies are merely in an "arm wrestling" stance.
+
+Kalayan: 💬 In here, you can use your full capabilities with zero consequence. Any pain in here just tires you out in the real world.
+💬 The loser of a Psyche Duel merely gets them fatigued. Meaning, whoever wins in here, wins in arm wrestling too.
+
+Then, punching his fists together, Kalayan enters a boxing stance, as if unaware of just how much Naeriel can do within this plane if he truly can "go all out" and use his "full capabilities" with zero consequence.
+
+Kalayan: 💬 Any last minute questions?
+
+The shift in where he appears did not shake him much, it was almost casual. He looked around, his smile was gone as he eyed the faceless spectators. He did not question it further before he glanced at Kalayan. Maybe all the act out there in the market was almost like a mask, as he now stared at Kalayan coldly.
+
+Naeriel: "Zero consequences you say.."
+He lowered his gaze, shoulders suddenly making slight jump from his chuckling scoff.
+
+Naeriel: "Very well then, I suppose facing you in my actual form wouldn't be so fun or fair. And because it is more fun for me."
+He shrugged off, turning on his feet to face him. His voice was not harsh but it was surely different, almost scary how calm it was too.
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
+
+##### Return to reality
+(TO BE WRITTEN)
+Plot Twist: Time Passed Outside. Due to the effects of the Spirepocalypse, Psyche Duels no longer freeze time inside.
+
 #### Bone Stone Trinkets and Herbs
 Tags: Trade Booth | Casual RP
 | Roleplayer | Akiro |
@@ -312,6 +804,11 @@ Tags: Trade Booth | Casual RP
 **Appearance Description**
 > A wooden table with large hide on top, seemingly from a bigger animal like a dog or feline. Scattered around are little bowls in size a of palm made out of baked ceramic. Medicine is contained in these pots. Alongside that, being hanged and displayed on the table are trinkets made out of bones, stone, and hide.
 > The table is lowered, but not too much. It is not entirely on ground but in high of 120 centimeters as Aislinn is crouched down like a bird. (because she is a bird... heh)
+
+Aislinn has been crouched down, it was more comfortable for her like that, she had soft hide under her feet. She kept smaller scented smoke next to her she enjoyed, it were simple wooden sticks soaked in some scent that smelled like flowers and herbs and light up. Aislinn looked on passing by people.
+When interested person began to bargain, she bargain back on the price for a deal.
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
 
 #### Rattle Crafts
 Tags: Game Booth | Casual RP
@@ -326,6 +823,40 @@ Tags: Game Booth | Casual RP
 
 **Appearance Description**
 > A medium sized hut made of sticks and bamboo. Tall bamboo pillars create the supports, while the circular, centrally symetrical roof is created by small sticks. The booth has no walls, which allows one to easily enter it and exit it. The materials gathered for making rattles are secured in a wooden box guarded by the owner of the booth, and there are simple wooden planks placed around the booth to serve as improvised working spaces.
+
+Naeriel would walk over to where he knew Altarhea was having their booth. He came over bit grumpy and rubbing his aching eyes from washing them in nearby water from the sand.
+
+He was mumbling, voice low in hum enough to tell he was really pissed off.
+Naeriel: "Hey, got all set?"
+He asked, grunting before blinking few times to look where Altarhea, his other dragon friend, could be.
+
+In the meantime, the dragon was sitting in the shade of their own booth, recounting the materials they have gathered.
+
+They lifted their head up as they heard Naeriel's voice. It brought them back to reality.
+
+Altarhea: "You startled me."
+They snickered,
+"I got everything but the people."
+
+And they seemed quite disappointed by this. Naeriel knew why Altarhea set this booth up. It was all for him, the hunter.
+Altarhea: "...You? How's your booth doing, ringmaster?"
+
+Nettle would walk into the hut.
+Nettle would walk out of the hut because he did not want to get eaten by Naeriel.
+
+Naeriel nodded his head, it was not entirely a bow but he chuckled.* 
+Naeriel: "My apologizes for that startle then. You must have busy mind."
+He said, it was not a guess as he saw Altarheas disappointed expression.
+
+Naeriel approached over.
+Naeriel: "Well some tard decided to have a cool idea by throwing sand into my eyes and steal my table-"
+Naeriel's voice was raising in anger before he noticed a figure leaving quickly, he did not entirely notice who but he maybe had idea who it could be.
+
+His voice returned back to casual.
+Naeriel: "Give it a moment... The market is busy."
+He hoped it will give them at least some confidence.
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
 
 #### Prayer Chapel-Tent
 Tags: Game Booth | Casual RP
@@ -342,6 +873,200 @@ Tags: Game Booth | Casual RP
 > Tallow candles have been setup around the tent, alongside a small altar with more candles inside.
 > The place provides a calm corner of solace for anyone in need of a few moments of quiet from the chaos and noise outside. Since the tent is large enough for several people, Memetta's opted to call it a "Chapel-Tent".
 
+Cassius makes his way around the carnival eventually coming to a stop at the prayer tent as he walks inside and sits down as he breaths in and then out.
+
+???: pstt... hey... old shaman!
+Cassius: "Hmm?"
+
+Mak'hel: "Hey you, yes you, c'mere real quick"
+The convinct previously held in [⁠Newpoint Prison: "An odd hunter"] seems to have freed himself and hidden in the chapel tent. However, he's obscured his face for whatever reason while hiding himself in the back of the chapel.
+
+Cassius stares as he speaks
+Cassius: "Making an old man get up. How inconsiderate."
+He stands up and walks over
+
+Mak'hel shakes his hand aside, indicating he's in a rush.
+Mak'hel: "Sorry sorry, I just need to know, is the coast outside clear?"
+
+Cassius sighs as he moves over to peer outside the tent.
+Tool: 💢 "GIVE THE BIG GUY HIS MONEY BACK!"
+Kalayan: 🗯️ THAT WAS MY COIN, JUST COUGH IT OUT ALREADY!
+Mac: "GIVE THE KIND SIR CO-HIN BACK-"
+"... wait what's a coin?"
+Wynaquette: 💬 No idea, I just joined it cause this looked fun...
+
+[Nameless NPC]: 🗯️ WHAT'S A COIN!?
+
+Just outside the tent, four people seem to be beating up someone over a simple civil dispute.
+
+Although the coast wouldn't be considered "clear", the distraction is more than enough for someone to easily slip away.
+Tool: "hey uhh, Kal, you know you can just shapeshift another coin, right?"
+Kalayan: 💬 Well, I'm only here for a day.
+💬 Might as well have a bit of mischief since I won't be coming back anyway
+
+Cassius comes back into the tent
+Cassius: "I would not call it clear but you could probably slip away."
+
+The convict nods before taking his leave.
+
+Mak'hel: "Much much thanks, old man. I'll make your generosity worth it!"
+
+He leaves the tent, taking advantage of the chaos outside, before making his way back to the festival— seemingly heading back to the jail for some reason.
+Cassius walks back over to his spot and gets down on his knees as he lays his staff infront of him as he closes his eyes as he prays
+
+Staring up from afar, Kalayan the archgod watches Nariel chase after Peter. Kalayan couldn't help but snicker
+Kalayan: 💬 Oh hey, Narnar's still alive!
+💬 and he's stil an absolute tyrant. Aww~
+From the afar let threatening roar at Peter, his jaw snapped once when he got close to him but got Peter run from him again.
+
+Striding about the festival Winchester himself walks inside to escape the commotion. As he looks over his shoulder he sighs and promptly kneels.. surprising as it is for those who know him. He is not at all a man who prays.
+ 
+To top it off, despite the thoughtful and methodic enunciation of each sound, his "prayers" otherwise practically sound like complete gibberish. Even aggressive to some, like barking in a low whisper. Maybe another language? 
+
+Peter Nettle: ... 
+"...What is this place?"
+
+Walking into the Chapel-Tent, Nettle is left surprised by the surprising amount of detail put into the ornaments and fabrics inside. Each tapestry seemed to be stitched with different and alternating patterns, as if whoever made them tried to capture many beliefs at once— fitting for a culture who shouldn't have any memory of the past.
+
+Inside, Winchester is alone in deep solace.
+
+Peter wondered aloud. The dent on his head at this point had evened out somewhat. Although it still ached. As he was rubbing his head, that was when he came across the prayer tent. 
+
+An odd, almost eerie sense of familiarity washed over him as the tallow candles flickered in the slight gust. 
+He should run, he thought. Any risk of remembering his past... He couldn't bear the thought of it.
+But... His curiosity overtook him. At least that's what he thought as he walked in. Compelled by some sort of outside force.
+
+Peter ran his fingers across the tapestries. Taking in each detail before realising what this place was. A clumsy attempt to find God.
+
+At least that was what Nettle thought. He was surprised at himself at the sudden disdain he felt for such a concept. Or a person. 
+
+Is this what this place was for? To pray? To ask beings outside their perception for party favors?
+...No... It can't be that simple... He thought as he saw Winchester, a man whose knees were probably weaker than most, who was bent in the presence of some invisible deity Nettle did not know.
+
+...He was jealous...
+Nettle had no one to pray to.
+...
+Not yet.
+...
+Nettle began to clasp his hands together.
+
+Peter: ||"...Hey... I don't know who's going to be receiving this, but..."||
+"I...i don't know how long, any of this, is going to last..."
+"Everyday... I wake up, thinking that this dream is going to end.
+"All I'm asking for... not even for me..."
+
+Winchester speaks in the midst of his prayer, something coherent.
+
+Winchester: `That's how you felt, master?.. is this how it's done?`
+`...`
+Nothing. He prays to no one, and honestly feels nothing, but he tries to mimic the words of his master he heard for all those decades. The old man was never their greatest student, for most of their teachings fell on deaf ears. Or so they thought... he never forgot them.
+
+Perhaps it's too late to think about that now, but the time was now or never to honor them, he thought. 
+
+Nettle: "... master?"
+"Who may you be referring too?"
+
+> // Out-of-character behind the scenes, I (Rayzie) take control of Peter Nettle temporarily while Peter's RPer needs to role to take control back from me. This is a plot point that'll progress over time throughout the season.
+> // When I am in-control of Peter Nettle, I'll refer to him solely as "Nettle".
+
+Leaning forward, Nettle approaches Winchester, leaning forward to his side to catch the old man's attention... however, he does maintain some distance— as if trying to remain respectful.
+
+Nettle: "Could it be... you yearn for something in your past?"
+Nettle makes a slightly more sly face than usual. Although he still had a dent on his head from Naeriel, his fox-like expression seemed to peak a certain level of modest curiosity. Especially with subjects of the past.
+
+Something, anything, any discussion that would get him to remember and confront his own past. Either through recollection, relatability, deja vu— his eagerness over others' pasts seems... unnatural.
+
+Winn angles his face ever so slightly towards Peter, whispering with his eyes closed.
+Winchester: Without their ruthless treatment, I would be a quarter of a man I have become, if not at all.
+A brief response, before he goes back to looking where his palms rest on his knees.
+
+Nettle: "Hmm..."
+Nettle's interest grows as he leans in a little closer. Partially to hear Winchester better, but also to refrain from making the old man raise his voice more.
+"What... 'ruthless treatment' would they do to you, may I ask?"
+Deep inside, he could feel his soul rejecting and actively refusing his own words and actions. But his fate continues to seemingly recalculate itself.
+
+Winchester: Mmm... if theirs was a trial, this place is a test. When the continent welcomed me, I thought this was just an illusion. My punishment for failing.. everyone... my limbo. To repent.
+I had it coming.
+
+He sighs, vividly suppressing the desire to break down right there. Now was not the time for that.
+Winchester: I can almost... hear them now. Mm... their voice.. their song..
+
+Winn's eyebrows furrow in concentration. He's lost in thought.
+
+[Beyonder Roleplayer ownership transferring back]
+
+Peter: "...Their way of speaking... Their laughter when you told a stupid joke."
+Nettle. THE REAL ONE rubbed his eyes.
+
+Peter: "Their tears when they're sad. Their eyebrows when they're pissed at you..."
+He chuckled.
+"Hahaha..."
+"You and me, old man... We're not so different now, are we?" 
+Nettle wiped his eyes.
+
+Winchester: But, they had none. They were not, even,
+Human.
+Now if you'll excuse me.
+
+Winn prompty stands on both feet, wiping his robes.
+
+Peter: "...Oh my god I'm so sorry, I didn't mean to pry so personally."
+"I-I don't hold that against anyone if that matters. I was wrong to assume that... we're the same."
+
+Winchester swats at the air dismissively on his way past Peter, somewhat assuring him it's alright.
+Winchester: The man never really knows himself until his freedom is taken away.
+
+And with that, he exits.
+
+Nettle stood there for a while, taking what Winchester just said.
+`The man never really knows himself until his freedom is taken away.`
+
+He rambled on for a bit to himself.
+Peter: "I... It was just that I started remembering certain things. You know if my friend Noadi were here, she would really lecture me about-"
+He remembered.
+
+"no."
+"No."
+"NO."
+"NO"
+"NO"
+"NO"
+
+The candles around him seemed to make the shadows grow around him.
+This place of comfort suddenly became a nightmare for him as he tried desperately to stop remembering his past. Names started trickling through the walls that were keeping him sane.
+
+Noadi.
+Eli.
+Olive.
+Laerton.
+
+He banged his head against the floor.
+Peter: "...It was a mistake to come here..."
+
+He ran out, half crawling, half sprinting, running away from something he feared more than death itself. The dirt under his feet lifted against his shoes, flying towards one of the candles.
+Knocking it over. 
+The candle lit one of the tapestries on fire.
+
+Meanwhile, one of the tapestries begins lighting ablaze, fires crawling up the cloth as it ruins several of the intricate embroidered designs.
+
+???: 👁‍🗨 Divide
+
+Suddenly, the burning piece of the tapestry is slice off, as if space itself disconnected from the cloth. Then-
+
+???: 👁‍🗨 Subtract. Subtract. Subtract.
+
+One by one, chunks of the burning tapestry delete itself from existence. Until eventually— the fire's been dealt with, leaving only the tapestry cleanly-cut in half.
+
+... and with no one in the room to witness it.
+
+Peter Nettle has performed a *BIIG Move*.
+This action will have **critical consequences** in the future.
+
+> // For narrator/future Rayzie eyes only: Memetta used her Mathematics Actualization ability through her wandering Echo Caradels, indicating this is just... something she can do, use her Modi/Skills through NulGraven Caradels.
+
+(THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
+
+
 #### Food Court Booths
 Tags: Trade Booth | Casual RP
 | Roleplayer | N/A |
@@ -353,6 +1078,29 @@ Tags: Trade Booth | Casual RP
 
 **Appearance Description**
 > A bunch of booths have been set up around the hot air balloon specifically for giving away food, with some accepting trades for food instead. Many different-colored cloth covers blanket the surrounding town square as 
+
+#### Seaside Overlook
+Tags: Casual RP
+> Note: This thread has been opened WAY before the event started, serving as a "Casual RP Waiting Room". The transcript here will be detailing RPs that happened prior to Ode to HER Firmata, following datestamps.
+> Later on, this will be where The Spireknell attacks.
+
+##### Peter Nettle meets The Last Midwife (Febuary 3, 2026)
+(To Be Written)
+
+##### Cassius Reed meets Tool (Febuary 23, 2026)
+(To Be Written)
+
+##### Kafka Pondering to himself (March 7, 2026)
+Kafka sits by the shore, watching the shore's waves. Completely silent, thinking about what he saw that day in the water in his mind.
+
+> MEMORY: What was it, some native sea creature? The Midwife called it an Archkin, but even she didn't know what that was. A race, a species..? It looked like it was glowing.
+> 
+> RATIONALIZATION: You did get that one rainbow-looking fish before, K. Glow in the dark fish *could* theoretically be a thing here.
+> 
+> FIGHT OR FLIGHT: Y-you think it's a good idea to be here..? This is the last place we saw that thing, maybe it'll come out again, while we're all alone...
+> 
+> RESOLUTION: Our job is to stand guard here, right? *You* accepted this idea, you stand by it.
+
 
 ## Anullment of the Udyverse Decanoluzioned Timeline (B Plot)
 As the carnival takes place, vicar Aysa ventures above HER Firmata to the "Udyverse Timeline" in the Timeline Sky.
