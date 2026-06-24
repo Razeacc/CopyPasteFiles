@@ -3,7 +3,7 @@ title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
 last_modified: Jun-24-2026
-recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook
+recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook, New scene in Seaside Overlook of Peter being comforted by the Last Midwife
 status: draft
 ---
 # OVERVIEW
@@ -229,6 +229,7 @@ Prof. Besado: ❗ 💬 OH! Stultus! Nice to see ya~!
 "- before shit really hit the fan..."
 The science leader comments, regarding their previous initial encounter with Aysa during the "Coda Reprise" RP where Aysa attempted to "assassinate" Memetta to make it clear she isn't one of the Vicars, helping her disguise while sacrificing Aysa's disguise.
 Besado reaches up to call Stultus over and pat her feathers.
+
 
 - Stultus and Besado chat for a bit.
 - Stultus points out Winchester is "praying" over at the Prayer Booth
@@ -819,6 +820,33 @@ The middle of the tattoo start on Naeriel's chest began to light up, it was fain
 
 Without a word, Naeriel suddenly spread his arms from his sides, palms turned behind him. A violent burst of violet energy erupted from behind him, racing across his arms and legs to his feet.
 The surge launched him forward with force, closing distance with Kalayan. Right hand fisted to deliver direct punch to Kalayan's lower ribs.
+
+Altough he could've easily moved out of the way, Kalayan merely stands in-place, just like how Naeriel took all of his hits.
+Then- a blur, followed by an impact.
+Naeriel felt it, at least, he'd thunk he did. He felt his right fist hook onto Kalayan's torso as a gust of wind and kinetic energy followed-through. The invincible paladin's hair fluttered as well from the sheer impact of Naeriel's blow.
+
+Despite that, it seemed like Kalayan wasn't harmed. Although, he did seem to take a fatigued sigh for whatever reason, as if he did move— somehow.
+Kalayan: 💬 Nice try, but you haven't hit me yet~
+He acclaimed before thinking to himself-
+💭 It's true, he doesn't remember my cheat anymore, heh~ Alright then...
+
+Taking a step back, Kalayan starts bouncing side to side again.
+Kalayan: 💭 lemme teach him a beginner's cheat first, then let him discover my cheat on his own~
+
+Rapidly, Kalayan raced around Naeriel while encircling him.
+For how big this guy is, he moved uncannily fast. It was as if his true feat wasn't raw strength, but rather, *speed*.
+In short, Kalayan is fiction's most unnecessarily-buff speedster.
+
+Kalayan:🗯️ Here's a tip: You're in a PSYCHE Plane!
+🗯️ In here, you can enhance any of your actions using your archose!
+
+Running faster and faster, Kalayan extends his route. He dashes onto the caged arena's walls, his immense speed managing to exert enough centrifugal force to keep him stable.
+
+Kalayan: 💬 Give it a shot!
+❗ 🗯️ Hit me with a magic-infused attack!
+
+❗ Psyche Duel Technique unlocked: **Spirit Boost**
+> While within a Psyche Plane, you can add your SPIR stat onto any roll action. PHYS+SPIR for a punch, ALAC+SPIR in a dodge, etc.
 
 (This is where the RP ends off so far)
 
@@ -1442,6 +1470,29 @@ Right near the lower edge of town, next to Newpoint's main cliffside, a familiar
 midwife: "... dear? You seemed to have been cut up and soiled. Has something ached you so?"
 The last midwife mumbled beneath her cloak. The elderly thingamakin sways her head side-to-side as usual while trying to rouse Peter awake once more.
 midwife: "The fall you took just now made quite the ruckus; you could imagine my concern at this moment."
+
+Peter: "...No... I can't... I can't... get... close... to you, you all die in the end... I can't do anything about it... I can't do ANYTHING."
+He mumbled.
+"I can't. Do. ANYTHING." 
+"I. CAN'T. DO. ANYTHING."
+"I CAN'T DO ANY-"
+Peter jolted awake.
+"...Mom?"
+
+The elderly thingamakin couldn't help but give an amused response. She's seen such a sight of mental breakdown many times in the past during her many centuries keeping an eye on professor Besado from afar... Or at least, that's what her potentially-faulty memories seem to recall.
+Reaching down, she brushes the red streak of hair away from Peter's forehead so she may get a better look at him. Subtly, in a subtly-gentle manner, she also tried to brush any tears off his face without risking harming pride— if he had any in the first place, that is.
+midwife: "Take deep breaths, slowly but surely. In... and out..."
+"in... ... ... and out... ... ..."
+Although she didn't seem to actually breath any air, her body contracted and expanded up and down, attempting to mimic a human's breathing.
+"Next- look side to side. Stretch your eyes faaar to the left, then faaar to the right~"
+"Leeeft.... then riiiight.... left.... then right..."
+
+Her words slow down gradually as well, partially from getting tired, but also from hoping it'd help sooth Peter's temper.
+These destressing tricks of hers, they're something she picked up as well during her time keeping an eye on the science leader growing up; they were tricks used by the flower girl to appease the kissed one's descendant.
+
+midwife: "How are you now... more serene hopefully? Even if by just a little~?"
+She asked, with her typical and borderline-iconic side-to-side head sway.
+
 
 (This is where the RP ends off so far)
 
