@@ -2,8 +2,8 @@
 title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
-last_modified: Jun-20-2026
-recent_changes: Added Shop inventory, reply transcript so far, Additional Prologue prior to event, planned responses, Prayer Chapel-Tent, and Food Court Booths
+last_modified: Jun-24-2026
+recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook
 status: draft
 ---
 # OVERVIEW
@@ -790,6 +790,7 @@ Naeriel: "Very well then, I suppose facing you in my actual form wouldn't be so 
 He shrugged off, turning on his feet to face him. His voice was not harsh but it was surely different, almost scary how calm it was too.
 
 (This is where the RP ended off last time during the previous timeline overview)
+(Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 Hearing Naeriel's words got Kalayan to start bouncing side to side while still in his boxing stance. It was almost like a golden retriever dog starting to get the zoomies.
 Only here, it was a big buff white guy.
@@ -1094,6 +1095,32 @@ This action will have **critical consequences** in the future.
 
 > // For narrator/future Rayzie eyes only: Memetta used her Mathematics Actualization ability through her wandering Echo Caradels, indicating this is just... something she can do, use her Modi/Skills through NulGraven Caradels.
 
+(This is where the RP ended off last time during the previous timeline overview)
+(Please remind Rayzie to remove/move these after the next story recap/analysis)
+
+Peter Nettle bursts out from the tent in a crazed stupor. His head was twitching, looking left and right. Colors didn't look right; everything was either too dark or too bright. And sometimes, when he blinked. He saw something that he couldn't fully comprehend. 
+But it looked like white lines. White lines on gray walls. Those lines.
+
+What did those lines mean?
+
+And then suddenly, he tripped. 
+
+He fell down a hill and started rolling, his skin getting cut by sticks and sharp stones. 
+Down and down he went.
+
+Until he went over a cliff.
+...
+...Looking up, barely hanging on to the edge of the cliff. He saw daffodils. Blowing through the wind. Peacefully. Through the starless sky, and up into the clouds.
+He wondered if this was the last thing he was ever going to see.
+
+A few people might care if he was gone.
+Would that be enough for him to save himself?
+
+?: "... hello? Dear?"
+[This scene continues in the Seaside Overlook]
+
+---
+
 (THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
 
 
@@ -1115,10 +1142,286 @@ Tags: Casual RP
 > Later on, this will be where The Spireknell attacks.
 
 ##### Peter Nettle meets The Last Midwife (Febuary 3, 2026)
-(To Be Written)
+Peter: "..."
+"...It's so quiet..."
+"..."
+
+midwife: "Indeed, it so..."
+a gentle mumble calls out next to Nettle.
+Shifting her head side to side, the thingamakin elder continues mumbling.
+"The Spire, it's most visible from this cliffside. A clear shot to that pillar of light, we're almost at the end of our journey."
+
+midwife: "Are you excited?"
+She mumbles, turning her head to subtly face him now. Although completely darkened by shadow, it's still clear what her mood was at the time.
+
+Peter didn't reply at first. Instead feeling his hands against cold sand of the beach. Feeling each tiny grain on the tips of his fingers.
+
+Peter: "...Is that what you call the light over there?"
+He poured a handful of sand into the wind.
+"...What is there to be excited about? I just got here... How did I get here..."
+
+"...What is this place?"
+
+The last midwife's attention shifts back to The Spire as it continues beaming light up into the infinity.
+midwife: "You are what they call here, an 'Otherworlder', and it seems you are far from the lone victim of... whatever is casting you folks from your homes into ours."
+"No memory of how you arrived here? That's how us locals have lived for the past 20 years now, so they say."
+
+As her monologue continues, she takes a soft sigh while resting her shoulders beneath the darkened cloak. She's clearly aged, even for her kind.
+midwife: "For us natives, we believe The Spire holds all our stolen memories. While for you, Otherworlders, that's where you all fell from."
+"So, is it naive to believe that's where we all wish to go? For our truths and your freedoms?"
+
+Peter: "My... freedom?"
+Nettle would look at his hands. 
+"It would seem as if my memory is just about the same as yours. For I too remember sparse about my life..."
+
+He dug his feet in the sand.
+Peter: "Although I do not know if such knowledge would grant me the freedom you say."
+He held out his wrists. 
+"Do I look like I am in chains to you? Do I not have my freedom now?"
+"...Would you like a seat beside me sister?"
+He patted a spot next to him.
+
+While inspecting his hands, the midwife seems to take a keen and long interest on the appearance of his wrists, as if inspecting it deeper than he may expect her to.
+
+midwife: "My sight says you do have freedom... but my experiences tell otherwise."
+"It's... hard to explain, my apologies..."
+She does move over to sit closer to Peter, her large dusty figure almost towering over him thanks to the two prongs under her hood.
+
+midwife: "Although, you should care little about any chains on you. There is little to fear in this world. You're safe here, patriot."
+
+Peter: "Whatever I did fear I struggle to remember. Nor do I want to..."
+He stared across the horizon. Watching a wave far in the distance form.
+
+Peter: "...Does it not frighten you sister? What you might... remember?" 
+He rubbed his hands to together for warmth.
+"While I was sitting, I was wondering what kind of person I was. But then I thought to myself; why should I wonder? Wouldn't it be better to figure it out instead?"
+
+Peter: "I'll be honest with you sister, I'm afraid from what I might find out if I started wondering again. I cannot help be think that this might be... A new beginning for me." 
+"I do admire you sister. You are much braver than me when it comes to these things."
+
+"...Why do you call me patriot?"
+
+midwife: "Oh, you're mistaken. In my case, I lost nothing from the memory wipe. I gained my sentience following it, somewhere around 50 years ago, or so, that's how long it felt..."
+Facing back to around Nettle's position, the last midwife continues—
+"Instead, I wish to venture to The Spire for... other purposes."
+
+Then, the thingamakin listens to and hears Peter's own words, his feelings somewhar reflecting her own from long ago.
+miwdife: "Friends from new beginnings, that's what my companions from old roots used to call myself. As such, I pass the expression forward~"
+
+Peter: "I'm afraid I do not have any expression to pass back from my roots. "Sister" is the best that I can come up with."
+Peter Nettle then recalls what the last midwife said just now: `Instead, I wish to venture to the The Spire for... other purposes.`
+"...Do you seek the eternal rest sister?" 
+
+As if caught off-guard, the thingamakin responds with... curiosity.
+Tilting her head forward, she mutters
+midwife: "... so you heard?"
+"my original patriots, they ventured to The Spire long ago towards a place they called "The City behind the sky". Whether that is true, or mere codespeak, I wish to uncover myself, before my final moments."
+
+Peter: "I'm sorry if I intruded, but from the way you spoke it did not seem to of one with much fire left in your bones."
+He looked up and down at the Midwife. 
+"Or, whatever that is that holds you together."
+
+Peter: "Are you the last of your patriots? If so I can hardly imagine it, being the "Last One". The only person left to remember all the good and bad your people had done. To have the burden of culture solely on your shoulders. Being doomed to reminisce alone... For eternity... Because the only people who could ever reminisce with you are dead."
+At the end of his 'imaginings' you would notice him shaking. Gripping the sand under his hands.
+"...But like I said! I can only imagine." He turned away from her to hide a tear on his face. He did not know why it fell.
+
+Responding to Peter's first question, the thingamakin nods slowly— wordlessly highlighting her aged form.
+midwife: "These feelings you reflect unto me, I fear you're merely burdening them off yourself, boy." She raises a dusty hand from beneath hear cloak, reaching it forward to par Nettle on his head.
+"I've accepted the longing many years ago— long before your folk fell from that bridge." Her words sounded softer, almost as if she was attempting to comfort Peter.
+
+While rattling her own head side to side, the last midwife continues.
+midwife: "Deal not with emotions you cannot understand. Let yourself live free in ignorance from them, do not chain yourself to suffering."
+"You do not deserve that, I am certain."
+
+Peter: "...But what if I do?"
+"..."
+"Would you still comfort me then sister?"
+
+"Or would you treat me as the monster I might have been?"
+"How could you be so certain of things not even I am not aware of?" 
+
+Peter turned his head staring directly into the dark circle of the midwife.
+His eyes almost seemed to form slits across his puipils from top to bottom, but they did not yet open. 
+Peter: "...Would you fear me?"
+Nettle seemed to shock himself with his own question, his eyes turned back to normal and quickly turned away from the midwife. 
+"I-I'm sorry. I didn't mean to-to..."
+No words seemed fit to amend the situation.
+
+Before Peter could fully disconnect from the situation, he's suddenly pulled closer to the elder thingamakin.
+Wrapping her arms around him, Peter could feel the uneasy cold of her person. But the cloak, wrapped up around her, and now on him— that provided warmth.
+
+midwife: "The midwives, the true ones, the ones who walked these lands many decades ago..."
+She begins rambling, shifting her head side to side once again in an almost hypnotic manner.
+"I swear, I remember it. As a young beast, I saw them save the people of these lands from the memory wipe."
+
+midwife: "Human or archkin, machine or monster, they took away and safeguarded them all."
+She then turns her head to Peter before finishing.
+"If I turned you away now, before even getting a chance to save anyone myself— can I truly bare the title of a Midwife the same way they did..."
+
+Peter Nettle froze in her embrace. Unable to process what she was doing. He realised, at that moment. Out of all the memories he could have had. The one he had to remember was one of his saddest.
+
+He had never been hugged before. He knew what it was. But he only ever watched from afar.
+
+The tears fell from his eyes as he felt a warm unfamiliar sensation spread throughout his body. He lifted his arms, unsure of the movements involved when it came to hugging someone back. He was almost afraid of doing it wrong as he wrapped his arms around the Midwife.
+
+He let out a long shivering sigh.
+
+Peter: "...Can I call you mom?"
+
+A momentary silence befalls her for a moment as thoughts rush through her mind like a wilfire. The risks and safeties of either possible response carried weights and bounds against one another. Knowing whatever she had planned soon, and understanding what feeling Peter could be going through, she found herself on the crossroads of two fates, where neither path has yet to be scripted.
+
+Tilting her head to the side, she responds in solemn tone
+midwife: "For as long as I walk these lands: Yes, you may..."
+"But do know, if I ever am to reach the end of my story, you will carry on in my stead. Hold fast your heart, is that clear?"
+
+Nettle hugged her tighter.
+Peter: "...No... But I trust you..."
+
 
 ##### Cassius Reed meets Tool (Febuary 23, 2026)
-(To Be Written)
+A gentle humming can be heard as Cassius sits with his legs crossed watching the sea and the spire and the sky as his staff along with his mask sits beside him as he gentle runs his hand through his waist-length beard
+The birds that are usually on the antlers of his mask are laying in his lap asleep as he continues to hum almost like a lullaby
+
+?: 💬 hmm... that song sounds familiar...
+
+Cassius stops stroking his beard as he moves his head a bit to pin point the voice as he continues humming the lullaby.
+
+Tool: 💬 ... suh...
+The timeless man can be seen leaning on a piece of rock overlooking the cliff, just above Reed, who reaches over and puts on his mask before speaking in a somewhat quiet tone
+Cassius: "Greetings."
+As he looks down at the birds on his lap.
+
+Tool seems a lot more somber this time than his previous encounter.
+Tool: 💬 Hmm, like watching the sea here, old man?
+Cassius: "The Sea, The Spire, The sky. Mostly The Sea."
+He looks towards the Sea as he speaks more 
+"who wouldn't. Most don't take in the beauty of life like I do though. I see it far more different compared to most."
+
+Staring out at the ocean as well, Tool stares down beneath its waves— the quiet waters that border the calm waves above. It's almost therapeutic, needlessly explaining why Reed was gazing down upon it as well.
+Tool: 💬 Hmm, I bet you'd wanna dive down there yourself one day, right?
+💬 Almost like something is calling for you beneath waves' abyss.
+
+Cassius: "If only. But even The most calmest of waves can be dangerous and deadly."
+He pauses then speaks again.
+"Much like the call of anything. The call of the Sea may be alluring but doesn't mean you should follow it."
+
+Loud ugly crying from Peter can be heard in the distance.
+
+Staring down into the waters as well, the honorary vicar takes a huff.
+Pulling a large smoking pipe from his pocket, he puts it up to his mouth. As he inhales and blows into it, bubbles begin popping out from the end of the pipe.
+
+Tool: 💬 Hmm... have you tried answering the sea's call to you, at least?
+💬 I know I can't, but... I 'unno, something tells me you got a lil sumfin different 'bout ya.
+Tool mumbles while eying Cassius up and down, focusing mostly on the fissures covering his outfit.
+He then looks behind Reed, seeing Peter sobbing near the other end of the cliff.
+💬 Hmm...
+
+Tool: 💬 I wonder...
+He begins pondering and questioning himself, or rather, what exactly Peter could be.
+Ever since he saw him fall from The Spire, he's sworn he's seen something umistakably odd with him, but he couldn't pinpoint what was it about Peter he saw exactly.
+The feeling was akin to seeing double-vision, doing a double take, but seeing nothing weird on the second take. Tool swore he saw something, but doesn't know what.
+
+Cassius closes his eyes and breaths out then in. Then he speaks.
+Cassius: "telling me to jump into the sea are you?... Maybe it'll work. Maybe ill finally get a few answers. Just maybe."
+
+Suddenly realizing what his words may have implied to Cassius, the timeline jumper immediately stands up and waves his hands around in a dismissive manner.
+Tool: 🗯️ *WOAH WOAH WOAH WAIT Wait-!
+💬 Let me tell you something-!
+
+Cassius Reed then suddenly starts speaking weirdly no. Its a rhyme?
+Cassius: "They say the dead don’t sleep at night,
+No gentle dark, no fading light.
+They do not rest in quiet keeping
+They wake in shadows, always weeping.
+Always crying, soft and low,
+With questions no one dares to know.
+Forever trembling in the air
+Unanswered, endless, and afraid."
+
+Tool first waits for Cassius to finish his own words first before adding his own additional thoughts.
+Tool: 💬 Those... words... wait, they almost sounded familiar...
+💬 E-either way... It's not your time to join those restless shadows just yet.
+💬 Perhaps there'll come a time where we can all venture down there together. But for now, m-maybe just... keep away from those deep depths, a-alright?
+
+That rhyming pattern, he's sworn he's heard it before, from something long ago. That style of speaking, it was almost like he was talking to a skribble again.
+Specifically, one that still had the privilege of speech in the first place. One he met back in Outpost 7 when he was little. Wasn't it accompanying a smaller archkin, Archie was their name, wasn't it?
+
+Cassius: "I joke. I am not that.... naive? Stupid? The Sea is not a place to wonder alone it is a ever swallowing abyss that one must be careful when they traverse it."
+He talks as if he knows it personally? But that wouldn't be right.
+
+Tilting his head to the side, Tool pulls out a collection of papers that awfully resembled Cassius' journal quite closely. Whether it actually is his journal or not has yet to be determined.
+
+Tool: 📘 💬 You mean this journal?
+Reed looks as he speaks.
+Cassius: "why am I not surprised."
+He seems rather calm about it and unsurprised.
+
+Tool then opens up the "journal", pretending to read through it right in front of Cassius.
+He skims from page to page, moving his head up and down as he briskly "reads" through "everything he's written".
+Tool: 💬 Wow oh wow, look at me~ Reading through all of your deepest and darkest secrets, oOoo~
+💬 Aren't ya gonna do sumfin 'bout this~? oOoOoo~
+
+Cassius: "what secrets? All you'll find in there is all my adventures and anything ive found or discovered if had any secrets I wouldn't write them down. Though I do highly doubt its my journal but you never know people are always strange."
+
+Tool: 💬 .  .  .
+As Cassius takes a peak of his "journal", he'd find all the pages were actually blank. Tool just so happened to have a perfect replica of the notes' cover on-hand, somehow...
+💬 Heh, you're a smart one, I'll give ya that~
+💬 I couldn't charge people for your secrets if only you know about 'em after all~
+
+Giving a light chuckle while tossing the notepad into the seas, the intel merchant picks himself back up.
+Tool: 💬 Speaking of, gotta head back to work...
+💬 Got any questions you'd want answered before I take off? Remember, gotta pay up too, heh~
+
+Cassius points towards the fissures on him.
+Cassius: "You never did answer about this though I don't exactly have anything on hand to give you for payment."
+
+Looking down at the cracks on Reed's person again, a mischievous smirk forms on Tool's lip.
+Tool: 💬 Heh, **Fracturing Fissures**.
+💬 You'd need to offer up something really valuable for this intel, unfortunately~
+
+The old shaman seems to stop and think.
+Cassius: "... Would my face suffice? I hide it for a reason you know.... well I really don't know the reason its just instinct as if I am supposed to hide it... of course naturally I usually wouldn't but. I need information."
+
+Somehow, Reed's persistence on wanting his information managed to shake the intel broker slightly.
+Tool hesitates for a moment.
+Tool: 💬 What... makes you so... sure... of whatever I'd have to say-?
+💬 Surely the privacy of your face isn't as valuable as whatever some shady guy has to say, r-right?
+
+Cassius tilts his head and stares and stares. I mean Cassius eyes are there clear as day completely cyan far from normal yes but... something feels off it doesn't feel like a singular pair of eyes stareing it feels like many as there is a quick flash of red on all of the fissures as they return to normal and he speaks
+Cassius: "Well. Would you lie to your customers?"
+
+Tool pauses for a moment, debating whether or not to answer.
+That red flash in particular, it only seems to confirm his suspicions.
+Tool: 💬 No...
+💬 Especially if my customer was a *corpse*.
+
+Cassius closes his eyes and speaks one word "was." As he speaks again
+ 
+Cassius: "Meaning I was brought back from the dead from at least the memories I do have the only people who would have that power would be......hmmm." 
+He turns and looks towards the sky.
+"Unless you intervened or. Well."
+He looks at the staff.
+"Unless you brought me back. Sadly more questions needing answers."
+As Cassius reaches to grab the mask on his face.
+
+Proper confirmation was still needed by the honorary vicar.
+Before Tool said another word, he turned his head slightly to at least wait and see what Cassius' face truly looked like.
+He pulls off his mask off and looks at Tool. After getting a good-enough look, Reed puts it back on.
+
+Taking a good look at Reed, the intel merchant gestures the shaman to put the mask back on.
+Tool: 💬 Those fissures on your face...
+💬 I'll admit, I've never seen that before.
+💭 or... maybe I have, and it's just been a while-? Whatever...
+
+Turning his body back to face Cassius, Tool continues.
+Tool: 💬 Fracturing Fissures normally only form on inanimate objects.
+💬 So, either: You died, had fissures form on your body, and were revived.
+💬 Or: Those fissures, somehow, consider you a corpse.
+
+Reed seems to be deep in thought as he speaks.
+Cassius: "This information is.... helpful. I thank you."
+As looks out at the sea.
+
 
 ##### Kafka Pondering to himself (March 7, 2026)
 Kafka sits by the shore, watching the shore's waves. Completely silent, thinking about what he saw that day in the water in his mind.
@@ -1130,6 +1433,20 @@ Kafka sits by the shore, watching the shore's waves. Completely silent, thinking
 > FIGHT OR FLIGHT: Y-you think it's a good idea to be here..? This is the last place we saw that thing, maybe it'll come out again, while we're all alone...
 > 
 > RESOLUTION: Our job is to stand guard here, right? *You* accepted this idea, you stand by it.
+
+##### The Last Midwife comforts Peter Nettle (June 24, 2026 | first event RP in this location/thread )
+?: "... hello? Dear?"
+
+Right near the lower edge of town, next to Newpoint's main cliffside, a familiar figure was hiding in the shadows of the larger cliff. She watched both the carnival and Spire simultaneously before being interrupted by Peter tumbling down before her.
+
+midwife: "... dear? You seemed to have been cut up and soiled. Has something ached you so?"
+The last midwife mumbled beneath her cloak. The elderly thingamakin sways her head side-to-side as usual while trying to rouse Peter awake once more.
+midwife: "The fall you took just now made quite the ruckus; you could imagine my concern at this moment."
+
+(This is where the RP ends off so far)
+
+
+---
 
 
 ## Anullment of the Udyverse Decanoluzioned Timeline (B Plot)
