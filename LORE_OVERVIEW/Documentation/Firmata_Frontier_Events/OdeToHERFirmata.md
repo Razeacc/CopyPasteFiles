@@ -3,7 +3,7 @@ title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
 last_modified: Jun-29-2026
-recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook, New scene in Seaside Overlook of Peter being comforted by the Last Midwife, Continued Decanoluzion B Plot (NEO Timeline ending and beginning of NEO Timeline V2 scene)
+recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook, New scene in Seaside Overlook of Peter being comforted by the Last Midwife, Continued Decanoluzion B Plot (NEO Timeline ending and beginning of NEO Timeline V2 scene), added "Continuity Priority Explanation" to "Hot Air Balloon Stage" booth alongside further clarifying its details (High priority analysis).
 status: draft
 ---
 # OVERVIEW
@@ -212,6 +212,7 @@ The Mechanic and Appearance Descriptions were copy and pasted from the submissio
 
 #### Hot Air Balloon Stage
 Tags: Main Event Thread | Casual RP
+> Note: This thread takes priority over the others, being the "Main Event Thread". Use the RP timeline in here as the main/prioritying guiding point for the sequence of scenes in the other booths.
 
 While roaming around the hot air balloon, Ayumu spots Professor Besado eating a sausage on a stick while leaning on the balloon's basket.
 Tapping her foot with a makeshift sausage kebab on-hand, the science leader seems to be impatiently looking around the village, taking advantage of the stage's height, while eating her carnival snack.
@@ -219,7 +220,7 @@ Prof. Besado: 💬 where is he...
 "I need him to inspect those mythillium rivets he used on the balloon..."
 Besado mumbled to herself while waiting for Winchester.
 
-Unsure of what she may be doing, Ayumu walks through the stalls casually, making herself look busy or appear like she's window shopping.
+Unsure of what Besado may be doing, Ayumu walks through the stalls casually, making herself look busy or appear like she's window shopping.
 It seems she too is waiting for someone.
 
 Stultus, Winchester's pet mythillium-mutated owl, roams from one stall to another by her lonesome, stopping as she tils her head left to right all curiously before moving on to the next.
@@ -227,16 +228,135 @@ Stultus: "Huhu.. oo.. wassthat? Oh wow..."
 Prof. Besado: ❗ 💬 OH! Stultus! Nice to see ya~!
 💬 Thanks for saving my butt the other night again, we were really lucky that shadow guy left-
 "- before shit really hit the fan..."
-The science leader comments, regarding their previous initial encounter with Aysa during the "Coda Reprise" RP where Aysa attempted to "assassinate" Memetta to make it clear she isn't one of the Vicars, helping her disguise while sacrificing Aysa's disguise.
-Besado reaches up to call Stultus over and pat her feathers.
+The science leader comments, regarding their previous initial encounter with Aysa during the "Coda Reprise" RP where Aysa attempted to "assassinate" Memetta to make it clear she isn't one of the Vicars, helping her disguise while sacrificing Aysa's cover.
 
+Reaching up, Besado calls Stultus over while trying to pat her feathers.
+Prof. Besado: "Oh wait- is this your first time seeing the hot air balloon?"
+Ciela asked while tilting her head.
 
-- Stultus and Besado chat for a bit.
-- Stultus points out Winchester is "praying" over at the Prayer Booth
-- Besado gets worried he's with Memetta right now, before seeing Memetta over by Cassius' stall, the Mask/Trinket Booth. This calms Besado's worries.
-- Adrian, an Otherworlder with a leg problem, crawls over to the stage, approaching the hot air balloon.
-- Besado helps Adrian up and she begins pondering over uniquely-modern medical appliances used for lame disabled people, a side-effect of her fractured memories from all the previous Ciela Besados.
-- Winchester arrives shortly after
+Stultus: "Oh yes yes~! It's.. wow. Huge. To think that's what you flightless poor things need to mimic a fraction of our power."
+She cackles to herself, hopping closer over to Ciela.
+
+Prof. Besado: "Hmph- it's not our fault nobody attempted to create alterants with wings"
+the science leader grumpily claims before letting out a subtle chuckle. Then a friendly smile.
+💬 Anyways- have ya seen Winchestah? I need him to take a look at the bolts he fastened to the balloon.
+💬 I think they're coming loose-
+
+Stultus: "Oooh. I know! I thiiink.. he's..."
+Her head does a sharp 180 as she looks perfectly behind herself.
+"He's totally inside one of those silly tents, mhm. Master requested I leave him be when we came, y'see. So here I am! Now exactly where he is, huhu~..."
+"Totally not inside that prayin' tent, oh no. I never saw him pray before~!"
+She looks back up at Ciela, quite confident in her answer.
+
+Glancing over the houses, Besado spots the tent Memetta set up— sighing to herself at first...
+But then, she looks around again, and spots the zealot over at Cassius' stall. She breaths a sigh of relief.
+Prof. Besado: 💬 At least he should be fine...
+💬 Got any idea when he'd be back though-?
+
+As this happens, a man can be seen limping up the stage towards the balloon.
+Having spent much of his time crawling about the carnival grounds or being carried around by whomever was feeling generous at the moment, a man named Adrian felt compeled to inspect the hot air balloon.
+He had to be on it when it launched, and he would do whatever it takes to make sure it happened.
+
+Stultus: "5 to 10 minutes, he said. Though it's been longer... I hope he's back soon..."
+She sounds concerned, but brushes it off as she plucks her feathers.
+
+Before she could react to the owl's response, Besado's eyes looms over and spots Adrian making his way towards the stage. Curious, she keeps an eye on him for now to see what he does.
+However, her curiosity was easily bested by a single fact...
+Prof. Besado: 💬 Hey, mister...
+"Why are you crawling on the ground-?"
+She bluntly asks the wheelchair-lacking individual.
+
+To him it seemed like a silly question, head tilting for just a moment until he realized the woman genuinely didn't seem to know.
+He met the question cordially rather than with any spite, half-smiling while he explained.
+Adrian: "..Well. I am lame. I've never been able to walk."
+
+He was a meek fellow of meager size and weight, clad in a pure white robe. His skin is almost similar to that of snow, and his hair seems to gleam like gold.
+
+Besado tilted her head more before commenting-
+Prof. Besado: "Never been able to walk...?"
+The scientist echoes Adrian's words back at him, a common trust/rapport building trick she learned from Memetta.
+She pats Stultus down for a moment, signaling her to wait as she approaches Adrian.
+The owl obediently takes her place, talons disappearing beneath thick feathers upon where she sits.
+
+From there, she tries reaching down to help the man up.
+Prof. Besado: 💬 C'mere, up ya go.
+Adrian has no recourse for the woman's attempt to lift him up and onto the stage, though the movement seems painful for him. His face is contorted in a cringe as he is lifted, but he smiles through the pain in hopes she should not feel bad for hurting him.
+Once on the stage he exhales hard.
+
+Prof. Besado: 💬 If you want, I can try making something that could help ya move easier. 
+💬 Something like sticks you wrap around your-
+"- arms to prop yourself up."
+"Or a chair on wheels so you can roll around with ease..."
+"... although, without ramps around, you can't really move up or down anything either..."
+The scientist immediately gets into action, unintentionally thinking of making modern apparati used in disabled people to help them walk, all without any apparent memories from the modern day.
+
+Adrian: "..It's ah, it's alright!"
+He held his hands up and did jazz hands.
+"I'd considered getting one of those chairs, but, I can't travel in them. I don't really stick to one place, it's ah.."
+He seemed to stop, how would he word this?
+"It's ironic, but, I can heal wounds with my hands alone. Unfortunately it seems that my powers do not extend to myself, so I am cursed to crawl from place to place. I would not have it any other way though."
+He beams a smile up at the two.
+
+Adrian: "..It feels good to go and help people around this land, I'm grateful for it."
+He extends his hands forth so they may see, a glinting light extends from the center of his palms until it eventually covers the entirety of his hands.
+The light is bright but, oddly, doesn't agitate your eyes when peered into.
+"..And it's not like I'm always crawling, the people here are rather willing to carry someone as crippled as I from place to place."
+
+After listening to Adrian's explanation over his predicament, she's left somewhat confused at first. She was about to question why he insists on travelling despite his disability, but the science leader gets more intrigued by something else he mentions... then demonstrates shortly after.
+Prof. Besado: 💬 You... can, 'heal'?
+Besado seemed to stare deeply at the bright light in Adrian's palm. She keeps watching to see what it does, expecting it to eventually cover and heal his own body— before remembering he cannot heal himself.
+"How... does this-"
+💬 - ability work...
+She kept staring at the light, curious about its healing properties... if it could heal physical problems, could it heal mental ones as well— or perhaps even, psyche sicknesses.
+
+Adrian must've had this conversation  many times before for it to have become routine. Though, this never made it any less awkward for him. How do you explain to people that you have borderline magical healing powers of an origin you don't know?
+
+He cleared his throat, figuring he ought to answer the two half-muttered questions she had brought up while examining the light coming from his hands, which eventually dies down and ceases to gleam.
+Adrian: "..I can heal wounds, yes. Broken bones, bleeding of the innards, cuts and bruises; anything I can think about really."
+He scratched his nose, how would he answer the second question?
+"I'm not too sure myself on how it works, I was simply born with it. Figure I owe it to people that I should use this gift for something, right?"
+He tilts his head.
+
+An innately-magic user, a phenomena she'd have grown accustomed to by now with the variety of Otherworlders being cast off to The Continent. However, what made it odd is how Adrian was seemingly born with it, without any further explanation or understanding to reason it.
+
+For the science leader, magic was merely science that was yet-to-be-explained. This phenomena of Adrian's was clearly a case of hereditary mana being passed down for generations. Or perhaps archose beinf infused into his conception. Maybe even a rare case of him not actually being human, but never realizing it.
+In no time, the amount of hypothesis within Besado's mind bubbled up, causing her to see doubles as her mind scrambles.
+
+Adrian: "That's why, I ah, want to go on the balloon!"
+Noticing Adrian was still speaking, Besado forced herself to return to reality and process the rest of Adrian's words.
+She got a bit too excited with a mystery she could actually grasp and chip away at.
+
+Adrian: "With me there any injury could become almost without consequence! Instead of spending months with a broken leg like a lame horse, you could be up within a day! That's valuable, right?"
+
+Nodding away at the lame healer magician, Besado pivots her focus from "Why's" and "How's", to "What's".
+Most importantly:
+Prof. Besado: 💬 It is valueable, true, but *what are you willing to risk* being on there...
+
+Her analytical mind hones-in on the risks and counterarguments, seeing as how Adrian provided an opening statement and proposal already.
+Prof. Besado: 💬 While it is true you can provide healing, and I'm sure the other fliers later wouldn't mind helping you out...
+💬 I want to know how much you can avoid getting injured yourself, or at least, how much you'll try to avoid harm's way.
+💬 If someone's in danger, would you risk your life for them?
+A potentially-difficult question, but something that must be asked... just in case.
+
+Out in the distance the familiar silhouette emerges, Winchester making way. He stretches hir arms after a decent while of sitting in one place.
+Winchester: "Where has she gone?"
+His eyes dart to the air balloon.
+"Stultus?"
+
+However, before he could meet up with Besado-
+💥 B U M P !
+Memetta: 🗯️ AKh-
+The zealot is recoilled onto the ground as she bumps into Winchester, her body language indicating she apparently/seemlingly did not see him approaching.
+
+Out of the corner of Besado's eye, Memetta's red cloak seems to blur through the crowd as it bumps into someone that seemed to resemble Winchester.
+The red blur reaches up with her hands, hoping to pick up Winchester's.
+Memetta:💬 S-so sorry-
+A slight panic rises within Besado, but the scientist's currently trapped in a social scenario right now with Adrian. Leaving a disabled person right now wouldn't look good on her image as the Stone Society's leader. In fact, it'd look downright horrible.
+
+Besado grips her fist tightly as she hopes Memetta isn't dragging Winchester along somewhere. It's all she can do now.
+
+As soon as Memetta latched onto the Winchester's digits, she planned to yank him away from Besado, away from the scene, hoping to ask him something in private. At least, for a moment.
+
 
 (THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
 
@@ -465,6 +585,9 @@ This action will have **critical consequences** in the future.
 
 Cassius stares as she walks away his body moves in a abnormal way for a moment something that isnt him before the way he stands returns to normal as he sits down as children come running along as some drag their guardians ect.
 As they point at the trinkets and masks wanting them as he starts speaking with the children guardians.
+
+// (This RP Line was actually sent in "Hot Air Balloon Stage", but this is when it should most likely happen)
+Feeling Winchester approaching the town square, Memetta tries speed-walking faster to approach him from the side— hoping to bump into the old man in a manner that seemed "accidental" for someone wearing blindfolds.
 
 (THIS RP ENDS OFF HERE SO FAR, TO BE CONTINUED)
 
@@ -790,8 +913,8 @@ He lowered his gaze, shoulders suddenly making slight jump from his chuckling sc
 Naeriel: "Very well then, I suppose facing you in my actual form wouldn't be so fun or fair. And because it is more fun for me."
 He shrugged off, turning on his feet to face him. His voice was not harsh but it was surely different, almost scary how calm it was too.
 
-(This is where the RP ended off last time during the previous timeline overview)
-(Please remind Rayzie to remove/move these after the next story recap/analysis)
+> (This is where the RP ended off last time during the previous timeline overview)
+> (Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 Hearing Naeriel's words got Kalayan to start bouncing side to side while still in his boxing stance. It was almost like a golden retriever dog starting to get the zoomies.
 Only here, it was a big buff white guy.
@@ -848,11 +971,44 @@ Kalayan: 💬 Give it a shot!
 ❗ Psyche Duel Technique unlocked: **Spirit Boost**
 > While within a Psyche Plane, you can add your SPIR stat onto any roll action. PHYS+SPIR for a punch, ALAC+SPIR in a dodge, etc.
 
+Naeriel straightened his back as if the blow had never landed there. The strike he done did nothing. If the fight ended so easily, it would hardly be worth his time. He exhaled slight smoke.
+His cold gaze lingered on the spot where Kalayan had stood only moments ago, he made no effort to tract the blur circling around him. Let him run.
+
+Calm and utterly unbothered, Naeriel lowered his eyes before a quiet snicker escaped him at the taunting words.
+Naeriel: "You talk too much."
+He said, annoyance creeping into his voice like the glow on his chest.
+Without wait, his foot slammed into the ground.
+
+The impact thundered through the arena as a hand swished from Naeriel's side to his front. Jagged crystals erupted from the floor in a violent wave, bursting upward and racing across until it crashed into the far wall.
+A towering barricade of razor-sharp crystal split the arena in two, sealing off every path ahead. It was never meant to wound. But to close.
+The crystals felt scorching hot, steaming slightly as even the air around was too cold for it.
+
+Seeing the arena split in two, Kalayan suddenly stopped and hovered in mid-air as his back almost grazes through one of Naeriel's burning crystals.
+This feeling, such a familiar feeling.
+Kalayan: "He's really still got it, nice~!"
+An impressed look glimmers through his wide smile, enough to melt anyone's heart. It was the kind of smile from someone who thought the whole world he once knew was gone, only to find something familiar again, at long last.
+
+Naeriel slowly lowered his fisted hand to his side, a wide grin spreading across his face.
+Naeriel: "Stop running and face me!"
+His voice dripped with mockery.
+"What kind of boxer flees around like a frightened mad sheep?"
+
+His head dipped slightly as he peered through lowered lashes, a gleam burning in his eyes, silently daring Kalayan to charge at him with all his might.
+
+Clearly hearing the taunt, he takes the bait without hesitation.
+Kalayan: "YOU CALLING ME A YAPPER!?"
+The archgod yelled from above, his grin widening even further as excitement and challenge rush through his archose. Kalayan's body fires up, vibrating faster and faster as blue sparks of energy fly are barely-contained by his growing potential energy.
+
+Naeriel waited, he planned something, and Kalayan seemed not to catch on yet. He just now needed to be hit by that person as much as possible. It was not masochistic reason but entirely different one.
+
+As Naeriel seemingly stood there idle, Kalayan kicked himself off the air and lunged towards the draconic archkin with a flash of blue.
+Raising a right fist up, Kalayan shapeshifted his right arm to form a second fist, then a third, and fourth. In mere moments, the archgod has prepared a volley of several punches at once directed at Naeriel, blisfully unaware of whatever strategy his opponent had planned.
+
 (This is where the RP ends off so far)
 
 ##### Return to reality
 (TO BE WRITTEN)
-Plot Twist: Time Passed Outside. Due to the effects of the Spirepocalypse, Psyche Duels no longer freeze time inside.
+Plot Twist: Time Passed Outside. Due to the effects of the Spirepocalypse, Psyche Duels no longer freeze time inside, to Kalayan's surprise.
 
 #### Bone Stone Trinkets and Herbs
 Tags: Trade Booth | Casual RP
@@ -1123,8 +1279,8 @@ This action will have **critical consequences** in the future.
 
 > // For narrator/future Rayzie eyes only: Memetta used her Mathematics Actualization ability through her wandering Echo Caradels, indicating this is just... something she can do, use her Modi/Skills through NulGraven Caradels.
 
-(This is where the RP ended off last time during the previous timeline overview)
-(Please remind Rayzie to remove/move these after the next story recap/analysis)
+> (This is where the RP ended off last time during the previous timeline overview)
+> (Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 Peter Nettle bursts out from the tent in a crazed stupor. His head was twitching, looking left and right. Colors didn't look right; everything was either too dark or too bright. And sometimes, when he blinked. He saw something that he couldn't fully comprehend. 
 But it looked like white lines. White lines on gray walls. Those lines.
@@ -1493,9 +1649,30 @@ These destressing tricks of hers, they're something she picked up as well during
 midwife: "How are you now... more serene hopefully? Even if by just a little~?"
 She asked, with her typical and borderline-iconic side-to-side head sway.
 
+Peter Netle: ||It felt... So long...||
+||Each breath he tried to take for the Midwife, or at least for someone that sounded like her, seemed to take hours at a time.||
+||There were moments where he tried to scream. But it only came out as another breath.||
+||Slowly, and sure||ly. ||His|| vis||ion|| ||star||ted ||retu||rning ||to|| normal.
+Untill he could see the silloutte of his Mom's face.
+Swaying back and forth, he asked, his throat sounding sparse. 
+Peter: "How... How long was I out?"
+
+The elderly thingamakin giggles to herself in a playful manner, hoping her carefree attitude at the moment would rub off on Peter and help calm him down further.
+Unfortunately-
+midwife: "I am unsure."
+"I don't often count time. I tried it long ago, but after hundreds or thousands of years, losing count constantly, I gave up."
+"Perhaps it has been six minutes, or seven hours. I am unable to answer."
+"What I am confident on, however, is that you were safe this whole time."
+
+She reaches a dusty hand up from under her cloak's sleeve, brushing it up and down Peter's head akin to how humans normally pat creatures. While his looked like something she was doing to help further ease Peter, in truth, she was doing this to soothe herself, having seen many other humans do this to creatures.
+Having been pet herself by the midwives long ago, back when she too was a creature, she's always wanted to know what it was like petting someone  instead.
+
+midwife: "You calmed yourself down. You can do something."
+"If I may pry into your psyche further, may I ask: What do you find most soothing?"
+She asks him a question to help better regulate Peter's emotions in the future, as she is grasping at invisible straws and stepping blindly into the dark by petting him, hence shy she's soothing herself.
+She doesn't know what to do despite her wisdom, and that worries her so. 
 
 (This is where the RP ends off so far)
-
 
 ---
 
@@ -1832,8 +2009,8 @@ Especially considering how it seemed she was starting to learn how to use her go
 Its arms drift through the blank space surrounding it. As it analyses further, its own body feels less and less like its own. 
 [ It seems as though I am engulfed in this substance. It feels like me. Or rather. . It is me, as opposed to me being it. I hold memories of things that are unknown to me. When I look at you, I think we have met, without the knowledge of when and where. Perhaps it is the voice speaking, and not my own thoughts. ]
 
-(This is where the RP ended off last time during the previous timeline overview)
-(Please remind Rayzie to remove/move these after the next story recap/analysis)
+> (This is where the RP ended off last time during the previous timeline overview)
+> (Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 The comments and realizations spark several questions of curiosity in Aysa. Although it may not seem obvious, the shadekin may be considered a robot as well. Despite that, he can't fully grasp or understand these feelings Odyssey carried. Perhaps there's something else to it, a different or deeper reasoning with this robot. After all, it did come from an alternate universe— a different timeline. Whatever records he had of this timeliner may not line up perfectly.
 
