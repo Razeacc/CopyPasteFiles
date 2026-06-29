@@ -2,8 +2,8 @@
 title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
-last_modified: Jun-24-2026
-recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook, New scene in Seaside Overlook of Peter being comforted by the Last Midwife
+last_modified: Jun-29-2026
+recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook, New scene in Seaside Overlook of Peter being comforted by the Last Midwife, Continued Decanoluzion B Plot (NEO Timeline ending and beginning of NEO Timeline V2 scene)
 status: draft
 ---
 # OVERVIEW
@@ -1832,9 +1832,50 @@ Especially considering how it seemed she was starting to learn how to use her go
 Its arms drift through the blank space surrounding it. As it analyses further, its own body feels less and less like its own. 
 [ It seems as though I am engulfed in this substance. It feels like me. Or rather. . It is me, as opposed to me being it. I hold memories of things that are unknown to me. When I look at you, I think we have met, without the knowledge of when and where. Perhaps it is the voice speaking, and not my own thoughts. ]
 
+(This is where the RP ended off last time during the previous timeline overview)
+(Please remind Rayzie to remove/move these after the next story recap/analysis)
+
+The comments and realizations spark several questions of curiosity in Aysa. Although it may not seem obvious, the shadekin may be considered a robot as well. Despite that, he can't fully grasp or understand these feelings Odyssey carried. Perhaps there's something else to it, a different or deeper reasoning with this robot. After all, it did come from an alternate universe— a different timeline. Whatever records he had of this timeliner may not line up perfectly.
+
 Odyssey shakes its head.
 [ No matter. If this. . version, of Ms. Blanche, is what you make her out to be- what do we do? What can we do, in order to delete her. . faster? That is our goal, yes? ]
 [ I hope I am not foolish to listen to you, void entity. Yet I do not trust you fully, either.] It thinks.
+
+Before Aysa could respond to Odyssey's inquiries, he feels the NEO Timeline shake around them, the foundational barriers of this reality under siege from the forces beyond.
+From a far distance away, a red-haired figure almost resembling Blanche can be seen staring at the two. It seems to be this timeline's version of Blanche, somehow.
+While she doesn't do anything, her senses seem to relay back to the Decanoluzioned rogue god Blanche. The timeline cracks and shivers further as Don Blanche's assault hastens.
+
+Aysa looks towards Odyssey in surprise, before realizing something— this can still work out in their favor. In fact:
+This was an ideal outcome.
+
+< Yes, we’ll need to decanoluzionize her immediately before she interferes with more timelines. > the shadekin explained with urgency.
+Then, readying his temporal breaker knife, Aysa aims it before cutting all around him and Odyssey. Around them, the space seems to unravel completely, revealing a timeline within a timeline.
+
+Odyssey and Aysa have entered The NEO Timeline V2.
+
+### The NEO Timeline V2
+> Rather than taking place on Discord nor Google Docs, NEO V2 is a YouTube Community Post that was initially posted on Tuesday, June 23, roughly 6 days since the writing of this message.
+> The RP takes place in the post's comment section.
+**Post Content**:
+*[NEO Timeline V2]*
+After the initial abandonment of the first NEO Timeline, this second attempt replicated the first while adding in several new and different key-features to ensure it won't merely collapse into a pure-white void. Namely, adding the ability for the timeline to be visible from outside.
+
+While initially seen as a success from the AoS' Temporal Management Division, the project was eventually abandoned as well as further development proved difficult due to scope-creep. Now, more archamachine barricades have been set in-place to prevent people from breaking in.
+
+**Comment Thread**:
+[A temporal wound has formed…]
+
+Cutting out of the original NEO Timeline, Null Vicar Aysa and "Odyssey" make their way into NEO V2. Gazing out through the transparent timeline, Aysa's view varied based on several factors, with the space beyond this world's sky often either a dark-grey interface or a bright one. As words flowed across the odd space, he knew this place was perfect for his plan.
+Don Blanche, the rogue decanoluzioned god, should be capable of seeing them, alongside hearing everything they say. And based on what he knows about her, there's no reason why this shouldn't work.
+
+Shaking Odyssey into focus, the shadekin attempts to get the miniscule robot to focus on his words.
+< Ok, here's the plan. >
+< We'll return to Udyverse's Decanoluzioned Timeline. >
+< From there, I need you to distract Blanche while I make my escape. >
+< Once I'm out, I'll render the air around her so that she can't move. Just keep her still >.
+In truth, Aysa knew this wouldn't work, he can't bake the air mollecules in a timeline. But Odyssey didn't know that. What's important is that Blanche knew their plan.
+
+Aysa nods his head at the robot, hoping he understood the instructions correctly.
 
 (THIS IS WHERE THE ROLEPLAY ENDS CURRENTLY)
 
