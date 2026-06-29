@@ -3,7 +3,7 @@ title: Cubiquan Wilds
 category: documentation
 tags: [documentation, cubiqua, draft]
 last_modified: Jun-29-2026
-recent_changes: Initial Upload
+recent_changes: Added Mask Maker (Maskette) Explanation
 status: draft
 ---
 ## Initial Log Entry
@@ -39,8 +39,25 @@ So far, I've constructed an 87×27×87-sized Copper/Deepslate themed "Oil Rig" c
 In the future, it'll be used as an item vault with its hybrid sorting system, a sugarcane/bamboo/stick/pumpkin/copper/iron farm, a happy ghast hangar/airport, a transport/logistics hub, and an free-range village trade hub.
 
 DISCLAIMER:
-> This side project is considered "Semi-Canon", as obviously canonical/unique Minecraft properites/elements cannot be used in official Scripted Fates canon material. Therefor, if this project is ever utilized in official materials, any and all Minecraft elements MUST be replaced with unique ScriFa variations.
+> This side project is considered "Semi-Canon", as obviously canonical/unique Minecraft properites/elements cannot be used in official Scripted Fates canon material. Therefore, if this project is ever utilized in official materials, any and all Minecraft elements MUST be replaced with unique ScriFa variations.
 > IE: Sculk be replaced with a similar infections material that's similar to NulGraven and Fracturing.
+
+## Mask Maker (Maskette)
+Mask Maker is not immortal, nor is she a reality warper.
+In the Vicars of Null, Mask Makers are the "lowest rank" as they can just be anyone who believes/supports the cause and just.... makes masks for vicars. Sometimes it's new mask designs, others it's duplicates or backup masks. Sometimes they make masks as a hobby too and merely makes vicar masks in secret.
+The core idea is that a Mask Maker is someone who "Makes masks", period.
+
+Acier, a previous mask maker mentioned in this document, was a normal guy too, merely having robotic arms to help him make masks in his woodwork shop. He actually took care of Besado the 66th when she was still a baby and was friends with Besado the 65th when she ran away from the AoS, similar to what the 66th would eventually do prior to Firmata Frontier.
+But mask makers are often just mortals/normal people. Hence why Acier is long gone by the time we meet Cubiqua Wilds' Mask Maker.
+Speaking of, she's a "different" mask maker as she makes metaphorical/abstract masks.
+> For the sake of simplicity and ease of writing/reading, the Mask Maker in Cubiquan Wilds will be temporarily referred to as "Maskette" for the time being, until she decies her own name eventually.
+
+Maskette crafts false identities and has a modus that lets her shapeshift her body. This is why she's a "spy" for the vicars within the AoS, crafting "masks" for herself to remain undercover.
+Maskette was in her young adult years when the Expedition started and Spirepocalypse happened. She's now in her mid 40s, physical-wise.
+The reason why she still acts so... "brash"... and "like that" is cause she never really grew up and out of her young adult years, being trapped in the wilds for 20-ish years.
+
+Without a society to force her to become an adult, she stayed as a young, brash, slightly-immature, and slightly dillusional young woman... mentally-speaking at least. It doesn't help that the characters who surround her in the "crew" are all unaging now since the assimilation, alongside acting like young adults/teens too due to the players controlling them. Their attitude and behaviors literally rub off on her and keep her acting immature.
+She wasn't physically assimilated as much as everyone else, but she was socially-assimilated. And unlike the rest of her crew, she was aware enough to realize it, but never did... perhaps, at least until the end of this story.
 
 ---
 # Archivement Entries Catalogue
@@ -54,33 +71,33 @@ DISCLAIMER:
 ## Mask Maker's Personal Logs
 - 🏯 Cubiquan Orientalism
 -# 🔒: ||Construct the Island Hot Spring Resort||
-> **Writer's Note**: Mask Maker theorizes that her crewmates' original memories are still somewhere burried deep within the players' characters, as many of them seem to construct builds resembling that of traditional Cubiqua City infrastructure.
+> **Writer's Note**: Maskette theorizes that her crewmates' original memories are still somewhere buried deep within the players' characters, as many of them seem to construct builds resembling that of traditional Cubiqua City infrastructure.
 > However, the main hole in her theory is why they all seem so interested in its traditional style rather than the modern looks they were most likely more accustomed to.
 
 - 🏇 Uma Uwa
 -# 🔒: ||Construct the Horse Racing Track||
-> **Writer's Note**: Mask Maker makes a comment on the horses here following exactly where its rider turns, and it creeps her the fuck out.
+> **Writer's Note**: Maskette makes a comment on the horses here following exactly where its rider turns, and it creeps her the fuck out.
 
 - 📫 Penguin Logistics
 -# 🔒: ||Convince at least 10 players on the server to have a "mailbox" in their home/base||
-> **Writer's Note**: Have Mask Maker be glad to finally see something that resembles normalcy from her original life back in her home exspanse of Lavender Country, Movakoz Exspanse.
+> **Writer's Note**: Have Maskette be glad to finally see something that resembles normalcy from her original life back in her home exspanse of Lavender Country, Movakoz Exspanse.
 
 - <:nso_Icon_desktop_twitter:935206576967540808> Social Butterfly
 -# 🔒: ||Open a mailbox with packages from more than 5 players at once||
-> **Writer's Note**: Mask Maker complaints about feeling pressured to socialize with people, as she always found it stressful to act "polite" or "appropriate", especially when having to remain undercover or wear a certain mask. It's why she's grown quite fond of her crewmates now, even closer than they were prior to their assimilation.
+> **Writer's Note**: Maskette complains about feeling pressured to socialize with people, as she always found it stressful to act "polite" or "appropriate", especially when having to remain undercover or wear a certain mask. It's why she's grown quite fond of her crewmates now, even closer than they were prior to their assimilation.
 > For whatever reason, she feels more at-ease with whatever's controlling her crewmates' bodies rather than the crewmates themselves. And she doesn't know if this should ease or worry her.
 
 - 📖 Exspanse vs Expanse
 -# 🔒: ||Construct a Library||
-> **Writer's Note**: A short entry on Mask Maker being pissed-off and annoyed by why some AoS documents still use "Exspanse" when it's clearly an outdated piece of "tradition" from their guerilla warfare days of the Archgod Revolution. She'd write "Expanse" by now like a normal person, but muscle memory has worn out her mind so much to essentially scar "Exspanse" into her writing.
+> **Writer's Note**: A short entry on Maskette being pissed-off and annoyed by why some AoS documents still use "Exspanse" when it's clearly an outdated piece of "tradition" from their guerilla warfare days of the Archgod Revolution. She'd write "Expanse" by now like a normal person, but muscle memory has worn out her mind so much to essentially scar "Exspanse" into her writing.
 
 - <:AoS:1427069223531708436> AoS and The Equilibrium Arbiter
 -# 🔒: ||Construct a Courthouse||
-> **Writer's Note**: Another short note regarding how fearful Mask Maker is to the Equilibrium Arbiter, going so far as to questioning if it's real, before apologizing mid-entry due to worries of it finally showing its presence to her. She mainly questions why such an omnipotent being has yet to rat her out, nor do something about her.
+> **Writer's Note**: Another short note regarding how fearful Maskette is to the Equilibrium Arbiter, going so far as to questioning if it's real, before apologizing mid-entry due to worries of it finally showing its presence to her. She mainly questions why such an omnipotent being has yet to rat her out, nor do something about her.
 
 - 🎰 Cubiqua and Pennypal Pincher
 -# 🔒: ||Construct a Casino||
-> **Writer's Note**: An even shorter note of Mask Maker merely complaining about Pennypal scamming her out of her "pocket money" when she visited Archcity Cubiqua for this job.
+> **Writer's Note**: An even shorter note of Maskette merely complaining about Pennypal scamming her out of her "pocket money" when she visited Archcity Cubiqua for this job.
 
 - 🎭 Vicars of Null
 -# 🔒: ||Discover a Fracturing Zone on the server||
@@ -193,19 +210,20 @@ _ _
 ``` ```
 _ _
 ## Final Calculations
-> -# Only one of these entries are achievable
+> -# Only one of these entries can be achieved.
+
 - "My Sentience, no matter what."
 -# 🔒: ||Discover all other Entries and Witness Mask Maker||
-> **Writer's Note**: Mask Maker is Witnessed and becomes the Concept of Playable Characters. She doesn't achieve vicarhood, but gains enough sentience to become aware of her own existence as a "playable character", alongside being able to witness and feel all other playable characters. She chooses to help out the other "Playable Characters" in the server for as long as she can.
+> **Writer's Note**: Maskette is Witnessed and becomes the Concept of Playable Characters. She doesn't achieve vicarhood, but gains enough sentience to become aware of her own existence as a "playable character", alongside being able to witness and feel all other playable characters. She chooses to help out the other "Playable Characters" in the server for as long as she can.
 
 - "Please, don't stop lying."
 -# 🔒: ||Discover all other Entries and Deny Mask Maker||
-> **Writer's Note**: Mask Maker fails to become an Epicenter as she's abandoned and deemed "not canon" in the world's story. Due to Minecraft being "copyrighted material", she is banished alongside many of her creations into a Decanoluzioned Fiction of the world, where everything else that was "partially canon" was banished. A different "Playable Character" takes her place.
+> **Writer's Note**: Maskette fails to become an Epicenter as she's abandoned and deemed "not canon" in the world's story. Due to Minecraft being "copyrighted material", she is banished alongside many of her creations into a Decanoluzioned Fiction of the world, where everything else that was "partially canon" was banished. A different "Playable Character" takes her place.
 > However, during her time with the other playable characters, she realizes what everything meant. Upon seeing the Decanoluzioned Fiction, it all begins to make sense to her. She manages to witness herself into becoming the Heretical Epicenter of Characters, while remaining trapped in the Decanoluzioned Fiction. She'll become a future problem in Firmata Frontier as she'll assist in making sure Decanoluzion Caradels are more organized.
 
 - "Together, we brave delusion."
 -# 🔒: ||Discover all other Entries and abandon your character with Mask Maker||
-> **Writer's Note**: Mask Maker is abandoned alongside many more characters from the server. They're trapped in Decanoluzion temporarily, but with people comforting her, Mask Maker doesn't achieve Epicenterhood. Instead, they all get sent to The Null Crossing eventually where they join Nul Detta
+> **Writer's Note**: Maskette is abandoned alongside many more characters from the server. They're trapped in Decanoluzion temporarily, but with people comforting her, Maskette doesn't achieve Epicenterhood. Instead, they all get sent to The Null Crossing eventually where they join Nul Detta
 
 
 ``` ```
