@@ -43,7 +43,6 @@ DISCLAIMER:
 > IE: Sculk be replaced with a similar infections material that's similar to NulGraven and Fracturing.
 
 ## Mask Maker (Maskette)
-Mask Maker is not immortal, nor is she a reality warper.
 In the Vicars of Null, Mask Makers are the "lowest rank" as they can just be anyone who believes/supports the cause and just.... makes masks for vicars. Sometimes it's new mask designs, others it's duplicates or backup masks. Sometimes they make masks as a hobby too and merely makes vicar masks in secret.
 The core idea is that a Mask Maker is someone who "Makes masks", period.
 
