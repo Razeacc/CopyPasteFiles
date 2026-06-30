@@ -2,8 +2,8 @@
 title: Ode to HER Firmata
 category: documentation
 tags: [documentation, firmata_frontier, draft]
-last_modified: Jun-29-2026
-recent_changes: Extended Kalayan's Psyche Plane (Kalayan vs Naeriel), Added previous RPs in Seaside Overlook, New scene in Seaside Overlook of Peter being comforted by the Last Midwife, Continued Decanoluzion B Plot (NEO Timeline ending and beginning of NEO Timeline V2 scene), added "Continuity Priority Explanation" to "Hot Air Balloon Stage" booth alongside further clarifying its details (High priority analysis).
+last_modified: Jun-30-2026
+recent_changes: Continuation of Peter Nettle and Last Midwife in Seaside Overlook
 status: draft
 ---
 # OVERVIEW
@@ -913,9 +913,6 @@ He lowered his gaze, shoulders suddenly making slight jump from his chuckling sc
 Naeriel: "Very well then, I suppose facing you in my actual form wouldn't be so fun or fair. And because it is more fun for me."
 He shrugged off, turning on his feet to face him. His voice was not harsh but it was surely different, almost scary how calm it was too.
 
-> (This is where the RP ended off last time during the previous timeline overview)
-> (Please remind Rayzie to remove/move these after the next story recap/analysis)
-
 Hearing Naeriel's words got Kalayan to start bouncing side to side while still in his boxing stance. It was almost like a golden retriever dog starting to get the zoomies.
 Only here, it was a big buff white guy.
 
@@ -1003,6 +1000,9 @@ Naeriel waited, he planned something, and Kalayan seemed not to catch on yet. He
 
 As Naeriel seemingly stood there idle, Kalayan kicked himself off the air and lunged towards the draconic archkin with a flash of blue.
 Raising a right fist up, Kalayan shapeshifted his right arm to form a second fist, then a third, and fourth. In mere moments, the archgod has prepared a volley of several punches at once directed at Naeriel, blisfully unaware of whatever strategy his opponent had planned.
+
+> (This is where the RP ended off last time during the previous timeline overview)
+> (Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 (This is where the RP ends off so far)
 
@@ -1278,9 +1278,6 @@ Peter Nettle has performed a *BIIG Move*.
 This action will have **critical consequences** in the future.
 
 > // For narrator/future Rayzie eyes only: Memetta used her Mathematics Actualization ability through her wandering Echo Caradels, indicating this is just... something she can do, use her Modi/Skills through NulGraven Caradels.
-
-> (This is where the RP ended off last time during the previous timeline overview)
-> (Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 Peter Nettle bursts out from the tent in a crazed stupor. His head was twitching, looking left and right. Colors didn't look right; everything was either too dark or too bright. And sometimes, when he blinked. He saw something that he couldn't fully comprehend. 
 But it looked like white lines. White lines on gray walls. Those lines.
@@ -1672,6 +1669,105 @@ midwife: "You calmed yourself down. You can do something."
 She asks him a question to help better regulate Peter's emotions in the future, as she is grasping at invisible straws and stepping blindly into the dark by petting him, hence shy she's soothing herself.
 She doesn't know what to do despite her wisdom, and that worries her so. 
 
+> (This is where the RP ended off last time during the previous timeline overview)
+> (Please remind Rayzie to remove/move these after the next story recap/analysis)
+
+Peter: "I...I don't know..."
+"To be honest, it's moments like these that stress me out the most."
+"Quiet. Peaceful moments that are perfect for contemplating the wonders and mysteries of life."
+*"And it's horrors."*
+
+Peter: "...I'll be honest with you, Mom. I felt a whole lot more comfortable being threatened with death by consumption than... Whatever it is you're doing right now."
+*Pat, pat, pat.*
+*"...Don't stop though, it feels nice."*
+
+Confused by the reversal of what makes Peter "calm", this shocks the elder more than she's normally been surprised in many long years. Although, this was a pleasant shock, one truly so.
+
+midwife: "I see... dissonance is what soothes you?"
+She clarifies before her dust slowly starts crawling through the nearby stones and pebbles. Cracking them open like walnuts using her dust as "tentacles", she starts dragging the rocks around the ground to produce an ear-piercing scraping sound.
+
+midwife: 🪨 💥 *"**I do hope this is sufficient, my child...**"* 💥 🪨
+She knows it's better in the long-term for him to face this fear head-on. But she felt a stronger priority to humor him further and ease his mind as much as possible, as best she can. Eventually she'll ask about why he fears quiet moments. But not now. Maybe later, maybe after she scrapes these pebbles into dust. This is a new experience, after all. She knew she needed this as much as he does.
+
+Peter: "...I'm really scared of you now."
+"But in like a good way."
+"Dang, you're really good at this mom thing."
+The slow grinding of stones across the beach began to drown out whatever existential thoughts he was having. The- GRGRRGRGRGRGRGRRGRGGGGGGGGGRRRRRRRGRGGRGRGRGRGRGRGRGRGRGR.
+
+A smile forms on her face hearing those words of Peter's. Her head sways side to side more lively than usual.
+midwife: "I really appreciate that, truly~"
+She mumbles as her grip on the pebbles soften, letting the grinding sounds dampen down a little. "Although my memories are faulty, I try my best to recall any lessons I learned from the midwives when raising and caring for the unfortunate."
+
+midwife: "Although I've forgotten their order and hierarchy, I still remember their names to heart~"
+"Tol'ka and Mesh'ka were sisters, while Mi'wata and Mi'son shared a coincidental first name~"
+"Han'kah was always pressured by Met'hel to help search for her brother who was somewhere on The Continent."
+
+midwife: "Then there's *Memetta* who always loved teasing Ad'ah".
+Recalling such memories, although surrounded by blurs, was enough to get the elderly thingamakin humming with glee. She still remembers, clearly too. Even if she can't remember much more aside from that, merely knowing who the midwives were before they disappeared was enough to make her happy.
+
+midwife: "I do still wish they'd visit again... they'd be much better at caring for you than I am".
+"... although, even if you faced them before me, I may not recall them in the slightest... their names are all I know, not their faces..."
+
+midwife: -# "and if they recognized me, but I couldn't recognize them, the embarrassment would be... immense... on second thought- I'd rather not see them again, for the sake of my own pride..."
+For once, the last midwife was the one left rambling on to the point her own woes finally bubbled up to the surface. She's stopped swaying her head, opting to bury it in her cloak.
+
+Peter: "...I think it's nice that you remember their names..."
+Nettle held the Midwife's dusty hand, forcing down a sneeze as he did.
+"After all... If you were ever lost in a forest, or in a sea of people. You wouldn't start describing their faces to people if you wanted to find them."
+"You would shout out their names over the waves, and out of the trees."
+"Trees can't speak, and the sea only knows how to sing."
+
+Peter: "And, the way I knew it was you before I woke up. It came from a sense I don't even know how to describe. It wasn't your face, or your touch, not even your voice..."
+**"It was you."**
+"I felt, **you**."
+
+Peter: "...I can't speak for you. But, if they cared for you... If it were even just a **fraction** amount of your care for me. I think recognizing them, out of all the other souls in this plane. It would be the easiest thing you could ever do. Period."
+Nettle felt weird about adding a period. But it sounded gangsta so it was alright.
+
+Listening to his words felt almost cathartic. Peter felt the Last Midwife's hand loosen as her grip softens.
+midwife:  "You're... quite clever, whether you believe it or not" she mumbles in a truthful tone.
+Her mind blankens and dives deeper into itself, taking Peter's advice in trying to remember who they were, because it was them...
+
+The last midwife's hand softens even further as her mind focuses entirely on remembering anything...
+She does manage to remember the last two instructions given to her by the midwives.
+``` ```
+A Midwife from the thingamakin's memory dawns her spare cloak over the creature as it gazed up at her.
+Midwife Agent (Memory): 💬 Just like that, you are now the Last Midwife, the ||latest one to join us~!||
+💬 You ||won't be alone||, as you'll ||be with the first||.
+💬 Now, keep an eye on Besado, alright?
+``` ```
+``` ```
+Some time after, long after the other midwives have left, the first midwife managed to spot the last, giving a simple amendment to her instructions.
+First Midwife Memetta (Memory):💬 Observe, but avoid observation.
+💬 Never let Besado see you.
+``` ```
+
+It wasn't new knowledge by any means. She still remembered the instructions given to her, even if she doesn't remember who gave them.
+Still, it was a noteable attempt...
+
+midwife: "... perhaps, if they ever were to  come back, I better look the part at least. It wouldn't hurt to be ready..."
+the last midwife mumbled once more, her head swaying side to side once more.
+
+She looks down to Peter to try getting his full attention.
+midwife: "My child, there are two individuals I noticed in the Take-Off Carnival who seems to have clothing strikingly similar to a Midwife."
+"The girl with teal hair" 🗨️ (Memetta)
+"And the masked prisoner" 🗨️ (Mak'hel)
+
+midwife: "If you could fetch me an article of their clothing, or even a fabric of it, I may be able to reverse engineer it and repair my own robes— reinvigorating it to that of a proper midwife's garbs."
+The last midwife's request felt somewhat out of character, but it seems she does seem noticeably more open to her slightly less honorable side around Peter.
+
+Something strange started stirring inside Nettle. It was the first time ever felt something *familiar* that didn't completely terrify him. He back straightened up. A smile was fighting to form on his lips.
+
+Peter: "Are... Are you giving me... a quest?"
+
+🎊```Quest Obtained! Steal People's Clothes!```🎊
+
+Background music blurted behind Nettle causing him to jump. 
+Peter: "**HOLY...**"
+"...Huh...That's new..."
+"...You can count on me mom!"
+Peter stood up and patted his mom's head before running off back to the town. Reinvigorated with new purpose.
+
 (This is where the RP ends off so far)
 
 ---
@@ -2009,9 +2105,6 @@ Especially considering how it seemed she was starting to learn how to use her go
 Its arms drift through the blank space surrounding it. As it analyses further, its own body feels less and less like its own. 
 [ It seems as though I am engulfed in this substance. It feels like me. Or rather. . It is me, as opposed to me being it. I hold memories of things that are unknown to me. When I look at you, I think we have met, without the knowledge of when and where. Perhaps it is the voice speaking, and not my own thoughts. ]
 
-> (This is where the RP ended off last time during the previous timeline overview)
-> (Please remind Rayzie to remove/move these after the next story recap/analysis)
-
 The comments and realizations spark several questions of curiosity in Aysa. Although it may not seem obvious, the shadekin may be considered a robot as well. Despite that, he can't fully grasp or understand these feelings Odyssey carried. Perhaps there's something else to it, a different or deeper reasoning with this robot. After all, it did come from an alternate universe— a different timeline. Whatever records he had of this timeliner may not line up perfectly.
 
 Odyssey shakes its head.
@@ -2053,6 +2146,9 @@ Shaking Odyssey into focus, the shadekin attempts to get the miniscule robot to 
 In truth, Aysa knew this wouldn't work, he can't bake the air mollecules in a timeline. But Odyssey didn't know that. What's important is that Blanche knew their plan.
 
 Aysa nods his head at the robot, hoping he understood the instructions correctly.
+
+> (This is where the RP ended off last time during the previous timeline overview)
+> (Please remind Rayzie to remove/move these after the next story recap/analysis)
 
 (THIS IS WHERE THE ROLEPLAY ENDS CURRENTLY)
 
