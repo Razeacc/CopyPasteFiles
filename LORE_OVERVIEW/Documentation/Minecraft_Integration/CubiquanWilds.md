@@ -2,8 +2,8 @@
 title: Cubiquan Wilds
 category: documentation
 tags: [documentation, cubiqua, draft]
-last_modified: Jun-29-2026
-recent_changes: Added Mask Maker (Maskette) Explanation
+last_modified: Jul-3-2026
+recent_changes: Unlocked "Cubiquan Orientalism"
 status: draft
 ---
 ## Initial Log Entry
@@ -28,7 +28,7 @@ status: draft
 > 
 > Regardless, I'll accomplish my cover mission to remain on the AoS' good side: Construct a Spirevator and re-establish communications with the Archcity.
 > While the AoS seek control and Cubiqua favors profits, I have my own *true* mission: *vicarhood*.
--# - Mask Maker
+-# -Mask Maker
 
 # OVERVIEW
 The Cubiquan Wilds Expedition is a "side-story" I'm writing in the background as I play on this slightly-modded Minecraft SMP with some friends.
@@ -70,8 +70,14 @@ She wasn't physically assimilated as much as everyone else, but she was socially
 ## Mask Maker's Personal Logs
 - 🏯 Cubiquan Orientalism
 -# 🔒: ||Construct the Island Hot Spring Resort||
-> **Writer's Note**: Maskette theorizes that her crewmates' original memories are still somewhere buried deep within the players' characters, as many of them seem to construct builds resembling that of traditional Cubiqua City infrastructure.
-> However, the main hole in her theory is why they all seem so interested in its traditional style rather than the modern looks they were most likely more accustomed to.
+### Initial Log Entry
+-# Completed on July 3, 2026 by Lumi, Remi, and Hoky
+> During the construction of Platform Quadra, some of my previews crewmates found an island of hotsprings. From there, they constructed this massive traditional Cubiquan onsen... which does make me start noticing something. Almost all the other builds they've constructed since their assimilation have been oriental-themed, old-school Cubiqua architecture... (or was it Yan'amese-? I was never really good with geography...). I don't know why it took me a hotspring to realize this, when they've already built several temples, shrines, and walled-off houses. Why DO they know how to build these things?
+> 
+> Maybe, if I'm VERY lucky, my old friends' memories are still in there, somewhere, deep down. That would explain why they know about traditional Cubiquan Orientalism. But that does beg the question why oriental designs, then they're much more accustomed to modern architecture. Hell, I don't think ANY of them were history nerds... well, except for whoever's been constantly in the caves since his assimilation...
+> Either way, maybe I can still get them out of those bodies again, somehow? Maybe?
+-Mask Maker
+
 
 - 🏇 Uma Uwa
 -# 🔒: ||Construct the Horse Racing Track||
