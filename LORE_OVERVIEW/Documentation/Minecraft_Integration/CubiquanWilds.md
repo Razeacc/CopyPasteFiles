@@ -2,8 +2,8 @@
 title: Cubiquan Wilds
 category: documentation
 tags: [documentation, cubiqua, draft]
-last_modified: Jul-3-2026
-recent_changes: Unlocked "Cubiquan Orientalism"
+last_modified: Jul-7-2026
+recent_changes: Removed Mask Maker header
 status: draft
 ---
 ## Initial Log Entry
@@ -43,20 +43,7 @@ DISCLAIMER:
 > IE: Sculk be replaced with a similar infections material that's similar to NulGraven and Fracturing.
 
 ## Mask Maker (Maskette)
-In the Vicars of Null, Mask Makers are the "lowest rank" as they can just be anyone who believes/supports the cause and just.... makes masks for vicars. Sometimes it's new mask designs, others it's duplicates or backup masks. Sometimes they make masks as a hobby too and merely makes vicar masks in secret.
-The core idea is that a Mask Maker is someone who "Makes masks", period.
-
-Acier, a previous mask maker mentioned in this document, was a normal guy too, merely having robotic arms to help him make masks in his woodwork shop. He actually took care of Besado the 66th when she was still a baby and was friends with Besado the 65th when she ran away from the AoS, similar to what the 66th would eventually do prior to Firmata Frontier.
-But mask makers are often just mortals/normal people. Hence why Acier is long gone by the time we meet Cubiqua Wilds' Mask Maker.
-Speaking of, she's a "different" mask maker as she makes metaphorical/abstract masks.
-> For the sake of simplicity and ease of writing/reading, the Mask Maker in Cubiquan Wilds will be temporarily referred to as "Maskette" for the time being, until she decies her own name eventually.
-
-Maskette crafts false identities and has a modus that lets her shapeshift her body. This is why she's a "spy" for the vicars within the AoS, crafting "masks" for herself to remain undercover.
-Maskette was in her young adult years when the Expedition started and Spirepocalypse happened. She's now in her mid 40s, physical-wise.
-The reason why she still acts so... "brash"... and "like that" is cause she never really grew up and out of her young adult years, being trapped in the wilds for 20-ish years.
-
-Without a society to force her to become an adult, she stayed as a young, brash, slightly-immature, and slightly dillusional young woman... mentally-speaking at least. It doesn't help that the characters who surround her in the "crew" are all unaging now since the assimilation, alongside acting like young adults/teens too due to the players controlling them. Their attitude and behaviors literally rub off on her and keep her acting immature.
-She wasn't physically assimilated as much as everyone else, but she was socially-assimilated. And unlike the rest of her crew, she was aware enough to realize it, but never did... perhaps, at least until the end of this story.
+(This entry has been moved to the `MaskMaker_Maskette.md` document, which was new as of the writing of this notification. This head will be removed entirely eventually.)
 
 ---
 # Archivement Entries Catalogue
@@ -229,7 +216,3 @@ _ _
 - "Together, we brave delusion."
 -# 🔒: ||Discover all other Entries and abandon your character with Mask Maker||
 > **Writer's Note**: Maskette is abandoned alongside many more characters from the server. They're trapped in Decanoluzion temporarily, but with people comforting her, Maskette doesn't achieve Epicenterhood. Instead, they all get sent to The Null Crossing eventually where they join Nul Detta
-
-
-``` ```
-_ _
