@@ -136,7 +136,8 @@ For the next 3 turns, all combatants must roll for ⚡ALAC to avoid the incoming
 ### Bell Curve (Active)
 Consumes 5 Memoriam Tabs. 
 
-The Spireknell turns into a bell and charges head-first at all targets. The more combatants on-field, the larger the bell, ensuring everyone gets hit.
+The Spireknell spins around, teleporting around the area, while lobbing Cara Bell back and forth at all targets.
+The more combatants on-field, the larger Cara Bell becomes, ensuring everyone gets hit.
 The 💪PHYS roll for this attack is averaged out from all combatants’ 💪PHYS stats.
 
 Roll for 💪PHYS to resist the attack. If the hit lands, and the target also has “Exposed Psyche”, take extra psychic damage.
