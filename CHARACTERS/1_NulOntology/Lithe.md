@@ -113,7 +113,7 @@ Certain abilities consume Tabs. This is what Lithe needs to consume as a Caradel
 
 Normally, Lithe can only obtain Memoriam Tabs using Aberrant Caradels. However, his Spire Bell carries similar properties to that of an Aberrant Caradel. It acts akin to an objectified Aberrant Caradel.
 
-### Time Signature Roar (Passive)
+### Time Signature Roar (Active/Passive)
 At the start of combat, The Spireknell designates a set “Time Signature” for himself (IE: 4/4, ¾, 5/4, etc.)
 
 Whenever a roleplayer rolls with a stat modifier that is NOT divisible to the current time signature, a charge is gained, After 3 charges, the Spireknell Roars, applying “Exposed Psyche” to all combatants for 3 turns.
