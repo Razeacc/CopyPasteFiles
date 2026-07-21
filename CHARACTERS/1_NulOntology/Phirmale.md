@@ -1,4 +1,11 @@
-(WIP)
+---
+title: Phirmale (Morgale's Living Piece)
+category: character
+tags: [character, living piece, firmata, nul ontology, draft]
+last_modified: Jul-21-2026
+recent_changes: Restructure and Rename (Morgales_Living_Piece.md -> Phirmale)
+status: draft
+---
 ## IDEA
 > Initially created as part of An-Tri'Fhiana's soul experiments, "Her Living Piece" was assigned as the new defacto leader of Outpost 3 after Morgale decided to continue on with the exodus.
 > She has most of Morgale's memories, but mainly her love for "fiction" and other worlds: Timelines.

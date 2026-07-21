@@ -1,21 +1,21 @@
 ---
-title: Spire Bell
+title: Cara Bell
 category: character
-tags: [character, caradel, draft]
-last_modified: Jun-20-2026
-recent_changes: Initial Upload
+tags: [character, item, caradel, draft]
+last_modified: Jul-21-2026
+recent_changes: Rename (Spire Bell -> Cara Bell)
 status: draft
 ---
 # OVERVIEW
-The bell Lithe (The Spireknell) carries around constantly. Although it looks and acts like an innanimate object, Spire Bell is indeed a fully-sentient creature... albeit, its level of sentience is highly debatable.
+The spire bell Lithe (The Spireknell) carries around constantly. Although it looks and acts like an innanimate object, Cara Bell is indeed a fully-sentient creature... albeit, its level of sentience is highly debatable.
 
 | Title | The Spire Bell |
 | Age | 100-1000 Years (N/A) |
-| Pronouns + Gender | He/Him + Male (N/A) |
+| Pronouns + Gender | It/Its (N/A) |
 | Species | Aberrant Caradel |
 | Birthday | Pre-Spirepocalypse Era |
 | Affiliation | Survivors of Avalon |
-| Background | *   Lithe's Bell and Memory Storage |  
+| Background | *Lithe's Bell and Memory Storage |  
 | Status | Local |
 | Residency | Grand Central Cathedral |
 | Height | 1 cubic meter |

@@ -2,8 +2,8 @@
 title: Lithe
 category: character
 tags: [character, archkin, nul ontology, draft]
-last_modified: Jun-10-2026
-recent_changes: Table Update
+last_modified: Jul-21-2026
+recent_changes: Ability Tweaks (Time Signature Roar and Bell Curve)
 status: draft
 ---
 # OVERVIEW
