@@ -13,7 +13,17 @@ Not only does it pull anulled animal companion souls from fiction, but from *our
 While Familiar Familiar's story tackles its journey and process in birthing itself as the newest Phantycian, it will also reveal why Phantycians actively restrict themselves to their layers of reality.
 
 # APPEARANCE
-They take on many different forms of a wild variety of animal hybrids. But the main consistent motif between all them, is that they wear a "Falconry Hood". This hood is their equivalent to all Phantycians wearing/having masks as faces (with the exception of Memetta who has a metaphorical social mask, and merely a physical eye mask).
+They take on many different forms of a wild variety of animal hybrids. But the main consistent motif between all them, is that they wear a "Falconry Hood". This hood is their equivalent to all Phantycians wearing/having masks as faces (with the exception of Memetta, who has a metaphorical social mask and a physical eye-wrap banages). It also uses Fracturing caradel constructs to make up any of its limbs (and other additional body parts), with the exception of its main body, being wrapped up in Phantcyian Bandages.
+
+## Reptile-Fish Form
+Axolotl, Shark, Iguana, and Snake. Exceptional regeneration, Agile movement, Stalk/Ambush style behavior.
+
+## Avian-Bug Form
+Falcon, Dragonfly, 
+
+## Feline-Equestrian Form
+
+## Canine Form
 
 
 # ABILITIES
@@ -22,8 +32,17 @@ They take on many different forms of a wild variety of animal hybrids. But the m
 Although, this doesn't mesn one can trick Familiar Familiar into Shapeshifting into something inconvenient, as they can merely instinctively shapeshift back, or into something better, at no cost.
 This ability is akin to "Ultimate Lifeform Kars" from JoJo's Bizarre Adventure Part 2.
 
+## Modus: 
+
 ## Modus: Writer's Block
 > By metaphysically pressing itself down on a roleplayer's skribble, it can consume any actions the roleplayer sends to their character. The roleplayer would need to do something to get Familiar Familiar off them as to continue roleplaying normally.
+
+## Overwrite: Friend Inside You
+> A unique form of Overwrite as it barely edits the environment. Instead, characters caught within the Overwrite immediately pass out.
+> After losing consciousness, only those under the control of Roleplayers regain psuedo awareness, as their roleplayers begin piloting the characters completely. Everything the characters say, is directly from the roleplayer's mouth/will. There's no acting here, unless the roleplayer deliberately acts.
+> Either way, Familiar Familiar knows exactly when their Overwrite functions as intended. They use this specifically to mess with the minds of roleplayers, an actively-confusing ability designed specifically to intentionally harm readers/roleplayers via meta-breaking confusion.
+> However, the main drawback here is Memory Access. Unless the roleplayer wrote and knows exactly how certain abilities work, they cannot use their characters' full capabilities. (IE: If only Gandalf knew how to cast his spells, but not Tolkein, Gandalf caught in "Friend Inside You" would essential be silenced of all his spellcasting). This side effect indirectly rewards writers who meticulously plan details on how abilities work.
+
 
 ## Epicenterhood: Shared Epicenter of Companionship
 > Sharing with Crimmy, they're both capable of accessible and being aware of all companionships across fiction. However, due to Familiar Familiar also having souls from our world, this makes all those souls from our world become incompatible with the Epicenter here. (Only the Epicenter of Fiction can be held by anyone regardless of Reality Layer. All other Epicenters can only be processed by tbeir respectice layer).
@@ -40,6 +59,10 @@ They eventually leave, setting their sights onto the Lejos Exapanse, which was s
 These are storylines that have yet to happen in any RP context.
 
 ### Awakening
+After Firmata Frontier reaches 50 active Roleplayers, a new quest will show up, simply titled "Familiar Familiar".
+The quest involves diving into a NulGraven site to rescue someone's familiar. It seems simple enough.
+However, as the characters walk int9
+
 
 ### Stalking
 
