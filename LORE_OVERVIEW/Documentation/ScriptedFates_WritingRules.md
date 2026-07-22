@@ -1,9 +1,9 @@
 ---
-title: Scripted Fates Writing Rules
+title: Scripted Fates Creation Rules
 category: documentation
 tags: [documentation, meta, behind_the_scenes, draft]
-last_modified: Jun-9-2026
-recent_changes: Added Game Design Rule 3 and 4, Writing Rule 10, and Scripted Fates' Core Theme
+last_modified: Jul-22-2026
+recent_changes: Renamed the title from "Writing Rules" to "Creation Rules" (file name will change at a later daye). Added Audience/Author Role Clarifications
 status: active
 ---
 
@@ -62,6 +62,13 @@ Ensuring the 4 Ontologies remain consistent is one of the most important rules i
 *   **Arch**: <u>2nd Beyond</u>, are characters with innate magical/fantastical abilities, representing left-stage actors and performers in less realistic stories and settings.
 *   **Mortal**: <u>3rd Beyond</u>, are characters without innate magic, representing right-stage actors and performers for stories of the more grounded settings/context.
 *   **Fourth**: <u>4th Beyond</u>, represents the audience, other creators who make their own works, and "story moderators" (IE: People who work with the author to keep a story in-check, like editors or server staff).
+
+###     11. Audience/Author Role Clarifications
+For most roleplayers/players, they use a skribble which controls fate around a character. It's not entirely sure if the skribble also controls the character, or if they have free will to merely be "acting on" the skribble's fate manipulation.
+As for most authors, they use a Worldbuilder through Sandatta Ulhysse to create their settings.
+However, "That Fourth Marshal" (which is the in-lore name used for Razeacc, aka Me, which is akin to how Toby Fox has an "in-lore" character as the "Annoying Dog"), is different, in a way where they're an active traitor to the court. As Scripted Fates' writer themself, Razeacc works WITH Null Detta to let them both share control over vicars and other entities that normally would be outside of The Court's control. This would explain how characters like Memetta, Familiar Familiar, Lithe, etc. can still be roleplayed by Razeacc/Rayzie despite them canonically NOT having skribbles.
+
+---
 
 ## Game Design Rules
 
