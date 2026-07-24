@@ -63,6 +63,22 @@ Ensuring the 4 Ontologies remain consistent is one of the most important rules i
 *   **Mortal**: <u>3rd Beyond</u>, are characters without innate magic, representing right-stage actors and performers for stories of the more grounded settings/context.
 *   **Fourth**: <u>4th Beyond</u>, represents the audience, other creators who make their own works, and "story moderators" (IE: People who work with the author to keep a story in-check, like editors or server staff).
 
+###     11. Fourth Beyond Role Explanation
+Due to how important the meta-narrative of ScriFa is, it's important to define and clarify how these ontological barriers work to ensure consistent storytelling.
+*   **Audiences** are members of The 4th Beyond who are akin to spectators. Unless they're aware of Scripted Fates, they do not "join The Court of The Fourth", and are instead akin to "jury attenting jury duty through an online call". If they *were* aware of Scripted Fates' meta-narrative, that's the time they "metaphysically" join The Court as a member of the Jury to spectate and experiences stories via a swarm of skribbles acting like intangible cameras.
+*   **Creatives**, or Authors, use _skribbles_, or skravatars for the case of Fourth Marshals, to manipulate the fates of characters in the world. This practice is also done by Audiences who experience interactive media, or video games, as a skribble "takes control" over a character. However, in truth, it's still ambiguous whether **Players** or Authors genuinely manipulate/control characters themselves, or if they merely manipulate fate around the character to "lead" them to take certain actions. Stories that have characters act "out of character" to the point it comes across as "bad writing", are explained by the Author/Player intentionally taking over the character and not making this boundary ambiguous. That ambiguity of free will is what The Court considers "good writing". This is part of the reason why videogames continue to have some level of "looked down upon"ness in the modern day, as players actively take control over characters with next to no room for ambiguity. As for Roleplayers, they face similar subtle backlash, mostly because they skirt the line that Videogame Players cross by controlling characters, while actively trying to adhere to traditional writing standards by avoiding "out-of-character" writing. This creates an "uncanny blend" that subtly infuriates both sides.
+*   **Worldbuilders** aren't necessarily separate from Authors and Players, as they are another type of Creative. However, rather than manipulating fate with Skribbles, they utilize "*Wordbuilders*" from Sandatta Ulhysse to shape terrain and inject [[Raw Creativity]] into it to form a new story's narrative settings. (Yes, I am aware how confusing "Worldbuilder" is from "Wordbuilder", I may have to change this at some point).
+
+####    11B. The role of Razeacc / Rayzie
+As the writer of Scripted Fates itself, Razeacc has a particularly unique role in this world compared to other Creatives. For starters, they are a **traitor**.
+In order to "control" chracters that normally are immune to, or not under, The Court of The Fourth'd juristiction (IE: Lithe having no skribble, Phirmale, all the vicars and phantycians, etc.), Razeacc works with Nul Detta by acting as a bridge to relay Court of The Fourth details back and fourth, in exchange for having Nul Detta give orders to vicars and other fictional characters under his juristiction. In a way, Nul Detta is Razeacc's skribble, role-wise or technically speaking.
+As for Rayzie, Rayzie merely acts all cutesy and innocent as the "face" of Scripted Fates' community management. She claims to be the "writer side" with Razeacc being the "gamedev" side and Razi-Chan being the "music side". But, in truth, Razeacc is the "Creative/Creator" side, Rayzie is the "Social" side, and Razi-Chan is a completely separate anomaly altogether.
+By using Rayzie as a mask, Razeacc manages to perform Fourth-illegal writing actions such as colluding with Nul Detta, without anyone noticing.
+
+####    11C. The truth of Razi-Chan
+(TBD)
+
+
 ## Game Design Rules
 
 ###     1. Gameplay Mechanics must ALWAYS be connected to the world/story

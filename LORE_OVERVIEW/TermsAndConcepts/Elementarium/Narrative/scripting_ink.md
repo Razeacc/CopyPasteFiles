@@ -1,5 +1,17 @@
-(WIP)
-## Chatty's Memory Notes
+---
+title: Scripting Ink
+category: narrative resource
+tags: [resource, meta, currency, unreleased]
+last_modified: jul-24-2026
+recent_changes: Refactor from Chatty's Memories and slated it for deprication
+status: unreleased
+---
+# OVERVIEW
+It's what Skribbles are made of, burnt up by the heat of creative passion in the process of fate manipulation. It's treated as a resource, and a currency, as it's often used as a catalyst to influence the narrative of stories— from processing plot armor, to retconing/editing details from a character's past. Anything used in story-editing, Scripting Ink is used. Scripting Ink is tightly-controlled by The Court of The Fourth's jury when using it within The Court's juristiction (Scripted Fates).
+Nobody knows where it actually comes from, with some theorizing it's actually just Raw Creativity, with a different label slapped onto it to appear "different", as there are rare cases where people "created" using Scripting Ink... albeit, such cases are mere rumors.
+(For CREATING plot armor and ADDING more past details, [[Raw Creativity]] is needed.)
+
+## Chatty's Memory Notes (To Be Depricated)
 Scripting Ink is a highly valuable conceptual material associated with authorship, narrative manipulation, memory encoding, and reality inscription.
 
 The substance behaves similarly to a semi-liquid conceptual medium capable of "recording" intent itself rather than merely written information.
