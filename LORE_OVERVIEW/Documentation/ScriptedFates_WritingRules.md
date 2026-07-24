@@ -1,9 +1,9 @@
 ---
-title: Scripted Fates Writing Rules
+title: Scripted Fates Creation Rules
 category: documentation
 tags: [documentation, meta, behind_the_scenes, draft]
-last_modified: Jun-9-2026
-recent_changes: Added Game Design Rule 3 and 4, Writing Rule 10, and Scripted Fates' Core Theme
+last_modified: Jul-22-2026
+recent_changes: Renamed the title from "Writing Rules" to "Creation Rules" (file name will change at a later daye). Added Audience/Author Role Clarifications
 status: active
 ---
 
@@ -77,6 +77,7 @@ By using Rayzie as a mask, Razeacc manages to perform Fourth-illegal writing act
 
 ####    11C. The truth of Razi-Chan
 (TBD)
+
 
 
 ## Game Design Rules
